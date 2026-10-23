@@ -5,32 +5,37 @@ import http.server
 import json
 import logging
 import time
+from datetime import datetime
 
 from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, scoring
+from newsagg.runlock import AlreadyRunning, run_lock
 from newsagg.seen import Seen
 
 MIN_ARTICLES = 20   # fewer than this suggests a GDELT outage: keep the last news.json
+LOGS = config.ROOT / "logs"
+
+log = logging.getLogger("newsagg.run")
 
 
 def cmd_run(cfg: config.Config) -> None:
-    start = time.monotonic()
+    run_start = start = time.monotonic()
     done = gdelt.load_done()
     fetched = gdelt.fetch(cfg.feeds.gdelt_lookback, done)
     articles = fetched.articles
-    print(f"read {len(fetched.read)} new GDELT files "
+    log.info(f"read {len(fetched.read)} new GDELT files "
           f"({len(done & set(fetched.window))} of {len(fetched.window)} already read)")
-    print(f"fetched {len(articles)} articles from {len({a.domain for a in articles})} outlets "
+    log.info(f"fetched {len(articles)} articles from {len({a.domain for a in articles})} outlets "
           f"in {time.monotonic() - start:.1f}s")
     bl = blocklist.load(cfg)
     seen = Seen()
     seen.prune()
     kept, drops = filters.apply(articles, bl, cfg.filters.min_words, cfg.filters.max_per_outlet, seen)
-    print(f"rules kept {len(kept)}; dropped {dict(drops)} (blocklist has {len(bl)} entries)")
+    log.info(f"rules kept {len(kept)}; dropped {dict(drops)} (blocklist has {len(bl)} entries)")
 
     start = time.monotonic()
     stories = grouping.group(kept, cfg)
     multi = [s for s in stories if len(s.outlets) >= 3]
-    print(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
+    log.info(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
           f"in {time.monotonic() - start:.0f}s")
 
     # Most outlets first, then newest (decided 2026-10-23); only the top max_per_run go on.
@@ -47,7 +52,7 @@ def cmd_run(cfg: config.Config) -> None:
             dropped += 1
         else:
             enriched.append((story, *result))
-    print(f"enriched {len(stories)} stories in {time.monotonic() - start:.0f}s: "
+    log.info(f"enriched {len(stories)} stories in {time.monotonic() - start:.0f}s: "
           f"{failed} pages failed, {dropped} dropped as opinion/review/satire")
 
     start = time.monotonic()
@@ -70,18 +75,39 @@ def cmd_run(cfg: config.Config) -> None:
             if scoring.keep(verdict, cfg):
                 kept_stories.append((story, article, info, verdict))
     elapsed = time.monotonic() - start
-    print(f"scored {len(enriched) - failed} stories in {elapsed:.0f}s "
+    log.info(f"scored {len(enriched) - failed} stories in {elapsed:.0f}s "
           f"({elapsed / max(len(enriched), 1):.1f}s each, {failed} failed); kept {len(kept_stories)}")
 
     if len(articles) < MIN_ARTICLES:
-        print(f"only {len(articles)} articles this run; keeping the previous news.json")
+        log.info(f"only {len(articles)} articles this run; keeping the previous news.json")
     else:
         published = output.publish(kept_stories, cfg)
-        print(f"wrote {cfg.out_dir / 'news.json'} with {len(published)} stories")
+        log.info(f"wrote {cfg.out_dir / 'news.json'} with {len(published)} stories")
 
     # Saved last, so a run that crashes re-reads its files next time.
     gdelt.save_done(done, fetched)
     seen.close()
+    log.info(f"run finished in {time.monotonic() - run_start:.0f}s")
+
+
+def log_to_file() -> None:
+    """Also write log lines to logs/run-YYYY-MM-DD.log (local date): Task Scheduler runs
+    have no console, so this file is the only record of what happened."""
+    LOGS.mkdir(exist_ok=True)
+    handler = logging.FileHandler(LOGS / f"run-{datetime.now():%Y-%m-%d}.log", encoding="utf-8")
+    handler.setFormatter(logging.Formatter("%(asctime)s %(levelname)s %(name)s: %(message)s"))
+    logging.getLogger().addHandler(handler)
+
+
+def run_once(cfg: config.Config) -> None:
+    try:
+        with run_lock():
+            cmd_run(cfg)
+    except AlreadyRunning:
+        log.warning("another run is still going; skipping this one")
+    except Exception:
+        log.exception("run failed")   # the full traceback goes into the log file
+        raise SystemExit(1)
 
 
 def cmd_serve(cfg: config.Config, port: int = 8080) -> None:
@@ -95,7 +121,7 @@ def cmd_outlets(cfg: config.Config) -> None:
     print("outlets: reputation report (not built yet)")
 
 
-COMMANDS = {"run": cmd_run, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run}
+COMMANDS = {"run": run_once, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run}
 
 
 def main() -> None:
@@ -106,7 +132,13 @@ def main() -> None:
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     logging.getLogger("httpx").setLevel(logging.WARNING)  # it logs every request at INFO
-    cfg = config.load()
+    if args.command == "run":
+        log_to_file()   # first, so even a bad config.toml leaves a record
+    try:
+        cfg = config.load()
+    except Exception:
+        log.exception("could not load config.toml")
+        raise SystemExit(1)
     if args.model:
         cfg = cfg.model_copy(update={"provider": cfg.provider.model_copy(update={"model": args.model})})
     if args.command == "serve":
