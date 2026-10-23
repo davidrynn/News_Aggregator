@@ -1,5 +1,7 @@
 from datetime import datetime, timedelta, timezone
 
+import pytest
+
 from newsagg import config, output
 from newsagg.enrich import PageInfo
 from newsagg.gdelt import Article
@@ -24,6 +26,19 @@ def story(title="T", nw=4, hours_ago=0, outlets=("a.com",), vector=(1.0, 0.0)):
             "_outlets": list(outlets), "_vector": list(vector)}
 
 
+@pytest.mark.parametrize("title, shown", [
+    ("1st LD Writethru: Netanyahu says plans major West Bank operation",
+     "Netanyahu says plans major West Bank operation"),
+    ("UPDATE 2-Oil prices rise on supply worries", "Oil prices rise on supply worries"),
+    ("REFILE-Bank of Japan holds rates", "Bank of Japan holds rates"),
+    ("Report: Devils acquire Hellebuyck", "Report: Devils acquire Hellebuyck"),       # meaningful, kept
+    ("Opinion | Voboril: Know the code", "Opinion | Voboril: Know the code"),
+    ("Update on the city budget", "Update on the city budget"),                     # a real word, not a label
+])
+def test_display_title_strips_only_wire_labels(title, shown):
+    assert output.display_title(title) == shown
+
+
 def test_story_id_ignores_query_string():
     assert output.story_id("https://Ex.com/a?utm=1#top") == output.story_id("https://ex.com/a")
 
@@ -32,6 +47,12 @@ def test_rank_recency_fades_over_24_hours():
     assert output.rank(story(nw=4), NOW) == 13.0              # 4 x 2 + 4 + 0 + 1
     assert output.rank(story(nw=4, hours_ago=12), NOW) == 12.5
     assert output.rank(story(nw=4, hours_ago=30), NOW) == 12.0
+
+
+def test_rank_coverage_breaks_ties_but_not_newsworthiness():
+    wide = story(nw=4, outlets=tuple(f"o{i}.com" for i in range(32)))
+    assert output.rank(wide, NOW) == 15.5                     # 13 + 0.5 x log2(32)
+    assert output.rank(story(nw=5), NOW) > output.rank(story(nw=4, outlets=("a.com", "b.com")), NOW)
 
 
 def test_build_story_excludes_lead_from_also_reported():
@@ -45,15 +66,47 @@ def test_build_story_excludes_lead_from_also_reported():
     assert s["image"] == "https://apnews.com/i.jpg"
 
 
+def by_similarity(a, b, sim):
+    return sim >= 0.87
+
+
 def test_merge_joins_matching_story_and_keeps_stronger_headline():
     old = story("Old headline", nw=3, hours_ago=2, outlets=("a.com", "b.com"))
     new = story("New headline", nw=5, outlets=("c.com", "a.com"), vector=(0.99, 0.141))
     unrelated = story("Other event", vector=(0.0, 1.0))
-    merged = output.merge([old], [new, unrelated], threshold=0.87)
+    merged = output.merge([old, new, unrelated], by_similarity)
     assert len(merged) == 2
     assert merged[0]["title"] == "New headline"
     assert merged[0]["outlet_count"] == 3                    # a, b, c
     assert merged[0]["published_at"] == output.iso(NOW)      # latest coverage
+    assert [x["outlet"] for x in merged[0]["also_reported_by"]] == ["a.com", "b.com"]  # old lead kept
+
+
+def test_merge_tries_next_closest_when_closest_is_rejected():
+    first = story("Iran cables", vector=(1.0, 0.0))
+    second = story("Iran strike", vector=(0.8, 0.6))
+    new = story("US may strike Iran", vector=(0.95, 0.312))   # closer to first, same event as second
+    merged = output.merge([first, second, new], lambda a, b, sim: a["title"] == "Iran strike" and b is new)
+    assert [s["title"] for s in merged] == ["Iran cables", "Iran strike"]
+    assert merged[1]["outlet_count"] == 1                     # same outlet a.com, unioned
+
+
+def test_matcher_asks_model_only_between_thresholds(monkeypatch):
+    calls = []
+    monkeypatch.setattr(output.llm, "chat_json",
+                        lambda *args: calls.append(args) or '{"same_event": true}')
+    m = output.EventMatcher(CFG, client=None, cache={})
+    a, b = story("A"), story("B")
+    assert m(a, b, 0.90) is True and m(a, b, 0.70) is False and not calls
+    assert m(a, b, 0.80) is True and m(b, a, 0.80) is True     # second call comes from the cache
+    assert len(calls) == 2 and m.cache == {"A|B": True}      # asked once in each order
+
+
+def test_matcher_needs_yes_in_both_orders(monkeypatch):
+    answers = iter(['{"same_event": true}', '{"same_event": false}'])
+    monkeypatch.setattr(output.llm, "chat_json", lambda *args: next(answers))
+    m = output.EventMatcher(CFG, client=None, cache={})
+    assert m(story("A"), story("B"), 0.80) is False
 
 
 def test_select_drops_old_stories_and_sorts_by_score():

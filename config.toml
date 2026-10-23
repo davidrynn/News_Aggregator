@@ -31,6 +31,7 @@ max_per_outlet = 10         # articles per outlet per run sent on to scoring
 
 [grouping]
 threshold = 0.87            # cosine similarity of headline embeddings; 0.80-0.85 merged different events
+candidate_threshold = 0.75  # on the page, pairs between this and threshold are checked by the model
 wire_outlets = ["apnews.com", "reuters.com", "afp.com", "bloomberg.com"]   # preferred as a story's lead
 
 [reputation]
@@ -41,4 +42,5 @@ drop_below = 0.15
 [output]
 max_stories = 60
 max_age_hours = 36
+coverage_weight = 0.5       # ranking bonus per doubling of outlets covering a story
 dir = "out"

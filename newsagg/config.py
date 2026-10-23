@@ -52,6 +52,7 @@ class Filters(BaseModel):
 
 class Grouping(BaseModel):
     threshold: float = Field(0.87, gt=0, le=1)
+    candidate_threshold: float = Field(0.75, gt=0, le=1)
     wire_outlets: list[str] = ["apnews.com", "reuters.com", "afp.com", "bloomberg.com"]
 
 
@@ -64,6 +65,7 @@ class Reputation(BaseModel):
 class Output(BaseModel):
     max_stories: int = Field(60, ge=1)
     max_age_hours: float = Field(36, gt=0)
+    coverage_weight: float = Field(0.5, ge=0)
     dir: str = "out"
 
 
