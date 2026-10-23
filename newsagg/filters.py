@@ -6,6 +6,7 @@ Rule numbers match the spec's Rule-based pre-filters table.
 import re
 import unicodedata
 from collections import Counter, defaultdict
+from collections.abc import Container
 from urllib.parse import urlsplit
 
 from newsagg.blocklist import Blocklist
@@ -83,14 +84,15 @@ def cap_per_outlet(articles: list[Article], limit: int) -> tuple[list[Article], 
     return kept, len(articles) - len(kept)
 
 
-def apply(articles: list[Article], bl: Blocklist, min_words: int,
-          max_per_outlet: int) -> tuple[list[Article], Counter]:
-    """Run the rules in order. Returns the survivors and a count of drops per reason."""
+def apply(articles: list[Article], bl: Blocklist, min_words: int, max_per_outlet: int,
+          seen: Container[str] = ()) -> tuple[list[Article], Counter]:
+    """Run the rules in order. Returns the survivors and a count of drops per reason.
+    seen holds URLs already scored in an earlier run (rule 2)."""
     drops: Counter = Counter()
     kept = []
     for a in articles:
-        reason = (blocked(a, bl) or section_path(a) or non_latin(a) or clickbait(a)
-                  or too_short(a, min_words))
+        reason = (("seen" if a.url in seen else None) or blocked(a, bl) or section_path(a)
+                  or non_latin(a) or clickbait(a) or too_short(a, min_words))
         if reason:
             drops[reason] += 1
         else:

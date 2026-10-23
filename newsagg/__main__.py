@@ -7,6 +7,7 @@ import logging
 import time
 
 from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, scoring
+from newsagg.seen import Seen
 
 MIN_ARTICLES = 20   # fewer than this suggests a GDELT outage: keep the last news.json
 
@@ -21,7 +22,9 @@ def cmd_run(cfg: config.Config) -> None:
     print(f"fetched {len(articles)} articles from {len({a.domain for a in articles})} outlets "
           f"in {time.monotonic() - start:.1f}s")
     bl = blocklist.load(cfg)
-    kept, drops = filters.apply(articles, bl, cfg.filters.min_words, cfg.filters.max_per_outlet)
+    seen = Seen()
+    seen.prune()
+    kept, drops = filters.apply(articles, bl, cfg.filters.min_words, cfg.filters.max_per_outlet, seen)
     print(f"rules kept {len(kept)}; dropped {dict(drops)} (blocklist has {len(bl)} entries)")
 
     start = time.monotonic()
@@ -54,8 +57,10 @@ def cmd_run(cfg: config.Config) -> None:
         for story, article, info in enriched:
             verdict = scoring.score(article, info, cfg, client)
             if verdict is None:
-                failed += 1
+                failed += 1     # not marked seen: tried again next run
                 continue
+            # The verdict covers the whole story, so none of its articles is scored again.
+            seen.add(a.url for a in story.members)
             # Every verdict is logged; the golden test set is labeled from this file.
             log_file.write(json.dumps({
                 "url": article.url, "outlet": article.domain, "outlets": len(story.outlets),
@@ -76,6 +81,7 @@ def cmd_run(cfg: config.Config) -> None:
 
     # Saved last, so a run that crashes re-reads its files next time.
     gdelt.save_done(done, fetched)
+    seen.close()
 
 
 def cmd_serve(cfg: config.Config, port: int = 8080) -> None:

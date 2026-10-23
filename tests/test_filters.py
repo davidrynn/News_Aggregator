@@ -70,3 +70,9 @@ def test_apply_counts_reasons_and_caps_outlets():
     kept, drops = filters.apply(articles, BL, min_words=50, max_per_outlet=3)
     assert [a.url for a in kept] == [f"https://busy.com/news/{i}" for i in range(3)]  # newest 3
     assert drops == {"blocklist": 1, "short": 1, "outlet_cap": 2}
+
+
+def test_apply_drops_articles_already_seen():
+    a, b = art(url="https://example.com/news/a"), art(url="https://example.com/news/b")
+    kept, drops = filters.apply([a, b], BL, min_words=20, max_per_outlet=10, seen={a.url})
+    assert kept == [b] and drops["seen"] == 1
