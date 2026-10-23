@@ -1,9 +1,10 @@
 """Command line entry point: python -m newsagg <command>."""
 import argparse
+import json
 import logging
 import time
 
-from newsagg import blocklist, config, enrich, filters, gdelt, grouping
+from newsagg import blocklist, config, enrich, filters, gdelt, grouping, llm, scoring
 
 
 def cmd_run(cfg: config.Config) -> None:
@@ -41,6 +42,27 @@ def cmd_run(cfg: config.Config) -> None:
             enriched.append((story, *result))
     print(f"enriched {len(stories)} stories in {time.monotonic() - start:.0f}s: "
           f"{failed} pages failed, {dropped} dropped as opinion/review/satire")
+
+    start = time.monotonic()
+    verdicts_path = config.ROOT / "data" / "verdicts.jsonl"
+    kept_stories, failed = [], 0
+    with llm.client(cfg) as client, open(verdicts_path, "a", encoding="utf-8") as log_file:
+        for story, article, info in enriched:
+            verdict = scoring.score(article, info, cfg, client)
+            if verdict is None:
+                failed += 1
+                continue
+            # Every verdict is logged; the golden test set is labeled from this file.
+            log_file.write(json.dumps({
+                "url": article.url, "outlet": article.domain, "outlets": len(story.outlets),
+                "user_message": scoring.user_message(article, info, cfg),
+                **verdict.model_dump(), "kept": scoring.keep(verdict, cfg),
+            }) + "\n")
+            if scoring.keep(verdict, cfg):
+                kept_stories.append((story, article, info, verdict))
+    elapsed = time.monotonic() - start
+    print(f"scored {len(enriched) - failed} stories in {elapsed:.0f}s "
+          f"({elapsed / max(len(enriched), 1):.1f}s each, {failed} failed); kept {len(kept_stories)}")
 
     # Saved last, so a run that crashes re-reads its files next time.
     gdelt.save_done(done, fetched)
