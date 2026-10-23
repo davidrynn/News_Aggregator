@@ -4,7 +4,7 @@ import json
 import logging
 import time
 
-from newsagg import blocklist, config, enrich, filters, gdelt, grouping, llm, scoring
+from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, scoring
 
 
 def cmd_run(cfg: config.Config) -> None:
@@ -76,16 +76,20 @@ def cmd_outlets(cfg: config.Config) -> None:
     print("outlets: reputation report (not built yet)")
 
 
-COMMANDS = {"run": cmd_run, "serve": cmd_serve, "outlets": cmd_outlets}
+COMMANDS = {"run": cmd_run, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run}
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(prog="newsagg")
     parser.add_argument("command", choices=COMMANDS)
+    parser.add_argument("--model", help="override provider.model, e.g. llama3.1:8b")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     logging.getLogger("httpx").setLevel(logging.WARNING)  # it logs every request at INFO
-    COMMANDS[args.command](config.load())
+    cfg = config.load()
+    if args.model:
+        cfg = cfg.model_copy(update={"provider": cfg.provider.model_copy(update={"model": args.model})})
+    COMMANDS[args.command](cfg)
 
 
 if __name__ == "__main__":

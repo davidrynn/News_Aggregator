@@ -15,7 +15,7 @@ DEFAULT_PATH = ROOT / "config.toml"
 
 class Provider(BaseModel):
     name: str = "ollama"
-    model: str = "qwen3:8b"
+    model: str = "llama3.1:8b"
     url: str = "http://localhost:11434"
     embed_model: str = "nomic-embed-text"
 

@@ -1,6 +1,6 @@
 [provider]
 name = "ollama"            # later: "gemini", "bedrock", "anthropic"
-model = "qwen3:8b"
+model = "llama3.1:8b"         # beat qwen3:8b on the golden set, 2026-10-23
 url = "http://localhost:11434"
 embed_model = "nomic-embed-text"
 
