@@ -9,6 +9,7 @@ from collections import Counter, defaultdict
 from urllib.parse import urlsplit
 
 from newsagg.blocklist import Blocklist
+from newsagg.enrich import PageInfo
 from newsagg.gdelt import Article
 
 # Rule 3: matched against whole path segments, so /opinion/ matches but /opinion-polls/ does not.
@@ -26,6 +27,18 @@ CLICKBAIT = re.compile(
     r"|best|times|foods|places|questions|products)\b",
     re.IGNORECASE,
 )
+
+
+# Rule 11: schema.org types that mark a page as not news reporting.
+NOT_NEWS_TYPES = {"OpinionNewsArticle", "ReviewNewsArticle", "SatiricalArticle",
+                  "AdvertiserContentArticle", "BackgroundNewsArticle"}
+OPINION_SECTION = re.compile(r"\b(opinion|commentary|editorial|op-ed|column)", re.IGNORECASE)
+
+
+def page_type(info: PageInfo) -> str | None:
+    if NOT_NEWS_TYPES.intersection(info.ld_types) or OPINION_SECTION.search(info.section):
+        return "page_type"
+    return None
 
 
 def blocked(a: Article, bl: Blocklist) -> str | None:

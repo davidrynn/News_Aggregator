@@ -3,7 +3,7 @@ import argparse
 import logging
 import time
 
-from newsagg import blocklist, config, filters, gdelt, grouping
+from newsagg import blocklist, config, enrich, filters, gdelt, grouping
 
 
 def cmd_run(cfg: config.Config) -> None:
@@ -24,8 +24,23 @@ def cmd_run(cfg: config.Config) -> None:
     multi = [s for s in stories if len(s.outlets) >= 3]
     print(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
           f"in {time.monotonic() - start:.0f}s")
-    for s in stories[:8]:
-        print(f"  {len(s.outlets):3} outlets  {s.lead.title[:80]}")
+
+    # Most outlets first, then newest (decided 2026-10-23); only the top max_per_run go on.
+    stories.sort(key=lambda s: (len(s.outlets), s.lead.seen_at), reverse=True)
+    stories = stories[: cfg.scoring.max_per_run]
+    start = time.monotonic()
+    results = enrich.enrich([s.members for s in stories])
+    enriched, failed, dropped = [], 0, 0
+    for story, result in zip(stories, results):
+        if result is None:              # no page fetched: score on the headline alone
+            failed += 1
+            enriched.append((story, story.lead, enrich.PageInfo()))
+        elif filters.page_type(result[1]):
+            dropped += 1
+        else:
+            enriched.append((story, *result))
+    print(f"enriched {len(stories)} stories in {time.monotonic() - start:.0f}s: "
+          f"{failed} pages failed, {dropped} dropped as opinion/review/satire")
 
     # Saved last, so a run that crashes re-reads its files next time.
     gdelt.save_done(done, fetched)
