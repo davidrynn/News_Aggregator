@@ -32,6 +32,7 @@ def test_parse_row_extracts_fields():
 def test_parse_row_skips_non_web_and_untitled():
     assert gdelt.parse_row(make_row(collection="2")) is None
     assert gdelt.parse_row(make_row(extras="")) is None
+    assert gdelt.parse_row(make_row(extras="<PAGE_TITLE> </PAGE_TITLE>")) is None
 
 
 def test_save_done_keeps_only_window(tmp_path, monkeypatch):

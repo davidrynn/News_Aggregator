@@ -75,12 +75,13 @@ def parse_row(line: str) -> Article | None:
     if len(cols) <= COL_EXTRAS or cols[COL_COLLECTION] != "1":
         return None
     match = TITLE_RE.search(cols[COL_EXTRAS])
-    if not match:
+    title = html.unescape(match.group(1)).strip() if match else ""
+    if not title:
         return None
     return Article(
         url=cols[COL_URL],
         domain=cols[COL_DOMAIN].lower(),
-        title=html.unescape(match.group(1)).strip(),
+        title=title,
         seen_at=datetime.strptime(cols[COL_DATE], "%Y%m%d%H%M%S").replace(tzinfo=timezone.utc),
         image=cols[COL_IMAGE] or None,
         themes={t for t in cols[COL_THEMES].split(";") if t},

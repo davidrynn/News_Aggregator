@@ -3,7 +3,7 @@ import argparse
 import logging
 import time
 
-from newsagg import blocklist, config, filters, gdelt
+from newsagg import blocklist, config, filters, gdelt, grouping
 
 
 def cmd_run(cfg: config.Config) -> None:
@@ -18,6 +18,14 @@ def cmd_run(cfg: config.Config) -> None:
     bl = blocklist.load(cfg)
     kept, drops = filters.apply(articles, bl, cfg.filters.min_words, cfg.filters.max_per_outlet)
     print(f"rules kept {len(kept)}; dropped {dict(drops)} (blocklist has {len(bl)} entries)")
+
+    start = time.monotonic()
+    stories = grouping.group(kept, cfg)
+    multi = [s for s in stories if len(s.outlets) >= 3]
+    print(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
+          f"in {time.monotonic() - start:.0f}s")
+    for s in stories[:8]:
+        print(f"  {len(s.outlets):3} outlets  {s.lead.title[:80]}")
 
     # Saved last, so a run that crashes re-reads its files next time.
     gdelt.save_done(done, fetched)

@@ -5,3 +5,4 @@ selectolax
 pydantic
 jinja2
 pytest
+numpy

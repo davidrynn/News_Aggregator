@@ -42,16 +42,18 @@ def clickbait(a: Article) -> str | None:
 
 
 def non_latin(a: Article) -> str | None:
-    """Drop titles where most letters are not Latin script (Chinese, Punjabi, ...).
+    """Drop titles where over 20% of letters are not Latin script (Chinese, Punjabi, ...).
 
-    GDELT's English feed still carries some non-English pages. unicodedata.name gives
-    every character's official name, and Latin letters' names all start with LATIN.
+    GDELT's English feed still carries some non-English pages, often with an English
+    translation appended, so a majority test is not enough. unicodedata.name gives every
+    character's official name; Latin letters' names start with LATIN. Vowel signs in
+    scripts like Gurmukhi are "marks", not letters, so they are counted explicitly.
     """
-    letters = [ch for ch in a.title if ch.isalpha()]
+    letters = [ch for ch in a.title if ch.isalpha() or unicodedata.category(ch).startswith("M")]
     if not letters:
         return None
-    latin = sum(unicodedata.name(ch, "").startswith("LATIN") for ch in letters)
-    return "language" if latin / len(letters) < 0.5 else None
+    non_latin = sum(not unicodedata.name(ch, "").startswith(("LATIN", "COMBINING")) for ch in letters)
+    return "language" if non_latin / len(letters) > 0.2 else None
 
 
 def too_short(a: Article, min_words: int) -> str | None:

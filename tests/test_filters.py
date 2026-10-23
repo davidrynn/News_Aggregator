@@ -56,6 +56,7 @@ def test_clickbait(title, dropped):
 @pytest.mark.parametrize("title, dropped", [
     ("破解了罗塞塔石碑，却拼不回一个古埃及 | www.wenxuecity.com", True),   # Chinese with a Latin URL
     ("ਬਿਜਲੀ ਬੋਰਡ ਦੇ ਨਿਜੀਕਰਨ ਵਿਰੁੱਧ ਰੋਸ ਰੈਲੀ - Protest rally", True),
+    ("ਨਸ਼ਿਆਂ ਬਾਰੇ ਸਾਂਝੇ ਯਤਨ ਕਰਨ ਦੀ ਲੋੜ : ਚਾਹਲ - Instead of limiting efforts to awareness", True),
     ("Nestlé reports strong Q3 in São Paulo", False),          # accented Latin is fine
     ("2026", False),                                           # no letters at all
 ])

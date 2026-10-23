@@ -17,6 +17,7 @@ class Provider(BaseModel):
     name: str = "ollama"
     model: str = "qwen3:8b"
     url: str = "http://localhost:11434"
+    embed_model: str = "nomic-embed-text"
 
 
 class Topics(BaseModel):
@@ -48,6 +49,10 @@ class Filters(BaseModel):
     max_per_outlet: int = Field(10, ge=1)
 
 
+class Grouping(BaseModel):
+    threshold: float = Field(0.87, gt=0, le=1)
+
+
 class Reputation(BaseModel):
     half_life_days: float = Field(30, gt=0)
     min_samples: int = Field(20, ge=0)
@@ -67,6 +72,7 @@ class Config(BaseModel):
     blocklist: Blocklist
     scoring: Scoring
     filters: Filters = Filters()
+    grouping: Grouping = Grouping()
     reputation: Reputation
     output: Output
 

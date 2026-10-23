@@ -2,6 +2,7 @@
 name = "ollama"            # later: "gemini", "bedrock", "anthropic"
 model = "qwen3:8b"
 url = "http://localhost:11434"
+embed_model = "nomic-embed-text"
 
 [topics]
 include = ["world", "us", "science", "technology", "health", "climate", "business"]
@@ -26,6 +27,9 @@ max_per_run = 400
 [filters]
 min_words = 20              # GDELT word count (what it could read); paywalled news can be ~20
 max_per_outlet = 10         # articles per outlet per run sent on to scoring
+
+[grouping]
+threshold = 0.87            # cosine similarity of headline embeddings; 0.80-0.85 merged different events
 
 [reputation]
 half_life_days = 30
