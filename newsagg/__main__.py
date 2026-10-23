@@ -1,10 +1,14 @@
 """Command line entry point: python -m newsagg <command>."""
 import argparse
+import functools
+import http.server
 import json
 import logging
 import time
 
-from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, scoring
+from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, scoring
+
+MIN_ARTICLES = 20   # fewer than this suggests a GDELT outage: keep the last news.json
 
 
 def cmd_run(cfg: config.Config) -> None:
@@ -64,12 +68,21 @@ def cmd_run(cfg: config.Config) -> None:
     print(f"scored {len(enriched) - failed} stories in {elapsed:.0f}s "
           f"({elapsed / max(len(enriched), 1):.1f}s each, {failed} failed); kept {len(kept_stories)}")
 
+    if len(articles) < MIN_ARTICLES:
+        print(f"only {len(articles)} articles this run; keeping the previous news.json")
+    else:
+        published = output.publish(kept_stories, cfg)
+        print(f"wrote {cfg.out_dir / 'news.json'} with {len(published)} stories")
+
     # Saved last, so a run that crashes re-reads its files next time.
     gdelt.save_done(done, fetched)
 
 
-def cmd_serve(cfg: config.Config) -> None:
-    print(f"serve: would serve {cfg.out_dir} at http://localhost:8080 (not built yet)")
+def cmd_serve(cfg: config.Config, port: int = 8080) -> None:
+    handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(cfg.out_dir))
+    with http.server.ThreadingHTTPServer(("localhost", port), handler) as server:
+        print(f"serving {cfg.out_dir} at http://localhost:{port} (Ctrl+C to stop)")
+        server.serve_forever()
 
 
 def cmd_outlets(cfg: config.Config) -> None:
@@ -83,13 +96,17 @@ def main() -> None:
     parser = argparse.ArgumentParser(prog="newsagg")
     parser.add_argument("command", choices=COMMANDS)
     parser.add_argument("--model", help="override provider.model, e.g. llama3.1:8b")
+    parser.add_argument("--port", type=int, default=8080, help="port for serve")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     logging.getLogger("httpx").setLevel(logging.WARNING)  # it logs every request at INFO
     cfg = config.load()
     if args.model:
         cfg = cfg.model_copy(update={"provider": cfg.provider.model_copy(update={"model": args.model})})
-    COMMANDS[args.command](cfg)
+    if args.command == "serve":
+        cmd_serve(cfg, args.port)
+    else:
+        COMMANDS[args.command](cfg)
 
 
 if __name__ == "__main__":

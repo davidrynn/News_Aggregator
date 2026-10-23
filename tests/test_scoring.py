@@ -15,7 +15,7 @@ ART = Article(url="https://x.com/a", domain="x.com", title="Seven killed in Jord
 
 def test_system_prompt_matches_spec_start_and_end():
     assert scoring.SYSTEM_PROMPT.startswith("You classify news articles for an automated news page.")
-    assert scoring.SYSTEM_PROMPT.rstrip().endswith('"Restates a Reuters report."')
+    assert scoring.SYSTEM_PROMPT.rstrip().endswith('"Dateline (AP) marks wire copy."')
 
 
 def test_user_message_follows_template_and_omits_outlet():
