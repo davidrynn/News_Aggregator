@@ -61,11 +61,20 @@ def normalize(vectors: list[list[float]]) -> np.ndarray:
     return arr / np.linalg.norm(arr, axis=1, keepdims=True)
 
 
+def pick_lead(members: list[Article], wire_outlets: list[str]) -> list[Article]:
+    """Reorder members so the lead comes first: the wire service itself if it is in the
+    group (the tile then links to the source, not a reprint), otherwise the newest."""
+    wire = [a for a in members if a.domain in wire_outlets]
+    return wire[:1] + [a for a in members if a not in wire[:1]]
+
+
 def group(articles: list[Article], cfg: Config) -> list[Story]:
-    """Group articles into stories, largest first. The newest article leads each group for now;
-    after scoring, the best-scoring article becomes the lead."""
+    """Group articles into stories, largest first. Members are newest first, with a
+    wire-service article moved to the front when there is one."""
     articles = sorted(articles, key=lambda a: a.seen_at, reverse=True)
     vectors = normalize(llm.embed([PREFIX + clean_title(a.title) for a in articles], cfg))
-    stories = [Story(lead=articles[g[0]], members=[articles[i] for i in g])
-               for g in group_vectors(vectors, cfg.grouping.threshold)]
+    stories = []
+    for g in group_vectors(vectors, cfg.grouping.threshold):
+        members = pick_lead([articles[i] for i in g], cfg.grouping.wire_outlets)
+        stories.append(Story(lead=members[0], members=members))
     return sorted(stories, key=lambda s: len(s.outlets), reverse=True)

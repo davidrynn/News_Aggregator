@@ -12,7 +12,7 @@ from newsagg import llm, scoring
 from newsagg.config import ROOT, Config
 
 GOLDEN = ROOT / "tests" / "golden.jsonl"
-KINDS = ["original_reporting", "aggregation", "opinion", "press_release", "clickbait", "lifestyle"]
+KINDS = ["original_reporting", "wire_copy", "aggregation", "opinion", "press_release", "clickbait", "lifestyle"]
 
 
 @dataclass

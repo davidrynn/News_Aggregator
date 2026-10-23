@@ -22,7 +22,7 @@ SYSTEM_PROMPT = (Path(__file__).parent / "prompts" / "scorer_system.txt").read_t
 
 
 class Verdict(BaseModel):
-    kind: Literal["original_reporting", "opinion", "aggregation", "press_release", "clickbait", "lifestyle"]
+    kind: Literal["original_reporting", "wire_copy", "opinion", "aggregation", "press_release", "clickbait", "lifestyle"]
     newsworthiness: int = Field(ge=1, le=5)
     relevance: int = Field(ge=1, le=5)
     topic: Literal["world", "us", "politics", "business", "science", "tech", "health", "climate", "other"]
@@ -59,6 +59,6 @@ def score(article: Article, info: PageInfo, cfg: Config, client: httpx.Client) -
 
 def keep(v: Verdict, cfg: Config) -> bool:
     """The keep rule. Thresholds are 3 of 5 on purpose; don't raise without asking the owner."""
-    return (v.kind == "original_reporting"
+    return (v.kind in cfg.scoring.keep_kinds
             and v.newsworthiness >= cfg.scoring.min_newsworthiness
             and v.relevance >= cfg.scoring.min_relevance)

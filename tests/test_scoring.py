@@ -35,6 +35,7 @@ def test_verdict_rejects_out_of_range_score():
     ("original_reporting", 3, 3, True),
     ("original_reporting", 2, 5, False),
     ("aggregation", 5, 5, False),
+    ("wire_copy", 4, 4, True),
 ])
 def test_keep_rule(kind, nw, rel, kept):
     v = scoring.Verdict(kind=kind, newsworthiness=nw, relevance=rel, topic="world", reason="x")

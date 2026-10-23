@@ -41,6 +41,7 @@ class Blocklist(BaseModel):
 class Scoring(BaseModel):
     min_newsworthiness: int = Field(3, ge=1, le=5)
     min_relevance: int = Field(3, ge=1, le=5)
+    keep_kinds: list[str] = ["original_reporting", "wire_copy"]
     max_per_run: int = Field(400, ge=1)
 
 
@@ -51,6 +52,7 @@ class Filters(BaseModel):
 
 class Grouping(BaseModel):
     threshold: float = Field(0.87, gt=0, le=1)
+    wire_outlets: list[str] = ["apnews.com", "reuters.com", "afp.com", "bloomberg.com"]
 
 
 class Reputation(BaseModel):

@@ -22,6 +22,7 @@ allow = []
 [scoring]
 min_newsworthiness = 3
 min_relevance = 3
+keep_kinds = ["original_reporting", "wire_copy"]   # wire reprints are real journalism (owner decision 2026-10-23)
 max_per_run = 400
 
 [filters]
@@ -30,6 +31,7 @@ max_per_outlet = 10         # articles per outlet per run sent on to scoring
 
 [grouping]
 threshold = 0.87            # cosine similarity of headline embeddings; 0.80-0.85 merged different events
+wire_outlets = ["apnews.com", "reuters.com", "afp.com", "bloomberg.com"]   # preferred as a story's lead
 
 [reputation]
 half_life_days = 30
