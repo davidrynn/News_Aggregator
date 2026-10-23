@@ -1,0 +1,7 @@
+httpx
+feedparser
+tldextract
+selectolax
+pydantic
+jinja2
+pytest

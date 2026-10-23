@@ -1,0 +1,38 @@
+[provider]
+name = "ollama"            # later: "gemini", "bedrock", "anthropic"
+model = "qwen3:8b"
+url = "http://localhost:11434"
+
+[topics]
+include = ["world", "us", "science", "technology", "health", "climate", "business"]
+regions = ["US", "global"]
+language = "english"
+
+[feeds]
+gdelt_lookback = 8         # 15-minute GKG files to check per run (8 = two hours); already-read files are skipped
+extra = []                  # optional RSS URLs
+
+[blocklist]
+iffy_url = "https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/gviz/tq?tqx=out:csv&sheet=Iffy-news"
+refresh_days = 7
+extra = []
+allow = []
+
+[scoring]
+min_newsworthiness = 3
+min_relevance = 3
+max_per_run = 400
+
+[filters]
+min_words = 20              # GDELT word count (what it could read); paywalled news can be ~20
+max_per_outlet = 10         # articles per outlet per run sent on to scoring
+
+[reputation]
+half_life_days = 30
+min_samples = 20
+drop_below = 0.15
+
+[output]
+max_stories = 60
+max_age_hours = 36
+dir = "out"
