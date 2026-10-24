@@ -7,7 +7,7 @@ import logging
 import time
 from datetime import datetime
 
-from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, scoring
+from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, scoring
 from newsagg.runlock import AlreadyRunning, run_lock
 from newsagg.seen import Seen
 
@@ -99,10 +99,12 @@ def log_to_file() -> None:
     logging.getLogger().addHandler(handler)
 
 
-def run_once(cfg: config.Config) -> None:
+def run_once(cfg: config.Config, publish: bool = False) -> None:
     try:
         with run_lock():
             cmd_run(cfg)
+            if publish:
+                pages.publish(cfg)
     except AlreadyRunning:
         log.warning("another run is still going; skipping this one")
     except Exception:
@@ -121,7 +123,12 @@ def cmd_outlets(cfg: config.Config) -> None:
     print("outlets: reputation report (not built yet)")
 
 
-COMMANDS = {"run": run_once, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run}
+def cmd_publish(cfg: config.Config) -> None:
+    """Push the current out/ to GitHub Pages without running the pipeline."""
+    pages.publish(cfg)
+
+
+COMMANDS = {"run": run_once, "publish": cmd_publish, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run}
 
 
 def main() -> None:
@@ -129,6 +136,7 @@ def main() -> None:
     parser.add_argument("command", choices=COMMANDS)
     parser.add_argument("--model", help="override provider.model, e.g. llama3.1:8b")
     parser.add_argument("--port", type=int, default=8080, help="port for serve")
+    parser.add_argument("--publish", action="store_true", help="run: push the result to GitHub Pages")
     args = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
     logging.getLogger("httpx").setLevel(logging.WARNING)  # it logs every request at INFO
@@ -143,6 +151,8 @@ def main() -> None:
         cfg = cfg.model_copy(update={"provider": cfg.provider.model_copy(update={"model": args.model})})
     if args.command == "serve":
         cmd_serve(cfg, args.port)
+    elif args.command == "run":
+        run_once(cfg, args.publish)
     else:
         COMMANDS[args.command](cfg)
 
