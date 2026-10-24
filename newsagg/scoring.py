@@ -25,7 +25,7 @@ class Verdict(BaseModel):
     kind: Literal["original_reporting", "wire_copy", "opinion", "aggregation", "press_release", "clickbait", "lifestyle"]
     newsworthiness: int = Field(ge=1, le=5)
     relevance: int = Field(ge=1, le=5)
-    topic: Literal["world", "us", "politics", "business", "science", "tech", "health", "climate", "other"]
+    topic: Literal["world", "us", "politics", "business", "science", "tech", "health", "climate", "arts", "other"]
     reason: str
 
 

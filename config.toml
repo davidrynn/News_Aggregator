@@ -5,7 +5,7 @@ url = "http://localhost:11434"
 embed_model = "nomic-embed-text"
 
 [topics]
-include = ["world", "us", "science", "technology", "health", "climate", "business"]
+include = ["world", "us", "science", "technology", "health", "climate", "business", "arts"]   # arts news only, no reviews (owner decision 2026-10-24)
 regions = ["US", "global"]
 language = "english"
 
@@ -55,6 +55,10 @@ extra = [
   "https://insideclimatenews.org/feed/",
   "https://www.carbonbrief.org/feed/",
   "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+  # Arts news, not reviews (owner decision 2026-10-24). Chosen by experiments/arts_eval.py:
+  # mostly news; Hyperallergic left out (reviews and announcements got through).
+  "https://www.theartnewspaper.com/rss.xml",
+  "https://www.artnews.com/feed/",
 ]
 
 [blocklist]

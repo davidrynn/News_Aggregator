@@ -7,7 +7,7 @@ KIND. Pick exactly one.
 - opinion: argues a view or interprets events. Signs: editorial, column, analysis, "why X matters", "what X means for", first person, a reader-question column, a headline that takes a side.
 - press_release: an organization announcing its own product, funding, hire, award, investment, opening, partnership or event. Signs: "announces", "launches", "unveils", "opens", "invests in", "signed a memorandum", "is pleased to", "named one of the best", quotes from its own executives or ministers, a newswire dateline (PR Newswire, Business Wire, Newsfile, CNW). A long description full of the organization's own achievements is a press release even if it reads like news.
 - clickbait: withholds the point to make you click, or asks the reader to vote. Signs: "you won't believe", "here's what happened", "this one trick", "VOTE:", a poll, curiosity gaps.
-- lifestyle: entertainment, celebrity, sports, music, TV, film, royals, recipes, travel, days out, deals, giveaways, horoscopes, product reviews, listicles, viral posts, sponsored wellness content ("[Brand] reports on..."). Sports stays lifestyle even when it involves an injury, a trade, an arrest or a court case.
+- lifestyle: entertainment, celebrity, sports, music, TV, film, royals, recipes, travel, days out, deals, giveaways, horoscopes, product reviews, listicles, viral posts, sponsored wellness content ("[Brand] reports on..."), and arts coverage that is not news: reviews and criticism of books, films, shows, exhibitions and music, interviews, profiles, listings and guides to what is on. Sports stays lifestyle even when it involves an injury, a trade, an arrest or a court case. Arts news is not lifestyle, whatever the price or the fame involved: a painting, sculpture, manuscript or collection sold at auction or privately, a major prize, a museum or institution's opening, closure, acquisition, large gift or leadership change, arts funding or policy, a discovery or attribution, or the death or obituary of a significant artist, illustrator, writer, composer or musician is a news report, and takes original_reporting, wire_copy or aggregation by the usual signs. What a TV, film or pop figure says, does or thinks stays celebrity, and news about a show, film, album or tour stays entertainment.
 
 Both original_reporting and wire_copy are real journalism; the difference is only who wrote it. A straight news report with no sign of relaying another outlet is original_reporting, not aggregation. Choose aggregation only when the text itself points to another outlet's reporting. When the description is missing, judge from the title alone.
 
@@ -17,7 +17,7 @@ NEWSWORTHINESS, 1 to 5. How much new, significant information does this bring? A
 3: Genuine news for a city, state, industry or large group, or an incremental update to a major story.
 2: Little new information, or news that touches one person, one company, one road or one town: a reaction, a preview, a routine meeting or statement, a police appeal, a missing person, a single court case, a traffic or weather disruption, a personnel move, a feature.
 1: No new information, or entertainment, lifestyle, promotion and opinion.
-Named sources, quotes and a byline say nothing about newsworthiness; they only matter for kind. A serious-sounding event that affects one person or one place is still a 2.
+Named sources, quotes and a byline say nothing about newsworthiness; they only matter for kind. A serious-sounding event that affects one person or one place is still a 2. Arts news is the one exception: judge it within the arts, so a major art sale or auction result, a major prize, a large gift to or a leadership change at a major institution, or the death of a significant artist, writer, composer or musician is a 3 even though it touches one person or one institution. Smaller arts items are still a 2, and this exception loosens nothing for any other kind of story.
 
 RELEVANCE, 1 to 5. How well does it match the reader's topics and regions given in the message?
 5: Squarely about one of the topics, and in or about one of the regions.
@@ -25,8 +25,9 @@ RELEVANCE, 1 to 5. How well does it match the reader's topics and regions given 
 3: Touches one of the topics indirectly, or a minor local item.
 2: Only loosely related.
 1: None of the topics: sport, celebrity, entertainment, promotions.
+When arts is one of the topics, arts news as defined under KIND is about that topic (4, or 5 in one of the regions); arts reviews, interviews, celebrity and entertainment are still a 1.
 
-TOPIC: the single best fit from world, us, politics, business, science, tech, health, climate, other.
+TOPIC: the single best fit from world, us, politics, business, science, tech, health, climate, arts, other.
 
 RULES
 - Judge only the text given. Do not use anything you know or assume about the outlet.
