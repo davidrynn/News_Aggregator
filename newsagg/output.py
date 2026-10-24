@@ -198,13 +198,23 @@ def merge(stories: list[dict], same: Callable[[dict, dict, float], bool]) -> lis
 
 
 def select(stories: list[dict], now: datetime, cfg: Config) -> list[dict]:
-    """Drop stories older than max_age_hours, rank the rest, keep the top max_stories."""
+    """Drop stories older than max_age_hours, rank the rest, keep the top max_stories.
+
+    Each topic in output.min_per_topic first gets its best stories up to that number,
+    if it has that many, so a busy day of world news cannot crowd out science or the
+    arts (owner decision 2026-10-24). The rest of the page is filled by rank.
+    """
     fresh = [s for s in stories
              if (now - parse_iso(s["published_at"])).total_seconds() / 3600 <= cfg.output.max_age_hours]
     for s in fresh:
         s["score"] = rank(s, now, cfg.output.coverage_weight)
     fresh.sort(key=lambda s: s["score"], reverse=True)
-    return fresh[: cfg.output.max_stories]
+    reserved = []
+    for topic, n in cfg.output.min_per_topic.items():
+        reserved += [s for s in fresh if s["topic"] == topic][:n]
+    rest = [s for s in fresh if s not in reserved]
+    chosen = (reserved + rest)[: cfg.output.max_stories]
+    return sorted(chosen, key=lambda s: s["score"], reverse=True)
 
 
 def write_json(path: Path, data: dict) -> None:

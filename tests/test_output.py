@@ -121,3 +121,22 @@ def test_merge_prefers_better_lead_over_one_point_of_newsworthiness():
     [merged] = output.merge([local, nyt], by_similarity)
     assert merged["title"] == "NYT headline"
     assert merged["newsworthiness"] == 5           # the higher of the two is kept
+
+
+def topical(title, topic, nw):
+    return dict(story(title, nw=nw), topic=topic)
+
+
+def test_select_guarantees_topic_minimums_without_padding():
+    cfg = CFG.model_copy(update={"output": CFG.output.model_copy(
+        update={"max_stories": 3, "min_per_topic": {"arts": 1, "science": 2}})})
+    stories = [topical("w1", "world", 5), topical("w2", "world", 5), topical("w3", "world", 4),
+               topical("a1", "arts", 3), topical("a2", "arts", 3)]          # no science kept
+    chosen = output.select(stories, NOW, cfg)
+    assert [s["title"] for s in chosen] == ["w1", "w2", "a1"]             # one arts place, sorted by score
+
+
+def test_select_without_minimums_is_pure_rank():
+    cfg = CFG.model_copy(update={"output": CFG.output.model_copy(update={"max_stories": 2, "min_per_topic": {}})})
+    stories = [topical("w1", "world", 5), topical("a1", "arts", 3), topical("w2", "world", 4)]
+    assert [s["title"] for s in output.select(stories, NOW, cfg)] == ["w1", "w2"]

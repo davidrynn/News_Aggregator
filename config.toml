@@ -93,4 +93,5 @@ drop_below = 0.15
 max_stories = 60
 max_age_hours = 36
 coverage_weight = 0.5       # ranking bonus per doubling of outlets covering a story
+min_per_topic = { science = 4, health = 2, climate = 2, tech = 2, arts = 3 }   # guaranteed places, if kept stories exist (owner decision 2026-10-24)
 dir = "out"
