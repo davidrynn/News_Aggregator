@@ -51,6 +51,15 @@ def section_path(a: Article) -> str | None:
     return "section" if segments & SECTION_SEGMENTS else None
 
 
+# Journals' notices about earlier papers (seen in Nature's feed, 2026-10-23): not news.
+JOURNAL_NOTICE = re.compile(r"^(author |publisher |editorial )?(correction|retraction|erratum|corrigendum)"
+                            r"( note)?\s*:|^expression of concern\s*:", re.IGNORECASE)
+
+
+def journal_notice(a: Article) -> str | None:
+    return "notice" if JOURNAL_NOTICE.search(a.title) else None
+
+
 def clickbait(a: Article) -> str | None:
     return "clickbait" if CLICKBAIT.search(a.title) else None
 
@@ -95,7 +104,7 @@ def apply(articles: list[Article], bl: Blocklist, min_words: int, max_per_outlet
     kept = []
     for a in articles:
         reason = (("seen" if a.url in seen else None) or blocked(a, bl) or section_path(a)
-                  or non_latin(a) or clickbait(a) or too_short(a, min_words))
+                  or non_latin(a) or journal_notice(a) or clickbait(a) or too_short(a, min_words))
         if reason:
             drops[reason] += 1
         else:

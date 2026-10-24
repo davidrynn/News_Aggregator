@@ -37,3 +37,27 @@ def test_pick_lead_prefers_wire_service():
 def test_pick_lead_keeps_order_without_wire():
     members = [_art("a.com"), _art("b.com")]
     assert grouping.pick_lead(members, ["apnews.com"]) == members
+
+
+def test_pick_lead_order_wire_then_feed_then_other_then_network():
+    from dataclasses import replace
+    network = replace(_art("brazilsun.com"), url="http://www.brazilsun.com/news/279390436/slug")
+    feed = replace(_art("nytimes.com"), from_feed=True)
+    other, wire = _art("localpaper.com"), _art("apnews.com")
+    ordered = grouping.pick_lead([network, other, feed, wire], ["apnews.com"])
+    assert [a.domain for a in ordered] == ["apnews.com", "nytimes.com", "localpaper.com", "brazilsun.com"]
+
+
+def test_network_sites_count_as_one_outlet():
+    from dataclasses import replace
+    sites = [replace(_art(d), url=f"https://{d}/news/279390436/slug")
+             for d in ("brazilsun.com", "irishsun.com", "taiwansun.com")]
+    story = grouping.Story(lead=sites[0], members=sites + [_art("bbc.com")])
+    assert story.outlets == {"bignewsnetwork.com", "bbc.com"}
+
+
+def test_network_pattern_ignores_ordinary_news_urls():
+    assert grouping.outlet(_art("example.com")) == "example.com"          # https://example.com/a
+    from dataclasses import replace
+    dated = replace(_art("example.com"), url="https://example.com/news/2026/10/23/slug")
+    assert grouping.outlet(dated) == "example.com"

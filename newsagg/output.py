@@ -79,13 +79,14 @@ def rank(story: dict, now: datetime, coverage_weight: float = 0.5) -> float:
                  + story.get("_outlet_bonus", 0.0) + recency + coverage, 2)
 
 
-def build_story(members: list[Article], lead: Article, info: PageInfo, verdict: Verdict) -> dict:
-    outlets = list(dict.fromkeys(a.domain for a in [lead, *members]))   # unique, lead first
-    also, seen = [], {lead.domain}
+def build_story(members: list[Article], lead: Article, info: PageInfo, verdict: Verdict,
+                wire_outlets: list[str] = ()) -> dict:
+    outlets = list(dict.fromkeys(grouping.outlet(a) for a in [lead, *members]))   # unique, lead first
+    also, seen = [], {grouping.outlet(lead)}
     for a in members:
-        if a.domain not in seen and len(also) < MAX_ALSO:
-            also.append({"outlet": a.domain, "url": a.url})
-            seen.add(a.domain)
+        if grouping.outlet(a) not in seen and len(also) < MAX_ALSO:
+            also.append({"outlet": grouping.outlet(a), "url": a.url})
+            seen.add(grouping.outlet(a))
     return {
         "id": story_id(lead.url),
         "title": display_title(lead.title),
@@ -102,13 +103,18 @@ def build_story(members: list[Article], lead: Article, info: PageInfo, verdict: 
         "outlet_count": len(outlets),
         "also_reported_by": also,
         "_outlets": outlets,
+        "_lead_rank": grouping.lead_rank(lead, list(wire_outlets)),
     }
 
 
 def merge_into(old: dict, new: dict) -> dict:
-    """Combine a new story with the published one it matches. The higher-newsworthiness
-    version supplies the headline and link; outlets are unioned; the time is the latest."""
-    base, other = (new, old) if new["newsworthiness"] > old["newsworthiness"] else (old, new)
+    """Combine a new story with the published one it matches. The version with the better
+    lead (grouping.lead_rank) supplies the headline and link, then the more newsworthy one:
+    a 1-point gap between two takes on one event is mostly noise, a better outlet is not.
+    Outlets are unioned, the time is the latest and newsworthiness the higher of the two."""
+    def strength(s: dict) -> tuple:
+        return -s.get("_lead_rank", 2), s["newsworthiness"]   # stories from before ranks: 2
+    base, other = (new, old) if strength(new) > strength(old) else (old, new)
     merged = dict(base)
     outlets = list(dict.fromkeys(base["_outlets"] + other["_outlets"]))
     other_lead = {"outlet": other["outlet"], "url": other["url"]}
@@ -119,6 +125,7 @@ def merge_into(old: dict, new: dict) -> dict:
         outlet_count=len(outlets),
         also_reported_by=list(links.values())[:MAX_ALSO],
         published_at=max(old["published_at"], new["published_at"]),
+        newsworthiness=max(old["newsworthiness"], new["newsworthiness"]),
         _vector=base["_vector"],
     )
     return merged
@@ -215,7 +222,8 @@ def publish(kept: list[tuple], cfg: Config, now: datetime | None = None) -> list
     now = now or datetime.now(timezone.utc)
     published = json.loads(STATE.read_text(encoding="utf-8"))["stories"] if STATE.exists() else []
 
-    new = [build_story(story.members, lead, info, verdict) for story, lead, info, verdict in kept]
+    new = [build_story(story.members, lead, info, verdict, cfg.grouping.wire_outlets)
+           for story, lead, info, verdict in kept]
     # Published stories go first so their ids stay stable; merging the whole list also
     # catches duplicates that were already on the page. Every story is re-embedded each run
     # (a few hundred texts take seconds), so all vectors come from the same text and model.

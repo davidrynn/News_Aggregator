@@ -92,3 +92,16 @@ def test_feed_articles_are_exempt_from_outlet_cap():
     feed = [replace(a, from_feed=True, url=a.url + "f") for a in gdelt]
     kept, capped = filters.cap_per_outlet(gdelt + feed, limit=2)
     assert capped == 3 and len(kept) == 7     # 2 newest GDELT + all 5 from the feed
+
+
+@pytest.mark.parametrize("title, dropped", [
+    ("Author Correction: DYNLL1 binds to MRE11 to limit DNA end resection", True),
+    ("Publisher Correction: A map of the human brain", True),
+    ("Retraction Note: Superconductivity at room temperature", True),
+    ("Expression of Concern: Gene therapy trial results", True),
+    ("Correction: An earlier version misnamed the senator", True),
+    ("Scientists issue correction to famous climate study", False),     # a news story about one
+    ("First person infected with rare Shamonda virus: what we know", False),
+])
+def test_journal_notices_dropped(title, dropped):
+    assert (filters.journal_notice(art(title=title)) == "notice") is dropped

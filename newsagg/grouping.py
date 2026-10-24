@@ -33,7 +33,34 @@ class Story:
 
     @property
     def outlets(self) -> set[str]:
-        return {a.domain for a in self.members}
+        return {outlet(a) for a in self.members}
+
+    @property
+    def has_feed_article(self) -> bool:
+        return any(a.from_feed for a in self.members)
+
+
+# Big News Network runs dozens of local-sounding sites (brazilsun.com, irishsun.com,
+# northkoreatimes.com, ...) that republish wire copy and opinion under their own names.
+# All of them, and only them, use article URLs like /news/279390436/slug (checked
+# 2026-10-23: 43 domains). They count as one outlet and never lead a story.
+NETWORK = "bignewsnetwork.com"
+NETWORK_URL = re.compile(r"^https?://(www\.)?[^/]+/news/\d{9}/")
+
+
+def outlet(a: Article) -> str:
+    """The outlet an article counts as: its domain, or the network it belongs to."""
+    return NETWORK if NETWORK_URL.match(a.url) else a.domain
+
+
+def lead_rank(a: Article, wire_outlets: list[str]) -> int:
+    """Lower is a better lead: 0 wire service (the original source), 1 a major outlet's
+    own feed (curated and readable), 2 any other outlet, 3 the syndication network."""
+    if a.domain in wire_outlets:
+        return 0
+    if a.from_feed:
+        return 1
+    return 3 if outlet(a) == NETWORK else 2
 
 
 def group_vectors(vectors: np.ndarray, threshold: float) -> list[list[int]]:
@@ -62,15 +89,15 @@ def normalize(vectors: list[list[float]]) -> np.ndarray:
 
 
 def pick_lead(members: list[Article], wire_outlets: list[str]) -> list[Article]:
-    """Reorder members so the lead comes first: the wire service itself if it is in the
-    group (the tile then links to the source, not a reprint), otherwise the newest."""
-    wire = [a for a in members if a.domain in wire_outlets]
-    return wire[:1] + [a for a in members if a not in wire[:1]]
+    """Order members best lead first, by lead_rank; within a rank, the existing order
+    (newest first) is kept. Enrichment tries them in this order, so the fallbacks are
+    the next best leads too."""
+    return sorted(members, key=lambda a: lead_rank(a, wire_outlets))
 
 
 def group(articles: list[Article], cfg: Config) -> list[Story]:
-    """Group articles into stories, largest first. Members are newest first, with a
-    wire-service article moved to the front when there is one."""
+    """Group articles into stories, largest first. Members are ordered best lead first
+    (see pick_lead)."""
     articles = sorted(articles, key=lambda a: a.seen_at, reverse=True)
     vectors = normalize(llm.embed([PREFIX + clean_title(a.title) for a in articles], cfg))
     stories = []

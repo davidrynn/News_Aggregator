@@ -113,3 +113,11 @@ def test_select_drops_old_stories_and_sorts_by_score():
     stories = [story("low", nw=2), story("high", nw=5), story("stale", nw=5, hours_ago=40)]
     chosen = output.select(stories, NOW, CFG)
     assert [s["title"] for s in chosen] == ["high", "low"]
+
+
+def test_merge_prefers_better_lead_over_one_point_of_newsworthiness():
+    local = dict(story("Local headline", nw=5, hours_ago=1, outlets=("local.com",)), _lead_rank=2)
+    nyt = dict(story("NYT headline", nw=4, outlets=("nytimes.com",), vector=(0.99, 0.141)), _lead_rank=1)
+    [merged] = output.merge([local, nyt], by_similarity)
+    assert merged["title"] == "NYT headline"
+    assert merged["newsworthiness"] == 5           # the higher of the two is kept

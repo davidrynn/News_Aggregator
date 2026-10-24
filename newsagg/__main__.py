@@ -50,8 +50,10 @@ def cmd_run(cfg: config.Config) -> None:
     log.info(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
              f"in {time.monotonic() - start:.0f}s")
 
-    # Most outlets first, then newest (decided 2026-10-23); only the top max_per_run go on.
-    stories.sort(key=lambda s: (len(s.outlets), s.lead.seen_at), reverse=True)
+    # Stories with a major outlet's feed article first, then most outlets, then newest
+    # (decided 2026-10-23); only the top max_per_run go on. seen.db keeps the feed share
+    # small (each feed article is scored once: ~50 new ones per two hours).
+    stories.sort(key=lambda s: (s.has_feed_article, len(s.outlets), s.lead.seen_at), reverse=True)
     stories = stories[: cfg.scoring.max_per_run]
     start = time.monotonic()
     results = enrich.enrich([s.members for s in stories])
