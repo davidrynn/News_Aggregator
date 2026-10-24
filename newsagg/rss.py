@@ -31,9 +31,19 @@ def clean_text(text: str) -> str:
 
 
 def entry_time(entry) -> datetime | None:
-    """Most feeds give a publish time; some (DW, Science) only an updated time."""
-    parsed = entry.get("published_parsed") or entry.get("updated_parsed")
-    return datetime.fromtimestamp(calendar.timegm(parsed), tz=timezone.utc) if parsed else None
+    """Most feeds give a publish time; some (DW, Science) only an updated time.
+
+    Nature gives a bare date ("2026-10-23"), which would read as midnight and age the
+    item by up to a day; it counts as the end of that day instead (clamped to now later).
+    """
+    key = "published" if entry.get("published_parsed") else "updated"
+    parsed = entry.get(f"{key}_parsed")
+    if not parsed:
+        return None
+    t = datetime.fromtimestamp(calendar.timegm(parsed), tz=timezone.utc)
+    if ":" not in entry.get(key, ""):     # no time of day given
+        t += timedelta(days=1, seconds=-1)
+    return t
 
 
 def entry_image(entry) -> str | None:

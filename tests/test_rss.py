@@ -40,3 +40,18 @@ def test_future_dates_are_clamped_to_now():
     future = FEED.replace(b"Fri, 23 Oct 2026 17:00:00", b"Fri, 23 Oct 2026 19:30:00")
     [a] = rss.parse_feed(future, NOW, timedelta(hours=36))
     assert a.seen_at == NOW
+
+
+def test_date_only_counts_as_end_of_day():
+    # Nature's feed: <dc:date>2026-10-22</dc:date>, no time of day
+    feed = b"""<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+<item rdf:about="https://www.nature.com/articles/d41586-026-00001-1">
+  <title>Sleep declines in rural communities after electricity arrives</title>
+  <link>https://www.nature.com/articles/d41586-026-00001-1</link>
+  <dc:date>2026-10-22</dc:date>
+</item>
+</rdf:RDF>"""
+    [a] = rss.parse_feed(feed, NOW, timedelta(hours=36))     # midnight would be 42 hours old
+    assert a.seen_at == datetime(2026, 10, 22, 23, 59, 59, tzinfo=timezone.utc)
