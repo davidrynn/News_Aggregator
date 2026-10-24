@@ -17,7 +17,7 @@ from newsagg.gdelt import Article
 SECTION_SEGMENTS = {
     "opinion", "opinions", "commentary", "editorial", "editorials", "op-ed", "oped",
     "column", "columns", "blog", "blogs", "sponsored", "deals", "shopping",
-    "horoscope", "horoscopes",
+    "horoscope", "horoscopes", "commentisfree",   # the Guardian's opinion section
 }
 
 # Rule 4. The number-list pattern needs a listicle noun after the number, so
@@ -71,17 +71,20 @@ def non_latin(a: Article) -> str | None:
 
 
 def too_short(a: Article, min_words: int) -> str | None:
-    return "short" if a.word_count < min_words else None
+    return "short" if a.word_count is not None and a.word_count < min_words else None
 
 
 def cap_per_outlet(articles: list[Article], limit: int) -> tuple[list[Article], int]:
-    """Rule 7: keep only the newest `limit` articles per outlet."""
+    """Rule 7: keep only the newest `limit` GDELT articles per outlet. Articles from the
+    outlets' own feeds are exempt: the outlet chose them, so they can't be a flood."""
     by_outlet: dict[str, list[Article]] = defaultdict(list)
     for a in articles:
-        by_outlet[a.domain].append(a)
+        if not a.from_feed:
+            by_outlet[a.domain].append(a)
     kept = [a for group in by_outlet.values()
             for a in sorted(group, key=lambda a: a.seen_at, reverse=True)[:limit]]
-    return kept, len(articles) - len(kept)
+    capped = sum(len(group) for group in by_outlet.values()) - len(kept)
+    return kept + [a for a in articles if a.from_feed], capped
 
 
 def apply(articles: list[Article], bl: Blocklist, min_words: int, max_per_outlet: int,

@@ -52,7 +52,9 @@ class Article:
     image: str | None
     themes: set[str]
     countries: set[str]   # FIPS country codes, e.g. "US", "UK"
-    word_count: int
+    word_count: int | None   # None when unknown (RSS items)
+    summary: str = ""        # the feed's own description (RSS items); GDELT has none
+    from_feed: bool = False  # came from an outlet's own RSS feed
 
 
 def latest_timestamp(client: httpx.Client) -> datetime:

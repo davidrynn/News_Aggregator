@@ -30,13 +30,18 @@ def normalize_host(host: str) -> str:
     return host
 
 
+def registered_domain(host: str) -> str:
+    """news.bbc.co.uk -> bbc.co.uk: the part an outlet registers."""
+    return _extract(host).top_domain_under_public_suffix or host
+
+
 def parent_hosts(host: str) -> list[str]:
     """The host and each parent down to its registered domain.
 
     news.example.co.uk -> [news.example.co.uk, example.co.uk]. We stop at the
     registered domain so we never check bare suffixes like co.uk.
     """
-    registered = _extract(host).top_domain_under_public_suffix or host
+    registered = registered_domain(host)
     labels = host.split(".")
     hosts = [".".join(labels[i:]) for i in range(len(labels))]
     return hosts[: hosts.index(registered) + 1] if registered in hosts else [host]

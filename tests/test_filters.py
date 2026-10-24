@@ -76,3 +76,19 @@ def test_apply_drops_articles_already_seen():
     a, b = art(url="https://example.com/news/a"), art(url="https://example.com/news/b")
     kept, drops = filters.apply([a, b], BL, min_words=20, max_per_outlet=10, seen={a.url})
     assert kept == [b] and drops["seen"] == 1
+
+
+def test_unknown_word_count_is_not_short():
+    assert filters.too_short(art(words=None), min_words=20) is None
+
+
+def test_guardian_opinion_section_dropped():
+    assert filters.section_path(art(url="https://www.theguardian.com/commentisfree/2026/oct/23/x")) == "section"
+
+
+def test_feed_articles_are_exempt_from_outlet_cap():
+    from dataclasses import replace
+    gdelt = [art(url=f"https://example.com/news/{i}", minutes_ago=i) for i in range(5)]
+    feed = [replace(a, from_feed=True, url=a.url + "f") for a in gdelt]
+    kept, capped = filters.cap_per_outlet(gdelt + feed, limit=2)
+    assert capped == 3 and len(kept) == 7     # 2 newest GDELT + all 5 from the feed

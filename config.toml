@@ -11,7 +11,51 @@ language = "english"
 
 [feeds]
 gdelt_lookback = 8         # 15-minute GKG files to check per run (8 = two hours); already-read files are skipped
-extra = []                  # optional RSS URLs
+# Outlets' own RSS feeds, read alongside GDELT, which barely covers the largest outlets.
+# Tested 2026-10-23. Left out: AP and Reuters (no public feeds), CNN and WSJ (feeds
+# abandoned), Washington Post (feed errors), FT and Bloomberg (hard paywalls).
+# Nature's feed mixes news (/articles/d41586-...) with research papers (s41586-...);
+# both go in and the scorer judges each (owner decision 2026-10-23).
+extra = [
+  # US
+  "https://feeds.npr.org/1001/rss.xml",
+  "https://feeds.npr.org/1004/rss.xml",
+  "https://feeds.nbcnews.com/nbcnews/public/news",
+  "https://www.cbsnews.com/latest/rss/main",
+  "https://abcnews.go.com/abcnews/topstories",
+  "https://www.pbs.org/newshour/feeds/rss/headlines",
+  "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+  "https://www.theguardian.com/us-news/rss",
+  "https://api.axios.com/feed/",
+  "https://thehill.com/news/feed/",
+  "https://rss.politico.com/politics-news.xml",
+  "https://www.propublica.org/feeds/propublica/main",
+  # World
+  "https://feeds.bbci.co.uk/news/rss.xml",
+  "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "https://www.theguardian.com/world/rss",
+  "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+  "https://www.aljazeera.com/xml/rss/all.xml",
+  "https://rss.dw.com/rdf/rss-en-all",
+  "https://www.france24.com/en/rss",
+  "https://www.cbc.ca/webfeed/rss/rss-world",
+  "https://www.abc.net.au/news/feed/51120/rss.xml",
+  "https://www.japantimes.co.jp/feed/",
+  "https://www.scmp.com/rss/91/feed",
+  "https://www.timesofisrael.com/feed/",
+  # Science, technology, health, climate, business
+  "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+  "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
+  "https://www.nature.com/nature.rss",
+  "https://www.science.org/rss/news_current.xml",
+  "http://rss.sciam.com/ScientificAmerican-Global",
+  "https://feeds.arstechnica.com/arstechnica/index",
+  "https://www.theverge.com/rss/index.xml",
+  "https://www.statnews.com/feed/",
+  "https://insideclimatenews.org/feed/",
+  "https://www.carbonbrief.org/feed/",
+  "https://www.cnbc.com/id/100003114/device/rss/rss.html",
+]
 
 [blocklist]
 iffy_url = "https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/gviz/tq?tqx=out:csv&sheet=Iffy-news"

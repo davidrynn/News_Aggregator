@@ -4,10 +4,11 @@ import functools
 import http.server
 import json
 import logging
+import dataclasses
 import time
 from datetime import datetime
 
-from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, scoring
+from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, rss, scoring
 from newsagg.runlock import AlreadyRunning, run_lock
 from newsagg.seen import Seen
 
@@ -23,9 +24,20 @@ def cmd_run(cfg: config.Config) -> None:
     fetched = gdelt.fetch(cfg.feeds.gdelt_lookback, done)
     articles = fetched.articles
     log.info(f"read {len(fetched.read)} new GDELT files "
-          f"({len(done & set(fetched.window))} of {len(fetched.window)} already read)")
+             f"({len(done & set(fetched.window))} of {len(fetched.window)} already read)")
     log.info(f"fetched {len(articles)} articles from {len({a.domain for a in articles})} outlets "
-          f"in {time.monotonic() - start:.1f}s")
+             f"in {time.monotonic() - start:.1f}s")
+
+    start = time.monotonic()
+    known = {output.story_id(a.url) for a in articles}
+    from_feeds = []
+    for a in rss.fetch(cfg.feeds.extra, cfg.output.max_age_hours):
+        if (key := output.story_id(a.url)) not in known:   # also in GDELT, or in two feeds
+            known.add(key)
+            from_feeds.append(a)
+    articles += from_feeds
+    log.info(f"RSS added {len(from_feeds)} articles from {len({a.domain for a in from_feeds})} outlets "
+             f"({len(cfg.feeds.extra)} feeds) in {time.monotonic() - start:.1f}s")
     bl = blocklist.load(cfg)
     seen = Seen()
     seen.prune()
@@ -36,7 +48,7 @@ def cmd_run(cfg: config.Config) -> None:
     stories = grouping.group(kept, cfg)
     multi = [s for s in stories if len(s.outlets) >= 3]
     log.info(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
-          f"in {time.monotonic() - start:.0f}s")
+             f"in {time.monotonic() - start:.0f}s")
 
     # Most outlets first, then newest (decided 2026-10-23); only the top max_per_run go on.
     stories.sort(key=lambda s: (len(s.outlets), s.lead.seen_at), reverse=True)
@@ -47,13 +59,16 @@ def cmd_run(cfg: config.Config) -> None:
     for story, result in zip(stories, results):
         if result is None:              # no page fetched: score on the headline alone
             failed += 1
-            enriched.append((story, story.lead, enrich.PageInfo()))
+            enriched.append((story, story.lead, enrich.PageInfo(description=story.lead.summary)))
         elif filters.page_type(result[1]):
             dropped += 1
         else:
-            enriched.append((story, *result))
+            article, info = result
+            if not info.description and article.summary:     # the feed's description fills in
+                info = dataclasses.replace(info, description=article.summary)
+            enriched.append((story, article, info))
     log.info(f"enriched {len(stories)} stories in {time.monotonic() - start:.0f}s: "
-          f"{failed} pages failed, {dropped} dropped as opinion/review/satire")
+             f"{failed} pages failed, {dropped} dropped as opinion/review/satire")
 
     start = time.monotonic()
     verdicts_path = config.ROOT / "data" / "verdicts.jsonl"
@@ -76,7 +91,7 @@ def cmd_run(cfg: config.Config) -> None:
                 kept_stories.append((story, article, info, verdict))
     elapsed = time.monotonic() - start
     log.info(f"scored {len(enriched) - failed} stories in {elapsed:.0f}s "
-          f"({elapsed / max(len(enriched), 1):.1f}s each, {failed} failed); kept {len(kept_stories)}")
+             f"({elapsed / max(len(enriched), 1):.1f}s each, {failed} failed); kept {len(kept_stories)}")
 
     if len(articles) < MIN_ARTICLES:
         log.info(f"only {len(articles)} articles this run; keeping the previous news.json")
