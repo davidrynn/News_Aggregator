@@ -9,3 +9,4 @@
   labeling tests/golden.jsonl. The system prompt in the spec is the source; copy it verbatim.
 - Learning mode: the owner is learning from this build. Work in small runnable steps,
   explain what and why before and after each one, and pause for questions between steps.
+- Status, revert point and next steps: the spec's "Status and next steps" section. Read it first in a new session.
