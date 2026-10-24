@@ -1,7 +1,7 @@
 """Experiment: can a headline-only first pass choose what to score better than outlet count?
 
 Run from the project root: PYTHONPATH=. .venv/Scripts/python experiments/triage_eval.py
-Changes nothing in the pipeline. Results of the first run (2026-10-24) are in the spec.
+Changes nothing in the pipeline. Results (2026-10-24, incl. the compact-format test) are in the spec.
 """
 import json
 import random
@@ -36,6 +36,19 @@ class Ratings(BaseModel):
 
 SCHEMA = Ratings.model_json_schema()
 
+# Compact format: the same judgment, but the reply lists only the headlines that would
+# rate 3 or more. Output tokens are the slow part locally, and the pipeline needs only yes/no.
+COMPACT_SYSTEM = SYSTEM.replace(
+    "Rate every headline. Return JSON.",
+    "Return JSON listing only the numbers of headlines you would rate 3 or higher.")
+
+
+class Worth(BaseModel):
+    worth: list[int]
+
+
+COMPACT_SCHEMA = Worth.model_json_schema()
+
 
 def title_of(user_message: str) -> str:
     return user_message.split("Title: ", 1)[1].split("\n", 1)[0].strip()
@@ -57,6 +70,35 @@ def rate(titles: list[str], cfg, client, batch: int = 50) -> list[int]:
             print(f"  batch {i // batch}: {missing} of {len(chunk)} unrated (counted as 3)", file=sys.stderr)
         scores += [got.get(n, 3) for n in range(1, len(chunk) + 1)]
     return scores
+
+
+def pick_compact(titles: list[str], cfg, client, batch: int = 50) -> list[bool]:
+    """Compact format: True for each headline the model lists as worth a look."""
+    picked = []
+    for i in range(0, len(titles), batch):
+        chunk = titles[i:i + batch]
+        user = "\n".join(f"{n}. {t}" for n, t in enumerate(chunk, 1))
+        got = set()
+        try:
+            raw = llm.chat_json(COMPACT_SYSTEM, user, COMPACT_SCHEMA, cfg, client)
+            got = set(Worth.model_validate_json(raw).worth)
+        except Exception as e:
+            print(f"  batch {i // batch} failed: {e}", file=sys.stderr)
+        picked += [n in got for n in range(1, len(chunk) + 1)]
+    return picked
+
+
+def compare_formats(name: str, items: list[dict]) -> None:
+    """Rated >= 3 (full format) against listed (compact format): how much each picks and catches."""
+    keeps = sum(x["keep"] for x in items)
+    print(f"\n{name}: {len(items)} stories, {keeps} keeps")
+    for label, chosen in (("1-5 ratings, score >= 3", [x["triage"] >= 3 for x in items]),
+                          ("compact list", [x["compact"] for x in items])):
+        n = sum(chosen)
+        caught = sum(x["keep"] for x, c in zip(items, chosen) if c)
+        print(f"  {label:24} picks {n:4} ({n / len(items):.0%}), catches {caught / keeps:.0%} of keeps")
+    both = sum((x["triage"] >= 3) == x["compact"] for x in items)
+    print(f"  the two formats agree on {both / len(items):.0%} of headlines")
 
 
 def recall_at(order_key, items, frac: float) -> float:
@@ -103,16 +145,19 @@ def main() -> None:
                 and g["relevance"] >= cfg.scoring.min_relevance)
         golden.append({"title": title_of(g["user_message"]), "keep": keep})
 
-    start = time.monotonic()
-    with llm.client(cfg) as client:
-        for items in (verdicts, golden):
-            for x, s in zip(items, rate([x["title"] for x in items], cfg, client)):
-                x["triage"] = s
-    elapsed = time.monotonic() - start
     n = len(verdicts) + len(golden)
-    print(f"rated {n} headlines in {elapsed:.0f}s ({n / elapsed:.1f} per second)")
+    with llm.client(cfg) as client:
+        for key, fn in (("triage", rate), ("compact", pick_compact)):
+            start = time.monotonic()
+            for items in (verdicts, golden):
+                for x, v in zip(items, fn([x["title"] for x in items], cfg, client)):
+                    x[key] = v
+            elapsed = time.monotonic() - start
+            print(f"{key}: {n} headlines in {elapsed:.0f}s ({n / elapsed:.1f} per second)")
     report("Answer key 1: full scoring by the model (verdicts.jsonl)", verdicts)
     report("Answer key 2: Fable's golden labels", golden)
+    compare_formats("Formats, answer key 1", verdicts)
+    compare_formats("Formats, answer key 2", golden)
 
 
 if __name__ == "__main__":
