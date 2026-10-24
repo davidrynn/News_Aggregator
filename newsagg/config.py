@@ -43,6 +43,8 @@ class Scoring(BaseModel):
     min_relevance: int = Field(3, ge=1, le=5)
     keep_kinds: list[str] = ["original_reporting", "wire_copy"]
     max_per_run: int = Field(400, ge=1)
+    triage: bool = False                       # rate headlines first; score only those rated min_triage+
+    min_triage: int = Field(3, ge=1, le=5)
 
 
 class Filters(BaseModel):
