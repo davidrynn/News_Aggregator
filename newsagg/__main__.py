@@ -6,9 +6,10 @@ import json
 import logging
 import dataclasses
 import time
+from collections import Counter
 from datetime import datetime
 
-from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, rss, scoring
+from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, rss, scoring, triage
 from newsagg.runlock import AlreadyRunning, run_lock
 from newsagg.seen import Seen
 
@@ -50,10 +51,24 @@ def cmd_run(cfg: config.Config) -> None:
     log.info(f"grouped into {len(stories)} stories ({len(multi)} with 3+ outlets) "
              f"in {time.monotonic() - start:.0f}s")
 
-    # Stories with a major outlet's feed article first, then most outlets, then newest
-    # (decided 2026-10-23); only the top max_per_run go on. seen.db keeps the feed share
-    # small (each feed article is scored once: ~50 new ones per two hours).
-    stories.sort(key=lambda s: (s.has_feed_article, len(s.outlets), s.lead.seen_at), reverse=True)
+    if cfg.scoring.triage:
+        start = time.monotonic()
+        with llm.client(cfg) as client:
+            for story, rating in zip(stories, triage.rate([s.lead.title for s in stories], cfg, client)):
+                story.triage = rating
+        counts = Counter(s.triage for s in stories)
+        dropped = [s for s in stories if s.triage < cfg.scoring.min_triage]
+        # A headline rated low once is not triaged again (feed articles reappear every run).
+        seen.add(a.url for s in dropped for a in s.members)
+        stories = [s for s in stories if s.triage >= cfg.scoring.min_triage]
+        log.info(f"triaged {len(stories) + len(dropped)} headlines in {time.monotonic() - start:.0f}s: "
+                 f"by rating {dict(sorted(counts.items()))}; dropped {len(dropped)} below {cfg.scoring.min_triage}")
+
+    # Stories with a major outlet's feed article first, then the triage rating (when on),
+    # then most outlets, then newest (decided 2026-10-23, triage 2026-10-24); only the top
+    # max_per_run go on. seen.db keeps the feed share small (each feed article is scored
+    # once: ~50 new ones per two hours).
+    stories.sort(key=lambda s: (s.has_feed_article, s.triage or 0, len(s.outlets), s.lead.seen_at), reverse=True)
     stories = stories[: cfg.scoring.max_per_run]
     start = time.monotonic()
     results = enrich.enrich([s.members for s in stories])
@@ -85,7 +100,7 @@ def cmd_run(cfg: config.Config) -> None:
             seen.add(a.url for a in story.members)
             # Every verdict is logged; the golden test set is labeled from this file.
             log_file.write(json.dumps({
-                "url": article.url, "outlet": article.domain, "outlets": len(story.outlets),
+                "url": article.url, "outlet": article.domain, "outlets": len(story.outlets), "triage": story.triage,
                 "user_message": scoring.user_message(article, info, cfg),
                 **verdict.model_dump(), "kept": scoring.keep(verdict, cfg),
             }) + "\n")

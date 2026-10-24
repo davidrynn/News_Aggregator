@@ -30,6 +30,7 @@ def clean_title(title: str) -> str:
 class Story:
     lead: Article
     members: list[Article] = field(default_factory=list)
+    triage: int | None = None    # headline rating 1-5, set when scoring.triage is on
 
     @property
     def outlets(self) -> set[str]:
