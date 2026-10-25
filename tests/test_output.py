@@ -140,3 +140,13 @@ def test_select_without_minimums_is_pure_rank():
     cfg = CFG.model_copy(update={"output": CFG.output.model_copy(update={"max_stories": 2, "min_per_topic": {}})})
     stories = [topical("w1", "world", 5), topical("a1", "arts", 3), topical("w2", "world", 4)]
     assert [s["title"] for s in output.select(stories, NOW, cfg)] == ["w1", "w2"]
+
+
+def test_select_gives_feed_led_stories_the_outlet_bonus():
+    cfg = CFG.model_copy(update={"output": CFG.output.model_copy(
+        update={"max_stories": 1, "min_per_topic": {}, "feed_bonus": 1.5})})
+    hype = story("Tabloid hype", nw=4)                                    # 13.0
+    nature = dict(story("Nature finding", nw=4, hours_ago=12), _feed_lead=True)   # 12.5 + 1.5
+    [top] = output.select([hype, nature], NOW, cfg)
+    assert top["title"] == "Nature finding" and top["score"] == 14.0
+    assert output.rank(story(nw=5), NOW) > 14.0                           # still worth less than a point of newsworthiness

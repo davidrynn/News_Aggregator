@@ -64,7 +64,7 @@ extra = [
 [blocklist]
 iffy_url = "https://docs.google.com/spreadsheets/d/1ck1_FZC-97uDLIlvRJDTrGqBk0FuDe9yHkluROgpGS8/gviz/tq?tqx=out:csv&sheet=Iffy-news"
 refresh_days = 7
-extra = []
+extra = ["dailystar.co.uk"]   # tabloid hype ranked above Nature (owner decision 2026-10-24)
 allow = []
 
 [scoring]
@@ -93,5 +93,6 @@ drop_below = 0.15
 max_stories = 65
 max_age_hours = 36
 coverage_weight = 0.5       # ranking bonus per doubling of outlets covering a story
+feed_bonus = 1.5            # outlet bonus for stories led by an article from feeds.extra, until reputation exists (owner decision 2026-10-24)
 min_per_topic = { science = 4, health = 2, climate = 2, tech = 2, arts = 3 }   # guaranteed places, if kept stories exist (owner decision 2026-10-24)
 dir = "out"

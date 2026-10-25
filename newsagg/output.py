@@ -103,6 +103,7 @@ def build_story(members: list[Article], lead: Article, info: PageInfo, verdict: 
         "outlet_count": len(outlets),
         "also_reported_by": also,
         "_outlets": outlets,
+        "_feed_lead": lead.from_feed,     # led by an article from one of the owner's chosen feeds
         "_lead_rank": grouping.lead_rank(lead, list(wire_outlets)),
     }
 
@@ -206,7 +207,10 @@ def select(stories: list[dict], now: datetime, cfg: Config) -> list[dict]:
     """
     fresh = [s for s in stories
              if (now - parse_iso(s["published_at"])).total_seconds() / 3600 <= cfg.output.max_age_hours]
+    # Until outlet reputation is built, stories led by an article from the owner's chosen
+    # feeds get the outlet bonus: llama alone rated tabloid hype above Nature (2026-10-24).
     for s in fresh:
+        s["_outlet_bonus"] = cfg.output.feed_bonus if s.get("_feed_lead") else 0.0
         s["score"] = rank(s, now, cfg.output.coverage_weight)
     fresh.sort(key=lambda s: s["score"], reverse=True)
     reserved = []

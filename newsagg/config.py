@@ -68,6 +68,7 @@ class Output(BaseModel):
     max_stories: int = Field(60, ge=1)
     max_age_hours: float = Field(36, gt=0)
     coverage_weight: float = Field(0.5, ge=0)
+    feed_bonus: float = Field(1.5, ge=0)      # ranking bonus for stories led by an article from feeds.extra
     min_per_topic: dict[str, int] = {}        # topic -> stories it is guaranteed on the page, if it has them
     dir: str = "out"
 
