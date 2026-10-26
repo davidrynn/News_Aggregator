@@ -92,8 +92,9 @@ def cmd_run(cfg: config.Config) -> None:
     kept_stories, failed = [], 0
     with llm.client(cfg) as client, open(verdicts_path, "a", encoding="utf-8") as log_file:
         size = cfg.scoring.batch_size
-        verdicts = [v for i in range(0, len(enriched), size)
-                    for v in scoring.score_batch([(a, inf) for _, a, inf in enriched[i:i + size]], cfg, client)]
+        chunks = [[(a, inf) for _, a, inf in enriched[i:i + size]] for i in range(0, len(enriched), size)]
+        verdicts = [v for batch in llm.parallel(lambda c: scoring.score_batch(c, cfg, client), chunks, cfg)
+                    for v in batch]
         for (story, article, info), verdict in zip(enriched, verdicts):
             if verdict is None:
                 failed += 1     # not marked seen: tried again next run

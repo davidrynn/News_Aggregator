@@ -168,7 +168,12 @@ class EventMatcher:
         key = "|".join(sorted((a["id"], b["id"])))
         if key not in self.cache:
             try:
-                self.cache[key] = self.ask(a, b) and self.ask(b, a)
+                # Both orders at once when calls can overlap; one by one, the second is
+                # skipped after a no.
+                if self.cfg.provider.concurrency > 1:
+                    self.cache[key] = all(llm.parallel(lambda p: self.ask(*p), [(a, b), (b, a)], self.cfg))
+                else:
+                    self.cache[key] = self.ask(a, b) and self.ask(b, a)
             except (httpx.HTTPError, ValidationError):
                 return False   # unsure: keep them apart, ask again next run
             self.asked += 1

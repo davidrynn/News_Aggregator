@@ -21,6 +21,7 @@ class Provider(BaseModel):
     embed_url: str = "http://localhost:11434"   # embeddings always come from Ollama here (grouping thresholds are tuned to nomic)
     api_key_env: str = ""       # "openai" provider: the environment variable (or .env line) holding the key
     json_schema: bool = False   # "openai" provider: the model accepts a response schema (else plain JSON mode)
+    concurrency: int = Field(1, ge=1, le=16)   # model calls in flight at once; 1 for local Ollama
     extra: dict = {}            # "openai" provider: added to every request body (e.g. OpenRouter's routing options)
 
 

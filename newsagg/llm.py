@@ -7,6 +7,8 @@ with a config change: callers ask for embed() and never see which service answer
 import json
 import os
 import time
+from collections.abc import Callable, Iterable
+from concurrent.futures import ThreadPoolExecutor
 
 import httpx
 
@@ -87,6 +89,20 @@ def api_key(name: str) -> str:
         if key.strip() == name:
             return value.strip().strip('"')
     raise RuntimeError(f"no API key: set {name} or add {name}=... to {env}")
+
+
+def parallel[T, R](fn: Callable[[T], R], items: Iterable[T], cfg: Config) -> list[R]:
+    """fn(item) for each item, up to provider.concurrency at a time; results in item order.
+
+    A hosted API spends most of a call's time on its own side, so overlapping calls saves
+    wall-clock time; a local GPU gains nothing, hence concurrency 1 for Ollama. An exception
+    in fn is raised here, as in a plain loop. httpx.Client is safe to share between threads.
+    """
+    items = list(items)
+    if cfg.provider.concurrency <= 1 or len(items) <= 1:
+        return [fn(item) for item in items]
+    with ThreadPoolExecutor(max_workers=cfg.provider.concurrency) as pool:
+        return list(pool.map(fn, items))
 
 
 def client(cfg: Config) -> httpx.Client:

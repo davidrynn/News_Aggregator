@@ -38,9 +38,8 @@ def user_message(titles: list[str]) -> str:
 
 
 def rate(titles: list[str], cfg: Config, client: httpx.Client) -> list[int]:
-    """Return one 1-5 rating per title, in order."""
-    scores: list[int] = []
-    for i in range(0, len(titles), BATCH):
+    """Return one 1-5 rating per title, in order. Batches go out provider.concurrency at a time."""
+    def rate_batch(i: int) -> list[int]:
         chunk = titles[i:i + BATCH]
         got: dict[int, int] = {}
         try:
@@ -51,5 +50,6 @@ def rate(titles: list[str], cfg: Config, client: httpx.Client) -> list[int]:
         missing = sum(1 for n in range(1, len(chunk) + 1) if n not in got)
         if got and missing:
             log.warning("triage batch %d: %d of %d unrated, rated %d", i // BATCH, missing, len(chunk), UNRATED)
-        scores += [got.get(n, UNRATED) for n in range(1, len(chunk) + 1)]
-    return scores
+        return [got.get(n, UNRATED) for n in range(1, len(chunk) + 1)]
+
+    return [s for batch in llm.parallel(rate_batch, range(0, len(titles), BATCH), cfg) for s in batch]

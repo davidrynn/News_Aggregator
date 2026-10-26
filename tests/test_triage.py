@@ -53,3 +53,17 @@ def test_skipped_headlines_and_failed_batches_get_3():
 def test_out_of_range_rating_fails_the_batch():
     client, _ = fake_client([{"ratings": [{"n": 1, "score": 9}]}])
     assert triage.rate(["a"], CFG, client) == [3]
+
+
+def test_parallel_batches_keep_headline_order():
+    # Each reply is worked out from its own request, since threads answer in any order:
+    # every headline in a batch is rated from the batch's first title, t0 -> 1, t50 -> 2, ...
+    def handler(request: httpx.Request) -> httpx.Response:
+        lines = json.loads(request.content)["messages"][1]["content"].splitlines()
+        score = int(lines[0].split(". t")[1]) // 50 % 5 + 1
+        return httpx.Response(200, json={"message": {"content": json.dumps(
+            {"ratings": [{"n": n, "score": score} for n in range(1, len(lines) + 1)]})}})
+    client = httpx.Client(base_url="http://test", transport=httpx.MockTransport(handler))
+    cfg = CFG.model_copy(update={"provider": CFG.provider.model_copy(update={"concurrency": 4})})
+    scores = triage.rate([f"t{i}" for i in range(230)], cfg, client)
+    assert scores == [1] * 50 + [2] * 50 + [3] * 50 + [4] * 50 + [5] * 30
