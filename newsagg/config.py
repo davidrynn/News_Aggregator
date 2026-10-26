@@ -18,6 +18,9 @@ class Provider(BaseModel):
     model: str = "llama3.1:8b"
     url: str = "http://localhost:11434"
     embed_model: str = "nomic-embed-text"
+    api_key_env: str = ""       # "openai" provider: the environment variable (or .env line) holding the key
+    json_schema: bool = False   # "openai" provider: the model accepts a response schema (else plain JSON mode)
+    extra: dict = {}            # "openai" provider: added to every request body (e.g. OpenRouter's routing options)
 
 
 class Topics(BaseModel):
@@ -43,6 +46,7 @@ class Scoring(BaseModel):
     min_relevance: int = Field(3, ge=1, le=5)
     keep_kinds: list[str] = ["original_reporting", "wire_copy"]
     max_per_run: int = Field(400, ge=1)
+    batch_size: int = Field(1, ge=1, le=20)     # stories per scoring call; 1 for an 8B model, which drops verdicts in batches
     triage: bool = False                       # rate headlines first; score only those rated min_triage+
     min_triage: int = Field(3, ge=1, le=5)
 

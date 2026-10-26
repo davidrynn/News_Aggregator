@@ -91,8 +91,10 @@ def cmd_run(cfg: config.Config) -> None:
     verdicts_path = config.ROOT / "data" / "verdicts.jsonl"
     kept_stories, failed = [], 0
     with llm.client(cfg) as client, open(verdicts_path, "a", encoding="utf-8") as log_file:
-        for story, article, info in enriched:
-            verdict = scoring.score(article, info, cfg, client)
+        size = cfg.scoring.batch_size
+        verdicts = [v for i in range(0, len(enriched), size)
+                    for v in scoring.score_batch([(a, inf) for _, a, inf in enriched[i:i + size]], cfg, client)]
+        for (story, article, info), verdict in zip(enriched, verdicts):
             if verdict is None:
                 failed += 1     # not marked seen: tried again next run
                 continue

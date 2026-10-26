@@ -1,15 +1,18 @@
-"""Model scoring: one call per story returns a fixed JSON verdict.
+"""Model scoring: each story gets a fixed JSON verdict, several stories per call.
 
 The system prompt lives in prompts/scorer_system.txt, copied verbatim from the spec.
-It is sent byte-identical on every call so Ollama can reuse its cached prefix;
-everything that varies goes in the user message.
+It is sent byte-identical on every call so the provider can reuse its cached prefix;
+everything that varies goes in the user message. Batching lives there too: Topics and
+Regions once, then numbered articles (experiments/batch_eval.py, 2026-10-26: batches of 5
+matched or beat one story per call on the golden set for the larger cloud models).
 """
+import json
 import logging
 from pathlib import Path
-from typing import Literal
+from typing import Literal, get_args
 
 import httpx
-from pydantic import BaseModel, Field, ValidationError
+from pydantic import BaseModel, Field, ValidationError, field_validator
 
 from newsagg import llm
 from newsagg.config import Config
@@ -28,8 +31,26 @@ class Verdict(BaseModel):
     topic: Literal["world", "us", "politics", "business", "science", "tech", "health", "climate", "arts", "other"]
     reason: str
 
+    @field_validator("topic", mode="before")
+    @classmethod
+    def unlisted_topic_is_other(cls, v):
+        # Without schema-forced output a model may answer "sports" or "entertainment". Topic
+        # only places a story on the page (the keep rule ignores it), so keep the verdict.
+        return v if v in get_args(cls.model_fields["topic"].annotation) else "other"
+
 
 SCHEMA = Verdict.model_json_schema()
+
+
+class NumberedVerdict(Verdict):
+    n: int
+
+
+class Verdicts(BaseModel):
+    verdicts: list[NumberedVerdict]
+
+
+BATCH_SCHEMA = Verdicts.model_json_schema()
 
 
 def user_message(article: Article, info: PageInfo, cfg: Config) -> str:
@@ -45,6 +66,34 @@ def user_message(article: Article, info: PageInfo, cfg: Config) -> str:
         f"Page type: {', '.join(info.ld_types) or 'unknown'}\n"
         f"Section: {info.section or 'unknown'}"
     )
+
+
+def batch_message(items: list[tuple[Article, PageInfo]], cfg: Config) -> str:
+    """Topics and Regions once, then each article's lines from user_message(), numbered."""
+    messages = [user_message(a, i, cfg).splitlines() for a, i in items]
+    header = "\n".join(messages[0][:2])
+    return (f"{header}\n\nScore each of the {len(items)} numbered articles below separately, "
+            f"one verdict per number.\n\n"
+            + "\n\n".join(f"Article {n}\n" + "\n".join(m[3:]) for n, m in enumerate(messages, 1)))
+
+
+def score_batch(items: list[tuple[Article, PageInfo]], cfg: Config, client: httpx.Client) -> list[Verdict | None]:
+    """One verdict per item, in order; None where the call failed or that verdict was missing
+    or invalid. Each verdict is checked on its own, so one bad one loses one story, not the batch."""
+    if len(items) == 1:
+        return [score(*items[0], cfg, client)]
+    got: dict[int, Verdict] = {}
+    try:
+        raw = llm.chat_json(SYSTEM_PROMPT, batch_message(items, cfg), BATCH_SCHEMA, cfg, client)
+        for item in json.loads(raw).get("verdicts", []):
+            try:
+                v = NumberedVerdict.model_validate(item)
+                got[v.n] = Verdict(**v.model_dump(exclude={"n"}))
+            except ValidationError as e:
+                log.warning("one verdict in a batch was invalid: %s", e)
+    except (httpx.HTTPError, ValueError) as e:     # ValueError covers a reply that isn't JSON
+        log.warning("scoring batch of %d failed: %s", len(items), e)
+    return [got.get(n) for n in range(1, len(items) + 1)]
 
 
 def score(article: Article, info: PageInfo, cfg: Config, client: httpx.Client) -> Verdict | None:

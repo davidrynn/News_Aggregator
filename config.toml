@@ -72,6 +72,7 @@ min_newsworthiness = 3
 min_relevance = 3
 keep_kinds = ["original_reporting", "wire_copy"]   # wire reprints are real journalism (owner decision 2026-10-23)
 max_per_run = 400
+batch_size = 1              # stories per scoring call. Golden set 2026-10-26: 5 suits DeepSeek, Gemma, Flash-Lite; Llama 8B drops a third of verdicts at 5
 triage = true               # rate every story's headline 1-5 first (~12 min a run) and score only those rated min_triage+
 min_triage = 3              # keep rate after full scoring by triage score, 2026-10-24: 1: 11%, 2: 34%, 3: 72%, 4: 88%, 5: 96%
 
