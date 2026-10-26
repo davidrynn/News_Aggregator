@@ -4,7 +4,8 @@ import httpx
 
 from newsagg import config, triage
 
-CFG = config.load()
+# The fake transport answers in Ollama's format, whatever provider config.toml names.
+CFG = config.load().model_copy(update={"provider": config.Provider()})
 
 
 def fake_client(replies: list):

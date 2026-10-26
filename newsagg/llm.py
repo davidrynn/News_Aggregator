@@ -16,11 +16,14 @@ RETRIES = 4     # tries per call to a hosted API, waiting 2, 4, 8 s between them
 
 
 def embed(texts: list[str], cfg: Config, batch_size: int = 100) -> list[list[float]]:
-    """Return one embedding vector per text, in order."""
-    if cfg.provider.name != "ollama":
-        raise NotImplementedError(f"provider {cfg.provider.name!r} has no embed() yet")
+    """Return one embedding vector per text, in order.
+
+    Always local Ollama at provider.embed_url, whichever provider answers chat: no cloud host
+    offers nomic-embed-text (checked 2026-10-26), and a different embedding model would need
+    the grouping thresholds re-tuned. The 270 MB model is light enough to run alongside work.
+    """
     vectors: list[list[float]] = []
-    with httpx.Client(base_url=cfg.provider.url, timeout=120) as client:
+    with httpx.Client(base_url=cfg.provider.embed_url, timeout=120) as client:
         for i in range(0, len(texts), batch_size):
             resp = client.post("/api/embed", json={
                 "model": cfg.provider.embed_model,

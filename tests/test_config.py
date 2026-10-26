@@ -6,7 +6,7 @@ from newsagg import config
 
 def test_loads_project_config():
     cfg = config.load()
-    assert cfg.provider.name == "ollama"
+    assert cfg.provider.name in ("ollama", "openai")
     assert cfg.scoring.min_newsworthiness == 3
 
 

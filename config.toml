@@ -1,7 +1,16 @@
 [provider]
-name = "ollama"            # later: "gemini", "bedrock", "anthropic"
-model = "llama3.1:8b"         # beat qwen3:8b on the golden set, 2026-10-23
-url = "http://localhost:11434"
+# Chat (triage, scoring, same-event checks) runs on DeepInfra since 2026-10-26: the local model
+# froze the PC. Golden set at batch 5 (experiments/batch_eval.py): keep/drop 85.1% against
+# 78.4% for local llama3.1:8b. Free alternative, same accuracy but slower and rate-limited:
+# url = "https://generativelanguage.googleapis.com/v1beta/openai", model = "gemini-3.1-flash-lite",
+# api_key_env = "GEMINI_API_KEY". Back to local: name = "ollama", model = "llama3.1:8b",
+# url = "http://localhost:11434", and scoring.batch_size = 1.
+name = "openai"            # any OpenAI-compatible API; "ollama" for local
+model = "deepseek-ai/DeepSeek-V4-Flash-0731"
+url = "https://api.deepinfra.com/v1/openai"
+api_key_env = "DEEPINFRA_API_KEY"   # read from the environment or the git-ignored .env
+json_schema = true         # the model accepts a response schema
+embed_url = "http://localhost:11434"   # embeddings stay on local Ollama (nomic-embed-text, 270 MB)
 embed_model = "nomic-embed-text"
 
 [topics]
@@ -72,7 +81,7 @@ min_newsworthiness = 3
 min_relevance = 3
 keep_kinds = ["original_reporting", "wire_copy"]   # wire reprints are real journalism (owner decision 2026-10-23)
 max_per_run = 400
-batch_size = 1              # stories per scoring call. Golden set 2026-10-26: 5 suits DeepSeek, Gemma, Flash-Lite; Llama 8B drops a third of verdicts at 5
+batch_size = 5              # stories per scoring call. Golden set 2026-10-26: 5 suits DeepSeek, Gemma, Flash-Lite; Llama 8B drops a third of verdicts at 5
 triage = true               # rate every story's headline 1-5 first (~12 min a run) and score only those rated min_triage+
 min_triage = 3              # keep rate after full scoring by triage score, 2026-10-24: 1: 11%, 2: 34%, 3: 72%, 4: 88%, 5: 96%
 

@@ -18,6 +18,7 @@ class Provider(BaseModel):
     model: str = "llama3.1:8b"
     url: str = "http://localhost:11434"
     embed_model: str = "nomic-embed-text"
+    embed_url: str = "http://localhost:11434"   # embeddings always come from Ollama here (grouping thresholds are tuned to nomic)
     api_key_env: str = ""       # "openai" provider: the environment variable (or .env line) holding the key
     json_schema: bool = False   # "openai" provider: the model accepts a response schema (else plain JSON mode)
     extra: dict = {}            # "openai" provider: added to every request body (e.g. OpenRouter's routing options)
