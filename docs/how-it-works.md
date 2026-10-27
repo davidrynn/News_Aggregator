@@ -18,7 +18,7 @@ Each run is one assembly line:
 
    A story is kept if its kind is real journalism and both scores are 3 or more.
 6. **Assemble the page.** Duplicates are merged, with the AI double-checking borderline pairs. Stories are ranked, places are reserved for science, arts and the other topics, and the 65-story page is written.
-7. **Publish** to GitHub Pages, only when asked (`--publish`).
+7. **Publish** to GitHub Pages (`--publish`).
 
 ## Why the AI moved to the cloud
 
@@ -49,10 +49,11 @@ The tool for this is the **golden set**: 74 real articles that Fable, the most c
 - **Cost:** about $2–3 a month at 3 runs a day. The DeepInfra dashboard shows the actual spend.
 - **Revert points:** git tags `good-2026-10-26` for the code and `site-2026-10-26` for the page.
 - **Embeddings moved to the cloud too** (gte-base). Tested against nomic on 3,000 headlines: of the pairs it groups without asking, the same-event judge confirmed 92%, against 72% for nomic. The "same story" threshold had to be re-tuned (0.87 became 0.90), because each embedding model spreads its numbers differently.
-- **Still on the PC:** only the run itself, a light Python program. Ollama is no longer needed.
+- **Nothing runs on the PC any more.** Since 2026-10-27 GitHub Actions runs the pipeline once a day (11:00 UTC) on GitHub's free machines, and the "Run workflow" button on the repo's Actions tab starts one anytime, even from a phone. The recipe is `.github/workflows/run.yml`.
+- **How a fresh machine remembers:** each GitHub machine starts empty, so the run's memory (articles already seen, the stories on the page, the scoring log) is kept on a `state` branch of the repo. A run loads it first and saves it last.
+- **Running locally:** do `python -m newsagg load-state` first, so the PC's copy catches up with GitHub's.
 
 ## What's next
 
 1. Watch whether DeepSeek gives out too many 5s for newsworthiness. Any change to the scorer prompt is Fable's.
-2. Decide where scheduled runs happen. Nothing needs the PC now.
-3. Later: outlet reputation.
+2. Later: outlet reputation.
