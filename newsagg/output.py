@@ -135,7 +135,7 @@ def merge_into(old: dict, new: dict) -> dict:
 def embed_text(story: dict) -> str:
     """Headline plus description: the description's specifics (who, where, how many) separate
     same-event pairs from same-subject pairs better than the headline alone."""
-    return f"{grouping.PREFIX}{grouping.clean_title(story['title'])}. {story['description'][:300]}"
+    return f"{grouping.clean_title(story['title'])}. {story['description'][:300]}"
 
 
 class SameEvent(BaseModel):
@@ -156,7 +156,7 @@ class EventMatcher:
 
     def __init__(self, cfg: Config, client: httpx.Client, cache: dict[str, bool]):
         self.cfg, self.client, self.cache = cfg, client, cache
-        self.threshold = cfg.grouping.threshold
+        self.threshold = cfg.grouping.page_threshold
         self.candidate = cfg.grouping.candidate_threshold
         self.asked = 0
 

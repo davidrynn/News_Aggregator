@@ -18,17 +18,26 @@ RETRIES = 4     # tries per call to a hosted API, waiting 2, 4, 8 s between them
 
 
 def embed(texts: list[str], cfg: Config, batch_size: int = 100) -> list[list[float]]:
-    """Return one embedding vector per text, in order.
+    """Return one embedding vector per text, in order; provider.embed_prefix is added here.
 
-    Always local Ollama at provider.embed_url, whichever provider answers chat: no cloud host
-    offers nomic-embed-text (checked 2026-10-26), and a different embedding model would need
-    the grouping thresholds re-tuned. The 270 MB model is light enough to run alongside work.
+    The embedding provider is set apart from the chat one (embed_name, embed_url, ...): the
+    grouping thresholds are tuned to one embedding model (experiments/embed_eval.py).
     """
+    p = cfg.provider
+    texts = [p.embed_prefix + t for t in texts]
     vectors: list[list[float]] = []
-    with httpx.Client(base_url=cfg.provider.embed_url, timeout=120) as client:
+    if p.embed_name == "openai":
+        headers = {"Authorization": f"Bearer {api_key(p.embed_api_key_env)}"}
+        with httpx.Client(base_url=p.embed_url.rstrip("/") + "/", headers=headers, timeout=120) as client:
+            for i in range(0, len(texts), batch_size):
+                resp = client.post("embeddings", json={"model": p.embed_model, "input": texts[i:i + batch_size]})
+                data = sorted(resp.raise_for_status().json()["data"], key=lambda d: d["index"])
+                vectors.extend(d["embedding"] for d in data)
+        return vectors
+    with httpx.Client(base_url=p.embed_url, timeout=120) as client:
         for i in range(0, len(texts), batch_size):
             resp = client.post("/api/embed", json={
-                "model": cfg.provider.embed_model,
+                "model": p.embed_model,
                 "input": texts[i:i + batch_size],
             })
             vectors.extend(resp.raise_for_status().json()["embeddings"])

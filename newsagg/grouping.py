@@ -16,10 +16,6 @@ from newsagg.gdelt import Article
 # " | The Manila Times", " - NBC Connecticut", " – Isle of Wight County Press"
 SUFFIX = re.compile(r"\s+[|\u2013\u2014-]\s+[^|\u2013\u2014-]+$")
 
-# nomic-embed-text was trained with task prefixes; "clustering: " suits grouping.
-PREFIX = "clustering: "
-
-
 def clean_title(title: str) -> str:
     """Strip a trailing outlet name, unless that would leave a very short title."""
     stripped = SUFFIX.sub("", title).strip()
@@ -100,7 +96,7 @@ def group(articles: list[Article], cfg: Config) -> list[Story]:
     """Group articles into stories, largest first. Members are ordered best lead first
     (see pick_lead)."""
     articles = sorted(articles, key=lambda a: a.seen_at, reverse=True)
-    vectors = normalize(llm.embed([PREFIX + clean_title(a.title) for a in articles], cfg))
+    vectors = normalize(llm.embed([clean_title(a.title) for a in articles], cfg))
     stories = []
     for g in group_vectors(vectors, cfg.grouping.threshold):
         members = pick_lead([articles[i] for i in g], cfg.grouping.wire_outlets)

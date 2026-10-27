@@ -1,7 +1,7 @@
 """Experiment: which hosted embedding model can replace local nomic-embed-text for grouping?
 
-Run from the project root: PYTHONPATH=. .venv/Scripts/python experiments/embed_eval.py
-Changes nothing in the pipeline. Ollama must be running (nomic is the reference).
+Run from the project root: PYTHONPATH=. .venv/Scripts/python experiments/embed_eval.py [--page] [--judge=MODEL]
+--page compares headline + description (the page merge's text) instead of headlines. Changes nothing in the pipeline. Ollama must be running (nomic is the reference).
 
 1. Takes N headlines from the current GDELT window, cleaned as grouping does.
 2. Embeds them with nomic (local) and each candidate (DeepInfra).
@@ -38,7 +38,30 @@ CANDIDATES = {
 }
 
 
+def page_texts() -> list[str]:
+    """Headline + description as the page merge embeds them (output.embed_text), from the
+    newest scored stories, one per headline."""
+    seen, texts = set(), []
+    for line in reversed(open(config.ROOT / "data" / "verdicts.jsonl", encoding="utf-8").readlines()):
+        msg = json.loads(line)["user_message"]
+        title = msg.split("Title: ", 1)[1].split("\n", 1)[0].strip()
+        desc = msg.split("Description: ", 1)[1].split("\n", 1)[0].strip() if "Description: " in msg else ""
+        if title not in seen:
+            seen.add(title)
+            texts.append(f"{grouping.clean_title(title)}. {desc[:300]}")
+    return texts[:N]
+
+
+def NOMIC(cfg):
+    """The config with local nomic-embed-text as the embedding model: the reference."""
+    return cfg.model_copy(update={"provider": cfg.provider.model_copy(update={
+        "embed_name": "ollama", "embed_model": "nomic-embed-text", "embed_url": "http://localhost:11434",
+        "embed_prefix": "clustering: "})})
+
+
 def titles(cfg) -> list[str]:
+    if "--page" in sys.argv:
+        return page_texts()
     if TITLES.exists():
         return json.loads(TITLES.read_text(encoding="utf-8"))
     articles = gdelt.fetch(cfg.feeds.gdelt_lookback, set()).articles   # done-list not saved
@@ -95,7 +118,7 @@ def main() -> None:
     texts = titles(cfg)
     print(f"{len(texts)} headlines")
     idx = np.triu_indices(len(texts), k=1)
-    nomic = upper(grouping.normalize(llm.embed([grouping.PREFIX + t for t in texts], cfg)))
+    nomic = upper(grouping.normalize(llm.embed(texts, NOMIC(cfg))))
     ref = nomic >= cfg.grouping.threshold
     n_cand = int((nomic >= cfg.grouping.candidate_threshold).sum())
     print(f"nomic: {ref.sum()} pairs >= {cfg.grouping.threshold}, {n_cand} >= {cfg.grouping.candidate_threshold}\n")
@@ -118,7 +141,9 @@ def main() -> None:
     print("\nDisagreements judged by the chat model (share it calls the same event):")
     with llm.client(cfg) as client:
         rnd = random.Random(0)
-        for model, (f1, t, _, sims) in sorted(results.items(), key=lambda kv: -kv[1][0])[:2]:
+        only = [a.split("=", 1)[1] for a in sys.argv if a.startswith("--judge=")]   # judge these instead of the best two
+        ranked = sorted(results.items(), key=lambda kv: -kv[1][0])
+        for model, (f1, t, _, sims) in [kv for kv in ranked if kv[0] in only] if only else ranked[:2]:
             got = sims >= t
             sides = {"nomic only": np.flatnonzero(ref & ~got), "candidate only": np.flatnonzero(got & ~ref)}
             print(f"  {model} at {t:.3f}:")

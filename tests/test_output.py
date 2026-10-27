@@ -97,8 +97,8 @@ def test_matcher_asks_model_only_between_thresholds(monkeypatch):
                         lambda *args: calls.append(args) or '{"same_event": true}')
     m = output.EventMatcher(CFG, client=None, cache={})
     a, b = story("A"), story("B")
-    assert m(a, b, 0.90) is True and m(a, b, 0.70) is False and not calls
-    assert m(a, b, 0.80) is True and m(b, a, 0.80) is True     # second call comes from the cache
+    assert m(a, b, 0.95) is True and m(a, b, 0.70) is False and not calls
+    assert m(a, b, 0.85) is True and m(b, a, 0.85) is True     # second call comes from the cache
     assert len(calls) == 2 and m.cache == {"A|B": True}      # asked once in each order
 
 
@@ -106,7 +106,7 @@ def test_matcher_needs_yes_in_both_orders(monkeypatch):
     answers = iter(['{"same_event": true}', '{"same_event": false}'])
     monkeypatch.setattr(output.llm, "chat_json", lambda *args: next(answers))
     m = output.EventMatcher(CFG, client=None, cache={})
-    assert m(story("A"), story("B"), 0.80) is False
+    assert m(story("A"), story("B"), 0.85) is False
 
 
 def test_select_drops_old_stories_and_sorts_by_score():

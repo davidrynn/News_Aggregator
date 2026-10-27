@@ -17,8 +17,13 @@ class Provider(BaseModel):
     name: str = "ollama"
     model: str = "llama3.1:8b"
     url: str = "http://localhost:11434"
+    # Embeddings have their own provider settings: the grouping thresholds belong to one
+    # embedding model, so it can stay put when the chat model changes.
+    embed_name: str = "ollama"                  # "ollama" or "openai" (any OpenAI-compatible API)
     embed_model: str = "nomic-embed-text"
-    embed_url: str = "http://localhost:11434"   # embeddings always come from Ollama here (grouping thresholds are tuned to nomic)
+    embed_url: str = "http://localhost:11434"
+    embed_api_key_env: str = ""                 # "openai": the environment variable (or .env line) holding the key
+    embed_prefix: str = "clustering: "          # put before every text; nomic was trained with task prefixes
     api_key_env: str = ""       # "openai" provider: the environment variable (or .env line) holding the key
     json_schema: bool = False   # "openai" provider: the model accepts a response schema (else plain JSON mode)
     concurrency: int = Field(1, ge=1, le=16)   # model calls in flight at once; 1 for local Ollama
@@ -59,8 +64,9 @@ class Filters(BaseModel):
 
 
 class Grouping(BaseModel):
-    threshold: float = Field(0.87, gt=0, le=1)
-    candidate_threshold: float = Field(0.75, gt=0, le=1)
+    threshold: float = Field(0.87, gt=0, le=1)              # headlines: grouped at or above this
+    page_threshold: float = Field(0.87, gt=0, le=1)         # page merge (headline + description): merged outright
+    candidate_threshold: float = Field(0.75, gt=0, le=1)    # page merge: between this and page_threshold, the model decides
     wire_outlets: list[str] = ["apnews.com", "reuters.com", "afp.com", "bloomberg.com"]
 
 

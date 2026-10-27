@@ -11,8 +11,17 @@ url = "https://api.deepinfra.com/v1/openai"
 api_key_env = "DEEPINFRA_API_KEY"   # read from the environment or the git-ignored .env
 json_schema = true         # the model accepts a response schema
 concurrency = 4            # model calls in flight at once (hosted API); 1 for local Ollama
-embed_url = "http://localhost:11434"   # embeddings stay on local Ollama (nomic-embed-text, 270 MB)
-embed_model = "nomic-embed-text"
+# Embeddings (grouping, page merge) on DeepInfra since 2026-10-26, about $0.001 a run.
+# experiments/embed_eval.py, 3,000 headlines: of the pairs merged without asking, the
+# same-event judge confirmed 92% for gte-base at 0.90 against 72% for local nomic at 0.87.
+# Back to local: embed_name = "ollama", embed_model = "nomic-embed-text",
+# embed_url = "http://localhost:11434", embed_prefix = "clustering: ", and the
+# [grouping] thresholds 0.87 / 0.87 / 0.75.
+embed_name = "openai"
+embed_model = "thenlper/gte-base"
+embed_url = "https://api.deepinfra.com/v1/openai"
+embed_api_key_env = "DEEPINFRA_API_KEY"
+embed_prefix = ""          # gte takes no task prefix
 
 [topics]
 include = ["world", "us", "science", "technology", "health", "climate", "business", "arts"]   # arts news only, no reviews (owner decision 2026-10-24)
@@ -91,8 +100,10 @@ min_words = 20              # GDELT word count (what it could read); paywalled n
 max_per_outlet = 10         # articles per outlet per run sent on to scoring
 
 [grouping]
-threshold = 0.87            # cosine similarity of headline embeddings; 0.80-0.85 merged different events
-candidate_threshold = 0.75  # on the page, pairs between this and threshold are checked by the model
+# Cosine similarity, tuned to gte-base (experiments/embed_eval.py, 2026-10-26).
+threshold = 0.90            # headlines grouped at or above this
+page_threshold = 0.91       # page merge (headline + description): merged outright; judge confirmed 90% (nomic at 0.87: 85%)
+candidate_threshold = 0.80  # page merge: pairs between this and page_threshold are checked by the model
 wire_outlets = ["apnews.com", "reuters.com", "afp.com", "bloomberg.com"]   # preferred as a story's lead
 
 [reputation]
