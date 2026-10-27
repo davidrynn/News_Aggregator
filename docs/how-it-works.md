@@ -8,7 +8,7 @@ Each run is one assembly line:
 
 1. **Collect.** About 11,000 article links from GDELT, a global news index, plus about 550 from 37 outlets' own RSS feeds.
 2. **Filter with rules.** This drops articles already seen, blocklisted sites, clickbait patterns and items that are too short. No AI is used yet.
-3. **Group.** Articles about the same event become one "story". Each headline is turned into a list of numbers that captures its meaning, called an *embedding*, and headlines whose numbers are close are grouped. This is the only model that still runs on the PC: a small one, `nomic-embed-text`, in Ollama.
+3. **Group.** Articles about the same event become one "story". Each headline is turned into a list of numbers that captures its meaning, called an *embedding*, and headlines whose numbers are close are grouped. Since 2026-10-26 this uses `thenlper/gte-base` at DeepInfra, about $0.001 a run. Before that it was `nomic-embed-text` on the PC.
 4. **Triage.** An AI model glances at each headline and rates it 1–5. Only stories rated 3 or more go on, because looking closely at everything would be too slow and too costly.
 5. **Score.** For up to 400 stories, the AI reads the headline and description and gives:
    - **kind:** original reporting, wire copy, opinion, clickbait…
@@ -48,11 +48,11 @@ The tool for this is the **golden set**: 74 real articles that Fable, the most c
 - **Triage on DeepSeek** was checked. It is stricter than Llama, letting about 42% of headlines through against Llama's 53%, but it still caught every story Fable would keep.
 - **Cost:** about $2–3 a month at 3 runs a day. The DeepInfra dashboard shows the actual spend.
 - **Revert points:** git tags `good-2026-10-26` for the code and `site-2026-10-26` for the page.
-- **Still on the PC:** the run itself and the small embedding model, which needs Ollama running. It is light and shouldn't freeze anything.
+- **Embeddings moved to the cloud too** (gte-base). Tested against nomic on 3,000 headlines: of the pairs it groups without asking, the same-event judge confirmed 92%, against 72% for nomic. The "same story" threshold had to be re-tuned (0.87 became 0.90), because each embedding model spreads its numbers differently.
+- **Still on the PC:** only the run itself, a light Python program. Ollama is no longer needed.
 
 ## What's next
 
 1. Watch whether DeepSeek gives out too many 5s for newsworthiness. Any change to the scorer prompt is Fable's.
-2. Move embeddings to the cloud too. That's needed before runs can happen anywhere but the PC.
-3. Decide where scheduled runs happen.
-4. Later: outlet reputation.
+2. Decide where scheduled runs happen. Nothing needs the PC now.
+3. Later: outlet reputation.
