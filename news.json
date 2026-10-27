@@ -1,0 +1,2839 @@
+{
+ "generated_at": "2026-10-27T01:20:33Z",
+ "version": 1,
+ "stories": [
+  {
+   "id": "178c42b4d7f0694c747bdee9c012f27a2ac9d3bb",
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
+   "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 21.32,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 201,
+   "also_reported_by": [
+    {
+     "outlet": "cityam.com",
+     "url": "https://www.cityam.com/anthropic-reveals-80bn-loss-as-ai-giant-files-for-blockbuster-ipo/"
+    },
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-10-27/asx-markets-business-live-news-anthropic/107312526"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/26/prediction-markets-think-anthropic-ipo-near-certain-in-2026.html"
+    },
+    {
+     "outlet": "aol.com",
+     "url": "https://www.aol.com/articles/anthropic-ipo-numbers-possible-valuation-235317000.html"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/national/the-anthropic-ipo-by-the-numbers-from-a-possible-valuation-in-the-trillions-to-surging/article_a5018993-d134-524e-9050-2ff58c4eb3e2.html"
+    },
+    {
+     "outlet": "postregister.com",
+     "url": "http://www.postregister.com/businessreport/technology/the-anthropic-ipo-by-the-numbers-from-a-possible-valuation-in-the-trillions-to-surging/article_7058767f-3d84-5e7c-bb47-1a88229a1f29.html"
+    },
+    {
+     "outlet": "bozemandailychronicle.com",
+     "url": "http://www.bozemandailychronicle.com/wire/business/the-anthropic-ipo-by-the-numbers-from-a-possible-valuation-in-the-trillions-to-surging/article_c094af19-49be-5043-bc58-ef3e969328a5.html"
+    },
+    {
+     "outlet": "cecildaily.com",
+     "url": "http://www.cecildaily.com/ap/nation/the-anthropic-ipo-by-the-numbers-from-a-possible-valuation-in-the-trillions-to-surging/article_39e52982-95b4-510c-b0f4-b909292cd332.html"
+    },
+    {
+     "outlet": "winnipegfreepress.com",
+     "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/10/26/the-anthropic-ipo-by-the-numbers-from-a-possible-valuation-in-the-trillions-to-surging-revenue"
+    }
+   ]
+  },
+  {
+   "id": "fb263a47871a5fda0f645379e379e00ab1f080fc",
+   "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+   "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-27T00:00:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd8/live/36f17b50-cef9-11f1-accf-3309656ad0bb.jpg",
+   "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.71,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 93,
+   "also_reported_by": [
+    {
+     "outlet": "news.az",
+     "url": "https://news.az/news/israels-hebron-operation-displaces-more-than-3-000-palestinians"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/israel-to-close-all-west-bank-land-crossings-on-election-day/a-79755010?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/middle-east/20261026-un-cites-ethnic-cleansing-concerns-around-israel-palestinian-displacement-operation-hebron"
+    },
+    {
+     "outlet": "countercurrents.org",
+     "url": "https://countercurrents.org/2026/10/israeli-forces-displace-over-2670-palestinians-in-hebron-amid-large-scale-assault/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/israel-presses-ahead-with-west-bank-operation-as-election-approaches"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/oct/26/collective-punishment-palestinians-displaced-israeli-forces-take-over-hebron-homes"
+    },
+    {
+     "outlet": "sbs.com.au",
+     "url": "https://www.sbs.com.au/news/podcast-episode/west-bank-residents-forced-out-after-soldier-deaths-morning-news-bulletin-25-october-2026/0zyondcg0"
+    },
+    {
+     "outlet": "middleeaststar.com",
+     "url": "http://www.middleeaststar.com/news/279396511/palestinian-families-flee-hebron-homes-unprepared-as-israeli-operation-unfolds"
+    },
+    {
+     "outlet": "shafaqna.com",
+     "url": "https://en.shafaqna.com/487045/un-alarmed-by-intensifying-violence-in-west-bank/"
+    },
+    {
+     "outlet": "jpost.com",
+     "url": "http://www.jpost.com/israel-news/defense-news/article-912714"
+    }
+   ]
+  },
+  {
+   "id": "74ad195c9c64dbc70eaf829533d16ee74dc60a78",
+   "title": "How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back",
+   "url": "https://www.nbcnews.com/world/ukraine/starlink-slowdown-hit-ukraines-front-line-soldiers-pushing-russia-back-rcna604732",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-10-27T00:15:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261022-starlink-rs-ad8358.jpg",
+   "description": "Ukrainian President Volodymyr Zelenskyy said Friday that restrictions on Starlink were still in place, but said the U.S. had told him it would be fully back within 72 hours.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.71,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 91,
+   "also_reported_by": [
+    {
+     "outlet": "gainesvilleregister.com",
+     "url": "https://www.gainesvilleregister.com/texas/trump-administration-offers-mixed-messages-on-limits-to-ukraines-starshield-access/article_1288f655-924c-5a6d-916d-c03ddaee61e8.html"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/spacex-satellite-system-back-up-to-full-speed-in-ukraine-officials-say/"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/policy/international/6170415-musk-starlink-ukraine-slowdown/"
+    },
+    {
+     "outlet": "khaama.com",
+     "url": "https://www.khaama.com/musk-ukraine-starlink-offensive-drone-strikes/"
+    },
+    {
+     "outlet": "westhawaiitoday.com",
+     "url": "https://www.westhawaiitoday.com/2026/10/25/nation-world-news/elon-musk-says-ukraine-violated-starlinks-rules/"
+    },
+    {
+     "outlet": "idahopress.com",
+     "url": "http://www.idahopress.com/news/world/musk-says-he-was-behind-starlink-speed-restriction-after-service-in-ukraine-is-restored/article_0fb824c4-226e-53d9-83bb-e5aca2b835d6.html"
+    },
+    {
+     "outlet": "durangoherald.com",
+     "url": "https://www.durangoherald.com/articles/associated-press/musk-says-he-was-behind-starlink-speed-restriction-after-service-in-ukraine-is-restored/"
+    },
+    {
+     "outlet": "kedm.org",
+     "url": "https://www.kedm.org/npr-news/2026-10-24/ukraine-says-starlink-is-back-to-normal-after-disruptions"
+    }
+   ]
+  },
+  {
+   "id": "4ebdb696244cb2ba685834f4f359cbf2db91ae5f",
+   "title": "Eight killed and 40 injured after gunmen open fire at church funeral in Jordan",
+   "url": "https://www.theguardian.com/world/2026/oct/24/seven-killed-and-40-injured-after-gunmen-open-fire-at-church-funeral-in-jordan",
+   "outlet": "theguardian.com",
+   "published_at": "2026-10-27T00:45:00Z",
+   "image": "https://i.guim.co.uk/img/media/c5dd22b7faaff144d117160192cbbd75a914bf8f/1009_0_7240_5792/master/7240.jpg?width=140&quality=85&auto=format&fit=max&s=a9b14a6f857dab47a5f734db5d675d46",
+   "description": "Footage broadcast on state TV shows three attackers approaching Greek Orthodox church and firing shots",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.63,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 79,
+   "also_reported_by": [
+    {
+     "outlet": "brnow.org",
+     "url": "https://www.brnow.org/news/nine-killed-40-injured-in-rare-attack-on-christians-at-jordan-church/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss"
+    },
+    {
+     "outlet": "thetablet.org",
+     "url": "https://thetablet.org/jordan-terrorist-attack-on-church/"
+    },
+    {
+     "outlet": "omanobserver.om",
+     "url": "https://www.omanobserver.om/article/1198605/world/region/jordan-arrests-3-in-dawn-raid-over-karak-attack"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/middle-east/20261026-jordan-arrests-three-following-deadly-terror-attack-on-church"
+    },
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-10-27/jordan-arrests-three-relatives-over-deadly-church-attack/107311848"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3372198/jordan-arrests-3-relatives-over-deadly-church-attack-after-shoot-out"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/jordan-arrests-terror-attack-church.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/jordan-3-arrested-over-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "abc7ny.com",
+     "url": "https://abc7ny.com/story/jordan-arrests-3-church-shooting-suspects-fierce-firefight/19980519/"
+    }
+   ]
+  },
+  {
+   "id": "f30416b60067a3287f68f38a82ef662e8b28b8f2",
+   "title": "Serbia wakes up to new reality after student-led movement ousts Vučić – as it hapepned",
+   "url": "https://www.theguardian.com/world/live/2026/oct/26/serbia-vucic-elections-students-bulgaria-france-urkaine-russia-latest-news-updates",
+   "outlet": "theguardian.com",
+   "published_at": "2026-10-27T01:06:50Z",
+   "image": "https://i.guim.co.uk/img/media/0ecbf6d6594ec38c4ed669e70a2eae735e525a69/781_0_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=9b422724dee4493ab9d5d78b29797add",
+   "description": "Hopes raised for a reset in relations with EU and other partners following the defeat of authoritarian president",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.48,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 63,
+   "also_reported_by": [
+    {
+     "outlet": "kunr.org",
+     "url": "https://www.kunr.org/npr-news/2026-10-26/serbias-strongman-president-concedes-defeat-to-student-led-reform-party"
+    },
+    {
+     "outlet": "latimes.com",
+     "url": "https://www.latimes.com/world-nation/story/2026-10-25/serbias-vucic-concedes-defeat-in-seismic-political-shift"
+    },
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/what-vucics-defeat-means-for-serbias-foreign-policy/"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/what-vucics-defeat-means-for-serbias-foreign-policy/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/10/26/what-vucics-defeat-means-for-serbias-foreign-policy?traffic_source=rss"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/10/27/world/politics/vucic-defeat-moscow-gloom/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/student-led-movement-ousts-serbias-right-wing-ruler-in-historic-election"
+    },
+    {
+     "outlet": "channel4.com",
+     "url": "https://www.channel4.com/news/serbias-authoritarian-rule-crushed-by-student-led-movement"
+    },
+    {
+     "outlet": "atlanticcouncil.org",
+     "url": "https://www.atlanticcouncil.org/dispatches/experts-react-serbias-vucic-is-out-and-the-student-led-movement-is-in-what-comes-next/"
+    },
+    {
+     "outlet": "euobserver.com",
+     "url": "https://euobserver.com/244879/serbias-student-protestors-win-parliamentary-majority-setting-scene-for-showdown-with-vucic-for-decembers-presidential-poll/"
+    }
+   ]
+  },
+  {
+   "id": "3eb4be5a127114f361afa28e9fbf2db75d3e5211",
+   "title": "12 injured, including 6 children, in shooting near Florida university, police say",
+   "url": "https://abcnews.com/US/12-injured-including-6-children-shooting-florida-university/story?id=137549623",
+   "outlet": "abcnews.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://s.abcnews.com/images/US/police-crime-scene-st-lv-240818_1723999717435_hpMain_4x3t_384.jpg",
+   "description": "At least 11 of those injured had gunshot wounds, police said.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.32,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 50,
+   "also_reported_by": [
+    {
+     "outlet": "tvone.tv",
+     "url": "https://tvone.tv/1972126/famu-homecoming-mass-shooting-leaves-12-injured-bragg-stadium/"
+    },
+    {
+     "outlet": "kten.com",
+     "url": "https://www.kten.com/news/national/15-year-old-will-be-charged-as-an-adult-after-11-people-were-shot-near/article_97720245-6533-5d30-9835-7838539b659c.html"
+    },
+    {
+     "outlet": "wxow.com",
+     "url": "https://www.wxow.com/news/national/15-year-old-will-be-charged-as-an-adult-after-11-people-were-shot-near/article_e947406c-03d2-5346-b5d7-a48d151bc3b7.html"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/26/us/famu-shooting-florida-arrest.html"
+    },
+    {
+     "outlet": "taylorvilledailynews.com",
+     "url": "https://www.taylorvilledailynews.com/twelve-injured-in-shooting-near-fl-homecoming-celebrations/"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://wham1180.iheart.com/content/2026-10-26-15-year-old-boy-arrested-in-florida-mass-shooting/"
+    },
+    {
+     "outlet": "ottumwacourier.com",
+     "url": "https://www.ottumwacourier.com/news/national_news/15-year-old-arrested-in-florida-a-m-shooting-that-wounded-11-after-homecoming-game/article_58c38c83-0bcf-580a-8b6d-ff68790f9f5e.html"
+    },
+    {
+     "outlet": "fox29.com",
+     "url": "https://www.fox29.com/news/15-year-old-arrested-florida-shooting-injured-12-near-famu-stadium-police"
+    },
+    {
+     "outlet": "fox13seattle.com",
+     "url": "https://www.fox13seattle.com/news/15-year-old-arrested-florida-shooting-injured-12-near-famu-stadium-police"
+    },
+    {
+     "outlet": "fox10tv.com",
+     "url": "https://www.fox10tv.com/2026/10/26/15-year-old-arrested-connection-with-mass-shooting-after-florida-homecoming-police-say/"
+    }
+   ]
+  },
+  {
+   "id": "51bfe497d9fae56a804b34cd12546312829adc8b",
+   "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+   "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+   "outlet": "npr.org",
+   "published_at": "2026-10-26T23:59:59Z",
+   "image": null,
+   "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.31,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 53,
+   "also_reported_by": [
+    {
+     "outlet": "nature.com",
+     "url": "https://www.nature.com/articles/d41586-026-03446-9"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/26/lula-brazil-election-prediction-markets.html"
+    },
+    {
+     "outlet": "kaieteurnewsonline.com",
+     "url": "https://kaieteurnewsonline.com/2026/10/26/lula-wins-4th-term-beats-trump-ally-bolsonaro/"
+    },
+    {
+     "outlet": "rockymounttelegram.com",
+     "url": "http://www.rockymounttelegram.com/news/national/lula-secures-victory-in-brazils-election-but-faces-challenge-as-bolsonaro-contests-results/article_e2db4243-29a9-525e-8a99-4fc4d091a43f.html"
+    },
+    {
+     "outlet": "mymotherlode.com",
+     "url": "https://mymotherlode.com/news/national/general-election/11254452/lula-secures-victory-in-brazils-election-but-faces-challenge-as-bolsonaro-contests-results.html"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.brazilsun.com/news/279397643/world-and-latin-american-leaders-congratulate-lula-on-brazil-presidential-election-victory"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/live/2026/10/25/world/brazil-election/the-presidential-election-in-brazil-is-a-test-of-trumps-power-as-a-kingmaker"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/americas/20261025-what-to-know-as-brazilians-choose-between-lula-and-bolsonaro-in-tense-presidential-runoff"
+    }
+   ]
+  },
+  {
+   "id": "39341045ad8943d9535c79b8d949139f12e41476",
+   "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-26T18:00:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7099/live/5602f2d0-b770-11f1-a7b2-f3bdba1cd194.jpg",
+   "description": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.96,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 46,
+   "also_reported_by": [
+    {
+     "outlet": "thehindu.com",
+     "url": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/10/26/nx-s1-6014540/russia-says-it-will-open-humanitarian-corridor-to-ukrainian-town"
+    },
+    {
+     "outlet": "thedailybeast.com",
+     "url": "https://www.thedailybeast.com/melania-trump-rewrites-history-in-shocking-snub-of-pope-leo-in-ukraine-ceasefire-putin"
+    },
+    {
+     "outlet": "redstate.com",
+     "url": "https://redstate.com/beccalower/2026/10/24/yes-melania-trump-did-broker-a-peace-pact-between-russia-and-ukraine-its-just-first-step-n2208574"
+    },
+    {
+     "outlet": "koat.com",
+     "url": "https://www.koat.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633"
+    },
+    {
+     "outlet": "krgv.com",
+     "url": "https://www.krgv.com/news/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky"
+    },
+    {
+     "outlet": "wyff4.com",
+     "url": "https://www.wyff4.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633"
+    },
+    {
+     "outlet": "wxii12.com",
+     "url": "https://www.wxii12.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633"
+    },
+    {
+     "outlet": "4029tv.com",
+     "url": "https://www.4029tv.com/article/what-to-know-about-the-melania-trump-brokered-ceasefire-in-russian-occupied-oleshky-russia-ukraine-war-europe/74237633"
+    },
+    {
+     "outlet": "komu.com",
+     "url": "https://www.komu.com/news/nationworld/melania-trump-says-she-secured-one-city-ceasefire-between-russia-and-ukraine-for-humanitarian-aid/article_4d86ab83-485a-582d-87fb-637f2157ba84.html"
+    }
+   ]
+  },
+  {
+   "id": "4885e7569734e1f642215cb677b493843e51a484",
+   "title": "DOJ charges ex-FBI Director James Comey in new case",
+   "url": "https://www.cnbc.com/2026/10/26/james-comey-indictment-national-defense-doj-trump.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108204233-1758840400232-gettyimages-693965984-may-dcformer170608_np6Go.jpeg?v=1764021465&w=1920&h=1080",
+   "description": "Comey for years has been targeted by President Donald Trump, who fired him as FBI director in 2017.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 19.9,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 112,
+   "also_reported_by": [
+    {
+     "outlet": "hotair.com",
+     "url": "https://hotair.com/ed-morrissey/2026/10/26/new-comey-indicted-for-nat-sec-leaks-to-media-n3820357"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/regulation/court-battles/6173667-comey-slams-doj-charges/"
+    },
+    {
+     "outlet": "alternet.org",
+     "url": "https://www.alternet.org/almost-funny/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/james-comey-charged-doj"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/trump-administration-charges-former-fbi-director-james-comey-for-the-third-time"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/justice-department/former-fbi-james-comey-charged-third-time-trump-national-security-rcna342963"
+    },
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump/"
+    },
+    {
+     "outlet": "abc7amarillo.com",
+     "url": "https://abc7amarillo.com/news/nation-world/federal-prosecutors-file-third-set-of-charges-against-ex-fbi-director-james-comey-trump-charges-russia-interference-conspiracy-defense-information"
+    },
+    {
+     "outlet": "newser.com",
+     "url": "https://www.newser.com/story/398850/trump-administration-charges-james-comey-for-third-time.html"
+    }
+   ]
+  },
+  {
+   "id": "ddaecd5b03b53e6081e2147067217e3d6df193d6",
+   "title": "Trump says US may launch ‘another little Epic Fury’ attack on Iran",
+   "url": "https://www.france24.com/en/americas/20261023-trump-says-us-may-launch-another-little-epic-fury-attack-iran",
+   "outlet": "france24.com",
+   "published_at": "2026-10-26T16:58:16Z",
+   "image": "https://s.france24.com/media/display/f8bb93a2-cf20-11f1-9296-bdb9616e85cf/w:1024/p:16x9/AP26296694621760.jpg",
+   "description": "US President Donald Trump on Friday said his country may launch “another little Epic Fury” on Iran, referring to the joint Israeli-American military operation that sparked the war with Iran at the end…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.67,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 33,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/26/us-iran-war-hormuz.html"
+    },
+    {
+     "outlet": "columbian.com",
+     "url": "https://www.columbian.com/news/2026/oct/26/trump-says-decision-time-nearing-on-iran-deal-or-finish-it-off/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html"
+    },
+    {
+     "outlet": "bankingnews.gr",
+     "url": "https://www.bankingnews.gr/diethni/articles/907047/psychological-terror-trump-i-will-attack-obama-intervenes-iran-new-proposal-is-a-lie-fiery-hell-in-the-persian-gulf-and-israel"
+    },
+    {
+     "outlet": "hindustantimes.com",
+     "url": "https://www.hindustantimes.com/world-news/iran-dismisses-trump-warning-of-fresh-attacks-they-will-not-try-again-if-theres-any-rationality-101792919193264.html"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss"
+    },
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-10-25/iran-says-resumption-of-war-with-us-would-not-change-its-stances/107307004"
+    },
+    {
+     "outlet": "samaa.tv",
+     "url": "https://www.samaa.tv/2087359086-iran-says-us-war-threats-will-not-change-its-policies"
+    },
+    {
+     "outlet": "thehindu.com",
+     "url": "https://www.thehindu.com/news/international/iran-says-resumption-of-war-would-not-change-its-stances/article71622921.ece"
+    }
+   ]
+  },
+  {
+   "id": "6e0345fb0a82c6902081c2af1cb0f4752be71dd7",
+   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "url": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-26T17:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6add101a4bf1-1792872474.jpg?resize=1920%2C1439",
+   "description": "Houthi missiles reportedly struck a number of targets in Yemen, including Aden's airport and a coastguard base.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.57,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 28,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/25/world/middleeast/saudi-arabia-riyadh-airport-reopens.html"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/10/26/world/politics/houthi-saudi-arabia-riyadh-airport/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3372131/saudi-coalition-intercepts-missile-houthis-claim-new-attack-riyadh-airport"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/25/saudi-arabia-houthi-missile-drone-interceptions.html"
+    },
+    {
+     "outlet": "cp24.com",
+     "url": "https://www.cp24.com/news/world/2026/10/26/saudi-led-coalition-says-it-has-destroyed-yemeni-rebels-missile-facilities-and-other-mideast-news/"
+    },
+    {
+     "outlet": "opinionnigeria.com",
+     "url": "https://www.opinionnigeria.com/houthis-attack-saudi-arabia-ahead-of-high-stakes-talks-with-iran-in-tehran/"
+    },
+    {
+     "outlet": "idahopress.com",
+     "url": "http://www.idahopress.com/ap_news/us/saudi-led-coalition-says-it-has-destroyed-yemeni-rebels-missile-facilities-and-other-mideast-news/article_064cb6da-02d7-54f3-9e32-4de54e822e0c.html"
+    },
+    {
+     "outlet": "lancasteronline.com",
+     "url": "https://lancasteronline.com/news/world/saudi-led-coalition-says-it-has-destroyed-yemeni-rebels-missile-facilities-and-other-mideast-news/article_84eb7aa2-7718-51c5-a745-d65ad2ea0f3a.html"
+    },
+    {
+     "outlet": "al-monitor.com",
+     "url": "https://www.al-monitor.com/originals/2026/10/saudi-defence-pact-countries-hold-talks-iran-houthis-launch-more-attacks"
+    },
+    {
+     "outlet": "samaa.tv",
+     "url": "https://www.samaa.tv/2087359084-oic-condemns-reported-houthi-attacks-near-mecca-medina"
+    }
+   ]
+  },
+  {
+   "id": "c694c111914dd64a5fa623a14602ac98f7cd5c58",
+   "title": "At least 1,300 people arrested in mass weekend protests across France",
+   "url": "https://www.france24.com/en/france/20261025-at-least-1-300-people-arrested-in-mass-weekend-protests-across-france",
+   "outlet": "france24.com",
+   "published_at": "2026-10-26T17:30:00Z",
+   "image": "https://s.france24.com/media/display/b7dd62bc-d05a-11f1-88d3-5b4a75578ebb/w:1024/p:16x9/AP26297559777844.jpg",
+   "description": "At least 1,300 people were arrested on the sidelines of Saturday's protests across France and at least 50 officers and three protesters were hurt, the interior ministry said Sunday. The arrests occurred…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.54,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 107,
+   "also_reported_by": [
+    {
+     "outlet": "aa.com.tr",
+     "url": "https://aa.com.tr/en/europe/over-500-injured-in-frances-yellow-vests-protests-on-saturday/4101386"
+    },
+    {
+     "outlet": "theweek.com",
+     "url": "https://theweek.com/world-news/mayhem-france-rioting-spreads"
+    },
+    {
+     "outlet": "morningstaronline.co.uk",
+     "url": "https://morningstaronline.co.uk/article/question-violence-protests-france-riot-or-rebellion"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/25/world/europe/france-protests-macron-lepen.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/france-hundreds-arrested-after-nationwide-protests/live-79748223?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "sana.sy",
+     "url": "https://sana.sy/en/international/2353744/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/gallery/2026/10/25/photos-clashes-erupt-in-france-amid-protests-over-rising-living-costs?traffic_source=rss"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/france-see-new-round-of-protests-riot-police-clash-with-demonstrators-in-italy/"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/10/25/world/clashes-paris-france-protests/"
+    },
+    {
+     "outlet": "pragativadi.com",
+     "url": "https://pragativadi.com/france-on-edge-over-4-lakh-protest-soaring-living-costs-nearly-1000-arrested-in-violent-clashes/"
+    }
+   ]
+  },
+  {
+   "id": "5d2b27006a855e2a31cab89c9c5b18359658ccff",
+   "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+   "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-26T16:30:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6adb9b137002-1792776979.jpg?resize=1920%2C1440",
+   "description": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.51,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 27,
+   "also_reported_by": [
+    {
+     "outlet": "al-monitor.com",
+     "url": "https://www.al-monitor.com/originals/2026/10/no-fuel-keep-babies-warm-shortages-push-hospitals-yemens-taiz-brink"
+    },
+    {
+     "outlet": "kacu.org",
+     "url": "https://www.kacu.org/2026-10-24/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3372006/besieged-yemeni-city-drinking-water-supplies-hit-crisis-levels"
+    },
+    {
+     "outlet": "wxxinews.org",
+     "url": "https://www.wxxinews.org/npr-news/2026-10-24/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "wuft.org",
+     "url": "https://www.wuft.org/2026-10-24/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "wxpr.org",
+     "url": "https://www.wxpr.org/2026-10-24/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "kansaspublicradio.org",
+     "url": "https://kansaspublicradio.org/npr-news/2026-10-24/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "ypradio.org",
+     "url": "https://www.ypradio.org/npr-news/2026-10-24/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    },
+    {
+     "outlet": "kmxt.org",
+     "url": "https://www.kmxt.org/2026-10-23/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+    }
+   ]
+  },
+  {
+   "id": "0018fc7a570d5e89a96f344d83019118c8f1d7ff",
+   "title": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
+   "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+   "outlet": "nytimes.com",
+   "published_at": "2026-10-26T16:16:44Z",
+   "image": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-promo-bgpl/24france-protests-promo-bgpl-mediumSquareAt3X.jpg",
+   "description": "About 70,000 police and security officers, mobilized ahead of mass protests, will try to avert the arson and looting that shocked the country last weekend.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.46,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 102,
+   "also_reported_by": [
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261026-france-protests-macron-rules-out-state-of-emergency-%E2%80%93-for-now"
+    },
+    {
+     "outlet": "irishtimes.com",
+     "url": "https://www.irishtimes.com/world/europe/2026/10/24/police-use-tear-gas-and-water-cannons-as-more-than-400000-protest-across-france/"
+    },
+    {
+     "outlet": "ktxs.com",
+     "url": "https://ktxs.com/news/nation-world/france-deploys-70000-police-elite-units-to-head-off-protests-riots"
+    },
+    {
+     "outlet": "turnto10.com",
+     "url": "https://turnto10.com/news/nation-world/france-deploys-70000-police-elite-units-to-head-off-protests-riots"
+    },
+    {
+     "outlet": "wwmt.com",
+     "url": "https://wwmt.com/news/nation-world/france-deploys-70000-police-elite-units-to-head-off-protests-riots"
+    },
+    {
+     "outlet": "newstalkzb.co.nz",
+     "url": "https://www.newstalkzb.co.nz/news/world/france-protests-what-reporters-have-seen-and-heard-as-more-than-410-000-protest-1000-arrested-in-one-day/"
+    },
+    {
+     "outlet": "mercurynews.com",
+     "url": "https://www.mercurynews.com/2026/10/23/more-than-400000-protest-across-france-challenging-macron-as-paris-clashes-erupt/"
+    },
+    {
+     "outlet": "dunmowbroadcast.co.uk",
+     "url": "https://www.dunmowbroadcast.co.uk/news/national/26667467.400-000-protest-across-france/"
+    },
+    {
+     "outlet": "thewestonmercury.co.uk",
+     "url": "https://www.thewestonmercury.co.uk/news/national/26667467.400-000-protest-across-france/"
+    },
+    {
+     "outlet": "thecomet.net",
+     "url": "https://www.thecomet.net/news/national/26667467.400-000-protest-across-france/"
+    }
+   ]
+  },
+  {
+   "id": "61856c724f52fef7e7637b360e54bfff929c142a",
+   "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-26T18:00:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1792827092.jpg?resize=1920%2C1080&quality=80",
+   "description": "A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.45,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 91,
+   "also_reported_by": [
+    {
+     "outlet": "csmonitor.com",
+     "url": "https://www.csmonitor.com/World/Europe/2026/1026/eagle-s-nest-bavaria-fire-nazi-hitler-rebuild"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/germany-news-fire-flares-up-at-hitler-s-eagle-s-nest-retreat/live-79749353?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/german-police-arrest-suspect-following-fire-at-hitlers-eagles-nest/"
+    },
+    {
+     "outlet": "taipeitimes.com",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/25/2003866593"
+    },
+    {
+     "outlet": "capitalgazette.com",
+     "url": "https://www.capitalgazette.com/2026/10/24/a-fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-a-suspect-is-detained/"
+    },
+    {
+     "outlet": "kob.com",
+     "url": "https://www.kob.com/ap-top-news/a-fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-a-suspect-is-detained/"
+    },
+    {
+     "outlet": "krcgtv.com",
+     "url": "https://krcgtv.com/news/nation-world/a-fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-suspect-detained"
+    },
+    {
+     "outlet": "gloucestertimes.com",
+     "url": "https://www.gloucestertimes.com/news/national_world_news/a-fire-devastates-the-eagles-nest-retreat-built-for-hitler-in-germany-a-suspect-is/article_bf742858-ee06-5d0b-a43c-f1587de9069b.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3372039/german-man-detained-after-fire-wrecks-hitlers-eagles-nest-mountain-retreat"
+    }
+   ]
+  },
+  {
+   "id": "952299fc343f84f65de5eb5993b2213eff6fec8b",
+   "title": "‘Gaza’s suffering has become campaign fodder’: Palestinians fear the worst from Israel election",
+   "url": "https://www.theguardian.com/world/2026/oct/25/gaza-suffering-campaign-fodder-palestinians-fear-worst-israel-election",
+   "outlet": "theguardian.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/06fe9fcd10ec9a5f068328aac3ae4eacff597b5a/326_0_4141_3313/master/4141.jpg?width=140&quality=85&auto=format&fit=max&s=fe13d169747e62421f1af6fbecd0b914",
+   "description": "Humanitarian catastrophe largely ignored as rivals Gadi Eisenkot and Benjamin Netanyahu vow to end Hamas rule",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.23,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/netanyahu-faces-israeli-voters-in-first-election-since-oct-7-and-gaza-war"
+    },
+    {
+     "outlet": "yasstribune.com.au",
+     "url": "https://www.yasstribune.com.au/story/9380429/netanyahu-fights-for-political-survival-as-israel-votes/"
+    },
+    {
+     "outlet": "thecourier.com.au",
+     "url": "https://www.thecourier.com.au/story/9380429/netanyahu-fights-for-political-survival-as-israel-votes/"
+    },
+    {
+     "outlet": "today.com",
+     "url": "https://www.today.com/video/new-polls-show-netanyahu-in-tight-race-against-main-rival-272215621721"
+    },
+    {
+     "outlet": "bbc.com",
+     "url": "https://www.bbc.com/news/articles/crlykey9jywqo"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo"
+    },
+    {
+     "outlet": "10news.com",
+     "url": "https://www.10news.com/world/middle-east/netanyahus-legacy-is-on-the-line-as-israelis-vote-in-the-first-elections-since-the-oct-7-attack"
+    },
+    {
+     "outlet": "israelnationalnews.com",
+     "url": "https://www.israelnationalnews.com/news/435112"
+    },
+    {
+     "outlet": "ynetnews.com",
+     "url": "https://www.ynetnews.com/article/hjx200hi2zx"
+    },
+    {
+     "outlet": "timesofisrael.com",
+     "url": "https://www.timesofisrael.com/in-a-kibbutz-near-gaza-oct-7-scars-tear-at-leftist-heritage/"
+    }
+   ]
+  },
+  {
+   "id": "52a01105844a4ed5a312a97a258458e028e94564",
+   "title": "China's big political meeting could see Xi 'tighten discipline' in party",
+   "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-26T18:00:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5db8/live/b9600940-d100-11f1-9d25-c3fafb2ab4de.jpg",
+   "description": "The highly secretive four-day Plenum starts Monday in Beijing.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.06,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 53,
+   "also_reported_by": [
+    {
+     "outlet": "taipeitimes.com",
+     "url": "https://www.taipeitimes.com/News/world/archives/2026/10/27/2003866701"
+    },
+    {
+     "outlet": "hppr.org",
+     "url": "https://www.hppr.org/npr-news/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wpsu.org",
+     "url": "https://radio.wpsu.org/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wamc.org",
+     "url": "https://www.wamc.org/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wgcu.org",
+     "url": "https://www.wgcu.org/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wglt.org",
+     "url": "https://www.wglt.org/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wvxu.org",
+     "url": "https://www.wvxu.org/news-from-npr/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wfsu.org",
+     "url": "https://news.wfsu.org/npr-news/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "wyomingpublicmedia.org",
+     "url": "https://www.wyomingpublicmedia.org/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    },
+    {
+     "outlet": "interlochenpublicradio.org",
+     "url": "https://www.interlochenpublicradio.org/2026-10-26/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline"
+    }
+   ]
+  },
+  {
+   "id": "d601a801b72763fa0e88ee01ff8d3f6d5d4b1f35",
+   "title": "Trump DOJ illegally fired ex-FBI director's daughter, Maurene Comey, as a federal prosecutor, judge rules",
+   "url": "https://www.pbs.org/newshour/politics/trump-doj-illegally-fired-ex-fbi-directors-daughter-maurene-comey-as-a-federal-prosecutor-judge-rules",
+   "outlet": "pbs.org",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2025/09/2025-05-19T214939Z_250268757_RC28LEAUCCKS_RTRMADP_3_PEOPLE-SEAN-COMBS-1024x731.jpg",
+   "description": "The judge noted that Comey had worked on some of the nation's highest-profile cases and consistently received stellar reviews.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 18.72,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 87,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "kedm.org",
+     "url": "https://www.kedm.org/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "capeandislands.org",
+     "url": "https://www.capeandislands.org/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "ualrpublicradio.org",
+     "url": "https://www.ualrpublicradio.org/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "iowapublicradio.org",
+     "url": "https://www.iowapublicradio.org/news-from-npr/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "publicradioeast.org",
+     "url": "https://www.publicradioeast.org/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "knau.org",
+     "url": "https://www.knau.org/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "ijpr.org",
+     "url": "https://www.ijpr.org/npr-news/2026-10-26/judge-says-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    },
+    {
+     "outlet": "wqcs.org",
+     "url": "https://www.wqcs.org/2026-10-26/judge-rules-that-the-doj-illegally-fired-the-daughter-of-former-fbi-director-comey"
+    }
+   ]
+  },
+  {
+   "id": "107d4d72e2b3d4c0cfce51cc9809a2968254f4ff",
+   "title": "Lula prevails in Brazil but Flávio Bolsonaro refuses to concede",
+   "url": "https://www.pbs.org/newshour/show/lula-prevails-in-brazil-but-flavio-bolsonaro-refuses-to-concede",
+   "outlet": "pbs.org",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/lulaaa-1024x683.jpg",
+   "description": "In a closely watched election, Brazilian President Luiz Inácio Lula da Silva defeated right-wing and Trump-aligned challenger Flávio Bolsonaro. Transport and weather disruptions in parts of Brazil led to a chaotic final stretch at the polls. Bolsonaro is refusing to concede, and President Trump called the outcome \"rigged.\" Stephanie Sy reports.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.69,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 21,
+   "also_reported_by": [
+    {
+     "outlet": "cjme.com",
+     "url": "https://www.cjme.com/2026/10/26/lula-mobilized-millions-to-win-brazils-election-while-bolsonaro-contests-loss/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/wireStory/lula-mobilized-millions-win-brazils-election-bolsonaro-contests-137581442"
+    },
+    {
+     "outlet": "wjcl.com",
+     "url": "https://www.wjcl.com/article/global-leaders-react-brazil-president-lula/74247066"
+    },
+    {
+     "outlet": "wlky.com",
+     "url": "https://www.wlky.com/article/global-leaders-react-brazil-president-lula/74247066"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/10/26/Democrats_world_leaders_congratulate_Trump_critic_Lula_on_re/"
+    },
+    {
+     "outlet": "adn.com",
+     "url": "https://www.adn.com/nation-world/2026/10/26/lulas-win-in-brazil-bucks-a-regional-shift-to-the-right-and-denies-trump-a-powerful-ally/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss"
+    },
+    {
+     "outlet": "channel4.com",
+     "url": "https://www.channel4.com/news/lula-claims-historic-fourth-term-as-brazils-president"
+    },
+    {
+     "outlet": "vanityfair.com",
+     "url": "https://www.vanityfair.com/story/lula-wins-brazilian-election"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/10/26/maga-influencers-bolsonaro-loss-brazil"
+    }
+   ]
+  },
+  {
+   "id": "305f4aee5ae8e4481cbc37063d18c603f8873ef0",
+   "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo warning upgraded to amber",
+   "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-26T18:25:07Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53d5/live/1df63570-cec5-11f1-b9e0-e5f0da03dc7f.jpg",
+   "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.62,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 112,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/uk-news/2026/oct/26/power-cuts-storm-boelo-austen-uk"
+    },
+    {
+     "outlet": "belfastlive.co.uk",
+     "url": "https://www.belfastlive.co.uk/news/northern-ireland/efforts-continue-restore-power-after-34820466"
+    },
+    {
+     "outlet": "timesandstar.co.uk",
+     "url": "https://www.timesandstar.co.uk/news/26670374.around-4-500-properties-remain-without-power-following-storm-boelo/"
+    },
+    {
+     "outlet": "lynnnews.co.uk",
+     "url": "https://www.lynnnews.co.uk/national/efforts-continue-to-restore-power-after-storm-boelo-amid-further-wind-warnings-173469/"
+    },
+    {
+     "outlet": "rutland-times.co.uk",
+     "url": "https://www.rutland-times.co.uk/national/efforts-continue-to-restore-power-after-storm-boelo-amid-further-wind-warnings-173469/"
+    },
+    {
+     "outlet": "dissexpress.co.uk",
+     "url": "https://www.dissexpress.co.uk/national/efforts-continue-to-restore-power-after-storm-boelo-amid-further-wind-warnings-173469/"
+    },
+    {
+     "outlet": "thewestmorlandgazette.co.uk",
+     "url": "https://www.thewestmorlandgazette.co.uk/news/national/26667658.storm-boelo-travel-disrupted-events-cancelled-uk-hit-wind-rain/"
+    },
+    {
+     "outlet": "standard.co.uk",
+     "url": "https://www.standard.co.uk/news/environment/network-rail-met-office-scotland-scottish-government-douglas-alexander-b1302334.html"
+    },
+    {
+     "outlet": "richmondandtwickenhamtimes.co.uk",
+     "url": "https://www.richmondandtwickenhamtimes.co.uk/news/national/26669295.thousands-without-power-schools-shut-storm-boelo/"
+    },
+    {
+     "outlet": "darlingtonandstocktontimes.co.uk",
+     "url": "https://www.darlingtonandstocktontimes.co.uk/news/national/26669295.thousands-without-power-schools-shut-storm-boelo/"
+    }
+   ]
+  },
+  {
+   "id": "2d95a8269e51fb8511d867a0899723e37f487bd3",
+   "title": "Russian attacks on Ukraine’s energy infrastructure a war crime: UN",
+   "url": "https://www.aljazeera.com/news/2026/10/26/russian-attacks-on-ukraines-energy-infrastructure-a-war-crime-un?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-27T01:00:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad0a75ca396e-1792059228.jpg?resize=1920%2C1440",
+   "description": "UN commission notes Russian weaponisation of cold in nearly five years of attacks on heating plants and power lines.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.53,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "newser.com",
+     "url": "https://www.newser.com/story/398852/un-report-power-grid-strikes-were-to-make-ukrainians-suffer.html"
+    },
+    {
+     "outlet": "journal-advocate.com",
+     "url": "https://www.journal-advocate.com/2026/10/26/russia-war-crimes-un-report/"
+    },
+    {
+     "outlet": "thecourier.com.au",
+     "url": "https://www.thecourier.com.au/story/9380559/russia-committed-war-crimes-in-ukraine-un-inquiry-says/"
+    },
+    {
+     "outlet": "the-messenger.com",
+     "url": "https://www.the-messenger.com/news/world/article_6664d8cb-11fa-5c42-adde-85823bdd2961.html"
+    },
+    {
+     "outlet": "newsday.com",
+     "url": "https://www.newsday.com/news/nation/un-russia-ukraine-commission-report-war-crimes-c34865"
+    },
+    {
+     "outlet": "cecildaily.com",
+     "url": "http://www.cecildaily.com/ap/world/russia-committed-war-crimes-in-ukraine-by-attacking-its-energy-grid-un-backed-inquiry-says/article_0b9925e3-6cbf-5236-8a0a-9bb5576e9093.html"
+    },
+    {
+     "outlet": "bendigoadvertiser.com.au",
+     "url": "https://www.bendigoadvertiser.com.au/story/9380559/russia-committed-war-crimes-in-ukraine-un-inquiry-says/"
+    },
+    {
+     "outlet": "examiner.com.au",
+     "url": "https://www.examiner.com.au/story/9380559/russia-committed-war-crimes-in-ukraine-un-inquiry-says/"
+    },
+    {
+     "outlet": "reflector.com",
+     "url": "http://www.reflector.com/news/national/russia-committed-war-crimes-in-ukraine-by-attacking-its-energy-grid-un-backed-inquiry-says/article_7f2255ee-78e0-55fb-a4a7-35491ce24e48.html"
+    },
+    {
+     "outlet": "sandiegouniontribune.com",
+     "url": "https://www.sandiegouniontribune.com/2026/10/26/russia-war-crimes-un-report/"
+    }
+   ]
+  },
+  {
+   "id": "afd0afc9e23631b7c972de10a56889fe8169eda0",
+   "title": "Appeals Court Declines to Intervene in California Ballot Lawsuit",
+   "url": "https://www.nytimes.com/2026/10/26/us/politics/appeals-court-california-ballot-suit.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://static01.nyt.com/images/2026/10/26/multimedia/00dc-cali-appeal-vgzc/00dc-cali-appeal-vgzc-mediumSquareAt3X.jpg",
+   "description": "By a 2-1 vote, a federal appeals court panel denied the Trump administration’s request that it immediately order the state to set aside 20,000 mail-in ballots.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 18.21,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 43,
+   "also_reported_by": [
+    {
+     "outlet": "latimes.com",
+     "url": "https://www.latimes.com/politics/story/2026-10-26/9th-circuit-denies-feds-appeal-over-20-000-ballots-district-court-hearing-to-proceed"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/breaking-down-legal-battle-over-californias-election-process/"
+    },
+    {
+     "outlet": "wyff4.com",
+     "url": "https://www.wyff4.com/article/appeals-court-california-ballots-alleged-noncitizens/74253826"
+    },
+    {
+     "outlet": "citizensvoice.com",
+     "url": "https://www.citizensvoice.com/2026/10/26/election-2026-california-noncitizen-voting-appeals/"
+    },
+    {
+     "outlet": "twincities.com",
+     "url": "https://www.twincities.com/2026/10/26/election-2026-california-noncitizen-voting-appeals/"
+    },
+    {
+     "outlet": "sbsun.com",
+     "url": "https://www.sbsun.com/2026/10/26/doj-case-requesting-mail-ballots-of-likely-noncitizens-in-california-be-temporarily-set-aside-to-be-heard-in-court-tuesday/"
+    },
+    {
+     "outlet": "republicanherald.com",
+     "url": "https://www.republicanherald.com/2026/10/26/election-2026-california-noncitizen-voting-appeals/"
+    },
+    {
+     "outlet": "journal-advocate.com",
+     "url": "https://www.journal-advocate.com/2026/10/26/election-2026-california-noncitizen-voting-appeals/"
+    },
+    {
+     "outlet": "wpbf.com",
+     "url": "https://www.wpbf.com/article/appeals-court-california-ballots-alleged-noncitizens/74253826"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/national/appeals-court-declines-to-block-california-from-counting-20-000-disputed-ballots/article_1aae696b-1efc-5183-8bb5-6639126b39ed.html"
+    }
+   ]
+  },
+  {
+   "id": "e15eda8e16802b5324d5440133ae3110999a3eb7",
+   "title": "DOJ demands that California counties help identify noncitizen voters",
+   "url": "https://www.nbcnews.com/politics/2026-election/doj-demands-california-counties-help-identify-noncitizen-voters-rcna605356",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-10-27T01:01:53Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261023-kornacki-override-ww-1719-1af4c0.jpg",
+   "description": "The move is the latest in a legal battle between California and the Trump administration as the White House attempts to root out suspected noncitizen voters.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 17.92,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 29,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/10/27/us-court-rules-against-trump-administration-in-california-voting-case?traffic_source=rss"
+    },
+    {
+     "outlet": "washingtonexaminer.com",
+     "url": "http://www.washingtonexaminer.com/news/justice/4780657/appeals-court-doj-california-mail-ballots/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/appeals-court-rejects-trump-admins-voting-lawsuit-california/story?id=137586284"
+    },
+    {
+     "outlet": "thegrio.com",
+     "url": "https://thegrio.com/2026/10/26/california-mail-ballots-trump-administration-lawsuit/"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/administration/6173747-appeals-court-denies-emergency-election-stay/"
+    },
+    {
+     "outlet": "nypost.com",
+     "url": "https://nypost.com/2026/10/26/us-news/federal-appeals-court-rejects-doj-bid-to-block-20k-disputed-california-mail-in-ballots-from-being-counted/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/court-california-ballots"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/appeals-court-dismisses-doj-trump-california-ballots/"
+    },
+    {
+     "outlet": "klkntv.com",
+     "url": "https://www.klkntv.com/i/9th-circuit-questions-doj-demand-to-set-aside-20000-california-mail-ballots/"
+    },
+    {
+     "outlet": "kjlhradio.com",
+     "url": "https://kjlhradio.com/federal-appeals-court-hears-arguments-in-trump-administrations-voting-lawsuit-against-california/"
+    }
+   ]
+  },
+  {
+   "id": "b8f740314eab2229226a9615560f265676815a61",
+   "title": "Microsoft offers buyouts to 60,000 employees",
+   "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+   "outlet": "theverge.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832915/STK095_MICROSOFT_2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "description": "Microsoft’s buyout offer is reaching more of its 223,000 or so employees.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 17.87,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 27,
+   "also_reported_by": [
+    {
+     "outlet": "newsweek.com",
+     "url": "https://www.newsweek.com/microsoft-layoffs-buyout-h1b-visa-green-card-jobs-12621897"
+    },
+    {
+     "outlet": "klif.com",
+     "url": "https://www.klif.com/2026/10/26/microsoft-offers-voluntary-exits-to-60000-workers-as-h-1b-questions-remain/"
+    },
+    {
+     "outlet": "jamaica-gleaner.com",
+     "url": "https://jamaica-gleaner.com/article/world-news/20261026/microsoft-offers-quarter-its-global-workforce-voluntary-buyouts-ai"
+    },
+    {
+     "outlet": "thecourier.com.au",
+     "url": "https://www.thecourier.com.au/story/9380515/microsoft-offers-voluntary-buyouts-to-60000-workers/"
+    },
+    {
+     "outlet": "ksl.com",
+     "url": "https://www.ksl.com:443/article/51641227/microsoft-offers-a-quarter-of-its-global-workforce-voluntary-buyouts-as-ai-spending-accelerates"
+    },
+    {
+     "outlet": "singletonargus.com.au",
+     "url": "https://www.singletonargus.com.au/story/9380515/microsoft-offers-voluntary-buyouts-to-60000-workers/"
+    },
+    {
+     "outlet": "americanbazaaronline.com",
+     "url": "https://americanbazaaronline.com/2026/10/26/microsoft-offers-buyouts-to-60000-workers-as-it-shifts-spending-toward-ai-490773/"
+    },
+    {
+     "outlet": "fortune.com",
+     "url": "https://fortune.com/2026/10/26/microsoft-offers-buyouts-to-nearly-30-of-workforce-in-ongoing-ai-shift/"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+    },
+    {
+     "outlet": "rttnews.com",
+     "url": "https://www.rttnews.com/3703058/microsoft-offers-buyouts-amid-ai-spending-push.aspx"
+    }
+   ]
+  },
+  {
+   "id": "3d98872ef40ccb533818c5e6071331185959fc64",
+   "title": "DOJ asks Washington state to set aside 400 ballots from voters it says may be noncitizens",
+   "url": "https://www.nbcnews.com/politics/2026-election/doj-asks-washington-state-set-400-ballots-voters-says-may-noncitizens-rcna605836",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261026-Washington-State-Processes-Mail-In-Ballots-vsb-2035-6a549a.jpg",
+   "description": "The move is the Trump administration’s latest attempt to involve itself in ballot counting and certification that’s handled by state officials.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 17.87,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 27,
+   "also_reported_by": [
+    {
+     "outlet": "newser.com",
+     "url": "https://www.newser.com/story/398854/doj-asks-another-state-to-set-ballots-aside.html"
+    },
+    {
+     "outlet": "thebusinessjournal.com",
+     "url": "https://thebusinessjournal.com/california-election-officials-doj-noncitizen-ballots-2026/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/trump-administration-asks-washington-state-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens"
+    },
+    {
+     "outlet": "wellandtribune.ca",
+     "url": "https://www.wellandtribune.ca/news/world/united-states/trump-administration-asks-washington-to-set-aside-ballots-from-400-voters-it-says-may-be-noncitizens/article_3c32078d-fe76-580d-94bb-807426ba8697.html"
+    },
+    {
+     "outlet": "wyff4.com",
+     "url": "https://www.wyff4.com/article/trump-washington-ballots-400-voters-noncitizens/74253062"
+    },
+    {
+     "outlet": "wapt.com",
+     "url": "https://www.wapt.com/article/trump-washington-ballots-400-voters-noncitizens/74253062"
+    },
+    {
+     "outlet": "wpbf.com",
+     "url": "https://www.wpbf.com/article/trump-washington-ballots-400-voters-noncitizens/74253062"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/national/trump-administration-asks-washington-to-set-aside-ballots-from-400-voters-it-says-may-be/article_0c85a4bb-ed0c-560f-a404-cb4b523bd44c.html"
+    },
+    {
+     "outlet": "wcvb.com",
+     "url": "https://www.wcvb.com/article/trump-washington-ballots-400-voters-noncitizens/74253062"
+    },
+    {
+     "outlet": "postregister.com",
+     "url": "http://www.postregister.com/news/national/trump-administration-asks-washington-to-set-aside-ballots-from-400-voters-it-says-may-be/article_2e50676d-4ca4-591e-8576-8c7da8ea72b1.html"
+    }
+   ]
+  },
+  {
+   "id": "43637d2b3d6212f7a00cad50089aad16b576ea20",
+   "title": "\"Russia showing nothing but a desire to kill\": Zelenskyy says ballistic missiles strike Kyiv university, civilian areas",
+   "url": "https://news.webindia123.com/news/Articles/World/20261027/4515545.html",
+   "outlet": "webindia123.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": null,
+   "description": "Ukrainian President Volodymyr Zelenskyy said a Russian ballistic missile attack targeted university grounds and civilian infrastructure in Kyiv, warning that delays by allies in delivering air defence systems due to bureaucratic hurdles directly aid terror.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.79,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 12,
+   "also_reported_by": [
+    {
+     "outlet": "singletonargus.com.au",
+     "url": "https://www.singletonargus.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "rte.ie",
+     "url": "https://www.rte.ie/news/world/2026/1027/1596897-ukraine-russia-strike/"
+    },
+    {
+     "outlet": "bendigoadvertiser.com.au",
+     "url": "https://www.bendigoadvertiser.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "examiner.com.au",
+     "url": "https://www.examiner.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "centralwesterndaily.com.au",
+     "url": "https://www.centralwesterndaily.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "crookwellgazette.com.au",
+     "url": "https://www.crookwellgazette.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "westernadvocate.com.au",
+     "url": "https://www.westernadvocate.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "dailyadvertiser.com.au",
+     "url": "https://www.dailyadvertiser.com.au/story/9380418/russian-attack-on-kyiv-kills-one-injures-10/"
+    },
+    {
+     "outlet": "whbl.com",
+     "url": "https://whbl.com/2026/10/26/kyiv-under-attack-mayor-says-strike-near-underground-station/"
+    },
+    {
+     "outlet": "kyivpost.com",
+     "url": "https://www.kyivpost.com/post/88241"
+    }
+   ]
+  },
+  {
+   "id": "51fdfc94d2e59592b2f0435248af6ad3a816a187",
+   "title": "Odisha braces for cyclone Arnab, CM Majhi targets zero casualties as storm nears coast on Oct 28",
+   "url": "https://news.webindia123.com/news/Articles/India/20261024/4514707.html",
+   "outlet": "webindia123.com",
+   "published_at": "2026-10-27T01:00:00Z",
+   "image": null,
+   "description": "Odisha is bracing for the impact of cyclone Arnab, with the India Meteorological Department (IMD) forecasting the system to intensify into a cyclonic storm over the west-central Bay of Bengal on October 26 and move towards the Andhra Pradesh coast by the morning of October 28, leading the state government to step up preparedness measures and set a target of zero casualties.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.78,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 12,
+   "also_reported_by": [
+    {
+     "outlet": "aninews.in",
+     "url": "https://aninews.in/news/national/general-news/andhra-govt-fully-prepared-to-tackle-cyclone-arnab160rtgs-leadership-reviews-preparedness-measures20261026224356/"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.bignewsnetwork.com/news/279398982/cyclone-arnab-intensifies-into-very-severe-cyclonic-storm-likely-to-cross-andhra-coast-on-oct-28"
+    },
+    {
+     "outlet": "thehindu.com",
+     "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+    },
+    {
+     "outlet": "ft.lk",
+     "url": "https://www.ft.lk/ft_tv/Red-warning-issued-as-Cyclonic-Storm-Arnab-intensifies/10520-799193"
+    },
+    {
+     "outlet": "pragativadi.com",
+     "url": "https://pragativadi.com/very-severe-cyclonic-storm-threat-builds-for-andhra-pradesh-and-south-odisha-coasts/"
+    },
+    {
+     "outlet": "heraldgoa.in",
+     "url": "https://www.heraldgoa.in/goa/cyclone-arnab-approaches-andhra-coast-five-regions-on-alert-ahead-of-landfall/493344/"
+    },
+    {
+     "outlet": "lankanewspapers.com",
+     "url": "https://www.lankanewspapers.com/2026/10/25/bay-of-bengal-weather-system-set-to-strengthen-into-severe-cyclonic-storm-by-tuesday"
+    },
+    {
+     "outlet": "bilkulonline.com",
+     "url": "https://bilkulonline.com/2026/10/25/very-severe-cyclonic-storm-likely-to-cross-andhra-coast-on-october-28-says-imd/"
+    },
+    {
+     "outlet": "business-standard.com",
+     "url": "https://www.business-standard.com/india-news/odisha-steps-up-preparedness-as-severe-cyclonic-storm-nears-andhra-coast-126102500146_1.html"
+    },
+    {
+     "outlet": "deccanchronicle.com",
+     "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/cm-naidu-directs-officials-to-prepare-for-cyclone-conserve-resulting-rainwater-1998615"
+    }
+   ]
+  },
+  {
+   "id": "4395e3b5fcd40000ad52ce8e8020acf40da0b527",
+   "title": "Trump, Obama on campaign pushes as Democrats poised to take the House, CBS News poll shows",
+   "url": "https://www.cbsnews.com/video/trump-obama-campaign-pushes-democrats-poised-take-house-cbs-news-poll/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/f311d83a-be20-456e-b570-da289aaa7202/thumbnail/1200x630/7e1571daf974b435ab3e57f5556d95a6/cbsn-fusion-trump-obama-campaign-pushes-democrats-poised-take-house-cbs-news-poll-thumbnail.jpg",
+   "description": "President Donald Trump and former President Barack Obama made their rounds across the U.S. ahead of the midterm elections. A new CBS News poll found that Democrats are on track to take control of the House of Representatives. CBS News contributor Kyle Kondik has more.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 17.73,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 22,
+   "also_reported_by": [
+    {
+     "outlet": "wwmt.com",
+     "url": "https://wwmt.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "kfoxtv.com",
+     "url": "https://kfoxtv.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "local12.com",
+     "url": "https://local12.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "wgxa.tv",
+     "url": "https://wgxa.tv/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "abc3340.com",
+     "url": "https://abc3340.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "kfdm.com",
+     "url": "https://kfdm.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "turnto10.com",
+     "url": "https://turnto10.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "fox56.com",
+     "url": "https://fox56.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "newschannel9.com",
+     "url": "https://newschannel9.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    },
+    {
+     "outlet": "ktxs.com",
+     "url": "https://ktxs.com/news/nation-world/trump-obama-face-off-on-campaign-trail-as-battle-for-control-of-congress-intensifies-senate"
+    }
+   ]
+  },
+  {
+   "id": "3d44b3036f8345f52a664d1b52cba0faec4f5052",
+   "title": "Trump announces Audi will build $4 billion factory in US",
+   "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-10-27T01:00:00Z",
+   "image": "https://static.dw.com/image/74909685_6.jpg",
+   "description": "After Donald Trump made the announcement at an election rally in Georgia, the German carmaker confirmed plans for a factory in the US state, but noted car production would only start early next decade.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 17.57,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 18,
+   "also_reported_by": [
+    {
+     "outlet": "enr.com",
+     "url": "https://www.enr.com/articles/64087-german-car-maker-audi-will-build-first-us-plant4b-project-in-georgia"
+    },
+    {
+     "outlet": "textileworld.com",
+     "url": "https://www.textileworld.com/textile-world/2026/10/audi-ag-selects-georgia-to-invest-4-billion-in-first-us-manufacturing-facility/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/oct/26/audi-boss-under-fire-in-germany-for-trump-rally-appearance"
+    },
+    {
+     "outlet": "jalopnik.com",
+     "url": "https://www.jalopnik.com/2296809/audi-us-factory-trump-announcement/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://twincitiesnewstalk.iheart.com/content/2026-10-26-audi-to-build-4-billion-first-us-plant-in-georgia-creating-4500-jobs/"
+    },
+    {
+     "outlet": "econotimes.com",
+     "url": "https://econotimes.com/Audi-s-4-Billion-Georgia-Plant-Plan-Faces-Union-Criticism-After-Trump-Rally-1763814"
+    },
+    {
+     "outlet": "roadandtrack.com",
+     "url": "https://www.roadandtrack.com/news/a74243454/audi-first-usa-production-facility-georgia/"
+    },
+    {
+     "outlet": "tiftongazette.com",
+     "url": "https://tiftongazette.com/2026/10/26/audi-to-build-its-first-u-s-plant-in-georgia/"
+    },
+    {
+     "outlet": "weartv.com",
+     "url": "https://weartv.com/news/nation-world/president-trump-audi-announce-plans-for-macon-plant"
+    }
+   ]
+  },
+  {
+   "id": "461f69a40c55a1e0cb2d9b0d6469f7574e27975d",
+   "title": "In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan",
+   "url": "https://www.nytimes.com/2026/10/25/us/elections/trump-michigan-el-sayed-rogers.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-10-27T00:45:00Z",
+   "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-michigan-wpqz/25dc-trump-michigan-wpqz-mediumSquareAt3X.jpg",
+   "description": "The president contended that Dr. Abdul El-Sayed, a Muslim, would “invite hordes of jihadis to our shores” as he sought to bolster the G.O.P. candidate in a tight Senate race.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.38,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "ijpr.org",
+     "url": "https://www.ijpr.org/npr-news/2026-10-26/trump-escalates-anti-muslim-attacks-against-el-sayed-in-michigan"
+    },
+    {
+     "outlet": "americanbazaaronline.com",
+     "url": "https://americanbazaaronline.com/2026/10/26/trump-intensifie-anti-muslim-attacks-on-michigan-senate-candidate-490742/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c3rryxlkq5qro"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/live/2026/oct/26/donald-trump-abdul-el-sayed-midterms-michigan-rally-space-latest-us-politics-news-updates"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/10/26/nx-s1-6016816/trump-escalates-anti-muslim-attacks"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/trump-escalates-rhetoric-against-el-sayed-as-he-tries-to-undermine-democrat-in-michigan-senate-race"
+    },
+    {
+     "outlet": "wfmd.com",
+     "url": "https://www.wfmd.com/2026/10/26/trump-escalates-attacks-on-el-sayed-as-michigan-senate-race-tightens-and-more-top-headlines/"
+    },
+    {
+     "outlet": "wcax.com",
+     "url": "https://www.wcax.com/2026/10/25/trump-escalates-rhetoric-against-el-sayed-he-tries-undermine-democrat-michigan-senate-race/"
+    },
+    {
+     "outlet": "wunc.org",
+     "url": "https://www.wunc.org/2026-10-26/trump-escalates-anti-muslim-attacks-against-el-sayed-in-michigan"
+    },
+    {
+     "outlet": "wibw.com",
+     "url": "https://www.wibw.com/2026/10/25/trump-escalates-rhetoric-against-el-sayed-he-tries-undermine-democrat-michigan-senate-race/"
+    }
+   ]
+  },
+  {
+   "id": "528d3bdb12ac857b3886b512dbecb2fac4e2dfb8",
+   "title": "Israel committing crimes against humanity in occupied West Bank: UN",
+   "url": "https://www.aljazeera.com/news/2026/10/26/israel-committing-crimes-against-humanity-in-occupied-west-bank-un",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-27T00:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ade0192c04a-1792934290.jpg",
+   "description": "UN report highlights crimes including extermination, torture, rape and other forms of sexual violence.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 17.36,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "webindia123.com",
+     "url": "https://news.webindia123.com/news/Articles/World/20261027/4515551.html"
+    },
+    {
+     "outlet": "aa.com.tr",
+     "url": "https://aa.com.tr/en/middle-east/un-commission-says-israel-continues-to-commit-war-crimes-in-gaza-despite-ceasefire/4101822"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.arabherald.com/news/279398995/un-commission-accuses-israel-of-war-crimes-genocide-in-gaza-flags-surge-in-west-bank-palestinian-deaths"
+    },
+    {
+     "outlet": "israelnationalnews.com",
+     "url": "https://www.israelnationalnews.com/news/435184"
+    },
+    {
+     "outlet": "justiceinfo.net",
+     "url": "https://www.justiceinfo.net/en/167875-un-probe-accuses-israel-of-extermination-in-west-bank.html"
+    },
+    {
+     "outlet": "naharnet.com",
+     "url": "https://www.naharnet.com/stories/en/323346-israel-continuing-to-commit-genocide-in-gaza-un-investigation-says"
+    }
+   ]
+  },
+  {
+   "id": "1daf1afcbff3c82865a6a1f445809ce3569b27a2",
+   "title": "House Democrats call for special counsel to investigate Trump's ties to Epstein",
+   "url": "https://thehill.com/homenews/house/6172897-house-democrats-trump-epstein-special-counsel/",
+   "outlet": "thehill.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/09/raskinjamie_090126gn01_w.jpg?w=900",
+   "description": "Democrats on the House Judiciary Committee are calling for a special counsel to investigate President Trump’s alleged ties to convicted sex offender Jeffrey Epstein, in a report released Monday.  D…",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.23,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "citizensvoice.com",
+     "url": "https://www.citizensvoice.com/2026/10/26/trump-epstein-special-counsel-demand/"
+    },
+    {
+     "outlet": "twincities.com",
+     "url": "https://www.twincities.com/2026/10/26/trump-epstein-special-counsel-demand/"
+    },
+    {
+     "outlet": "republicanherald.com",
+     "url": "https://www.republicanherald.com/2026/10/26/trump-epstein-special-counsel-demand/"
+    },
+    {
+     "outlet": "journal-advocate.com",
+     "url": "https://www.journal-advocate.com/2026/10/26/trump-epstein-special-counsel-demand/"
+    },
+    {
+     "outlet": "freemalaysiatoday.com",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/27/democrats-call-for-special-counsel-to-probe-trump-s-epstein-ties"
+    },
+    {
+     "outlet": "ukiahdailyjournal.com",
+     "url": "https://www.ukiahdailyjournal.com/2026/10/26/trump-epstein-special-counsel-demand/"
+    },
+    {
+     "outlet": "sun-sentinel.com",
+     "url": "https://www.sun-sentinel.com/2026/10/26/trump-epstein-ties-covered-up-house-democrats-allege-want-special-counsel/"
+    },
+    {
+     "outlet": "dailypress.com",
+     "url": "https://www.dailypress.com/2026/10/26/trump-epstein-special-counsel-demand/"
+    },
+    {
+     "outlet": "metro.co.uk",
+     "url": "https://metro.co.uk/2026/10/26/damning-50-page-report-exposes-trumps-lies-epstein-files-29740429/"
+    },
+    {
+     "outlet": "bgnes.com",
+     "url": "http://www.bgnes.com/politics/us-democrats-demand-special-counsel-to-investigate-trump-s-epstein-ties"
+    }
+   ]
+  },
+  {
+   "id": "4949200c62fd5738b338e6b755f342774cbdb525",
+   "title": "‘Misinformation campaign’: Israel rejects UN-sponsored probe accuses it of ongoing Gaza genocide",
+   "url": "https://www.timesofisrael.com/un-sponsored-probe-accuses-israel-of-ongoing-gaza-genocide-west-bank-crimes-against-humanity/",
+   "outlet": "timesofisrael.com",
+   "published_at": "2026-10-26T23:45:00Z",
+   "image": null,
+   "description": "Commission also alleges crimes against humanity, including torture and rape, by Israeli forces in West Bank; Israel blasts report as effort to demonize and delegitimize it",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.23,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/10/26/Israel_Has_Committed_Genocidal_Acts_in_Gaza_Since_CeaseFire_/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/un-human-rights-panel-israel-palestinians.html"
+    }
+   ]
+  },
+  {
+   "id": "5e9d6cca1bc6740546199aa41e91434aeaa6efce",
+   "title": "This center-right former general could unseat Netanyahu as Prime Minister in Israel",
+   "url": "https://www.npr.org/2026/10/25/nx-s1-6011185/this-center-right-former-general-could-unseat-netanyahu-as-prime-minister-in-israel",
+   "outlet": "npr.org",
+   "published_at": "2026-10-26T22:16:26Z",
+   "image": null,
+   "description": "A former Israeli general is the main center-right challenger hoping to unseat Prime Minister Benjamin Netanyahu in Israeli elections this week.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.22,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 13,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/israel-election-benjamin-netanyahu-political-fate-key-factors/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/26/israel-election-netanyahu-iran-gaza-palestine.html"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/israel-election-unable-to-vote-from-abroad-expats-have-to-fly-home"
+    },
+    {
+     "outlet": "timesofisrael.com",
+     "url": "https://www.timesofisrael.com/security-threats-have-marred-netanyahus-term-they-might-also-keep-him-in-power/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/video/world/asia/100000011222464/who-is-netanyahus-main-opponent-in-israels-elections.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/10/26/eisenkot-netanyahu-israel-elections"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/world/israel/israel-election-netanyahu-eisenkot-oct-7-west-bank-likud-trump-rcna604972"
+    },
+    {
+     "outlet": "foreignpolicy.com",
+     "url": "https://foreignpolicy.com/2026/10/26/israel-elections-netanyahu-emigration-skilled-workers-polarization-gaza/?tpcc=recirc_trending062921"
+    },
+    {
+     "outlet": "breakingnews.ie",
+     "url": "https://www.breakingnews.ie/world/israeli-elections-what-you-need-to-know-1955518.html"
+    }
+   ]
+  },
+  {
+   "id": "c16fe785c8875c17608ad5ed463906df43172a88",
+   "title": "Trump’s Election Attacks Enter New Pre-emptive Phase",
+   "url": "https://www.nytimes.com/2026/10/25/us/politics/trumps-election-alaska.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-10-26T17:15:00Z",
+   "image": "https://static01.nyt.com/images/2026/10/25/multimedia/25dc-trump-elections1-vcth/25dc-trump-elections1-vcth-mediumSquareAt3X.jpg",
+   "description": "A lawsuit by the Justice Department challenging a potential narrow loss by the GOP Senate incumbent in Alaska reflects a new tactic by the president to try to shape the election results.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.07,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/blanche-refuses-to-say-if-trump-told-doj-to-file-alaska-senate-race-lawsuit/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/25/blanche-doj-alaska-senate-certification-lawsuit.html"
+    },
+    {
+     "outlet": "933thedrive.com",
+     "url": "https://www.933thedrive.com/2026/10/26/alaska-democratic-senate-candidate-peltola-asks-judge-to-toss-us-lawsuit-over-certification/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/blanche-says-trump-isnt-trying-to-meddle-with-alaska-election-results-by-suing-over-senate-race"
+    },
+    {
+     "outlet": "thegazette.com",
+     "url": "http://www.thegazette.com/news/national/the-latest-blanche-says-trump-isn-t-trying-to-meddle-with-alaska-election-by-suing/article_388952d5-6a43-58fc-8202-ea4d0a5911fa.html"
+    },
+    {
+     "outlet": "clickorlando.com",
+     "url": "https://www.clickorlando.com/news/politics/2026/10/26/the-latest-blanche-says-trump-isnt-trying-to-meddle-with-alaska-election-by-suing-over-senate-race/"
+    },
+    {
+     "outlet": "ideastream.org",
+     "url": "https://www.ideastream.org/npr-news/2026-10-25/blanche-defends-doj-lawsuit-blocking-alaska-senate-results-if-republican-loses"
+    },
+    {
+     "outlet": "newrepublic.com",
+     "url": "https://newrepublic.com/post/217125/todd-blanche-crashes-out-donald-trump-alaska-senate-lawsuit"
+    },
+    {
+     "outlet": "theitem.com",
+     "url": "http://theitem.com/stories/the-latest-blanche-says-trump-isnt-trying-to-meddle-with-alaska-election-by-suing-over-senate,448307"
+    },
+    {
+     "outlet": "kdhnews.com",
+     "url": "https://kdhnews.com/news/nation/the-latest-blanche-says-trump-isn-t-trying-to-meddle-with-alaska-election-by-suing/article_9c35d0c7-6bab-5c03-b88f-afdd9447867b.html"
+    }
+   ]
+  },
+  {
+   "id": "dc1fa5bd7276523d225dbe94ba849fd0eabfec27",
+   "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+   "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-26T17:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea02/live/3f6f54a0-d147-11f1-9eb5-811878e0f07d.jpg",
+   "description": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.96,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "freemalaysiatoday.com",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/10/26/dozens-killed-in-attack-on-ethiopia-orthodox-christians"
+    },
+    {
+     "outlet": "riotimesonline.com",
+     "url": "https://www.riotimesonline.com/ethiopia-attack-kills-over-40-orthodox-christians-oromia/"
+    }
+   ]
+  },
+  {
+   "id": "bf3fd68bca62d7a749d2337e324a46e6cd9e5dca",
+   "title": "Crowds welcome Venezuela's María Machado after months in exile",
+   "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/276a/live/9bd2b450-d11d-11f1-a701-fddedf244c16.jpg",
+   "description": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.93,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 29,
+   "also_reported_by": [
+    {
+     "outlet": "wellandtribune.ca",
+     "url": "https://www.wellandtribune.ca/news/world/united-states/us-told-venezuelan-authorities-that-opposition-leader-machado-should-be-allowed-to-return/article_8df132c1-f5ab-5e16-8fe1-2299c065e346.html"
+    },
+    {
+     "outlet": "journal-advocate.com",
+     "url": "https://www.journal-advocate.com/2026/10/26/us-venezuela-diplomacy-machado-rubio/"
+    },
+    {
+     "outlet": "news4jax.com",
+     "url": "https://www.news4jax.com/news/politics/2026/10/26/us-told-venezuelan-authorities-that-opposition-leader-machado-should-be-allowed-to-return/"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/maria-corina-machado-is-back-in-venezuela-what-will-happen-next/"
+    },
+    {
+     "outlet": "dailysabah.com",
+     "url": "https://www.dailysabah.com/world/americas/us-told-venezuela-to-allow-machados-return-weeks-ago"
+    },
+    {
+     "outlet": "niagarafallsreview.ca",
+     "url": "https://www.niagarafallsreview.ca/news/world/united-states/us-told-venezuelan-authorities-that-opposition-leader-machado-should-be-allowed-to-return/article_216e2888-e752-5f72-8170-0437b4de6273.html"
+    },
+    {
+     "outlet": "kxl.com",
+     "url": "https://www.kxl.com/us-told-venezuelan-authorities-that-opposition-leader-machado-should-be-allowed-to-return/"
+    },
+    {
+     "outlet": "sandiegouniontribune.com",
+     "url": "https://www.sandiegouniontribune.com/2026/10/26/us-venezuela-diplomacy-machado-rubio/"
+    },
+    {
+     "outlet": "reporterherald.com",
+     "url": "https://www.reporterherald.com/2026/10/26/us-venezuela-diplomacy-machado-rubio/"
+    },
+    {
+     "outlet": "wsls.com",
+     "url": "https://www.wsls.com/news/politics/2026/10/26/us-told-venezuelan-authorities-that-opposition-leader-machado-should-be-allowed-to-return/"
+    }
+   ]
+  },
+  {
+   "id": "956827e535fa3f714f5040ce8826640f59f88231",
+   "title": "Dollar General overcharged people at checkout for years, FTC says",
+   "url": "https://www.cbsnews.com/news/dollar-general-sued-ftc-overcharging-prices/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/26/d97ea04b-66fa-4a9d-84e2-54a3b934b3a6/thumbnail/1200x630/a73629fdc03fc03f56a38f14ea0b442d/gettyimages-1139364763.jpg",
+   "description": "The discount retailer routinely charges customers more at checkout than the prices it displays on shelves, price tags and ads, according to federal and state authorities.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 16.82,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 25,
+   "also_reported_by": [
+    {
+     "outlet": "iheart.com",
+     "url": "https://600wrec.iheart.com/content/2026-10-26-ftc-and-20-states-sue-dollar-general-over-pricing/"
+    },
+    {
+     "outlet": "kcci.com",
+     "url": "https://www.kcci.com/article/iowa-among-states-joining-ftc-lawsuit-over-dollar-general-pricing-practices/74253101"
+    },
+    {
+     "outlet": "morningjournal.com",
+     "url": "https://www.morningjournal.com/2026/10/26/dollar-general-sued-ftc-deceptive-pricing/"
+    },
+    {
+     "outlet": "wpsdlocal6.com",
+     "url": "https://www.wpsdlocal6.com/news/dollar-general-is-sued-by-the-ftc-and-20-states-for-whats-being-described-as/article_3a484973-47e4-46b6-aadb-7cc2d4e39b15.html"
+    },
+    {
+     "outlet": "kjzz.org",
+     "url": "https://www.kjzz.org/business/2026-10-26/mayes-the-ftc-and-19-other-states-sue-dollar-general-over-pattern-of-deceptive-pricing"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/oct/26/dollar-general-ftc-lawsuit"
+    },
+    {
+     "outlet": "suntimes.com",
+     "url": "https://chicago.suntimes.com/news/2026/10/26/dollar-general-illinois-joins-ftc-lawsuit-false-prices-advertising-kwame-raoul"
+    },
+    {
+     "outlet": "wilx.com",
+     "url": "https://www.wilx.com/2026/10/26/michigan-joins-ftc-lawsuit-against-dollar-general-over-pricing/"
+    },
+    {
+     "outlet": "krtv.com",
+     "url": "https://www.krtv.com/us-news/ftc-sues-dollar-general-alleging-customers-were-charged-more-than-listed-prices"
+    },
+    {
+     "outlet": "kztv10.com",
+     "url": "https://www.kztv10.com/us-news/ftc-sues-dollar-general-alleging-customers-were-charged-more-than-listed-prices"
+    }
+   ]
+  },
+  {
+   "id": "3ddbf4c76551c78acb45967ab9bf7812feeca4d7",
+   "title": "Emergency nurseries rescue DR Congo's Ebola orphans",
+   "url": "https://www.surinametimes.com/artikel/emergency-nurseries-rescue-dr-congos-ebola-orphans",
+   "outlet": "surinametimes.com",
+   "published_at": "2026-10-26T17:00:00Z",
+   "image": "https://images.prismic.io/times-of-suriname/-7XqtVNumYYoVYv5_305.00EmergencynurseriesrescueDRCongo.jpg?auto=format,compress&rect=0,54,768,403",
+   "description": "DR CONGO - Five months into the Democratic Republic of Congo's Ebola outbreak, hundreds of children orphaned by the disease are being cared...",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 16.81,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "kenyastar.com",
+     "url": "http://www.kenyastar.com/news/279397978/dr-congo-ebola-cases-near-10000-as-health-workers-face-deadly-attacks"
+    },
+    {
+     "outlet": "africanews.com",
+     "url": "https://www.africanews.com/2026/10/26/fear-and-misinformation-hamper-ebola-response-efforts-in-dr-congo/"
+    },
+    {
+     "outlet": "jamaicaobserver.com",
+     "url": "https://www.jamaicaobserver.com/2026/10/24/emergency-nurseries-rescue-dr-congos-ebola-orphans/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/23/world/africa/congo-ebola-catholic-church-rumors.html"
+    }
+   ]
+  },
+  {
+   "id": "70e47b9cc0eb95e68e69bd57ed141d2b49f77087",
+   "title": "Egyptian parliament authorises military aid for Saudi Arabia",
+   "url": "https://www.aljazeera.com/news/2026/10/26/egyptian-parliament-authorises-military-aid-for-saudi-arabia?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-26T18:35:10Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2019/02/d85b482b1433472f9bce73819c052402_18.jpeg?resize=1200%2C675",
+   "description": "Legislators approve military support amid Houthi attacks on Saudi Arabia, but Cairo has ruled out strikes on Yemen.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.72,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/10/26/world/middleeast/egypt-military-saudi-houthis.html"
+    },
+    {
+     "outlet": "stardem.com",
+     "url": "http://www.stardem.com/ap/world/egypts-parliament-authorizes-military-support-for-saudi-arabia-to-defend-against-houthi-attacks/article_e0ca42d9-8f21-53b3-84d6-948a2bc25c86.html"
+    },
+    {
+     "outlet": "clickondetroit.com",
+     "url": "https://www.clickondetroit.com/business/2026/10/26/egypts-parliament-authorizes-military-support-for-saudi-arabia-to-defend-against-houthi-attacks/"
+    },
+    {
+     "outlet": "al-monitor.com",
+     "url": "https://www.al-monitor.com/originals/2026/10/egypt-parliament-authorises-military-support-saudi-arabia"
+    },
+    {
+     "outlet": "siasat.com",
+     "url": "https://www.siasat.com/egypt-parliament-approves-military-support-for-saudi-arabia-3565011/"
+    },
+    {
+     "outlet": "mymotherlode.com",
+     "url": "https://mymotherlode.com/news/world/11254242/egypts-parliament-authorizes-military-support-for-saudi-arabia-to-defend-against-houthi-attacks.html"
+    },
+    {
+     "outlet": "aa.com.tr",
+     "url": "https://aa.com.tr/en/world/egypt-s-parliament-approves-military-support-for-saudi-arabia/4101348"
+    }
+   ]
+  },
+  {
+   "id": "ddad8f24586a6426106c4bc25e11d33c8328a010",
+   "title": "Several dead in clashes between rival Ethiopia armies",
+   "url": "https://www.omanobserver.om/article/1198471/world/africa/several-dead-in-clashes-between-rival-ethiopia-armies",
+   "outlet": "omanobserver.om",
+   "published_at": "2026-10-26T18:00:00Z",
+   "image": "https://www.omanobserver.om/omanobserver/uploads/images/2026/10/24/thumbs/600x600/3555702.jpg",
+   "description": "ADDIS ABABA: Several people have died during clashes between the armies of southern Ethiopia&#039;s Somali and Oromia regions in recent days, against...",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.69,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "allafrica.com",
+     "url": "https://allafrica.com/stories/202610260664.html"
+    },
+    {
+     "outlet": "wardheernews.com",
+     "url": "https://wardheernews.com/oromo-expansion-into-somali-territory-years-of-conflict-and-somali-regional-government-accused-of-abandoning-its-own-people/"
+    },
+    {
+     "outlet": "dailysabah.com",
+     "url": "https://www.dailysabah.com/world/africa/more-than-2000-flee-ethiopia-clashes-as-death-toll-reaches-9"
+    }
+   ]
+  },
+  {
+   "id": "37448fd2d89236f8d52ac4d68954189a6d49289e",
+   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+   "url": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+   "outlet": "theguardian.com",
+   "published_at": "2026-10-26T17:00:00Z",
+   "image": "https://i.guim.co.uk/img/media/01da2c62d76761f8f011d8881a3751607009102c/216_0_2446_1957/master/2446.jpg?width=140&quality=85&auto=format&fit=max&s=36d61eccf7ea4657be712b8fb32bf9fd",
+   "description": "Rapid Support Forces strike five power stations in three states controlled by Sudanese army",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.65,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "africanews.com",
+     "url": "https://www.africanews.com/2026/10/26/sudan-experiences-massive-power-outages-after-rsf-drone-strikes/"
+    }
+   ]
+  },
+  {
+   "id": "68843c69dcc2b556fb7a8dab9f6b73f60c1e4dcb",
+   "title": "Opponents accuse Netanyahu of stoking tensions with Iran before Israel's election",
+   "url": "https://www.france24.com/en/opponents-accuse-netanyahu-of-stoking-tensions-with-iran-before-israel-s-election",
+   "outlet": "france24.com",
+   "published_at": "2026-10-26T18:00:00Z",
+   "image": "https://s.france24.com/media/display/8e69e600-d15c-11f1-948d-bba4eee3dc72/w:1024/p:16x9/EN-20261026-170817-171420-CS.jpg",
+   "description": "Israel's defence minister denied on Monday (October 26) reports of a rift between PM Netanyahu and the army over Iran, before the vote.  Netanyahu has campaigned heavily on his security credentials,…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.52,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 25,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/netanyahu-denies-allegations-hes-escalating-tensions-with-iran-before-israels-election"
+    },
+    {
+     "outlet": "wbaltv.com",
+     "url": "https://www.wbaltv.com/article/netanyahu-denies-escalation-iran-last-day-election/74247368"
+    },
+    {
+     "outlet": "journal-news.net",
+     "url": "https://www.journal-news.net/news/human_interest/israelis-hold-final-rally-against-netanyahu-before-election-and-other-mideast-news/article_a78bea3e-3b94-5171-a85b-fc16f0b68110.html"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.venezuelastar.com/news/279398076/ahead-of-israel-election-local-media-reports-of-clash-between-idf-boss-and-netanyahu-over-iran-attack-plans"
+    },
+    {
+     "outlet": "timesofisrael.com",
+     "url": "https://www.timesofisrael.com/with-reports-netanyahu-sought-to-attack-iran-before-elections-could-vote-be-postponed/"
+    },
+    {
+     "outlet": "ksbw.com",
+     "url": "https://www.ksbw.com/article/netanyahu-denies-escalation-iran-last-day-election/74247368"
+    },
+    {
+     "outlet": "gulfcoastnewsnow.com",
+     "url": "https://www.gulfcoastnewsnow.com/article/netanyahu-denies-escalation-iran-last-day-election/74247368"
+    },
+    {
+     "outlet": "wvtm13.com",
+     "url": "https://www.wvtm13.com/article/netanyahu-denies-escalation-iran-last-day-election/74247368"
+    },
+    {
+     "outlet": "wgal.com",
+     "url": "https://www.wgal.com/article/netanyahu-denies-escalation-iran-last-day-election/74247368"
+    },
+    {
+     "outlet": "straitstimes.com",
+     "url": "https://www.straitstimes.com/world/middle-east/netanyahu-touts-trump-endorsement-on-eve-of-vote-suggests-they-may-restart-war-on-iran"
+    }
+   ]
+  },
+  {
+   "id": "d9b0b8ee74c72c57bc24dbfd15a4f4b16a318430",
+   "title": "Machete-wielding mob attack health workers responding to Ebola in Congo",
+   "url": "https://www.freemalaysiatoday.com/category/world/2026/10/27/machete-wielding-mob-attack-health-workers-responding-to-ebola-in-congo",
+   "outlet": "freemalaysiatoday.com",
+   "published_at": "2026-10-27T01:00:00Z",
+   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=80,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/10/bf291b25-a7c5-41e3-b7e1-450821553669-Ebola-EPA.jpg",
+   "description": "An experienced nurse was killed and another wounded in the latest in a series of attacks fuelled by misinformation about the fast-spreading virus.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.49,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "nzherald.co.nz",
+     "url": "https://www.nzherald.co.nz/world/nurse-accused-of-spreading-ebola-murdered-by-mob/M46NU4EGGZD6PLDXBRP7QZYBVY/"
+    }
+   ]
+  },
+  {
+   "id": "de55ec645c5ddef9a5d07cd13aadbdf6bdb42c7b",
+   "title": "Israeli cease-fire violations kill 7-year-old girl, 3 others across Gaza",
+   "url": "https://www.dailysabah.com/world/mid-east/israeli-cease-fire-violations-kill-7-year-old-girl-3-others-across-gaza",
+   "outlet": "dailysabah.com",
+   "published_at": "2026-10-26T17:15:00Z",
+   "image": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/26/thumbs/1200x675/467661.jpg",
+   "description": "Israeli military and Israel-backed gunmen in the Gaza Strip killed four Palestinians, including a 7-year-old girl, and injured 14 others Monday, a medical...",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.46,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "presstv.co.uk",
+     "url": "https://www.presstv.co.uk/Detail/2026/10/26/779247/11-martyrs-and-25-injuries-in-gaza-within-24-hours"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl"
+    }
+   ]
+  },
+  {
+   "id": "e8073a2791a5afba584954ad360bd51621230a01",
+   "title": "Ukraine says Starshield back to normal; Musk says Kyiv violated terms",
+   "url": "https://www.japantimes.co.jp/news/2026/10/25/world/musk-starlink-ukraine-us-trump/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-10-26T16:30:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/25/570285.JPG",
+   "description": "Starshield’s problems occurred after U.S. President Donald Trump announced a deal to buy Russian diesel.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.42,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/elon-musk-starlink-starshield-ukraine-russia/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/10/25/ukraine-musk-starlink-terms-dispute.html"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/ukraine-disputes-elon-musks-claim-that-its-military-violated-starlinks-terms-of-service"
+    },
+    {
+     "outlet": "newsweek.com",
+     "url": "https://www.newsweek.com/zelensky-adviser-slams-musk-over-claims-ukraine-violated-starlink-terms-12617922"
+    },
+    {
+     "outlet": "hawaiitribune-herald.com",
+     "url": "https://www.hawaiitribune-herald.com/2026/10/25/nation-world-news/ukraine-says-starshield-back-to-normal-musk-says-kyiv-violated-terms/"
+    }
+   ]
+  },
+  {
+   "id": "b5689fe37d13bfced8641cb379c4be6e9676f657",
+   "title": "Delegations arrive in Tehran for security talks",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/delegations-arrive-in-tehran-for-security-talks?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/image-1793033705.jpg?resize=1920%2C1080&quality=80",
+   "description": "Delegations arrive in Tehran for security talks",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 16.4,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "pakistantelegraph.com",
+     "url": "http://www.pakistantelegraph.com/news/279398762/iran-regional-countries-agree-to-continue-talks-after-tehran-meeting"
+    },
+    {
+     "outlet": "ironmountaindailynews.com",
+     "url": "https://www.ironmountaindailynews.com/news/2026/10/delegations-meet-in-iran-with-mideast-region-on-edge/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3372218/mecca-pact-countries-iran-bid-stop-war-restarting"
+    },
+    {
+     "outlet": "al-monitor.com",
+     "url": "https://www.al-monitor.com/originals/2026/10/mecca-pact-countries-iran-bid-stop-war-restarting"
+    },
+    {
+     "outlet": "middle-east-online.com",
+     "url": "https://www.middle-east-online.com/en/mecca-pact-countries-hold-talks-tehran"
+    },
+    {
+     "outlet": "middleeasteye.net",
+     "url": "https://www.middleeasteye.net/news/mecca-alliance-visits-tehran-push-end-israeli-us-war-and-build-regional-security"
+    },
+    {
+     "outlet": "thenational.scot",
+     "url": "https://www.thenational.scot/news/26671321.delegations-iran-israel-us-meet-prevent-fighting/"
+    },
+    {
+     "outlet": "mymotherlode.com",
+     "url": "https://mymotherlode.com/news/world/11254256/delegations-meet-in-iran-with-mideast-region-on-edge-over-potential-for-renewed-fighting.html"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/mecca-defence-alliance-members-in-tehran-to-defuse-iran-us-yemen-tensions/"
+    },
+    {
+     "outlet": "timesofisrael.com",
+     "url": "https://www.timesofisrael.com/saudi-defense-pact-states-hold-talks-in-iran-as-yemens-houthis-launch-more-attacks/"
+    }
+   ]
+  },
+  {
+   "id": "bb03d35cfabab661b5e5265736eaf26a582e3d6a",
+   "title": "Iran live updates: Houthis claim new missile attack on Riyadh airport",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates-houthis-claim-new-attack-riyadh/?id=137563447",
+   "outlet": "abcnews.com",
+   "published_at": "2026-10-26T20:40:09Z",
+   "image": "https://s.abcnews.com/images/International/Houthis-DB-261026_1792998056343_hpMain_4x3t_384.jpg",
+   "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.31,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "26577f60d1c47070b263dc6f8d38a633680d0a7f",
+   "title": "Africa food security under threat due to Iran war, trade officials warn",
+   "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-27T00:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6adfa8dc34-1793042652.jpg?resize=1920%2C1440",
+   "description": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.25,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/africa-food-security-under-threat-due-to-iran-war-trade-officials-warn/"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/africa-food-security-under-threat-due-to-iran-war-trade-officials-warn/"
+    }
+   ]
+  },
+  {
+   "id": "9043736cb1696b349296386d691531e3c91aab7a",
+   "title": "Bulgaria holds presidential elections amid divisions over Ukraine war",
+   "url": "https://www.dw.com/en/bulgaria-holds-presidential-elections-amid-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-10-25T20:39:50Z",
+   "image": "https://static.dw.com/image/79754645_6.jpg",
+   "description": "Bulgarians are voting in presidential elections amid security concerns over attacks on ships in the Black Sea. The vote for the largely ceremonial post is seen as a test of the popularity of Prime Minister Rumen Radev.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.08,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 9,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout"
+    },
+    {
+     "outlet": "azernews.az",
+     "url": "https://www.azernews.az/region/266167.html"
+    },
+    {
+     "outlet": "nsnews.com",
+     "url": "https://www.nsnews.com/world-news/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war-12935738"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/world/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war/article_f0b4608a-c462-5868-bfeb-f55b4a4feee4.html"
+    },
+    {
+     "outlet": "elpasoinc.com",
+     "url": "https://www.elpasoinc.com/news/ap_wire/polls-open-for-presidential-election-in-bulgaria-dominated-by-economic-hardship-and-ukraine-war/article_e531df78-633a-5e06-98be-2e3833d6fd06.html"
+    },
+    {
+     "outlet": "news4jax.com",
+     "url": "https://www.news4jax.com/news/world/2026/10/25/polls-open-for-bulgarians-in-presidential-election-centered-on-drone-attacks-on-black-sea-shipping-and-economic-hardship/"
+    },
+    {
+     "outlet": "sitkasentinel.com",
+     "url": "http://www.sitkasentinel.com/stories/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war,181189"
+    },
+    {
+     "outlet": "yakimaherald.com",
+     "url": "https://www.yakimaherald.com/news/nation_and_world/world/bulgaria-holds-a-presidential-election-dominated-by-economic-hardship-and-the-ukraine-war/article_19d8e5f3-2aff-56db-9ab3-45e502161ee4.html"
+    }
+   ]
+  },
+  {
+   "id": "f4f1d517b77fe56b42710d431a76ed4b08323567",
+   "title": "U.S., Canada working on deal to ease steel, auto tariffs, sources say",
+   "url": "https://www.capjournal.com/news/national/u-s-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say",
+   "outlet": "capjournal.com",
+   "published_at": "2026-10-27T01:15:00Z",
+   "image": "https://forum-communications-production-web.s3.us-west-2.amazonaws.com/brightspot/78/47/de1386a2d4effcaf90218eb228e8/2026-10-26t193154z-1-lynxnpem9p1qx-rtroptp-4-usa-trump-canada-trade.JPG",
+   "description": "By Promit Mukherjee and David Shepardson",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 16.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 16,
+   "also_reported_by": [
+    {
+     "outlet": "calgarysun.com",
+     "url": "https://calgarysun.com/news/carney-describes-small-intensification-of-trade-talks/wcm/df4e6daf-bec6-45de-a631-859cd8054890"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/world/carney-says-trump-moving-closer-to-canada-s-trade-demands-as-midterms-loom/article_8e59b144-0b01-5688-9f14-457dc8738294.html"
+    },
+    {
+     "outlet": "the-messenger.com",
+     "url": "https://www.the-messenger.com/news/world/article_b88ce5d0-c447-5697-ada3-b3a1d40f6b2f.html"
+    },
+    {
+     "outlet": "cecildaily.com",
+     "url": "http://www.cecildaily.com/ap/world/carney-says-trump-moving-closer-to-canada-s-trade-demands-as-midterms-loom/article_11b2ff34-d4e8-5ba2-860a-096a787909a5.html"
+    },
+    {
+     "outlet": "aa.com.tr",
+     "url": "https://aa.com.tr/en/americas/carney-sees-greater-prospect-of-a-trade-deal-if-us-moves-toward-accepting-canada-s-red-lines/4101834"
+    },
+    {
+     "outlet": "wral.com",
+     "url": "https://www.wral.com/news/ap/0e674-carney-says-trump-moving-closer-to-canada-s-trade-demands-as-midterms-loom/"
+    },
+    {
+     "outlet": "netscape.com",
+     "url": "https://isp.netscape.com:443/news/world/story/0001/20261026/0e6749a03730bd292cd32dea47518394"
+    },
+    {
+     "outlet": "nationalpost.com",
+     "url": "https://nationalpost.com/news/carney-describes-small-intensification-of-trade-talks"
+    },
+    {
+     "outlet": "dl-online.com",
+     "url": "https://www.dl-online.com/news/national/u-s-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say"
+    },
+    {
+     "outlet": "wahpetondailynews.com",
+     "url": "https://www.wahpetondailynews.com/news/national/u-s-canada-working-on-deal-to-ease-steel-auto-tariffs-sources-say"
+    }
+   ]
+  },
+  {
+   "id": "9147d8dfeb9dac590d207cd23ceef5dd205624da",
+   "title": "The 4 stages of women’s heart health: New framework for doctors and patients",
+   "url": "https://www.statnews.com/2026/10/26/heart-health-women-four-life-stages-qa-sadiya-khan/?utm_campaign=rss",
+   "outlet": "statnews.com",
+   "published_at": "2026-10-26T17:45:00Z",
+   "image": "https://www.statnews.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-2.29.51-PM-1024x576.jpg",
+   "description": "New guidance is intended to help girls and women — and their doctors — recognize four distinct phases in heart health.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.98,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "nbcconnecticut.com",
+     "url": "https://www.nbcconnecticut.com/news/health/heart-disease-women-girls-groundbreaking-framework/3788582/"
+    },
+    {
+     "outlet": "nbcwashington.com",
+     "url": "https://www.nbcwashington.com/news/health/heart-disease-women-girls-groundbreaking-framework/4172049/"
+    }
+   ]
+  },
+  {
+   "id": "9bb4efeef7f6506cb284b70235a8617570c0f033",
+   "title": "Milestone cancer vaccine success leaves hard questions unanswered",
+   "url": "https://www.science.org/content/article/milestone-cancer-vaccine-success-leaves-hard-questions-unanswered",
+   "outlet": "science.org",
+   "published_at": "2026-10-27T00:30:00Z",
+   "image": null,
+   "description": "mRNA vaccine from Merck and Moderna slashes risk of melanoma’s return, but why remains unclear",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.96,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "zmescience.com",
+     "url": "https://www.zmescience.com/medicine/mrna-melanoma-cancer-vaccine/"
+    }
+   ]
+  },
+  {
+   "id": "d045374d88f12e3b3297943bb7c23a9f46aa7180",
+   "title": "Iran war live: Iran says US ‘not serious’ about talks; ship ablaze off Iraq",
+   "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/iran-war-live-iran-says-us-not-serious-on-talks-ship-on-fire-off-iraq?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-10-27T00:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261026__D4F36DD__v3__HighRes__IranIsraelUsWarEconomy-1793053451.jpg?resize=1920%2C1440",
+   "description": "Iran says the United States is \"not serious\" about negotiations as UKMTO reports a ship on fire off the coast of Iraq.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 15.95,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "gcaptain.com",
+     "url": "https://gcaptain.com/tanker-disabled-in-strait-of-hormuz-attack-another-vessel-reported-on-fire-in-persian-gulf/"
+    }
+   ]
+  },
+  {
+   "id": "f94dc9ff20cdf095606e9ecc223e4afdcb5e5ac5",
+   "title": "EU mobilizes $5.4B in military support for Ukraine",
+   "url": "https://aa.com.tr/en/europe/eu-mobilizes-54b-in-military-support-for-ukraine/4101806",
+   "outlet": "aa.com.tr",
+   "published_at": "2026-10-27T00:00:00Z",
+   "image": "https://web-cdnprod.aa.com.tr/uploads/Contents/2026/10/26/thumbs_b_c_392d2f83999dceb2a876a9b653e7f839.jpg",
+   "description": "",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.94,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "540912398577f923822b1694ca30def38ba68da8",
+   "title": "Republicans face a midterm reckoning over prices at the pump",
+   "url": "https://thehill.com/policy/energy-environment/6173484-republicans-high-gas-prices-voters-midterms/",
+   "outlet": "thehill.com",
+   "published_at": "2026-10-26T23:30:00Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/Gas_Frazin_AP_JeffChiu.jpg?w=900",
+   "description": "Voters are expected to punish Republicans for high gas prices this election cycle. Since the start of the Iran war, prices of oil and gasoline have been on the rise. As of Monday, gas prices were a…",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.92,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "bostonglobe.com",
+     "url": "https://www.bostonglobe.com/2026/10/26/business/trump-inflation-republican-midterms/"
+    }
+   ]
+  },
+  {
+   "id": "7bf361cc51c2f45bbeb7dc81d983804a918812c1",
+   "title": "Endangered turtles and ‘exceptional’ coral at risk from Woodside’s gas drilling in WA, watchdog says",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/27/endangered-turtles-and-exceptional-coral-at-risk-from-woodsides-gas-drilling-in-wa-watchdog-says",
+   "outlet": "theguardian.com",
+   "published_at": "2026-10-26T14:00:45Z",
+   "image": "https://i.guim.co.uk/img/media/37e026264024c8b969ae4fa3d8d8601720087a90/625_0_6628_5304/master/6628.jpg?width=140&quality=85&auto=format&fit=max&s=6bb71c939b4be55c1dde8f059a0c009b",
+   "description": "Exclusive: EPA flags oil spill risk from proposed gasfield and threat to pygmy blue whales",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 15.03,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "b7cbbc1756e7686cd78e4c7968a8646cf4b6c232",
+   "title": "Climate damage to Philippine ports could cost US$70b a year by 2100",
+   "url": "https://www.scmp.com/week-asia/economics/article/3372185/climate-damage-philippine-ports-could-cost-us70b-year-2100",
+   "outlet": "scmp.com",
+   "published_at": "2026-10-26T11:46:33Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/78cdaf34-02cc-4e72-a510-3b827b6afc74_c131b984.jpg?itok=W_6FRFAT&v=1793015182",
+   "description": "The Philippines faces the highest climate-driven port damage costs in Southeast Asia, with annual losses projected to hit US$70.2 billion by 2100, the Asian Development Bank (ADB) has warned. Analysts say the damage could cripple supply chains, drive up food prices and threaten livelihoods, urging Manila to adopt a more coordinated approach to flood protection rather than simply strengthening port infrastructure. In its latest report titled “Asia-Pacific Climate Report 2026: Coastal Risks on the",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 14.93,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "3784f2dfabe8ddef8bad271537986a1e020b74b1",
+   "title": "Why China’s new estimate on Greenland ice loss speed is 55% lower than America’s",
+   "url": "https://www.scmp.com/news/china/science/article/3372129/why-chinas-new-estimate-greenland-ice-loss-speed-55-lower-americas",
+   "outlet": "scmp.com",
+   "published_at": "2026-10-26T10:19:46Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/26/e9b40513-a19f-46b0-9258-0bd6c6224aec_8a7d6138.jpg?itok=Saiw8-wO&v=1792992939",
+   "description": "Chinese researchers have created a new model to convert satellite surface elevation data for the Greenland Ice Sheet into a detailed estimate of how much ice it has lost in recent decades. Using satellite altimetry data covering 2002 to 2023, they found that the ice sheet lost an average of about 120 gigatonnes (264.5 trillion lbs) of mass per year. This figure is considerably lower than the widely cited figure reached by Nasa, which previously estimated Greenland’s annual loss to be nearly 270.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 14.87,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "eda9fa56f3593e13a4126704d4887881094a9b1d",
+   "title": "OpenAI announces three 'major' science discoveries in math, computer science and physics",
+   "url": "https://www.hindustantimes.com/world-news/openai-announces-three-major-science-discoveries-in-math-computer-science-and-physics-101793057796185.html",
+   "outlet": "hindustantimes.com",
+   "published_at": "2026-10-27T00:45:00Z",
+   "image": "https://www.hindustantimes.com/ht-img/img/2026/10/26/1600x900/OPENAI-REVENUE--0_1793057767089_ozRu_1793057790955_Rxcp_c8e0795b-de97-4801-8ad5-c76a7d117e49_LoUM.JPG",
+   "description": "OpenAI claims three major breakthroughs in physics, mathematics and computer science, including resolving two mathematical conjectures and challenging ETH.  | World News",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 14.77,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+    },
+    {
+     "outlet": "digg.com",
+     "url": "https://digg.com/ai/ljvbajl5"
+    }
+   ]
+  },
+  {
+   "id": "fb9a9de7518efd5d48be4b1cabc8c594b422944f",
+   "title": "Evolutionary 'game-changer': weird armoured amphibian lived in ancient seas",
+   "url": "https://www.nature.com/articles/d41586-026-03440-1",
+   "outlet": "nature.com",
+   "published_at": "2026-10-26T17:25:35Z",
+   "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03440-1/d41586-026-03440-1_53895302.jpg",
+   "description": "The creature’s armour cladding probably enabled it to tolerate the salty seas of the Late Triassic.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 14.17,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "popsci.com",
+     "url": "https://www.popsci.com/environment/first-fully-marine-amphibian-china/"
+    },
+    {
+     "outlet": "gizmodo.com",
+     "url": "https://gizmodo.com/this-armored-amphibian-turned-the-triassic-seafloor-into-a-living-nightmare-2000830612"
+    },
+    {
+     "outlet": "newscientist.com",
+     "url": "https://www.newscientist.com/article/2595507-predatory-amphibians-swam-the-seas-237-million-years-ago/"
+    }
+   ]
+  },
+  {
+   "id": "6a23ce2e71cb2c93fd0a5bc6336a592a44af3fbd",
+   "title": "Milky Way's Central Black Hole is Surrounded by Metal-Rich Gas, Webb Reveals",
+   "url": "https://www.sci.news/astronomy/milky-ways-central-black-hole-metal-rich-gas-15151.html",
+   "outlet": "sci.news",
+   "published_at": "2026-10-26T17:45:00Z",
+   "image": "https://cdn.sci.news/images/2021/05/image_9707f-Milky-Way-Center.jpg",
+   "description": "The enrichment in metals (any element heavier than hydrogen and helium, including carbon, oxygen, iron and gold) likely came from generations of exploding stars, according to new observations from the NASA/ESA/CSA James Webb Space Telescope.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 13.68,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "15d33f80ed6859ed5de1f4ee2d2a91a7462a353c",
+   "title": "Christie’s Brings a Blockbuster Klimt Landscape to Auction, Tagged at $80 M. and Guaranteed to Sell",
+   "url": "https://www.artnews.com/art-news/market/christies-blockbuster-klimt-landscape-80m-guaranteed-1234803727/",
+   "outlet": "artnews.com",
+   "published_at": "2026-10-26T17:30:00Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/10/Klimt-1000.jpg?w=1000",
+   "description": "Christie's New York will offer Gustav Klimt’s landscape Litzlbergkeller, estimated at $60–80 million, which would put it among the artist’s top prices",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 13.67,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "aa.com.tr",
+     "url": "https://aa.com.tr/en/life/gustav-klimt-landscape-expected-to-fetch-up-to-80m-at-new-york-auction/4101470"
+    }
+   ]
+  },
+  {
+   "id": "973cf13ecbea452150c68b3a0f6fcd77129d06b4",
+   "title": "Milwaukee Art Museum Receives $10 M. Gift to Preserve Santiago Calatrava–Designed Building",
+   "url": "https://www.artnews.com/art-news/news/milwaukee-art-museum-10-million-gift-quadracci-pavilion-1234803847/",
+   "outlet": "artnews.com",
+   "published_at": "2026-10-26T20:22:28Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/10/mam-campus_6-1024x767-1.jpg?w=1024",
+   "description": "The Milwaukee Art Museum has received $10 million, creating Quadracci Pavilion Preservation Endowment Fund for its Santiago Calatrava–designed building",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 13.29,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8d49b0064a27c8766a0636e741fc06f4994901d2",
+   "title": "Jogen Chowdhury, ‘Towering Pillar’ of Indian Modern Art, Has Died at 87",
+   "url": "https://www.artnews.com/art-news/news/jogen-chowdhury-indian-modernist-dead-1234803869/",
+   "outlet": "artnews.com",
+   "published_at": "2026-10-26T22:04:10Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/10/GettyImages-1763969391.jpg?w=1024",
+   "description": "Jogen Chowdhury, one India’s leading modern painters, whose figurative oeuvre foregrounded humanity, died on October 25.",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.36,
+   "newsworthiness": 3,
+   "relevance": 4,
+   "outlet_count": 1,
+   "also_reported_by": []
+  }
+ ]
+}
