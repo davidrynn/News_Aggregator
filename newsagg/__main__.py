@@ -9,7 +9,7 @@ import time
 from collections import Counter
 from datetime import datetime
 
-from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, rss, scoring, triage
+from newsagg import blocklist, config, enrich, evaluate, filters, gdelt, grouping, llm, output, pages, rss, scoring, state, triage
 from newsagg.runlock import AlreadyRunning, run_lock
 from newsagg.seen import Seen
 
@@ -163,7 +163,19 @@ def cmd_publish(cfg: config.Config) -> None:
     pages.publish(cfg)
 
 
-COMMANDS = {"run": run_once, "publish": cmd_publish, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run}
+def cmd_save_state(cfg: config.Config) -> None:
+    """Push data/'s state files to the state branch (GitHub Actions, after a run)."""
+    state.save()
+
+
+def cmd_load_state(cfg: config.Config) -> None:
+    """Fetch the state branch into data/ (GitHub Actions, before a run; or locally, to
+    continue from the last Actions run)."""
+    state.load()
+
+
+COMMANDS = {"run": run_once, "publish": cmd_publish, "serve": cmd_serve, "outlets": cmd_outlets, "eval": evaluate.run,
+            "save-state": cmd_save_state, "load-state": cmd_load_state}
 
 
 def main() -> None:

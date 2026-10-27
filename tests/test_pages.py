@@ -1,6 +1,6 @@
 import subprocess
 
-from newsagg import config, pages
+from newsagg import config, pages, state
 
 
 def test_tree_listing_format():
@@ -25,4 +25,24 @@ def test_publish_pushes_only_site_files(tmp_path, monkeypatch):
     count = subprocess.run(["git", "--git-dir", str(remote), "rev-list", "--count", "gh-pages"],
                            capture_output=True, text=True, check=True).stdout.strip()
     assert files == [".nojekyll", "index.html", "news.json"]
+    assert count == "1"
+
+
+def test_state_round_trip_through_a_remote(tmp_path):
+    remote = tmp_path / "remote.git"
+    subprocess.run(["git", "init", "--bare", "-q", str(remote)], check=True)
+    before, after = tmp_path / "before", tmp_path / "after"
+    before.mkdir()
+    (before / "seen.db").write_bytes(b"SQLite\x00\r\n\x01")        # binary, with a CR LF to keep
+    (before / "iffy.csv").write_text("domain\nexample.com\n")
+    (before / "notes.txt").write_text("not state")
+    assert state.load(remote=str(remote), data=after) is False    # no state branch yet
+    state.save(remote=str(remote), data=before)
+    state.save(remote=str(remote), data=before)                   # replaces, doesn't stack
+    assert state.load(remote=str(remote), data=after) is True
+    assert sorted(p.name for p in after.iterdir()) == ["iffy.csv", "seen.db"]
+    assert (after / "seen.db").read_bytes() == b"SQLite\x00\r\n\x01"
+    assert (after / "iffy.csv").stat().st_mtime == 0              # so the blocklist refreshes
+    count = subprocess.run(["git", "--git-dir", str(remote), "rev-list", "--count", "state"],
+                           capture_output=True, text=True, check=True).stdout.strip()
     assert count == "1"
