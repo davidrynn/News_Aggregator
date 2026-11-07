@@ -1,0 +1,8 @@
+https://data.gdeltproject.org/gdeltv2/20261107093000.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107094500.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107100000.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107101500.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107103000.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107104500.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107110000.gkg.csv.zip
+https://data.gdeltproject.org/gdeltv2/20261107111500.gkg.csv.zip
