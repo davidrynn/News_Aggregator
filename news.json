@@ -1,0 +1,2512 @@
+{
+ "generated_at": "2026-11-07T11:09:37Z",
+ "version": 1,
+ "stories": [
+  {
+   "id": "3284095eed7875361b8e1300c113ef14c5e483ae",
+   "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – live",
+   "url": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/ea6a1228985c75548960879b1e07ce091681abe5/322_234_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=50e2936ab2cf39c0fdf76e1fb1df7301",
+   "description": "Dublin-Rome flight lands in French military base, while threats also reported in Italy, Czechia, Bulgaria and Belgium",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.66,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 79,
+   "also_reported_by": [
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/07/hoax-bomb-threats-flights-europe.html"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261106-chaos-within-aviation-industry-as-european-air-traffic-hit-by-bomb-threats"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3373611/clock-ticking-european-tv-channels-targeted-wave-hoax-bomb-threats"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032612/europe-flights-hoaxes"
+    },
+    {
+     "outlet": "chronicle.lu",
+     "url": "https://www.chronicle.lu/category/international/64487-newsroom-bomb-threats-follow-escalating-european-flight-hoaxes"
+    },
+    {
+     "outlet": "naharnet.com",
+     "url": "https://www.naharnet.com/stories/en/323599-european-air-traffic-targeted-by-several-new-threats-after-week-of-hoaxes"
+    },
+    {
+     "outlet": "bozemandailychronicle.com",
+     "url": "http://www.bozemandailychronicle.com/wire/business/what-to-know-about-the-hoax-bomb-threats-that-targeted-flights-in-europe/article_ae5f7d29-df49-5889-a6fd-d852ba3dc058.html"
+    },
+    {
+     "outlet": "winnipegfreepress.com",
+     "url": "https://www.winnipegfreepress.com/business/2026/11/07/what-to-know-about-the-hoax-bomb-threats-that-targeted-flights-in-europe"
+    }
+   ]
+  },
+  {
+   "id": "ecc207cd418c35db5bb8d214b819dced1b9d3bb9",
+   "title": "Russia launches missile attack on Kyiv, injuring residents",
+   "url": "https://www.aljazeera.com/news/2026/11/7/russia-launches-missile-attack-on-kyiv-injuring-residents?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aee9afba7bdd-1794022139.jpg?resize=1920%2C1440",
+   "description": "Air strikes damage buildings and injure two civilians after Zelenskyy warns of potential for new attacks.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.63,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 76,
+   "also_reported_by": [
+    {
+     "outlet": "themoscowtimes.com",
+     "url": "https://www.themoscowtimes.com/2026/11/07/russia-pounds-power-facilities-around-kyiv-damages-major-bridge-a94198"
+    },
+    {
+     "outlet": "rferl.org",
+     "url": "https://www.rferl.org/a/russia-strikes-kyiv-ukraine-trilateral-talks/33892815.html"
+    },
+    {
+     "outlet": "dailysabah.com",
+     "url": "https://www.dailysabah.com/world/europe/russian-missiles-damage-kyiv-bridge-disrupt-power-heating-water"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us"
+    },
+    {
+     "outlet": "kyivpost.com",
+     "url": "https://www.kyivpost.com/post/89424"
+    },
+    {
+     "outlet": "kathmandupost.com",
+     "url": "https://kathmandupost.com/world/2026/11/07/russia-says-it-hit-targets-in-and-around-kyiv-in-massive-overnight-strike"
+    },
+    {
+     "outlet": "countypress.co.uk",
+     "url": "https://www.countypress.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/"
+    },
+    {
+     "outlet": "northsomersettimes.co.uk",
+     "url": "https://www.northsomersettimes.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/"
+    },
+    {
+     "outlet": "royston-crow.co.uk",
+     "url": "https://www.royston-crow.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/"
+    },
+    {
+     "outlet": "freepressseries.co.uk",
+     "url": "https://www.freepressseries.co.uk/news/national/26708354.kyiv-hit-missiles-ukraine-prepares-talks-russia-us/"
+    }
+   ]
+  },
+  {
+   "id": "551fb86c6f7987cf418fac33f47de09e4df83537",
+   "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+   "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T10:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/d9bf9f9b9523e26c98269088295afe0101408a09/745_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=284bff972880f241577f2f12b909e083",
+   "description": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security law",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.39,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 58,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3373335/joshua-wong-jailed-10-years-over-bid-instigate-sanctions-beijing-hong-kong"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com/china/hong-kong-lawmakers-condemn-foreign-governments-criticism-joshua-wong-ruling"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "lufkindailynews.com",
+     "url": "https://lufkindailynews.com/news_reuters/top_news/hong-kongs-joshua-wong-from-teenage-protest-leader-to-a-decade-behind-bars/article_d64cf141-7921-5406-860e-a0facd7e8203.html"
+    },
+    {
+     "outlet": "dailymirror.lk",
+     "url": "https://www.dailymirror.lk/international/Joshua-Wong-face-of-Hong-Kongs-pro-democracy-protests-jailed-for-10-years/107-354246"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-more-years/a-79859898?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152032/hong-kong-activist-wong-sentenced"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/05/asia-pacific/politics/joshua-wong-hong-kong-democracy-prison/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": "e05dd74602c00f9d3223138579af5ebec76dab56",
+   "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+   "url": "https://www.japantimes.co.jp/business/2026/10/30/markets/binance-suspected-hack/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-06T08:25:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/30/571366.JPG",
+   "description": "Cryptocurrency prices fell on the news, while Binance halted withdrawals and said it would cover the losses.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 19.99,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 127,
+   "also_reported_by": [
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "hani.co.kr",
+     "url": "https://english.hani.co.kr/arti/english_edition/e_northkorea/1285383.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/02/binance-outflow-hack-bitcoin.html"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/asia-pacific/20261102-north-korea-rejects-us-allegations-over-6-billion-binance-crypto-heist"
+    },
+    {
+     "outlet": "claimsjournal.com",
+     "url": "https://www.claimsjournal.com/news/national/2026/11/02/341066.htm"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.newyorktelegraph.com/news/279405102/binance-hit-by-usd6-3-billion-hack-blamed-on-north-korea"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/business/cryptocurrency/article/3372910/binance-sees-spike-withdrawals-exchange-returns-online-after-us63-billion-hack"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/fbi-says-north-korea-was-behind-6-3-billion-binance-heist-the-biggest-crypto-hack-in-history"
+    }
+   ]
+  },
+  {
+   "id": "7a40a4a0cb2ed25515a9e3ab70055eae4b050112",
+   "title": "Americans to vote in US midterms: Trump's Republicans scramble to stop Democratic wave",
+   "url": "https://www.france24.com/en/video/20261103-americans-to-vote-in-us-midterms-trump-s-republicans-scramble-to-stop-democratic-wave",
+   "outlet": "france24.com",
+   "published_at": "2026-11-06T00:43:45Z",
+   "image": "https://s.france24.com/media/display/56a7f5d4-d76c-11f1-a52a-1beafce15fea/w:1024/p:16x9/EN-20261103-100207-100329-CS.jpg",
+   "description": "Republicans made a final push to avoid a predicted thumping in the US midterm elections, as Democrats seek to win control of Congress. A Democratic-controlled House would impose the first real political…",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 19.97,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 123,
+   "also_reported_by": [
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/04/senate-republicans-trump-midterm-elections"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://600kcol.iheart.com/content/2026-11-05-hakeem-jeffries-launches-bid-for-house-speaker-role/"
+    },
+    {
+     "outlet": "worthynews.com",
+     "url": "https://www.worthynews.com/118737-jeffries-launches-bid-for-house-speaker-vows-to-end-iran-war-as-trump-faces-january-deadline"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/democrats-state-legislatures-midterm-elections"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/04/us/politics/state-legislatures-democrats-midterm-election.html"
+    },
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/world/5337826-democratic-blue-wave-swept-through-state-capitals-across-us"
+    },
+    {
+     "outlet": "wjct.org",
+     "url": "https://news.wjct.org/elections/2026-11-05/the-south-flexes-political-power-in-midterms-sets-regional-influence-in-2028-election"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6029818/blue-wave-south-carolina-georgia-mississippi-texas"
+    },
+    {
+     "outlet": "wsiu.org",
+     "url": "https://www.wsiu.org/politics-elections/2026-11-05/the-south-flexes-political-power-in-midterms-sets-regional-influence-in-2028-election"
+    },
+    {
+     "outlet": "kvpr.org",
+     "url": "https://www.kvpr.org/npr-news/2026-11-05/the-south-flexes-political-power-in-midterms-sets-regional-influence-in-2028-election"
+    }
+   ]
+  },
+  {
+   "id": "c7e474119e67134e64c08251ed5d4fdcd7c20fb7",
+   "title": "Democrats win House majority with Trump approval at historic low",
+   "url": "https://www.cbsnews.com/live-updates/house-election-results-2026/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/04/e0aa6645-c735-473e-ab3f-481fda3fd14c/thumbnail/1200x630g3/13efd6c48b9a8ae69b073a71f63d9c4c/gettyimages-2283164137.jpg",
+   "description": "Democrats won control of the House in the 2026 midterm elections, CBS News projects, with victories in battleground districts across the country.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 19.8,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 24,
+   "also_reported_by": [
+    {
+     "outlet": "finchannel.com",
+     "url": "https://finchannel.com/democrats-take-congress-in-2026-midterm-elections-setting-up-a-new-test-for-trump/140454/americas/america/2026/11/"
+    },
+    {
+     "outlet": "politico.com",
+     "url": "https://www.politico.com/news/2026/11/06/poll-republicans-democrats-divided-elections-01152054"
+    },
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/06/why-democrats-midterm-landslide-helps-hospital-industry/?utm_campaign=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/midterm-voters-rebuke-trump-handing-democrats-both-chambers-of-congress"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261106-us-republicans-face-reckoning-after-major-midterm-election-defeat"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/04/trump-ballroom-focus-2026-midterm-election"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/live/2026/11/04/us/midterm-election-results-democrats/a-day-after-a-stinging-midterm-defeat-trump-focuses-on-his-ballroom"
+    },
+    {
+     "outlet": "artnews.com",
+     "url": "https://www.artnews.com/art-news/news/trump-ballroom-midterm-elections-democrat-victory-1234804697/"
+    }
+   ]
+  },
+  {
+   "id": "70ae670eed74013745dda75270a882fddf3f9b8a",
+   "title": "Kenyan cult leader sentenced to 200 years in prison",
+   "url": "https://www.france24.com/en/kenyan-cult-leader-sentenced-to-200-years-in-prison",
+   "outlet": "france24.com",
+   "published_at": "2026-11-07T10:30:00Z",
+   "image": "https://s.france24.com/media/display/70a84f88-da28-11f1-a6e4-695cb59fade5/w:1024/p:16x9/capture-1380a6db.jpg",
+   "description": "In tonight's edition, cult leader Paul Mackenzie is sentenced to 200 years in prison for the murder of 190 children starved ‌to death on his orders. Also, in South Africa, activists warn that new data…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.97,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "kenya-today.com",
+     "url": "https://kenya-today.com/report-preacher-paul-nthenge-mackenzie-receives-200year-jail-term-for-shakahola-forest-killings-23262/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/world/africa/kenya-cult-leader-prison-sentence-mass-murder-paul-mackenzie.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032593/kenya-cult-leader-paul-mackenzie-sentenced-murder"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "gdnonline.com",
+     "url": "https://www.gdnonline.com:443/Details/1412123/200-years-in-prison-for-Kenyan-cult-leader-who-murdered-190-children"
+    },
+    {
+     "outlet": "dailysabah.com",
+     "url": "https://www.dailysabah.com/world/africa/kenya-sentences-cult-leader-to-200-years-over-shakahola-massacre"
+    }
+   ]
+  },
+  {
+   "id": "fb30c972dfd047fdefa3e5af98f3abbb587a306e",
+   "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+   "url": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-07T10:45:00Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108539426-1794035113546-gettyimages-2303901733-sc1_6555_6vbyy1aj.jpeg?v=1794035124&w=1920&h=1080",
+   "description": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.89,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3373633/trump-confirms-fresh-iran-strikes-days-after-voters-punish-war-polls"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says"
+    },
+    {
+     "outlet": "heraldgoa.in",
+     "url": "https://www.heraldgoa.in/goa/us-launches-limited-military-strike-on-iran-trump-confirms-attack-on-air-defence-system/494882/"
+    },
+    {
+     "outlet": "sana.sy",
+     "url": "https://sana.sy/en/international/2356705/"
+    },
+    {
+     "outlet": "bgnes.com",
+     "url": "http://www.bgnes.com/conflicts/trump-us-launches-new-strikes-against-iran"
+    }
+   ]
+  },
+  {
+   "id": "39debc7b0cc0485169ab1565a116c80ed9afeeb5",
+   "title": "Dozens killed, dozens more missing after Russian strike on Ukrainian aid site",
+   "url": "https://www.france24.com/en/video/20261103-dozens-killed-dozens-more-missing-after-russian-strike-on-ukrainian-aid-site",
+   "outlet": "france24.com",
+   "published_at": "2026-11-06T10:15:12Z",
+   "image": "https://s.france24.com/media/display/1693306a-d773-11f1-8e56-bf1914cabd52/w:1024/p:16x9/EN-20261103-102136-102456-CS.jpg",
+   "description": "The death toll from a Russian attack in southern Ukraine on a site where people had gathered to receive humanitarian aid rose to 29 on Tuesday, with 48 still missing, as a wave of overnight strikes targeted…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.66,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 20,
+   "also_reported_by": [
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/zelenskyy-on-his-emotional-relationship-with-trump-and-fighting-russia"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "rte.ie",
+     "url": "https://www.rte.ie/news/2026/1103/1597730-ukraine/"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/nov/03/russia-bombs-ukrainian-aid-centre-komyshuvakha"
+    },
+    {
+     "outlet": "stcatharinesstandard.ca",
+     "url": "https://www.stcatharinesstandard.ca/news/world/europe/death-toll-hits-29-after-russian-strike-on-ukrainian-aid-site-with-48-still-missing/article_deef0cef-f0d1-5e12-a7a0-2a4f5f570b07.html"
+    },
+    {
+     "outlet": "goshennews.com",
+     "url": "https://www.goshennews.com/news/national_news/death-toll-hits-29-after-russian-strike-on-ukrainian-aid-site-with-48-still-missing/article_90809cc5-708f-546e-97ad-6064eaf56ecf.html"
+    },
+    {
+     "outlet": "idahopress.com",
+     "url": "http://www.idahopress.com/news/world/death-toll-hits-29-after-russian-strike-on-ukrainian-aid-site-with-48-still-missing/article_a4d8f461-322b-550c-af47-fe4a754497b6.html"
+    }
+   ]
+  },
+  {
+   "id": "950c4f4fdcb72881655d5bfeb472c8880f3e3388",
+   "title": "California governor says commuting all death sentences in state",
+   "url": "https://www.france24.com/en/video/20261106-california-governor-says-commuting-all-death-sentences-in-state",
+   "outlet": "france24.com",
+   "published_at": "2026-11-06T10:45:00Z",
+   "image": "https://s.france24.com/media/display/0fd78a96-d9c6-11f1-b5f2-a575454bc579/w:1024/p:16x9/capture-61e1f7e1.jpg",
+   "description": "California Governor Gavin Newsom said Thursday, November 5, he was commuting all death sentences across the state to life imprisonment, in a move that will affect over 500 prisoners. FRANCE 24's correspondent…",
+   "topic": "us",
+   "kind": "wire_copy",
+   "score": 18.45,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 15,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/gavin-newsom-california-death-row-commuted-life-in-prison/"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/06/world/crime-legal/california-death-row-clemency/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/us/california-death-row-newsom-commutation.html"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/california-governor-commutes-all-death-sentences-272966213517"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/newsom-plans-to-commute-all-of-californias-death-sentences"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373467/california-governor-newsom-granting-clemency-all-548-death-row-inmates-state"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/05/newsom-california-death-penalty-2028"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/gavin-newsom-commutes-death-sentences-california"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
+   "id": "64803e70f0a4d3102a27a8622586eae99655aa3c",
+   "title": "Triumphal Arch Set to Win Final Approval Despite Court Challenges",
+   "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-07T03:08:58Z",
+   "image": "https://static01.nyt.com/images/2026/09/24/multimedia/05dc-arch/24dc-trump-security-p1-gwmp-mediumSquareAt3X.jpg",
+   "description": "President Trump’s 250-foot arch project is expected to win approval on Thursday from a federal planning board. Court action and Democrats’ upcoming control of Congress could halt the plans.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 18.25,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 72,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/administration/6202351-ncpc-approves-trump-arch/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/key-federal-panel-expected-to-approve-trumps-arch-amid-court-challenge"
+    },
+    {
+     "outlet": "santafenewmexican.com",
+     "url": "https://www.santafenewmexican.com/news/national_and_world_news/key-federal-panel-is-expected-to-approve-trumps-arch-while-its-being-challenged-in-court/article_1d8397d8-4176-54f3-a874-41f28bf985f8.html"
+    },
+    {
+     "outlet": "arkansasonline.com",
+     "url": "https://www.arkansasonline.com/news/2026/nov/06/federal-panel-approves-plans-for-trumps-arch/"
+    },
+    {
+     "outlet": "artnews.com",
+     "url": "https://www.artnews.com/art-news/news/trump-convenes-final-review-for-triumphal-arch-1234804804/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/vietnam-vet-leading-opposition-trumps-arch-calls-frankly/story?id=137885182"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/us-judge-temporarily-blocks-trump-s-arch-project-after-panel-approval/a-79871690?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "abc13.com",
+     "url": "https://abc13.com/story/judge-blocks-trump-arch-hours-federal-panel-approval/20019728/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington"
+    },
+    {
+     "outlet": "aol.com",
+     "url": "https://www.aol.com/articles/key-federal-panel-expected-approve-131926000.html"
+    }
+   ]
+  },
+  {
+   "id": "1e50bc6089cb30b6262377a2468180f65bf7d52c",
+   "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+   "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-06T21:06:25Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-06T034054Z_476490639_RC22IOARUHVY_RTRMADP_3_GLOBAL-MARKETS-1793950968.jpg?resize=1920%2C1440",
+   "description": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 18.04,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 76,
+   "also_reported_by": [
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3373478/post-us-midterms-ai-worries-pummel-shares-japan-south-korea"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/business/markets/global-markets-tech-stocks-ai-midterms-democrats-asia-europe-rcna607794"
+    },
+    {
+     "outlet": "surreycomet.co.uk",
+     "url": "https://www.surreycomet.co.uk/news/national/26704363.global-markets-tumble-us-tech-stock-sell-off/"
+    },
+    {
+     "outlet": "bucksfreepress.co.uk",
+     "url": "https://www.bucksfreepress.co.uk/news/national/26704363.global-markets-tumble-us-tech-stock-sell-off/"
+    },
+    {
+     "outlet": "yorkpress.co.uk",
+     "url": "https://www.yorkpress.co.uk/news/national/26704497.global-market-downturn-spreads-uk-europe-amid-tech-sell-off/"
+    },
+    {
+     "outlet": "dailyecho.co.uk",
+     "url": "https://www.dailyecho.co.uk/news/national/26704363.global-markets-tumble-us-tech-stock-sell-off/"
+    },
+    {
+     "outlet": "thurrockgazette.co.uk",
+     "url": "https://www.thurrockgazette.co.uk/news/national/26704497.global-market-downturn-spreads-uk-europe-amid-tech-sell-off/"
+    },
+    {
+     "outlet": "theboltonnews.co.uk",
+     "url": "https://www.theboltonnews.co.uk/news/national/26704497.global-market-downturn-spreads-uk-europe-amid-tech-sell-off/"
+    },
+    {
+     "outlet": "hexham-courant.co.uk",
+     "url": "https://www.hexham-courant.co.uk/news/national/26704497.global-market-downturn-spreads-uk-europe-amid-tech-sell-off/"
+    }
+   ]
+  },
+  {
+   "id": "46dde36fc0fba47aab676dd22aafc4f6a050c1f0",
+   "title": "Democrats win Senate control — live updates",
+   "url": "https://www.cbsnews.com/live-updates/senate-election-results-2026/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-06T16:41:05Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/04/2e5ec5ee-cf73-4788-b372-4e7c92ebbe2d/thumbnail/1200x630/1ca6035b3f7d3d5c01e834494de39096/untitled-design-2026-11-04t123232-605.jpg",
+   "description": "Democrats were able to pick up the seats needed to gain control of the Senate, CBS News projects, and the party scored several upset victories in red states.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 18.02,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/03/world/us-midterms-trump-iran-ukraine.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/04/five-biggest-shocks-democrats-midterm-results"
+    },
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/03/midterm-elections-what-democratic-control-senate-means-healthcare/?utm_campaign=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/democratic-and-gop-strategists-on-how-parties-should-respond-to-midterm-results"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/democrats-take-house-and-senate-in-historic-midterm-win-272884293564"
+    }
+   ]
+  },
+  {
+   "id": "0f87c4499652eff120afe2e54e582d7ebe70c0e2",
+   "title": "Democrats win full control of more state governments and the Texas House",
+   "url": "https://www.pbs.org/newshour/politics/democrats-win-full-control-of-more-state-governments-and-the-texas-house",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-06T10:03:37Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T204140Z_175742761_RC2TGOAKVP8J_RTRMADP_3_USA-ELECTION-STATES-1024x683.jpg",
+   "description": "Democrats in Texas took control of the state House after historic wins for governor and U.S. Senate, part of a series of sweeping gains nationwide in Tuesday’s elections that shifted the balance of power across several battleground and Republican-leaning states.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 18.0,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/us/texas-democrats-statewide-sweep.html"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/"
+    },
+    {
+     "outlet": "insideclimatenews.org",
+     "url": "https://insideclimatenews.org/news/04112026/texas-blue-wave-data-centers/"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/local/austin/2026/11/04/how-texas-went-democratic"
+    },
+    {
+     "outlet": "oneidadispatch.com",
+     "url": "https://www.oneidadispatch.com/2026/11/04/election-2026-state-legislatures/"
+    },
+    {
+     "outlet": "journal-advocate.com",
+     "url": "https://www.journal-advocate.com/2026/11/04/election-2026-state-legislatures/"
+    },
+    {
+     "outlet": "politico.com",
+     "url": "https://www.politico.com/news/2026/11/03/democrats-sweep-texas-01147637"
+    }
+   ]
+  },
+  {
+   "id": "78cf161095115e578780b957f4006c51e309d88f",
+   "title": "Yemen: 30 dead in strikes on Taiz market",
+   "url": "https://www.france24.com/en/yemen-30-dead-in-strikes-on-taiz-market",
+   "outlet": "france24.com",
+   "published_at": "2026-11-07T10:45:00Z",
+   "image": "https://s.france24.com/media/display/9da14e8a-da8d-11f1-9c90-bf1914cabd52/w:1024/p:16x9/EN-20261107-090700-090851-CS.jpg",
+   "description": "At least 30 people have reportedly been killed in an attack on a market in Yemen’s Taiz province, with Houthi rebels blaming Saudi airstrikes. Government forces and local authorities have disputed the…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.98,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "outlookindia.com",
+     "url": "https://www.outlookindia.com/international/yemen-taiz-market-strikes-houthis-government-forces-blame-saudi-arabia"
+    }
+   ]
+  },
+  {
+   "id": "6d05409d909fd90d592c02cc38f56bf53ce9ac27",
+   "title": "Mass protests sweep France as huge crowds demand higher wages",
+   "url": "https://www.france24.com/en/video/20261106-mass-protests-sweep-france-as-huge-crowds-demand-higher-wages",
+   "outlet": "france24.com",
+   "published_at": "2026-11-06T16:13:55Z",
+   "image": "https://s.france24.com/media/display/20db6206-d9c4-11f1-ac7f-1beafce15fea/w:1024/p:16x9/EN-20261106-100159-100338-CS.jpg",
+   "description": "Hundreds of thousands of striking workers protested across France on Thursday, November 5, against the rising cost of living following weeks of youth-led demonstrations, with police firing tear gas as…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.87,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 20,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/video/137873444/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/nov/05/protesters-france-march-strikes-education-cost-of-living"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/france-protest-budget-impasse/"
+    },
+    {
+     "outlet": "chronicle.lu",
+     "url": "https://www.chronicle.lu/category/international/64439-france-faces-new-protests-as-macron-seeks-to-prevent-repeat-of-october-unrest"
+    },
+    {
+     "outlet": "bworldonline.com",
+     "url": "https://bworldonline.com/world/2026/11/05/791679/france-faces-new-protests-as-macron-seeks-to-prevent-repeat-of-october-unrest/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html"
+    },
+    {
+     "outlet": "the-star.co.ke",
+     "url": "https://www.the-star.co.ke/news/world/2026-11-05-france-gears-up-for-strikes-and-protests-as-unions-promise-national-mobilisation"
+    },
+    {
+     "outlet": "naharnet.com",
+     "url": "https://www.naharnet.com/stories/en/323562-french-unions-unite-for-nationwide-strikes-piling-more-pressure-on-govt"
+    },
+    {
+     "outlet": "clickorlando.com",
+     "url": "https://www.clickorlando.com/business/2026/11/05/french-unions-unite-for-nationwide-strikes-piling-more-pressure-on-macrons-government/"
+    },
+    {
+     "outlet": "niagarafallsreview.ca",
+     "url": "https://www.niagarafallsreview.ca/business/french-unions-unite-for-nationwide-strikes-piling-more-pressure-on-macron-s-government/article_4741502b-802f-5670-af74-25e2a116665a.html"
+    }
+   ]
+  },
+  {
+   "id": "9825fa624d1cde13ce14b9e0733fb0b99e1cdb84",
+   "title": "Trump makes hard-liner Stephen Miller his chief of staff after midterm defeat",
+   "url": "https://www.japantimes.co.jp/news/2026/11/07/world/politics/trump-stephen-miller-chief-of-staff/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572845.jpg",
+   "description": "Miller, who will replace Susie Wiles, assumes the role as the president prepares to confront a Democratic-led House of Representatives and Senate.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 17.8,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 24,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/administration/6205824-tillis-slams-trump-miller-hire/"
+    },
+    {
+     "outlet": "politico.com",
+     "url": "https://www.politico.com/news/2026/11/06/gop-reckoning-trump-midterms-stephen-miller-01154760"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/trump-said-to-expect-firings-hours-later-he-announced-susie-wiles-departure/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/susie-wiles-white-house-resignation"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/trump-names-stephen-miller-his-next-chief-of-staff-after-major-republican-midterm-losses"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "krwg.org",
+     "url": "https://www.krwg.org/shows/newshour/clip/maga-agenda-1793993486"
+    },
+    {
+     "outlet": "egyptindependent.com",
+     "url": "https://www.egyptindependent.com/trump-goes-full-trump-with-his-new-chief-of-staff-pick/"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/stephen-miller-named-as-new-white-house-chief-of-staff-273042501821"
+    }
+   ]
+  },
+  {
+   "id": "1443d6af9b059965b9272fc2e21ffa5b4640ca97",
+   "title": "Wisconsin reports measles death of a baby, first death in over 35 years",
+   "url": "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+   "outlet": "arstechnica.com",
+   "published_at": "2026-11-06T17:06:32Z",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/03/GettyImages-2202122534-1152x648.jpg",
+   "description": "Next week, experts will determine if the US has lost its measles elimination status.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 17.75,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/05/child-dies-measles-wisconsin-first-death-since-1990/?utm_campaign=rss"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/health/health-news/wisconsin-measles-death-us-third-week-rcna607701"
+    },
+    {
+     "outlet": "arkansasonline.com",
+     "url": "https://www.arkansasonline.com/news/2026/nov/06/wisconsin-logs-measles-fatality/"
+    }
+   ]
+  },
+  {
+   "id": "f781f078a8bb89282d35f13355936dbf5879b4d6",
+   "title": "Trump Says He Met With a Senior Russian Official on a Ukraine Peace Deal",
+   "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-russian-official-ukraine-peace-deal.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-07T11:00:00Z",
+   "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05dc-trump-russia-bchv/05dc-trump-russia-bchv-mediumSquareAt3X.jpg",
+   "description": "President Trump said the deal “might involve all of Europe.” He indicated he had met with a Kremlin envoy whom Melania Trump hosted at the White House on Thursday.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.58,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 18,
+   "also_reported_by": [
+    {
+     "outlet": "1290wlby.com",
+     "url": "https://www.1290wlby.com/2026/11/07/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "wmal.com",
+     "url": "https://www.wmal.com/2026/11/07/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "kmjnow.com",
+     "url": "https://www.kmjnow.com/2026/11/06/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "980waav.com",
+     "url": "https://www.980waav.com/2026/11/07/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "myeaglecountry.com",
+     "url": "https://www.myeaglecountry.com/2026/11/06/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "kotaradio.com",
+     "url": "https://www.kotaradio.com/2026/11/06/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "1490wosh.com",
+     "url": "https://www.1490wosh.com/2026/11/07/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "kynt1450.com",
+     "url": "https://www.kynt1450.com/2026/11/07/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "kxly920.com",
+     "url": "https://kxly920.com/2026/11/06/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    },
+    {
+     "outlet": "1090kaay.com",
+     "url": "https://www.1090kaay.com/2026/11/07/trump-announces-possible-europe-wide-security-deal-after-meeting-putins-envoy/"
+    }
+   ]
+  },
+  {
+   "id": "2500911794044633f9aab6ddbf982a7250095ae8",
+   "title": "U.S. on verge of losing measles elimination status as number of cases grows",
+   "url": "https://www.nbcnews.com/video/u-s-on-verge-of-losing-measles-elimination-status-as-number-of-cases-grows-273037893563",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-07T00:56:46Z",
+   "image": "https://prodamdnewsencoding.akamaized.net/NBC_News_Digital/now_hallie_measles_cases_rise_261106/1/abs/index.m3u8",
+   "description": "The United States is on the verge of losing its measles elimination status as cases top 5,000 nationwide for the first time in more than three decades. Pennsylvania, New York and Wisconsin have all reported measles-related deaths this week.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 17.57,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/newsletters/healthcare/6205697-us-mexico-measles-status-review/"
+    }
+   ]
+  },
+  {
+   "id": "6da1f10b9d2e06df039ebb82d86b4c92ad1d8736",
+   "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+   "url": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T10:45:00Z",
+   "image": "https://i.guim.co.uk/img/media/e3e106cee8c7a119858472afd76f5d130e4d43b6/1722_527_3180_2545/master/3180.jpg?width=140&quality=85&auto=format&fit=max&s=c72bd7888aaa9fe83477f32594d1988a",
+   "description": "Trump still considering new assault on Iran nuclear sites – though threats less credible after Vance remarks",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.28,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "khaama.com",
+     "url": "https://www.khaama.com/trump-hormuz-reopening-us-strikes-iran/"
+    },
+    {
+     "outlet": "outlookindia.com",
+     "url": "https://www.outlookindia.com/international/us-iran-war-latest-us-strikes-qatar-nuclear-talks-strait-of-hormuz"
+    }
+   ]
+  },
+  {
+   "id": "b412a7bb391e81072ce0f1958ce1f14d1f26935a",
+   "title": "U.S. offers $20 million for information on Iran's nuclear program",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-hormuz-persian-gulf/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/7b783dcb-c262-43f1-bb70-4053ccc1a0f9/thumbnail/1200x630/794dd8c2f97817e8798a75fa02c765a4/gettyimages-2303905406.jpg",
+   "description": "The Rewards for Justice program says it is offering a reward for information pertaining to Iran's nuclear facilities, equipment and personnel.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.23,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-11-07/us-20-million-rewards-for-justice-iran-nuclear-program-details/107359156"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373625/irans-nuclear-programme-us-offers-us20-million-reward-information"
+    },
+    {
+     "outlet": "standardmedia.co.ke",
+     "url": "https://www.standardmedia.co.ke/world/article/2001561762/us-offers-20-million-reward-for-info-on-irans-nuclear-program"
+    },
+    {
+     "outlet": "naharnet.com",
+     "url": "https://www.naharnet.com/stories/en/323621-us-offers-20-million-reward-for-info-on-iran-s-nuclear-program"
+    },
+    {
+     "outlet": "jpost.com",
+     "url": "http://www.jpost.com/middle-east/iran-news/article-914113"
+    },
+    {
+     "outlet": "opinionnigeria.com",
+     "url": "https://www.opinionnigeria.com/us-announces-20m-reward-for-information-on-irans-nuclear-programme/"
+    },
+    {
+     "outlet": "omanobserver.om",
+     "url": "https://www.omanobserver.om/article/1199232/world/region/us-offers-20-mn-reward-for-info-on-irans-nuclear-program-centcom"
+    },
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/world/5338498-washington-offers-20-million-reward-information-irans-nuclear-program"
+    },
+    {
+     "outlet": "newstodaynet.com",
+     "url": "https://newstodaynet.com/2026/11/07/us-offers-20m-bounty-for-iran-n-intel/"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.arabherald.com/news/279418245/us-offers-20-million-reward-for-information-on-iran-nuclear-program"
+    }
+   ]
+  },
+  {
+   "id": "b97c28aed7d995908120e0896f9c9ca9e9a22b7d",
+   "title": "Armed man arrested near White House planned to kill Trump, DHS says",
+   "url": "https://www.cbsnews.com/news/armed-man-arrested-near-white-house-secret-service-trump/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-07T10:45:00Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/95c8e782-242c-423c-a151-f7d70908f6a3/thumbnail/1200x630/3ab616383880202f31895e00b1ac91b1/unnamed.jpg",
+   "description": "Secret Service officers found three weapons in the vehicle of the suspect, who allegedly told officers he had heard voices in his head telling him to come to Washington and assassinate the president.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.21,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/US/man-arrested-after-secret-service-finds-parked-white/story?id=137930505"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/secret-service-man-in-custody-trump"
+    },
+    {
+     "outlet": "euronews.com",
+     "url": "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/news/us-news/venezuelan-man-said-voices-told-kill-trump-arrested-white-house-dhs-sa-rcna607943"
+    },
+    {
+     "outlet": "udaipurkiran.com",
+     "url": "https://udaipurkiran.com/venezuelan-arrested-near-white-house-after-threatening-trump/"
+    },
+    {
+     "outlet": "jpost.com",
+     "url": "http://www.jpost.com/international/article-914111"
+    },
+    {
+     "outlet": "khaama.com",
+     "url": "https://www.khaama.com/venezuelan-man-arrested-near-white-house-trump-threat/"
+    },
+    {
+     "outlet": "oneindia.com",
+     "url": "https://www.oneindia.com/international/kill-trump-venezuelan-man-arrested-near-white-house-with-weapons-over-alleged-assassination-threa-8253563.html"
+    },
+    {
+     "outlet": "metro.co.uk",
+     "url": "https://metro.co.uk/2026/11/07/venezuelan-man-arrested-near-white-house-voices-told-kill-trump-29773321/"
+    },
+    {
+     "outlet": "pajhwok.com",
+     "url": "https://pajhwok.com/2026/11/07/armed-man-arrested-near-white-house-over-alleged-threat-to-kill-trump/"
+    }
+   ]
+  },
+  {
+   "id": "e2548616f447c1ce42df3940cf0ae58eda4bf136",
+   "title": "In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+   "url": "https://www.nature.com/articles/s41586-026-11233-9",
+   "outlet": "nature.com",
+   "published_at": "2026-11-06T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 06 November 2026; doi:10.1038/s41586-026-11233-9 In Vivo CRISPR Base Editing of ANGPTL3 for Durable Lipid Lowering",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 17.03,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "b12e47fea15b919d67bb4d64c664fde56164dc28",
+   "title": "Live: European stocks plunge after US midterm election results shock markets",
+   "url": "https://www.france24.com/en/americas/20261106-live-european-stocks-plunge-after-us-midterm-election-results-shock-markets",
+   "outlet": "france24.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://s.france24.com/media/display/d71b2db8-d9be-11f1-82d6-a575454bc579/w:1024/p:16x9/2026-11-05T161457Z-54596775-RC2QHOA0MWI0-RTRMADP-3-EUROPE-STOCKS.jpg",
+   "description": "European shares tumbled on Friday as global investors grappled with uncertainty over AI stocks, following the Democrats’ sweeping victory in the US midterm elections. The drop is partly due to fears…",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 17.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/business/2026/nov/05/nasdaq-heading-for-worst-day-in-18-months-as-wall-street-sustains-widespread-losses"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "nuclear-news.net",
+     "url": "https://nuclear-news.net/2026/11/07/4-b1-global-stocks-plunge-as-fears-over-us-ai-slowdown-spread-to-asia-and-europe/"
+    },
+    {
+     "outlet": "pajhwok.com",
+     "url": "https://pajhwok.com/2026/11/07/ai-stocks-fall-amid-fears-of-tighter-us-regulations/"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/stocks-midterm-elections-tech-companies-ai-data-centers/"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Business/dow-plunges-1200-points-shedding-midterm-results-stock/story?id=137880888"
+    }
+   ]
+  },
+  {
+   "id": "e3b7753616eb98bfa030b69f1c89402864a0f0a6",
+   "title": "WATCH: 'Elections matter.' Houston mayor limits police cooperation with ICE",
+   "url": "https://www.pbs.org/newshour/politics/watch-elections-matter-houston-mayor-limits-police-cooperation-with-ice",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-07-10T212336Z_127272881_RC23BMACOHUS_RTRMADP_3_USA-MIGRATION-TEXAS-SHOOTING-1024x683.jpg",
+   "description": "The shift in the nation’s fourth-largest city is one of the first actions to restrict U.S. Immigration and Customs Enforcement operations since Democrats’ rout in Tuesday’s midterm elections.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/state-watch/6205559-houston-mayor-ice-cooperation/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/houston-police-ice-immigration"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/7/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/houston-mayor-curbs-cooperation-of-us-citys-police-with-ice/"
+    },
+    {
+     "outlet": "timesdaily.com",
+     "url": "https://www.timesdaily.com/news/nation/houston-mayor-limits-cooperation-with-ice/article_9036ea7b-9d36-4231-a132-e228b1bd4333.html"
+    },
+    {
+     "outlet": "vanguardngr.com",
+     "url": "https://www.vanguardngr.com/2026/11/houston-mayor-limits-immigration-agents-cooperation-by-police-after-democratic-victory/"
+    }
+   ]
+  },
+  {
+   "id": "fa785fffcec5f960a7db63769bda5689396c67b6",
+   "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+   "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/a77eebbaa9a34c6ba08a7521d0b9d7e55650da11/1666_5_3949_3159/master/3949.jpg?width=140&quality=85&auto=format&fit=max&s=e82620f109a326e6d5b5cff3740166e3",
+   "description": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.91,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 28,
+   "also_reported_by": [
+    {
+     "outlet": "newindianexpress.com",
+     "url": "https://www.newindianexpress.com/world/2026/Nov/07/pedro-alliana-sworn-in-as-paraguay-president-impeached-predecessor-placed-under-house-arrest"
+    },
+    {
+     "outlet": "africanews.com",
+     "url": "https://www.africanews.com/2026/11/07/paraguay-vp-alliana-sworn-is-as-president-after-predecessor-impeached/"
+    },
+    {
+     "outlet": "hawaiitribune-herald.com",
+     "url": "https://www.hawaiitribune-herald.com/2026/11/07/nation-world-news/paraguays-president-removed-over-financial-crisis/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_paraguays-pena-under-house-arrest-061126?traffic_source=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/paraguay-president-pena-resigns-amid-bank-crisis/a-79868484?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "brisbanetimes.com.au",
+     "url": "https://www.brisbanetimes.com.au/world/south-america/how-a-bank-scandal-toppled-a-trusted-trump-ally-20261107-p61c9t.html"
+    },
+    {
+     "outlet": "watoday.com.au",
+     "url": "https://www.watoday.com.au/world/south-america/how-a-bank-scandal-toppled-a-trusted-trump-ally-20261107-p61c9t.html"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/paraguay-president-collapse/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/americas/article/3373623/paraguays-president-pena-impeached-over-ueno-banking-crisis-placed-under-house-arrest"
+    },
+    {
+     "outlet": "standardmedia.co.ke",
+     "url": "https://www.standardmedia.co.ke/world/article/2001561764/crisis-hit-paraguay-impeaches-pena-replaces-him-with-vp-alliana"
+    }
+   ]
+  },
+  {
+   "id": "d71d19fdadd26e37063ae9559762d68270d1a2f0",
+   "title": "President Trump Moves to Make Oval Office a Public Monument",
+   "url": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
+   "outlet": "artnews.com",
+   "published_at": "2026-11-06T20:57:36Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/11/GettyImages-2303717159.jpg?w=1024",
+   "description": "Trump tells reporters that the new designation will prevent future administrations from making major modifications without Congressional approval",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.91,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 16,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/video/2026/nov/06/trump-signs-order-to-make-gold-decorated-oval-office-a-national-monument-video"
+    },
+    {
+     "outlet": "santafenewmexican.com",
+     "url": "https://www.santafenewmexican.com/news/national_and_world_news/trump-signs-proclamation-he-says-will-prevent-future-changes-to-the-oval-office-and-cabinet/article_9450a4de-9f31-53ce-ad42-dd89535a1a15.html"
+    },
+    {
+     "outlet": "bnn-news.com",
+     "url": "https://bnn-news.com/world/trump-signs-new-executive-order-future-presidents-barred-from-altering-the-oval-office-zxjst39"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/trump-proclamation-oval-office-national-monument/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-oval-office-national-monument.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373469/trumps-first-move-after-midterms-ensuring-future-presidents-cant-change-his-oval-office"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/newsletters/energy-environment/6202853-white-house-rooms-national-monuments-trump/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/trump-signs-proclamation-he-says-will-prevent-future-changes-to-oval-office-and-cabinet-room"
+    }
+   ]
+  },
+  {
+   "id": "84518c5d65b35fb50741e970f498edc2cc28b5a2",
+   "title": "2026 election results show widespread opposition to AI data centers",
+   "url": "https://www.scientificamerican.com/article/2026-election-results-show-widespread-opposition-to-ai-data-centers/",
+   "outlet": "scientificamerican.com",
+   "published_at": "2026-11-06T22:25:58Z",
+   "image": "https://static.scientificamerican.com/dam/asset/448ae054-02ac-46f4-830d-288e90609f93/data-center-referendum-election-2026.jpg?m=1793826674.959&w=1200",
+   "description": "Across 10 states this Election Day, voters overwhelmingly backed restrictions on data center development or rejected measures that would have eased their construction",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.87,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/06/open-ai-data-centers-election.html"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/voters-pass-44-ballot-measures-to-restrict-data-centers-on-election-day/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Technology/wireStory/data-centers-beating-midterm-elections-reckoning-ahead-tech-137902293"
+    },
+    {
+     "outlet": "wfmj.com",
+     "url": "https://www.wfmj.com/news/consumer/data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for/article_9fece1f3-d686-5dc0-988a-3d200c4e6334.html"
+    },
+    {
+     "outlet": "ksat.com",
+     "url": "https://www.ksat.com/news/politics/2026/11/06/data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for-tech-giants/"
+    },
+    {
+     "outlet": "dailygazette.com",
+     "url": "https://www.dailygazette.com/the_recorder/ap/business/data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for/article_e6eb30ae-c50b-5187-986c-8dbdb3022fc2.html"
+    },
+    {
+     "outlet": "kxly920.com",
+     "url": "https://kxly920.com/2026/11/05/data-centers-took-a-beating-in-the-midterm-elections/"
+    },
+    {
+     "outlet": "postregister.com",
+     "url": "http://www.postregister.com/businessreport/technology/data-centers-took-a-beating-in-the-midterm-elections-a-reckoning-may-be-ahead-for/article_ab070538-78fb-5148-8030-438f1ebf0bf8.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/05/ai-data-center-election-backlash-concessions"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/"
+    }
+   ]
+  },
+  {
+   "id": "5dc088d3b5b43ee39c55a5b0820b6e40a339dcbc",
+   "title": "GOP's redistricting firewall pummeled by blue wave",
+   "url": "https://www.axios.com/2026/11/04/gops-redistricting-firewall-pummeled-by-blue-wave",
+   "outlet": "axios.com",
+   "published_at": "2026-11-07T10:02:25Z",
+   "image": "https://images.axios.com/ChFlY35bTdjfsQ1aHV13aSPTQ1Y=/0x0:1280x720/2026/11/04/1793775486976.gif",
+   "description": "Republicans tried to save their House majority with a bold wave of mid-cycle redistricting. It failed in spectacular fashion on Tuesday. Why it matters: Republicans not only fell short of winning seats in several districts they redrew to favor their candidates, they put some GOP incumbents in danger of losing by spreading their support thin. Rep. Scott DesJarlais (R-Tenn.), who has mostly won landslide reelections since entering Congress in 2010, trailed his Democratic opponent by 200 votes, acc",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.86,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/07/us/elections/north-carolina-republicans.html"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/campaign/6202901-midterm-congressional-gop-redistricting-analysis/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/6/why-one-republican-won-a-redrawn-texas-district-despite-blue-tsunami?traffic_source=rss"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/dummymander-republican-redistricting-congress-trump/"
+    },
+    {
+     "outlet": "politico.com",
+     "url": "https://www.politico.com/news/2026/11/03/midterms-blue-wave-gop-wipeout-01147461"
+    }
+   ]
+  },
+  {
+   "id": "0b8e1d00e4bf25f2e8fa319dac586f4e75f0750b",
+   "title": "Hegseth in ‘trouble’ as Trump faces music on Iran war, midterms",
+   "url": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-06T16:45:03Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/hegsethpete_trumpdonald_100626gn01_w.jpg?w=900",
+   "description": "Defense Secretary Pete Hegseth’s future leading the Pentagon looks increasingly uncertain as his critics within the administration blame him for helping push President Trump into a war that contributed to massive midterm losses Tuesday. Two sources familiar with the discussion said the president is asking allies about Hegseth’s standing. One of those sources said the...",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.86,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 19,
+   "also_reported_by": [
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261105-after-midterm-stinging-defeat-trump-is-left-to-weigh-his-next-move-in-iran-war"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-midterms-strait-of-hormuz/"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/pete-hegseth-under-fire-as-republicans-trade-blame-for-midterm-debacle/a-79869867?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/after-midterms-world-leaders-await-trumps-next-move-in-iran"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/5/congress-defeat-how-trumps-allies-are-distancing-themselves-from-iran-war?traffic_source=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/video/2026/nov/04/trump-speaks-about-white-house-ballroom-and-iran-wars-unpopularity-after-midterm-losses-video"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/trump-intention-hegseth/story?id=137874670"
+    },
+    {
+     "outlet": "ariananews.af",
+     "url": "https://www.ariananews.af/iran-says-us-voters-no-to-war-after-republican-midterm-losses/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/us/politics/trump-iran-war-midterm-elections.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options"
+    }
+   ]
+  },
+  {
+   "id": "1b90043115d0a44e4ed8d09346e71b06f87e0f0d",
+   "title": "Iran war: Gulf tanker attacked, 1 seaferer killed",
+   "url": "https://www.dw.com/en/iran-war-gulf-tanker-attacked-1-seaferer-killed/a-79879270?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-06T17:47:00Z",
+   "image": "https://static.dw.com/image/79862218_6.jpg",
+   "description": "Iran is stepping up attacks on shipping in the Persian Gulf and Strait of Hormuz. A Greek-owned tanker believed to have been struck with a missile, and Iran said two other vessels were on fire.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.78,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "b2d385c02ab5ba3e226a8af2dd61f0c601376ee9",
+   "title": "US midterm elections 2026 live: Democrats eye historic upset in Mississippi Senate race as Republican blame game begins",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T00:08:20Z",
+   "image": "https://i.guim.co.uk/img/media/f20ab2475837b6e728d381377a54a75ad0c9c055/463_0_4628_3702/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=b94d3052d24282aa219c9b4bdb241874",
+   "description": "Democrat Scott Colom is leading Republican incumbent Cindy Hyde-Smith in the southern state; JD Vance says war in Iran the ‘obvious’ culprit for results",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.77,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/senate/6205607-hyde-smith-colom-mississippi-senate/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/04/us/mississippi-senate-election-recount-law.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/05/mississippi-senate-election-scott-colom-democrat"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/05/mississippi-senate-election-scott-colom-hyde-smith.html"
+    },
+    {
+     "outlet": "kten.com",
+     "url": "https://www.kten.com/news/politics/the-fight-is-growing-over-ballot-counting-in-mississippi-s-tight-senate-race/article_e2252153-d1bd-5320-b38f-9293fcd6320f.html"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/mississippi-senate-race-too-close-to-call/"
+    },
+    {
+     "outlet": "worthynews.com",
+     "url": "https://www.worthynews.com/118776-mississippi-alaska-senate-races-remain-too-close-to-call-as-democrats-expand-congressional-majority"
+    },
+    {
+     "outlet": "midmichigannow.com",
+     "url": "https://midmichigannow.com/news/nation-world/votes-still-being-counted-in-close-senate-races-in-alaska-and-mississippi"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://600wrec.iheart.com/content/2026-11-05-no-senate-winners-yet-in-alaska-and-mississippi/"
+    }
+   ]
+  },
+  {
+   "id": "aa82f33007b1fd3f8160e97fb06dfe9ab9a8eb83",
+   "title": "AI Data centres face growing backlash",
+   "url": "https://www.france24.com/en/ai-data-centres-face-growing-backlash",
+   "outlet": "france24.com",
+   "published_at": "2026-11-07T09:39:55Z",
+   "image": "https://s.france24.com/media/display/7b12b7e0-da8e-11f1-96c8-d18c5759e759/w:1024/p:16x9/EN-20261107-100946-101139-CS.jpg",
+   "description": "Democrats are also calling for tighter regulation of AI data centres, a concern shared across Europe. In Amsterdam, several hundred activists occupied the site of a planned Microsoft data centre as part…",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 16.6,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/protesters-storm-site-of-microsofts-planned-amsterdam-data-centre?traffic_source=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/data-center-protesters-break-into-microsoft-site-in-amsterdam/a-79879050?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "arynews.tv",
+     "url": "https://arynews.tv/dutch-activists-invade-site-of-microsofts-planned-data-centre-over-gaza-genocide-concerns"
+    }
+   ]
+  },
+  {
+   "id": "74b63ff59f8a0b312c7891919fc5ea83c47327fd",
+   "title": "Somalia's top court rejects president's term extension amid political crisis",
+   "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/679b/live/77438af0-d9b1-11f1-bbc7-9574ed12e2df.jpg",
+   "description": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.5,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "africanews.com",
+     "url": "https://www.africanews.com/2026/11/07/political-chaos-in-somalia-after-court-ruling-against-presidents-term-extension/"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/06/world/politics/somalia-political-crisis/"
+    },
+    {
+     "outlet": "channelafrica.co.za",
+     "url": "https://www.channelafrica.co.za/channelafrica/news/somalias-supreme-court-rules-president-sheikh-mohamud-unlawfully-extended-term/"
+    }
+   ]
+  },
+  {
+   "id": "fa50638b742b06ecc278d737d0e3f00c377d06f2",
+   "title": "China confirms talks on historic Xi-Trump-Putin meeting",
+   "url": "https://www.newcastleherald.com.au/story/9387416/china-confirms-talks-on-historic-xi-trump-putin-meeting/",
+   "outlet": "newcastleherald.com.au",
+   "published_at": "2026-11-07T11:00:00Z",
+   "image": "https://www.newcastleherald.com.au/images/transform/v1/crop/frm/silverstone-feed-data/3b933e9a-adc3-4c12-8736-7dabb9e8e9cf.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+   "description": "For the first time, Beijing has confirmed plans for a meeting between Chinese leader Xi Jinping, President Donald...",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.49,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "moneycontrol.com",
+     "url": "https://www.moneycontrol.com/world/china-confirms-talks-on-historic-xi-trump-putin-meeting-at-apec-summit-article-14074377.html"
+    }
+   ]
+  },
+  {
+   "id": "2a2c483ce3c39e44a50d27b7ea7428156bc490a0",
+   "title": "US job growth exceeds expectations in October despite economic uncertainty",
+   "url": "https://www.theguardian.com/business/2026/nov/06/us-job-growth-october",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T10:00:00Z",
+   "image": "https://i.guim.co.uk/img/media/6ce70de0573447bd4b3b70f4ceb6e8fd81f1379f/647_0_6469_5178/master/6469.jpg?width=140&quality=85&auto=format&fit=max&s=f2a97354698dfd0d291e56355350bdd2",
+   "description": "‘Low-hire, low-fire’ labor market shows sluggish growth but few layoffs, with an interest rate hike expected in December",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 16.45,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/what-to-know-about-a-better-than-expected-jobs-report-amid-ai-bubble-concerns"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373607/us-adds-165000-jobs-october-labour-market-beats-expectations"
+    },
+    {
+     "outlet": "arkansasonline.com",
+     "url": "https://www.arkansasonline.com/news/2026/nov/07/us-adds-165000-jobs-in-october/"
+    }
+   ]
+  },
+  {
+   "id": "c9308566225a7e3ee4ca176dfd12b63c78495a27",
+   "title": "US attorney tasked with leading probe into Trump's foes resigns from DOJ",
+   "url": "https://abcnews.com/US/us-attorney-tasked-leading-grand-conspiracy-probe-trumps/story?id=137912307",
+   "outlet": "abcnews.com",
+   "published_at": "2026-11-07T10:45:00Z",
+   "image": "https://s.abcnews.com/images/US/Quinones-2-ap-gmh-261106_1793977663366_hpMain_4x3t_384.jpg",
+   "description": "Jason Reding Quinones, the U.S. attorney tasked with leading a sweeping and controversial conspiracy probe targeting President Trump’s foes, has resigned from the DOJ.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.28,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html"
+    },
+    {
+     "outlet": "nwaonline.com",
+     "url": "https://www.nwaonline.com/news/2026/nov/07/2-doj-officials-quit-including-prosecutor-in/"
+    }
+   ]
+  },
+  {
+   "id": "30f2c5b6ea898a51d7f8a60a1e1119ee2e228e4c",
+   "title": "US, China trade chiefs hold call ahead of Trump-Xi summit in Shenzhen",
+   "url": "https://www.scmp.com/news/us/economy-trade-business/article/3373616/us-china-trade-chiefs-hold-call-ahead-trump-xi-summit-shenzhen",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-07T10:15:00Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/78eb5b10-430b-4c12-a731-df7aae51de4d_df6b9090.jpg?itok=uwBbl4fV&v=1794004899",
+   "description": "US Treasury secretary presses Beijing to honour commitments made in Busan as Washington raises concerns over recent Chinese actions.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 16.25,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "timesofoman.com",
+     "url": "https://timesofoman.com/article/178878-us-asks-china-to-uphold-busan-trade-deal-commitments"
+    }
+   ]
+  },
+  {
+   "id": "f20198aa6a3788bf6993fa46100950b02879f7b3",
+   "title": "DOJ dropping suit over alleged noncitizen ballots",
+   "url": "https://www.cbsnews.com/news/justice-department-drops-lawsuit-california-ballots-alleged-noncitizens/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-07T10:15:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/07/48dac04b-e3c3-46c7-a264-b0166d396043/thumbnail/1200x630/834f31f380b995bcb00a8c0c6eab09fd/gettyimages-2303720039.jpg",
+   "description": "The Justice Department moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.25,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/us/elections/justice-dept-dismisses-california-suit.html"
+    },
+    {
+     "outlet": "wfmd.com",
+     "url": "https://www.wfmd.com/2026/11/07/ca-disputed-ballots-suit-drop/"
+    }
+   ]
+  },
+  {
+   "id": "3cd052f437a6588a0b86c3bacf6baaae2d8458bf",
+   "title": "Trump lawyers try to appeal convictions in his Stormy Daniels \"hush money\" case",
+   "url": "https://www.cbsnews.com/video/trump-lawyers-try-appeal-convictions-stormy-daniels-hush-money-case/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-06T01:10:49Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/06/a5945e36-7202-4a1b-80eb-54f0a11645bf/thumbnail/1200x630/e3874d9ed96760e722f7538554acdb0d/cbsn-fusion-trump-lawyers-try-appeal-convictions-stormy-daniels-hush-money-case-thumbnail.jpg",
+   "description": "Judges grilled President Trump's lawyers on Thursday as they try to get his conviction in the Stormy Daniels \"hush money\" case thrown out. The president was convicted of 34 felonies by a unanimous jury tied to a 2016 payment to adult film star Stormy Daniels. Now, his team argues that some of the evidence presented to jurors may be subject to presidential immunity. CBS News legal analyst Jessica Levinson has more.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.23,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/trump-2024-conviction-hush-money"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/US/judges-hear-trumps-appeal-2024-criminal-hush-money/story?id=137859786"
+    },
+    {
+     "outlet": "wyff4.com",
+     "url": "https://www.wyff4.com/article/trumps-lawyers-appeals-court-hush-money-conviction/74342411"
+    },
+    {
+     "outlet": "wvtm13.com",
+     "url": "https://www.wvtm13.com/article/trumps-lawyers-appeals-court-hush-money-conviction/74342411"
+    },
+    {
+     "outlet": "clickorlando.com",
+     "url": "https://www.clickorlando.com/news/2026/11/05/trumps-lawyers-to-appear-before-appeals-court-as-he-fights-hush-money-conviction/"
+    },
+    {
+     "outlet": "wlwt.com",
+     "url": "https://www.wlwt.com/article/trumps-lawyers-appeals-court-hush-money-conviction/74342411"
+    },
+    {
+     "outlet": "wesh.com",
+     "url": "https://www.wesh.com/article/trumps-lawyers-appeals-court-hush-money-conviction/74342411"
+    },
+    {
+     "outlet": "4029tv.com",
+     "url": "https://www.4029tv.com/article/trumps-lawyers-appeals-court-hush-money-conviction/74342411"
+    },
+    {
+     "outlet": "dailygazette.com",
+     "url": "https://www.dailygazette.com/ap/national/trumps-lawyers-to-appear-before-appeals-court-as-he-fights-hush-money-conviction/article_60d0ff02-c837-51e9-aa55-ba64a3c241d5.html"
+    },
+    {
+     "outlet": "sitkasentinel.com",
+     "url": "http://www.sitkasentinel.com/stories/trumps-lawyers-to-appear-before-appeals-court-as-he-fights-hush-money-conviction,183945"
+    }
+   ]
+  },
+  {
+   "id": "3b55694ee8a03971e109c3c00f6ac34177a7796c",
+   "title": "US Treasury sanctions eight Canadian money exchange firms over Iran ties",
+   "url": "https://www.aljazeera.com/economy/2026/11/7/us-treasury-sanctions-eight-canadian-money-exchange-firms-over-iran-ties?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-07T09:45:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aee9de08a7d-1794022880.jpg?resize=1920%2C1440",
+   "description": "US Treasury claims firms helped sanctioned Iranian entities and handled funds linked to alleged drug trafficking boss.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.23,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/world/5338505-us-treasury-sanctions-canadian-money-services-firms-over-iran-related-transactions"
+    },
+    {
+     "outlet": "pajhwok.com",
+     "url": "https://pajhwok.com/2026/11/07/us-sanctions-eight-canadian-currency-exchange-firms-over-alleged-iran-links/"
+    }
+   ]
+  },
+  {
+   "id": "c11b9af148fcb98635b0d71c97b7e16ab9fb28b5",
+   "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
+   "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-06T11:00:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b37/live/0e287b40-d96e-11f1-9fd0-cdf612d1539f.jpg",
+   "description": "The results mean America's two most populous cities - New York and Los Angeles - will be led by democratic socialists.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.16,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/democratic-socialist-nithya-raman-wins-la-mayoral-race?traffic_source=rss"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/us/la-mayor-raman-bass.html"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/los-angeles-mayor-election-2026-nithya-raman-karen-bass/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/05/los-angeles-mayor-nithya-raman-karen-bass"
+    },
+    {
+     "outlet": "tamilguardian.com",
+     "url": "https://www.tamilguardian.com/content/tamil-american-nithya-raman-elected-mayor-los-angeles-historic-victory"
+    },
+    {
+     "outlet": "deccanchronicle.com",
+     "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/from-cooum-to-city-hall-nithya-ramans-years-in-chennai-shaped-her-path-to-la-mayors-office-2002262"
+    },
+    {
+     "outlet": "yahoo.com",
+     "url": "https://www.yahoo.com/news/politics/articles/nithya-raman-democratic-socialist-los-195038269.html"
+    },
+    {
+     "outlet": "dailybreeze.com",
+     "url": "https://www.dailybreeze.com/2026/11/05/heres-a-glimpse-of-what-nithya-raman-vowed-to-do-should-she-snag-the-role-of-la-mayor/"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/05/nithya-raman-la-mayor-upset-democratic-socialist"
+    }
+   ]
+  },
+  {
+   "id": "8250334af19793e3f5138f072419939ef05bb89a",
+   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+   "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+   "outlet": "arstechnica.com",
+   "published_at": "2026-11-07T02:42:00Z",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+   "description": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.15,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/us/politics/chinese-spy-agency-nvidia-jensen-huang.html"
+    },
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+    }
+   ]
+  },
+  {
+   "id": "2c21045d98e003ab70c456b20169fd7814ca82f3",
+   "title": "Blood banks targeted in latest European fridge cyberattacks",
+   "url": "https://www.cnbc.com/2026/11/04/blood-bank-fridges-cyberattacks.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-06T19:00:21Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108517870-1793797174816-gettyimages-2287510680-HL_HRIGNY_3245329.jpeg?v=1793797190&w=1920&h=1080",
+   "description": "French blood banks were hit by cybersecurity attacks on Monday, with hackers cranking up temperatures in refrigerators storing blood.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 16.12,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/french-blood-banks-targeted-by-refrigerator-cyberattack/a-79857981?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261105-cyberattack-hits-french-blood-bank-site-no-blood-products-compromised"
+    },
+    {
+     "outlet": "ky3.com",
+     "url": "https://www.ky3.com/2026/11/05/cyberattack-blood-bank-freezers-thwarted-follows-supermarket-fridge-hacks/"
+    }
+   ]
+  },
+  {
+   "id": "bf47260ffe838248af1a75aa0e51ea2d970597e8",
+   "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+   "url": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/ca0da5faecb3c527577fc78ebfc856aa865bc8d6/1_0_4998_4000/master/4998.jpg?width=140&quality=85&auto=format&fit=max&s=842242f69139eccf98f50148f27a190a",
+   "description": "Polls show no coalition is expected to secure a majority of seats, in one of the closest elections in recent history",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.09,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 9,
+   "also_reported_by": [
+    {
+     "outlet": "thepeninsulaqatar.com",
+     "url": "http://thepeninsulaqatar.com/article/07/11/2026/new-zealand-counts-the-votes-in-knife-edge-poll"
+    },
+    {
+     "outlet": "euronews.com",
+     "url": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living"
+    },
+    {
+     "outlet": "smh.com.au",
+     "url": "https://www.smh.com.au/world/polls-close-in-new-zealands-federal-election-20261107-p61cae.html"
+    },
+    {
+     "outlet": "brisbanetimes.com.au",
+     "url": "https://www.brisbanetimes.com.au/world/polls-close-in-new-zealands-federal-election-20261107-p61cae.html"
+    },
+    {
+     "outlet": "theage.com.au",
+     "url": "https://www.theage.com.au/world/polls-close-in-new-zealands-federal-election-20261107-p61cae.html"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/06/world/asia/new-zealand-election-vote.html"
+    },
+    {
+     "outlet": "nzherald.co.nz",
+     "url": "https://www.nzherald.co.nz/nz/christchurch/election-2026-results-who-won-the-christchurch-seats/P5CDVUAQ25H6RDWLHCDAVZJPRI/"
+    },
+    {
+     "outlet": "rnz.co.nz",
+     "url": "https://www.rnz.co.nz/news/election-2026-results/electorate/wellington-bays"
+    }
+   ]
+  },
+  {
+   "id": "6d0343bd5d425b8d62d1b9ea4dac75e6dcd2d228",
+   "title": "DEMOCRATS TAKE CONTROL OF CONGRESS — USA",
+   "url": "https://asianjournal.com/usa/democrats-take-control-of-congress/",
+   "outlet": "asianjournal.com",
+   "published_at": "2026-11-07T11:00:00Z",
+   "image": "https://asianjournal.com/wp-content/uploads/2018/06/AJ-Logo-Drop-Shadow.jpg",
+   "description": "Midterm victories give party both House and Senate, delivering major setback to Trump WASHINGTON – Democrats won control of both chambers of Congress in the November 3 midterm elections, overturning...",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.99,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "6813d62fd92533cd21a6bc28e128cc14b5b306a0",
+   "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+   "outlet": "theverge.com",
+   "published_at": "2026-11-07T10:45:00Z",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK155_OPEN_AI_CVirginia_2_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "description": "CEO Sam Altman said recently that OpenAI is prioritizing safety instead of going ‘guns blazing’ toward an IPO.﻿",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.98,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "udaipurkiran.com",
+     "url": "https://udaipurkiran.com/openai-raises-11-billion-valuation-reaches-1-25-trillion/"
+    }
+   ]
+  },
+  {
+   "id": "0236fa3362829760b8ce4f5ba28032cad70d86ab",
+   "title": "Ancient humans used cannabis in burial rituals 2,800 years ago",
+   "url": "https://www.scientificamerican.com/article/ancient-humans-used-cannabis-in-burial-rituals-2-800-years-ago/",
+   "outlet": "scientificamerican.com",
+   "published_at": "2026-11-06T22:19:59Z",
+   "image": "https://static.scientificamerican.com/dam/asset/4d7b8d3a-c733-426d-8895-325719bc6f22/early-cannabis.jpg?m=1793901801.886&w=1200",
+   "description": "New findings from a Siberian tomb offer the earliest direct evidence for human marijuana use",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/science/seeds-and-preserved-hair-in-tomb-point-to-oldest-signs-of-cannabis-high-2800-years-ago-study-suggests"
+    },
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/06/health-news-new-evidence-for-ancient-cannabis-use/?utm_campaign=rss"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/05/science/ancient-siberia-scythians-first-marijuanna-cannabis-use.html"
+    }
+   ]
+  },
+  {
+   "id": "0ae259538d841734fc9e2b280c3c75799bd3d13d",
+   "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5f5/live/a7b86be0-d96d-11f1-9fd0-cdf612d1539f.jpg",
+   "description": "Pope Leo, who had part of a lung removed last month, will visit Uruguay, Argentina and Peru.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 3,
+   "relevance": 4,
+   "outlet_count": 122,
+   "also_reported_by": [
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/pope-urges-healthcare-for-all-in-uruguay"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/pope-leo-sets-off-on-12-day-south-america-tour/a-79872584"
+    },
+    {
+     "outlet": "countypress.co.uk",
+     "url": "https://www.countypress.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "northsomersettimes.co.uk",
+     "url": "https://www.northsomersettimes.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "royston-crow.co.uk",
+     "url": "https://www.royston-crow.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "freepressseries.co.uk",
+     "url": "https://www.freepressseries.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "hertsad.co.uk",
+     "url": "https://www.hertsad.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "herefordtimes.com",
+     "url": "https://www.herefordtimes.com/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "brentwoodlive.co.uk",
+     "url": "https://www.brentwoodlive.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    },
+    {
+     "outlet": "thewestonmercury.co.uk",
+     "url": "https://www.thewestonmercury.co.uk/news/national/26708216.crowds-cheer-pope-leo-arrives-uruguay-start-south-american-tour/"
+    }
+   ]
+  },
+  {
+   "id": "19ec6400eab18de7c6e23a5cd94158609517f276",
+   "title": "Komyshuvakha Death Toll Hits 55 as HUR Names Russian Pilots",
+   "url": "https://www.kyivpost.com/post/89419",
+   "outlet": "kyivpost.com",
+   "published_at": "2026-11-07T10:30:00Z",
+   "image": "https://static.kyivpost.com/storage/2026/11/07/6c26ba2f3ca3dfa673f7efe68ad8f97a.jpeg?&q=90&f=jpg",
+   "description": "Search teams have recovered nine more bodies from a bombed shelter in Komyshuvakha as military intelligence names the Russian officers who planned and executed the attack.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "63f6f88bec32c42646377c68542f405f2717d644",
+   "title": "Fears of 'serious nuclear accident' in Ukraine as atomic experts beg 'stop'",
+   "url": "https://www.mirror.co.uk/news/world-news/nuclear-power-plants-ukraine-russia-37853621",
+   "outlet": "mirror.co.uk",
+   "published_at": "2026-11-07T10:30:00Z",
+   "image": "https://i2-prod.mirror.co.uk/article37853622.ece/ALTERNATES/s1200d/2_UKRAINE-RUSSIA-CONFLICT-WAR.jpg",
+   "description": "The UN's International Atomic Energy Agency is pleading with Russia and Ukraine to halt military operations at key nuclear facilities, fearing continued strikes could lead to a disaster",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "35d583ecb9bdf6120f290036df06f58a908c0f7c",
+   "title": "EU charges TikTok with failing to protect users’ mental health",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-07T10:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/73530bb71968af6a5b5d2dca4fd682c0f680fd80/0_253_3524_2819/master/3524.jpg?width=140&quality=85&auto=format&fit=max&s=d05db8a6116ac1b16f99fce1b22ac8e5",
+   "description": "Regulator’s initial ruling says algorithm ‘can be harmful’ and led young and vulnerable viewers ‘down rabbit holes they can’t easily escape’",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 15.96,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com/world/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects"
+    }
+   ]
+  },
+  {
+   "id": "33a78578d4ccb9b0efebf96c18e5671d0a9cdbdb",
+   "title": "U.S. urges China to meet rare earths and agriculture commitments ahead of Trump-Xi meetings",
+   "url": "https://www.japantimes.co.jp/business/2026/11/07/economy/us-china-rare-earths-agriculture/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-07T10:00:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/07/572840.JPG",
+   "description": "Presidents Donald Trump and Xi ​Jinping are expected to meet at two different summits, one in China and one in the U.S.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.95,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "thejakartapost.com",
+     "url": "http://www.thejakartapost.com/business/2026/11/07/us-urges-china-to-meet-rare-earths-commitments-ahead-of-trump-xi-meetings"
+    }
+   ]
+  },
+  {
+   "id": "0aebc190eec62fbe5a5b0c41f9599883281bdacf",
+   "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+   "url": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-06T21:14:46Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108363195-1789494139297-gettyimages-2294931488-AFP_C8EA8N2.jpeg?v=1789494213&w=1920&h=1080",
+   "description": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.92,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/06/democrats-renew-calls-for-datacenter-pauses"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/tech/big-tech/article/3373506/does-democratic-midterm-victory-spell-end-us-ai-data-centre-boom"
+    },
+    {
+     "outlet": "digitimes.com",
+     "url": "https://www.digitimes.com/news/a20261106VL213/data-center-infrastructure-nvidia-openai-data.html"
+    }
+   ]
+  },
+  {
+   "id": "bbcfc21934cd4de7f11a85ce27f7965c10cb09a2",
+   "title": "Musk axes Tesla's Cybertruck in favour of self-driving taxis",
+   "url": "https://www.abc.net.au/news/2026-11-07/tesla-to-pull-the-plug-on-cybertruck/107359058",
+   "outlet": "abc.net.au",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://live-production.wcms.abc-cdn.net.au/fc2a1908c464d3bd52062cbd2c524b15?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=272&width=862&height=485",
+   "description": "Elon Musk says Tesla will wind down Cybertruck production in mid-2027 after years of persistently weak sales for a futuristic model once touted as a rival to legacy pickup trucks.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.91,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/tesla-to-wind-down-production-of-flop-cybertruck/a-79877759?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/06/tesla-cybertruck-texas-musk.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3373598/teslas-musk-pulls-plug-cybertruck-robotaxi-push-after-years-poor-sales"
+    },
+    {
+     "outlet": "hawaiitribune-herald.com",
+     "url": "https://www.hawaiitribune-herald.com/2026/11/07/nation-world-news/tesla-is-ending-production-of-its-cybertruck-and-refocusing-on-the-cybercab/"
+    },
+    {
+     "outlet": "newstribune.com",
+     "url": "https://www.newstribune.com/news/2026/nov/07/tesla-to-wind-down-production-of-slow-selling/"
+    }
+   ]
+  },
+  {
+   "id": "20ffb9e67a084e29a726c0489d71c119f494950b",
+   "title": "US accuses trio of using AI to impersonate CEOs and lawyers to steal US$129 million",
+   "url": "https://www.scmp.com/news/world/united-states-canada/article/3373511/us-accuses-trio-using-ai-impersonate-ceos-and-lawyers-steal-us129-million",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-06T18:59:17Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/06/511980ff-fed9-4740-af44-fc9b925a418c_25821a31.jpg?itok=aKI_8Lkg&v=1793943807",
+   "description": "Suspects allegedly mimicked executive voices and likenesses on calls to target finance teams.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 15.83,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/nation/3-charged-in-129-million-ai-scheme-targeting-thousands-of-companies"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Technology/wireStory/3-charged-scheme-ai-impersonate-ceos-attorneys-steal-137899167"
+    },
+    {
+     "outlet": "tahlequahdailypress.com",
+     "url": "https://www.tahlequahdailypress.com/natlnewsap/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129/article_680bf56a-230b-5ea2-9b9f-ef50f43b41b5.html"
+    }
+   ]
+  },
+  {
+   "id": "5048c24fb0dfa67ccda98be9c37a59a75b9fb68a",
+   "title": "Air in India’s capital ranked world’s most polluted on eve of Diwali",
+   "url": "https://www.scmp.com/news/asia/south-asia/article/3373637/air-indias-capital-ranked-worlds-most-polluted-eve-diwali",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/07/72264be6-6245-40ec-ba7d-f944e91ee997_4886ca29.jpg?itok=rXvpk0DC&v=1794031252",
+   "description": "Doctors urge residents to wear N95 masks and scrap morning runs, warning that firecrackers will worsen toxic air.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 15.66,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "openthemagazine.com",
+     "url": "https://openthemagazine.com/india/quick-take-is-delhi-the-worlds-most-polluted-city-here-are-seven-things-to-know-before-diwali"
+    },
+    {
+     "outlet": "jagranjosh.com",
+     "url": "https://www.jagranjosh.com/general-knowledge/delhi-worlds-most-polluted-city-aqi-ranking-today-check-kolkata-and-mumbai-ranking-1820013673-1"
+    },
+    {
+     "outlet": "gdnonline.com",
+     "url": "https://www.gdnonline.com:443/Details/1412124"
+    },
+    {
+     "outlet": "omanobserver.om",
+     "url": "https://www.omanobserver.om/article/1199227/world/asia/delhi-worlds-most-polluted-major-city-on-eve-of-diwali-iqair"
+    }
+   ]
+  },
+  {
+   "id": "3689cb1b4add4b85b58208e010ecb045cd29933a",
+   "title": "Qatari PM says US willing to seek solution to war with Iran",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Qatar-PM-horizontal-thumb-1794035392.jpg?resize=1920%2C1080&quality=80",
+   "description": "Qatari PM says US willing to seek solution to war with Iran",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.66,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "chronicle.lu",
+     "url": "https://www.chronicle.lu/category/international/64489-qatar-says-its-mediation-efforts-between-us-iran-continue-to-prevent-escalation"
+    },
+    {
+     "outlet": "omanobserver.om",
+     "url": "https://www.omanobserver.om/article/1199233/world/region/mediation-efforts-between-us-iran-continue-to-prevent-escalation-qatar"
+    },
+    {
+     "outlet": "dailypakistan.com.pk",
+     "url": "https://en.dailypakistan.com.pk/07-Nov-2026/us-iran-move-towards-possible-peace-deal-as-qatar-brokers-key-nuclear-talks"
+    },
+    {
+     "outlet": "ibtimes.co.in",
+     "url": "https://www.ibtimes.co.in/iran-sends-nuclear-proposal-us-7-conditions-amid-trumps-threat-destroy-tehran-heres-what-908168"
+    }
+   ]
+  },
+  {
+   "id": "2b2b5e7bcef04b54143ebd5235aa01660d3554fd",
+   "title": "Three-quarters of world's displaced people face severe climate risks, UN says",
+   "url": "https://www.france24.com/en/environment/20261105-un-displaced-people-climate-risks",
+   "outlet": "france24.com",
+   "published_at": "2026-11-06T11:00:00Z",
+   "image": "https://s.france24.com/media/display/27e91f36-c775-11f1-a8f0-53993c5f1f18/w:1024/p:16x9/3a4f044a28d5dcc6404274b250beb08ab8067c5f.jpg",
+   "description": "Nearly 90 million forcibly displaced people, or three-quarters of the global total, live in countries highly exposed to climate hazards, the UN Refugee Agency said on Friday, urging action ahead of the…",
+   "topic": "climate",
+   "kind": "wire_copy",
+   "score": 15.5,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/world/5338170-un-nearly-90-mn-displaced-facing-severe-climate-risks"
+    },
+    {
+     "outlet": "ariananews.af",
+     "url": "https://www.ariananews.af/90-million-displaced-people-at-risk-from-climate-threats-un-refugee-agency-says/"
+    },
+    {
+     "outlet": "sana.sy",
+     "url": "https://sana.sy/en/international/2356437/"
+    }
+   ]
+  },
+  {
+   "id": "0f8ba3eee63828e0db539f374ac166c7d543efeb",
+   "title": "‘Alien-cortical’ mice: Can human brain cells grow inside animals?",
+   "url": "https://www.aljazeera.com/news/2026/11/7/alien-cortical-mice-can-human-brain-cells-grow-inside-animals?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-07T05:57:25Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6ae48d2c90-1793363244.jpg?resize=1920%2C1440",
+   "description": "Modified mice with human brain cells ignite debates over neurohybrids and the future of cross-species medical research.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.28,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8122257b13f718b8964e69867fc45e8e59156d6b",
+   "title": "Pakistani astronaut to join China's next space-station mission",
+   "url": "http://thepeninsulaqatar.com/article/07/11/2026/pakistani-astronaut-to-join-chinas-next-space-station-mission",
+   "outlet": "thepeninsulaqatar.com",
+   "published_at": "2026-11-07T11:15:00Z",
+   "image": "http://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
+   "description": "Beijing:A Pakistani astronaut will become the first foreigner to visit China s space station when they join the country s next mission into orbit, Bei...",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.16,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission"
+    },
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/varieties/5338533-pakistani-astronaut-join-chinas-next-space-station-mission"
+    },
+    {
+     "outlet": "tribune.com.pk",
+     "url": "https://tribune.com.pk/story/2639104/pakistani-astronaut-to-join-china-space-stations-shenzhou-24-mission"
+    },
+    {
+     "outlet": "leadertelegram.com",
+     "url": "http://www.leadertelegram.com/news/world/pakistani-astronaut-to-board-shenzhou-24-and-become-the-first-foreigner-on-chinas-space-station/article_c6443fe3-2fa3-53e6-aa9d-ef5f0c17bef9.html"
+    }
+   ]
+  },
+  {
+   "id": "31f76acf7d69ebbfcaf79715b94e72b6b7def1fb",
+   "title": "Archaeologists Discover Vast Ice Age Cave Art Hiding in Plain Sight",
+   "url": "https://www.artnews.com/art-news/news/archaeologists-find-ice-age-cave-art-hiding-in-plain-sight-1234804778/",
+   "outlet": "artnews.com",
+   "published_at": "2026-11-06T23:59:59Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/11/urn_cambridge.org_id_binary-alt_20261022184619-62399-optimisedImage-png-S0003598X26104475_figAb.jpg?w=900",
+   "description": "The Paleolithic rock engravings were discovered at the tourist attraction Cova de la Font Major in Catalonia",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 13.83,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "nature.com",
+     "url": "https://www.nature.com/articles/d41586-026-03585-z"
+    },
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/hundreds-of-stunning-ice-age-drawings-discovered-inside-spanish-cave/"
+    }
+   ]
+  },
+  {
+   "id": "e5db1191c7bfddaa8e6e018d2e5ab1876b01c748",
+   "title": "Paris Court Orders Sotheby’s to Return Nazi-Looted Pissarro Painting to Jewish Heirs",
+   "url": "https://www.artnews.com/art-news/news/paris-court-rules-sothebys-return-nazi-looted-pissarro-1234804806/",
+   "outlet": "artnews.com",
+   "published_at": "2026-11-06T18:42:21Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/09/Claude-Pissarro-Duquesne-Sothebys.jpeg?w=1024",
+   "description": "A court has ordered the restitution of a painting by Camille Pissarro, seized by the Germans during WWII, to the descendants of a Jewish banker.",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 13.31,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "theartnewspaper.com",
+     "url": "https://www.theartnewspaper.com/2026/11/06/pissarro-painting-sothebys-restitution-salomon-flavian-nazi-loot-case"
+    }
+   ]
+  },
+  {
+   "id": "ce34c9bb74b711af7c2fff546ed73faa80b5e468",
+   "title": "New museum dedicated to Italian Modernist Mario Sironi must not become ‘endorsement of fascism’, art historians warn",
+   "url": "https://www.theartnewspaper.com/2026/11/06/new-museum-dedicated-to-italian-modernist-mario-sironi-must-not-become-endorsement-of-fascism-art-historians-warn",
+   "outlet": "theartnewspaper.com",
+   "published_at": "2026-11-06T13:06:44Z",
+   "image": "https://cdn.sanity.io/images/cxgd3urn/production/13a27ff239349169b38ea5cfe02a43e8e560f3cd-1537x1023.png?w=140",
+   "description": "The state-run institution will feature more than 100 works by the artist, who joined the Italian fascist movement in 1919",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.58,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  }
+ ]
+}
