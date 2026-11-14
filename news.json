@@ -1,0 +1,2028 @@
+{
+ "generated_at": "2026-11-14T11:08:52Z",
+ "version": 1,
+ "stories": [
+  {
+   "id": "c95807c7e9d6b295f02f839a568ff036ce57d200",
+   "title": "FAA lifts nationwide ground stop that disrupted thousands of flights",
+   "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T11:15:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/46e7b0c4-c34a-47b7-a708-6496988fc4a1/thumbnail/1200x630/cbde8a003c2be845bdd0d43070b0e4a5/gettyimages-2304485739.jpg",
+   "description": "The rare nationwide ground stop lasted about five hours Friday. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 20.48,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 62,
+   "also_reported_by": [
+    {
+     "outlet": "thebusinessjournal.com",
+     "url": "https://thebusinessjournal.com/faa-nationwide-ground-stop-communications-outage/"
+    },
+    {
+     "outlet": "gloucestertimes.com",
+     "url": "https://www.gloucestertimes.com/news/national_world_news/the-latest-faa-grounds-all-flights-nationwide-due-to-communications-problems/article_44129d8f-b594-5dd5-b2d4-9081bf6578bf.html"
+    },
+    {
+     "outlet": "wgauradio.com",
+     "url": "https://www.wgauradio.com/news/business/thousands-flights/3ROOZWDRTE2I7PXZG7PKBCT7OI/"
+    },
+    {
+     "outlet": "wsbradio.com",
+     "url": "https://www.wsbradio.com/news/business/thousands-flights/3ROOZWDRTE2I7PXZG7PKBCT7OI/"
+    },
+    {
+     "outlet": "arynews.tv",
+     "url": "https://arynews.tv/us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos"
+    },
+    {
+     "outlet": "hurriyetdailynews.com",
+     "url": "https://www.hurriyetdailynews.com/us-lifts-nationwide-flight-halt-after-communications-failure-229384"
+    },
+    {
+     "outlet": "thejakartapost.com",
+     "url": "http://www.thejakartapost.com/business/2026/11/14/us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos"
+    },
+    {
+     "outlet": "businesstimes.com.sg",
+     "url": "https://www.businesstimes.com.sg/international/global/us-lifts-ground-stop-resume-flights-after-air-traffic-network-failure-sparks-chaos"
+    },
+    {
+     "outlet": "thefrontierpost.com",
+     "url": "https://thefrontierpost.com/us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos/"
+    },
+    {
+     "outlet": "ariananews.af",
+     "url": "https://www.ariananews.af/us-to-resume-flights-after-air-traffic-network-failure-sparks-chaos/"
+    }
+   ]
+  },
+  {
+   "id": "c9835daa8f3638957db1862b2c7b13592249e805",
+   "title": "Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race",
+   "url": "https://www.nbcnews.com/politics/2026-election/jonathan-kreiss-tomkins-democrat-wins-alaska-governor-race-rcna606558",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261030-Jonathan-Kreiss-Tomkins-ch-1321-9e72b7.jpg",
+   "description": "NBC News projects the former state lawmaker won a majority of the vote on the four-candidate ballot to flip control of the office.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 20.34,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 52,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/alaska-governor-jkt-jonathan-kreiss-tomkins-election/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/14/us/elections/alaska-governor-winner-kreiss-tomkins-jkt.html"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/campaign/6182120-democrat-kreiss-tomkins-wins-alaska/"
+    },
+    {
+     "outlet": "wgauradio.com",
+     "url": "https://www.wgauradio.com/news/politics/kreiss-tomkins/LQOEJVDVQE4UDELSUJQRL4MC5I/"
+    },
+    {
+     "outlet": "newsweek.com",
+     "url": "https://www.newsweek.com/democrat-wins-alaska-governor-race-without-ranked-choice-runoff-12715065"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/14/g-s1-151719/midterms-alaska-governor-kreiss-tomkins"
+    },
+    {
+     "outlet": "politico.com",
+     "url": "https://www.politico.com/news/2026/11/14/jonathan-kreiss-tomkins-wins-alaska-governor-01166573"
+    },
+    {
+     "outlet": "kjzz.org",
+     "url": "https://www.kjzz.org/npr-top-stories/2026-11-13/democrat-jonathan-kreiss-tomkins-wins-race-for-alaska-governor-replaces-a-republican"
+    },
+    {
+     "outlet": "wgal.com",
+     "url": "https://www.wgal.com/article/kreiss-tomkins-elected-governor-in-alaska/74429449"
+    },
+    {
+     "outlet": "wxii12.com",
+     "url": "https://www.wxii12.com/article/kreiss-tomkins-elected-governor-in-alaska/74429449"
+    }
+   ]
+  },
+  {
+   "id": "c8e0b3a25359f10fd816f7b5883ad6a2310af425",
+   "title": "Trump, Xi and Putin plan an unprecedented meeting on the sidelines of APEC, officials say",
+   "url": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-14T11:15:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261106-Xi-Trump-Putin-vsb-1846-405edd.jpg",
+   "description": "It is not anticipated that any sort of agreement will come from the trilateral meeting, according to a senior U.S. official, who described the session as an “entry point” and “the first conversation,” pointing to the reduction of nuclear arsenals as a key topic.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.33,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 50,
+   "also_reported_by": [
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/14/asia-pacific/politics/trump-xi-putin-trilateral-apec/"
+    },
+    {
+     "outlet": "thehindubusinessline.com",
+     "url": "https://www.thehindubusinessline.com/news/world/trump-to-raise-nuclear-arms-cuts-with-putin-xi-on-thursday-white-house-says/article71700856.ece"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/trump-to-meet-xi-putin-for-three-way-huddle-on-nuclear-arms-talks/a-79946408?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/trump-meet-putin-xi-china-week-us-officials/story?id=138128914"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-putin-xi-china-nuclear-proliferation.html"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/administration/6220278-trump-putin-xi-trilateral-meeting/"
+    },
+    {
+     "outlet": "omanobserver.om",
+     "url": "https://www.omanobserver.om/article/1199643/world/asia/trump-xi-putin-to-hold-historic-meetings-in-china"
+    }
+   ]
+  },
+  {
+   "id": "8d01153a3f27b08ecb44be5c8e16f21f959ec9f0",
+   "title": "US proposed Ukraine cedes Donbas in exchange for joining NATO, Zelensky says",
+   "url": "https://www.france24.com/en/europe/20261114-us-negotiators-suggest-ukraine-cedes-territory-in-exchange-for-nato-membership",
+   "outlet": "france24.com",
+   "published_at": "2026-11-14T11:15:00Z",
+   "image": "https://s.france24.com/media/display/70cfdcca-e012-11f1-8f8f-5f54d898a954/w:1024/p:16x9/AP26316802067115.jpg",
+   "description": "President Zelensky said the US had proposed ceding Ukraine's eastern city of Donbas to Russia, in exchange for Ukrainian membership of NATO, following the latest round of peace talks in Abu Dhabi this…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.55,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "vanguardngr.com",
+     "url": "https://www.vanguardngr.com/2026/11/us-proposed-ceding-ukraine-territory-in-exchange-for-joining-nato/"
+    },
+    {
+     "outlet": "euronews.com",
+     "url": "https://www.euronews.com/2026/11/14/us-floats-ukraine-ceding-land-to-russia-in-exchange-for-nato-membership-zelenskyy"
+    },
+    {
+     "outlet": "yasstribune.com.au",
+     "url": "https://www.yasstribune.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    },
+    {
+     "outlet": "theadvocate.com.au",
+     "url": "https://www.theadvocate.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    },
+    {
+     "outlet": "goulburnpost.com.au",
+     "url": "https://www.goulburnpost.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    },
+    {
+     "outlet": "queanbeyanage.com.au",
+     "url": "https://www.queanbeyanage.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    },
+    {
+     "outlet": "easternriverinachronicle.com.au",
+     "url": "https://www.easternriverinachronicle.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    },
+    {
+     "outlet": "northerndailyleader.com.au",
+     "url": "https://www.northerndailyleader.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    },
+    {
+     "outlet": "interfax.com.ua",
+     "url": "https://en.interfax.com.ua/news/general/1236540.html"
+    },
+    {
+     "outlet": "bendigoadvertiser.com.au",
+     "url": "https://www.bendigoadvertiser.com.au/story/9391508/us-floats-new-donbas-nato-deal-to-ukraine/"
+    }
+   ]
+  },
+  {
+   "id": "8250334af19793e3f5138f072419939ef05bb89a",
+   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+   "url": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+   "outlet": "arstechnica.com",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285710586-1024x648.jpg",
+   "description": "Lawmakers want answers about Jensen Huang’s ties to an alleged Chinese intelligence asset.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 19.14,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 156,
+   "also_reported_by": [
+    {
+     "outlet": "watoday.com.au",
+     "url": "https://www.watoday.com.au/world/asia/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying-20261114-p61e52.html"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/09/us/politics/democrats-trump-ai-nvidia.html"
+    },
+    {
+     "outlet": "dailymail.com",
+     "url": "https://www.dailymail.com/news/article-16281445/Sex-scandals-tech-giants-Nvidia-chief-brought-Chinese-spy-powerful-men-cheated.html"
+    },
+    {
+     "outlet": "brisbanetimes.com.au",
+     "url": "https://www.brisbanetimes.com.au/world/asia/nvidia-scandal-raises-new-concerns-about-scale-of-chinese-spying-20261114-p61e52.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/nvidia-board-names-pick-for-huang-investigator/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374412/us-congress-widens-nvidia-probe-seeking-testimony-jensen-huang-and-trump-officials"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/nvidia-names-outside-council-for-investigation-into-ceo-s-affair-273239621784"
+    },
+    {
+     "outlet": "thehindu.com",
+     "url": "https://www.thehindu.com/news/international/megaspeed-to-cooperate-with-us-probe-into-nvidia-ceo-jensen-huang-scandal/article71693276.ece"
+    },
+    {
+     "outlet": "peoplesreview.com.np",
+     "url": "https://peoplesreview.com.np/2026/11/12/nvidia-to-probe-espionage-allegations-involving-ceo-jensen-huang/"
+    }
+   ]
+  },
+  {
+   "id": "0787c3f68b7e1f200278a1e5b62787e0135cce32",
+   "title": "Microsoft says it \"restored service\" after major worldwide outage",
+   "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T11:15:00Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/3078adce-27fa-4f9b-b304-dbc4d6858df6/thumbnail/1200x630/66b309a0e07f93cb5bc2f636b440c201/gettyimages-2302285784.jpg",
+   "description": "A Microsoft outage involving services like Outlook and Teams impacted many users, companies and government services.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 18.81,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 98,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/science/what-to-know-about-microsofts-outage-and-why-it-takes-so-long-to-restore-email-services"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/13/microsoft-outage-hits-courts-congress"
+    },
+    {
+     "outlet": "rediff.com",
+     "url": "https://www.rediff.com/news/report/microsoft-deeply-sorry-for-global-disruption-blames-network-upgrade/20261114.htm"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/article/3374408/microsoft-deeply-sorry-global-outage-says-issue-not-caused-cyber-or-ai-agents"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage"
+    },
+    {
+     "outlet": "queanbeyanage.com.au",
+     "url": "https://www.queanbeyanage.com.au/story/9391599/microsoft-outage-exposes-aussie-data-to-huge-risk/"
+    },
+    {
+     "outlet": "easternriverinachronicle.com.au",
+     "url": "https://www.easternriverinachronicle.com.au/story/9391599/microsoft-outage-exposes-aussie-data-to-huge-risk/"
+    },
+    {
+     "outlet": "tenterfieldstar.com.au",
+     "url": "https://www.tenterfieldstar.com.au/story/9391599/microsoft-outage-exposes-aussie-data-to-huge-risk/"
+    },
+    {
+     "outlet": "inverelltimes.com.au",
+     "url": "https://www.inverelltimes.com.au/story/9391599/microsoft-outage-exposes-aussie-data-to-huge-risk/"
+    }
+   ]
+  },
+  {
+   "id": "3d965ee82940f9a70e8458c58e4cdd698a8089b4",
+   "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+   "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af7fff6-1794637814.jpg?resize=1920%2C1440",
+   "description": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.65,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "tribune.com.pk",
+     "url": "https://tribune.com.pk/story/2640267/un-warns-of-rising-maritime-attacks-urges-restoration-of-safe-navigation-in-strait-of-hormuz-red-sea"
+    },
+    {
+     "outlet": "middleeastmonitor.com",
+     "url": "https://www.middleeastmonitor.com/20261114-un-warns-of-rising-maritime-attacks-urges-restoration-of-safe-navigation-in-strait-of-hormuz-red-sea/"
+    },
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/un-says-25-seafarers-killed-in-around-hormuz-since-us-israel-war-on-iran/"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/un-says-25-seafarers-killed-in-around-hormuz-since-us-israel-war-on-iran/"
+    }
+   ]
+  },
+  {
+   "id": "e5b4239cdfca1062583d2952f50b0a284a498e0a",
+   "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
+   "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+   "outlet": "axios.com",
+   "published_at": "2026-11-14T01:46:29Z",
+   "image": "https://images.axios.com/SEQvf7tge4VgxJEzb2shzd4FYqs=/0x243:4000x2493/1366x768/2026/11/11/1794427506540.jpeg",
+   "description": "President Trump on Thursday authorized a crack down on companies suspected of diverting Nvidia's advanced AI chips to China for the third time this year — even consulting Elon Musk before giving the go-ahead. One administration official has repeatedly stood in the way: Commerce Secretary Howard Lutnick. Why it matters: This standoff illustrates a breakdown in efforts to keep American technology out of China's hands as the world wonders why the Trump administration has not taken action against th",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 18.61,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/bessent-upset-lutnick-didnt-ban-nvidia-chip-exports-to-china-linked-firm/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/bessent-accuses-lutnick-of-failing-to-prevent-china-from-obtaining-nvidia-chips"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374409/bessent-blames-us-commerce-department-not-restricting-nvidia-chip-exports-china"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/12/us/politics/lutnick-nvidia-commerce-china-chips.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/video/commerce-secretary-lutnick-agrees-to-testify-about-nvidia-273452613709"
+    }
+   ]
+  },
+  {
+   "id": "567504dd51c4dd7230e32d5e85eaa8e3460b3cfb",
+   "title": "Supreme Court will consider Trump's executive order suspending asylum access at the southern border",
+   "url": "https://www.pbs.org/newshour/politics/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-at-the-southern-border",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-14T09:30:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-04T152931Z_132207333_RC22HOAGNLS8_RTRMADP_3_USA-COURT-1024x683.jpg",
+   "description": "The Trump administration is asking the justices to overturn lower court decisions that found it was illegal to block asylum applications following an executive order that called the situation at the southern border an “invasion.”",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 18.22,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/supreme-court-trump-asylum-border.html"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com/world/supreme-court-will-consider-trumps-executive-order-suspending-asylum-access-southern-border"
+    }
+   ]
+  },
+  {
+   "id": "adc3a34dd6af6722d5f83c916e8bdc7038883e56",
+   "title": "U.S. measles deaths rise to 10 after new reports in Pennsylvania and Wisconsin",
+   "url": "https://www.nbcnews.com/health/health-news/us-measles-deaths-rise-10-new-reports-pennsylvania-wisconsin-rcna609245",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-14T10:30:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-10/261015-vaccine-rs-4c96db.jpg",
+   "description": "The milestone arrives just as deliberations conclude over whether the U.S. has lost its measles elimination status.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 17.97,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "lankanewspapers.com",
+     "url": "https://www.lankanewspapers.com/2026/11/14/us-measles-death-toll-climbs-to-10-as-pennsylvania-and-wisconsin-report-fresh-fatalities"
+    }
+   ]
+  },
+  {
+   "id": "bdd0e4592905336137e6a03b34f58604d840c751",
+   "title": "Iran says it targeted US military radar in Bahrain in retaliatory strike",
+   "url": "https://www.theguardian.com/world/2026/nov/13/iran-us-radar-bahrain-sirik-hormuz",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-14T10:15:00Z",
+   "image": "https://i.guim.co.uk/img/media/f76fa0a8488f1c05bc755c935f60793cc0caee3d/448_0_4480_3584/master/4480.jpg?width=140&quality=85&auto=format&fit=max&s=1827173b1be92a1da7873febef1104d0",
+   "description": "First direct attack on US military installations for months was in response to US airstrike on communications tower",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.96,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "onenewspage.com",
+     "url": "https://www.onenewspage.com/story/iran-says-it-targeted-us-military-radar-in-bahrain-in-retaliatory-strike-6eabe65d/"
+    }
+   ]
+  },
+  {
+   "id": "6ac46a049b62786b65205cf4ea2ace2df63b0aea",
+   "title": "All accounted for after tanker hits river cruise ship in New Orleans, 32 hospitalized",
+   "url": "https://www.cbsnews.com/video/all-accounted-for-after-tanker-hits-river-cruise-ship-in-new-orleans-32-hospitalized/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T10:45:00Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/13/3530c6d1-a94f-42a7-af33-377ea5ca3e84/thumbnail/1200x630/9c0df4cc26fb0f3567c7ed097a6e3033/cbsn-fusion-all-accounted-for-after-tanker-hits-river-cruise-ship-in-new-orleans-32-hospitalized-thumbnail.jpg",
+   "description": "All are accounted for and 32 people have been hospitalized after a tanker hit a river cruise ship in New Orleans. CBS News' Skyler Henry reports.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.81,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 25,
+   "also_reported_by": [
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-tanker-crashes-into-river-cruise-boat-in-new-orleans"
+    },
+    {
+     "outlet": "krdo.com",
+     "url": "https://krdo.com/news/national-world/cnn-national/2026/11/13/tanker-lost-control-and-hit-cruise-ship-in-new-orleans-spurring-massive-evacuation-officials-say/"
+    },
+    {
+     "outlet": "onenewspage.com",
+     "url": "https://www.onenewspage.com/story/new-orleans-river-cruise-tanker-collision-7e3c832d/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/all-accounted-for-after-tanker-crashes-into-new-orleans-riverboat-273486405725"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374410/tanker-hits-new-orleans-cruise-boat-carrying-129-passengers"
+    },
+    {
+     "outlet": "kalb.com",
+     "url": "https://www.kalb.com/2026/11/13/miracle-mississippi-no-fatalities-after-tanker-crashes-into-river-cruiser-near-port-new-orleans/"
+    }
+   ]
+  },
+  {
+   "id": "916f962ce184595750058062a49dd201422265fd",
+   "title": "At least 3 killed, 17 hurt in Brooklyn building collapse",
+   "url": "https://www.cbsnews.com/news/brooklyn-building-collapse-bedford-avenue/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-13T20:02:56Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/e6e32576-2a7c-448e-9459-59c1b809318c/thumbnail/1200x630/94f7e13d3d0f5fe681c7ef33d2d0b2e6/flatbush-building-collapse2-hi-res-still.jpg",
+   "description": "A major technical rescue operation was ongoing, involving hundreds of firefighters.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.62,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 45,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse"
+    },
+    {
+     "outlet": "postregister.com",
+     "url": "http://www.postregister.com/news/national/firefighters-search-rubble-after-deadly-nyc-building-collapse-in-photos/article_87f870de-f6fa-5a9e-b314-7111d571421d.html"
+    },
+    {
+     "outlet": "bakersfield.com",
+     "url": "https://www.bakersfield.com/ap/national/firefighters-search-rubble-after-deadly-nyc-building-collapse-in-photos/article_5ca3b612-8f37-5a0e-82c5-064f62262403.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261112-two-dead-several-injured-after-new-york-building-collapses"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/video/at-least-two-people-dead-in-brooklyn-partial-building-collapse-273311813538"
+    },
+    {
+     "outlet": "wgowam.com",
+     "url": "https://www.wgowam.com/2026/11/12/brooklyn-building-collapse-leaves-two-dead-and-17-injured-as-rescue-crews-search-rubble/"
+    },
+    {
+     "outlet": "kaok.com",
+     "url": "https://www.kaok.com/2026/11/12/brooklyn-building-collapse-leaves-two-dead-and-17-injured-as-rescue-crews-search-rubble/"
+    },
+    {
+     "outlet": "980waav.com",
+     "url": "https://www.980waav.com/2026/11/12/brooklyn-building-collapse-leaves-two-dead-and-17-injured-as-rescue-crews-search-rubble/"
+    }
+   ]
+  },
+  {
+   "id": "b41f2c706832e45d2ee1aed2894d9f00de9f8338",
+   "title": "ICE deportations and arrests hit record high",
+   "url": "https://www.cbsnews.com/news/ice-deportations-arrests-hit-record-high/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-13T23:35:23Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/12/21475df5-5879-4437-893a-878b5b356bc3/thumbnail/1200x630/e9c01995826af7d2b6b627950222aeac/gettyimages-2296548601.jpg",
+   "description": "New Department of Homeland Security figures show more than 483,000 deportations and 491,000 immigration arrests in fiscal year 2026.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.52,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/ice-touts-record-number-of-deportations-in-agencys-history"
+    }
+   ]
+  },
+  {
+   "id": "230c6116294d7f300d208b1f64950a18f61a56a4",
+   "title": "American soldier arrested on suspicion of spying for Russia",
+   "url": "https://www.cnbc.com/2026/11/11/us-army-soldier-russia-espionage-arrest.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-14T10:45:00Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108548778-1794382683123-gettyimages-2297056541-260925_miramarlogos_139.jpeg?v=1794382733&w=1920&h=1080",
+   "description": "The 41-year-old man is being detained in London under the U.K.'s National Security Act.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.44,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 15,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/us-soldier-arrested-accused-spying-russia-identified-source/story?id=138091838"
+    },
+    {
+     "outlet": "thevermilion.com",
+     "url": "https://www.thevermilion.com/american-soldier-arrested-in-great-britain-he-is-suspected-of-spying-for-russia-what-do-we-know/article_22798/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/nation/u-s-soldier-arrested-in-britain-accused-of-espionage-linked-to-russia"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/world/united-kingdom/us-army-member-arrested-uk-suspicion-working-russian-intelligence-rcna608616"
+    },
+    {
+     "outlet": "gazetteseries.co.uk",
+     "url": "https://www.gazetteseries.co.uk/news/26718097.us-army-soldier-arrested-alleged-russia-espionage-case/"
+    },
+    {
+     "outlet": "i24news.tv",
+     "url": "https://www.i24news.tv/en/news/international/europe/artc-us-soldier-arrested-in-uk-on-suspicion-of-spying-for-russia"
+    },
+    {
+     "outlet": "en.people.cn",
+     "url": "http://en.people.cn/n3/2026/1111/c90000-20517971.html"
+    }
+   ]
+  },
+  {
+   "id": "2b13a2fac03d701d08d82836c9d3660c237ff057",
+   "title": "SpaceX launches first-of-its-kind Starship test flight",
+   "url": "https://www.cbsnews.com/news/spacex-launches-starship-flight-rocket/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T10:45:00Z",
+   "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/13/6065a29f-4a28-4c0c-bace-8fceea23af79/thumbnail/1200x630g2/cd18e18ca58d87270407234313e367c2/gettyimages-2304487605.jpg",
+   "description": "The SpaceX Super Heavy-Starship was designed from the ground up to be fully reusable in a bid to lower launch costs.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 17.39,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/can-spacex-catch-its-starship/"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/13/science/spacex-launch-starship-rocket-catch.html"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/science/spacexs-starship-soars-into-orbit-after-booster-malfunction-thwarts-double-catch-attempt"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374413/spacexs-bid-starship-double-catch-thwarted-booster-ends-ocean"
+    },
+    {
+     "outlet": "cedarnews.net",
+     "url": "https://cedarnews.net/newstasks/1146056/explosion-spacexs-starship-soars-orbit-booster-prevents/"
+    },
+    {
+     "outlet": "arabtimesonline.com",
+     "url": "https://www.arabtimesonline.com/news/spacexs-starship-soars-into-orbit-after-booster-blast-prevents-unprecedented-double-catch/"
+    },
+    {
+     "outlet": "krgv.com",
+     "url": "https://www.krgv.com/news/spacex-s-starship-soars-into-orbit-after-booster-explosion-prevents-an-unprecedented-double-catch/"
+    }
+   ]
+  },
+  {
+   "id": "7b2e932e4775c7345350a5ec378056858efe0644",
+   "title": "Chinese scientists fired after child dies in world’s first brain gene-editing attempt",
+   "url": "https://www.scmp.com/news/china/science/article/3374429/chinese-scientists-fired-after-child-dies-worlds-first-brain-gene-editing-attempt",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-14T06:23:22Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/4b48b62f-7dbd-4377-9e67-5e39386b1357_a6a3d865.jpg?itok=3HkcREAa&v=1794637392",
+   "description": "The world’s first attempt to edit genes inside a child’s brain, which killed a six-year-old girl in Shanghai last year, has led to the firing of scientists following an official investigation that found they had broken research rules and taken money from her family. The investigation, ordered by the Communist Party’s Shanghai municipal committee and the local government, concluded on Friday that the researchers had not shared worrying results from monkey tests with the girl’s doctors beforehand.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 17.3,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8618b5d5149b781c555ddd7f3ae428b0b9aed909",
+   "title": "Alaskans opt to stick with ranked choice voting",
+   "url": "https://www.nbcnews.com/politics/2026-election/alaskans-opt-stick-ranked-choice-voting-rcna607641",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-14T10:45:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261103-alaska-voting-mn-1345-15f529.jpg",
+   "description": "For the second time in as many election cycles, Alaska voters rejected a ballot measure that sought to undo the unusual system, which faced scrutiny in the state’s Senate race.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.28,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 12,
+   "also_reported_by": [
+    {
+     "outlet": "rockymounttelegram.com",
+     "url": "http://www.rockymounttelegram.com/news/national/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_dc85fd1b-03f7-5812-9a04-be3e6caa5572.html"
+    },
+    {
+     "outlet": "clickorlando.com",
+     "url": "https://www.clickorlando.com/news/politics/2026/11/14/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/"
+    },
+    {
+     "outlet": "clickondetroit.com",
+     "url": "https://www.clickondetroit.com/news/politics/2026/11/14/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/"
+    },
+    {
+     "outlet": "idahostatejournal.com",
+     "url": "https://www.idahostatejournal.com/news/national/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_65083007-6cee-5b25-9baf-07729f1f1676.html"
+    },
+    {
+     "outlet": "santafenewmexican.com",
+     "url": "https://www.santafenewmexican.com/ap/national/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_6623eeda-02a5-51c2-9a38-ac2b41144d82.html"
+    },
+    {
+     "outlet": "thegazette.com",
+     "url": "http://www.thegazette.com/news/national/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_0c7c28d8-7438-5549-afd3-a22690e7c504.html"
+    },
+    {
+     "outlet": "bakersfield.com",
+     "url": "https://www.bakersfield.com/ap/national/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_d9b9c1e0-ce87-5314-babb-db6451f5436a.html"
+    },
+    {
+     "outlet": "kokomotribune.com",
+     "url": "https://www.kokomotribune.com/news/nation_world_news/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_577d6705-80ba-5ae9-8054-d3adee948326.html"
+    },
+    {
+     "outlet": "wsls.com",
+     "url": "https://www.wsls.com/news/politics/2026/11/14/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/"
+    },
+    {
+     "outlet": "winknews.com",
+     "url": "https://www.winknews.com/news/international/alaska-voters-reject-ballot-measure-seeking-to-repeal-open-primaries-ranked-voting-system/article_01ab4ab8-d315-51ab-a537-c7e0fab60795.html"
+    }
+   ]
+  },
+  {
+   "id": "5525658935e37e4be0c0aa887f97ce21651ca229",
+   "title": "U.S. measles cases more than doubled in 2026, compared with all of 2025",
+   "url": "https://www.cbsnews.com/video/us-measles-cases-more-doubled-2026-compared-2025-tracker-finds/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/10/63e1b352-3cdb-4ebc-9bfc-5f30fb0834b3/thumbnail/1200x630/0ca1de2ac6be7e946de0b4434055572b/cbsn-fusion-us-measles-cases-more-doubled-2026-compared-2025-tracker-finds-thumbnail.jpg",
+   "description": "More than twice as many U.S. measles cases were counted this year as there were in all of 2025. This week, experts for the Pan American Health Organization will rule on the country's elimination status. CBS News medical correspondent Dr. Céline Gounder has more.",
+   "topic": "health",
+   "kind": "wire_copy",
+   "score": 17.15,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/newsletters/healthcare/6220185-u-s-poised-to-lose-measles-elimination-status/"
+    },
+    {
+     "outlet": "straitstimes.com",
+     "url": "https://www.straitstimes.com/world/united-states/us-loses-measles-elimination-status-as-cases-surge-wsj"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/us-loses-measles-elimination-status-after-26-years-wsj-reports/a-79946974"
+    },
+    {
+     "outlet": "politicalwire.com",
+     "url": "https://politicalwire.com/2026/11/13/u-s-loses-measles-elimination-status/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/measles-status-rfk-jr-anti-vaccine-agenda"
+    },
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/11/health-news-us-may-soon-lose-measles-elimination-status/?utm_campaign=rss"
+    },
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/the-u-s-may-be-on-the-cusp-of-losing-its-measles-elimination-status/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/10/health/measles-united-states-elimination-rfk.html"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://wjbo.iheart.com/content/2026-11-10-pennsylvania-surpasses-1500-measles-cases-in-2026/"
+    }
+   ]
+  },
+  {
+   "id": "309540f38d5708aade7289d87891479554c86987",
+   "title": "Nvidia's board preparing to oust CEO Jensen Huang, sources say",
+   "url": "https://www.cbsnews.com/news/nvidia-board-ceo-jensen-huang-china/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T00:52:34Z",
+   "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/11/7769501e-306c-4c2c-b41f-e58d75720772/thumbnail/1200x630/80056fc5e8f3497ae3a3e9c569454b4b/gettyimages-2266718050.jpg",
+   "description": "Nvidia's board of directors is preparing to oust CEO Jensen Huang soon, according to two sources, amid allegations Huang had an affair with a woman U.S. intelligence agencies believe was a Chinese asset.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 16.98,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html"
+    },
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/listen/programs/pm/nvidia-considers-axing-huang-/107380014"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/tech/big-tech/article/3374376/will-jensen-huangs-downfall-tip-scales-against-open-source-ai"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/13/ai-boom-without-jensen-huang-nvidia"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/business/2026/11/12/tech/nvidia-jensen-huang-affairs/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/US/nvidia-board-reportedly-preparing-oust-ceo-jensen-huang/story?id=138062059"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+    },
+    {
+     "outlet": "vanguardngr.com",
+     "url": "https://www.vanguardngr.com/2026/11/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/"
+    },
+    {
+     "outlet": "businesstimes.com.sg",
+     "url": "https://www.businesstimes.com.sg/international/global/nvidia-prepares-oust-jensen-huang-after-news-second-affair-executive-reports"
+    }
+   ]
+  },
+  {
+   "id": "2e6dd05cd33a6fdbfb1f9c3b3c9173feaae921da",
+   "title": "Congo Ebola outbreak still out of control after six months, MSF says",
+   "url": "https://www.japantimes.co.jp/news/2026/11/12/world/science-health/congo-ebola-outbreak-six-months/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-13T16:02:36Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/12/573672.JPG",
+   "description": "The group says that many cases are likely being missed and that transmission in hospitals in some areas is rife.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 16.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 23,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/13/world/africa/ebola-congo-isis.html"
+    },
+    {
+     "outlet": "wfdd.org",
+     "url": "https://www.wfdd.org/national/2026-11-11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak"
+    },
+    {
+     "outlet": "kmxt.org",
+     "url": "https://www.kmxt.org/2026-11-11/ebola-tops-11-000-cases-in-congos-deadliest-outbreak"
+    },
+    {
+     "outlet": "sundayworld.co.za",
+     "url": "https://sundayworld.co.za/africa/congos-ebola-cases-surpass-11000-more-than-5300-deaths/"
+    },
+    {
+     "outlet": "wsbradio.com",
+     "url": "https://www.wsbradio.com/news/world/congos-ebola/HA474YWSLE6WROCR3OP72Z4WTM/"
+    },
+    {
+     "outlet": "dailysabah.com",
+     "url": "https://www.dailysabah.com/world/africa/congos-worst-ever-ebola-crisis-tops-11000-cases-5387-deaths"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Health/wireStory/ebola-tops-11000-cases-congos-deadliest-outbreak-138037546"
+    },
+    {
+     "outlet": "timesargus.com",
+     "url": "https://www.timesargus.com/news/world/ebola-tops-11-000-cases-in-congos-deadliest-outbreak/article_31c125dd-3105-55d9-9b3c-8af7c5e99c11.html"
+    },
+    {
+     "outlet": "wsls.com",
+     "url": "https://www.wsls.com/news/world/2026/11/11/congos-ebola-outbreak-tops-11000-cases-as-disease-keeps-spreading/"
+    }
+   ]
+  },
+  {
+   "id": "39515b2f5f6c6e1081c574604f9a292dfaad2ec7",
+   "title": "Bernie Sanders says he won’t support Chuck Schumer for Senate majority leader",
+   "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-wont-support-chuck-schumer-senate-democrats-leader-rcna608633",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-14T00:50:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261110-chuck-schumer-sjr-1602-859a8e.jpg",
+   "description": "Sens. Sanders and Elissa Slotkin called for new leadership, but neither proposed an alternative. Sen. Chris Van Hollen of Maryland is considering challenging Schumer.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/progressive-challenge-senate-schumer/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/senate/6214626-schumer-democratic-senate-leadership-rebellion/"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/"
+    }
+   ]
+  },
+  {
+   "id": "62302d89f9b366be378bf73190858241dd1484ac",
+   "title": "India news: Delhi air quality level 'severe' after Diwali",
+   "url": "https://www.dw.com/en/india-news-delhi-air-quality-level-severe-after-diwali/live-79895307?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-14T10:15:00Z",
+   "image": "https://static.dw.com/image/79889031_6.jpg",
+   "description": "Illegal fireworks during Diwali celebrations have impacted New Delhi's air quality level. DW has the latest.",
+   "topic": "climate",
+   "kind": "wire_copy",
+   "score": 16.76,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "onenewspage.com",
+     "url": "https://www.onenewspage.com/story/india-delhi-surpasses-lahore-as-worlds-most-polluted-city-ddb99b5a/"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com/asia/delhi-overtakes-lahore-worlds-most-polluted-city-air-quality-drops"
+    },
+    {
+     "outlet": "tribuneindia.com",
+     "url": "https://www.tribuneindia.com/news/delhi/delhis-air-pollution-readings-raise-questions-as-cpcb-private-platforms-show-huge-gap/"
+    },
+    {
+     "outlet": "dailypakistan.com.pk",
+     "url": "https://en.dailypakistan.com.pk/09-Nov-2026/delhi-aqi-surges-past-3000-as-indian-govt-faces-allegations-of-covering-up-alarming-pollution-data"
+    },
+    {
+     "outlet": "openthemagazine.com",
+     "url": "https://openthemagazine.com/india/delhis-post-diwali-air-pollution-is-a-public-health-emergency-environmentalists"
+    }
+   ]
+  },
+  {
+   "id": "b5bdf3ffe612eb787d6455b9c1b2fcdf51030bd0",
+   "title": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
+   "url": "https://www.axios.com/2026/11/13/mossad-israel-iran-war-netanyahu-pressures-trump",
+   "outlet": "axios.com",
+   "published_at": "2026-11-13T14:42:42Z",
+   "image": "https://images.axios.com/PUdOuZn8RPZ4Hl2Xe4WaFK-VZwE=/0x0:4500x2531/1366x768/2026/11/13/1794576707885.jpeg",
+   "description": "The director of the Israeli spy agency Mossad is in Washington Friday for talks with senior Trump administration officials about the war in Iran , according to three sources with knowledge of the matter. Why it matters : The visit by Roman Gofman, one of Benjamin Netanyahu's closest confidants, comes as the Israeli prime minister is pressing President Trump to resume the war against Iran. Driving the news: Gofman is meeting with CIA Director John Ratcliffe, the sources said. He is also expected ",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.65,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "d4ec44a48bc9cf60367f55973557e3b9fa1338f9",
+   "title": "Novel CRISPR therapy is poised to gain first FDA approval to alter genes inside the body",
+   "url": "https://www.nature.com/articles/d41586-026-03705-9",
+   "outlet": "nature.com",
+   "published_at": "2026-11-12T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 12 November 2026; doi:10.1038/d41586-026-03705-9 Current gene-editing treatments require removal of a participant’s cells, a complex and costly approach.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 16.5,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "e44100d482ee63591c16fca4bedf19cf06e7b6ff",
+   "title": "GOP Rep. Lauren Boebert of Colorado loses U.S. House seat to Democrat Eileen Laubacher",
+   "url": "https://www.pbs.org/newshour/politics/gop-rep-lauren-boebert-of-colorado-loses-u-s-house-seat-to-democrat-eileen-laubacher",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-14T10:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T000053Z_820618770_RC2BLOAN76D2_RTRMADP_3_USA-TRUMP-HEGSETH-IMPEACHMENT-e1794605445401-1024x651.jpg",
+   "description": "Democrat Eileen Laubacher defeated Rep. Lauren Boebert for a Colorado U.S. House seat on Friday, ousting a three-term Republican and staple of conservative media.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.46,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado"
+    },
+    {
+     "outlet": "onenewspage.com",
+     "url": "https://www.onenewspage.com/story/lauren-boebert-loses-colorado-house-seat-eileen-laubacher-52701e4b/"
+    }
+   ]
+  },
+  {
+   "id": "c0a0c8a17793f71c90ea2a1366f2792fa32375f7",
+   "title": "Mississippi elects first Black Senator since 1874",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-13T23:18:08Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-scott-colom-1794471106.png?resize=1920%2C1080&quality=80",
+   "description": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.41,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/live/2026/11/11/us/mississippi-senate-election-midterms/mississippi-democrats-built-a-coalition-to-elect-a-black-senator-for-the-first-time-since-reconstruction"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/11/nx-s1-6037840/democrat-scott-colom-wins-the-closest-senate-race-in-the-country"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3374129/democrat-colom-defeats-hyde-smith-mississippi-win-historic-senate-seat"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/democrat-wins-mississippi-senate-race-273303621688"
+    },
+    {
+     "outlet": "novinite.com",
+     "url": "https://www.novinite.com/articles/241558/Mississippi+Elects+First+Black+Senator+Since+Reconstruction"
+    }
+   ]
+  },
+  {
+   "id": "a3f9a8ef5cbadb0305df32758469c33d908b416b",
+   "title": "U.S. inflation report highlights strain of rising food, energy and housing costs",
+   "url": "https://www.pbs.org/newshour/show/u-s-inflation-report-highlights-strain-of-rising-food-energy-and-housing-costs",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-13T20:19:31Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/risingprices-1024x652.jpg",
+   "description": "High inflation persisted last month, providing little relief for Americans struggling with affordability. It is driven largely by food and energy price increases, but housing costs also rose. The country appears to be headed for an annual inflation rate of about 4% this year. To discuss what it means for the economy, Geoff Bennett spoke with Austan Goolsbee of the Federal Reserve Bank of Chicago.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 16.38,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/new-inflation-report-shows-prices-rose-in-october/"
+    },
+    {
+     "outlet": "parisguardian.com",
+     "url": "http://www.parisguardian.com/news/279424231/hot-us-inflation-keeps-fed-on-course-for-december-hike"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com/money/inflation-runs-hotter-expected-higher-prices-extend-beyond-gas-station"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/10/october-2026-cpi-inflation-breakdown.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/10/inflation-cpi-interest-rates"
+    },
+    {
+     "outlet": "arkansasonline.com",
+     "url": "https://www.arkansasonline.com/news/2026/nov/11/october-inflation-higher-than-forecast/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report"
+    }
+   ]
+  },
+  {
+   "id": "2b58e314e90a7acd36d29ff38a9edca4293ad1e3",
+   "title": "UN chief says 'immediate and drastic' emissions cuts needed to avert climate change catastrophe",
+   "url": "https://www.pbs.org/newshour/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-14T10:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-13T150701Z_339531524_RC22NOA0Q63U_RTRMADP_3_CLIMATE-COP31-1024x703.jpg",
+   "description": "\"You cannot build peace on a burning planet,\" United Nations Secretary-General António Guterres told reporters, stressing that climate change is central to the U.N.'s work because it contributes to geopolitical instability.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 16.26,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "krmg.com",
+     "url": "https://krmg.com/2026/11/13/un-chief-says-immediate-and-drastic-emissions-cuts-needed-to-avert-climate-change-catastrophe/"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com/world/un-chief-says-immediate-and-drastic-emissions-cuts-needed-avert-climate-change-catastrophe"
+    }
+   ]
+  },
+  {
+   "id": "c8e675553281d0327b3ffe647d98ddad9018b69d",
+   "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+   "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg",
+   "description": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.99,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/2026/nov/13/hungary-seizes-195m-in-cash-found-buried-in-forests-amid-graft-inquiry"
+    },
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/nearly-20m-found-in-hungarys-forests-buildings-amid-corruption-probe/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/nearly-20m-found-in-hungarys-forests-buildings-amid-corruption-probe/"
+    },
+    {
+     "outlet": "whbl.com",
+     "url": "https://whbl.com/2026/11/14/hungary-recovers-20-million-cash-in-probe-of-orban-minister/"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/hungary-millions-in-hidden-cash-found-in-orban-graft-probe/a-79946923"
+    },
+    {
+     "outlet": "jpost.com",
+     "url": "https://www.jpost.com/international/article-914852"
+    }
+   ]
+  },
+  {
+   "id": "1b59d5471552ad5f3047401baa2afb0de0b74d4a",
+   "title": "Trump says he wants to ‘get Cuba done’ before leaving office, would consider military force",
+   "url": "https://www.cnbc.com/2026/11/13/trump-cuba-us-military-force-iran.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-14T10:30:00Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108550970-1794574978967-gettyimages-2289251581-_ovi8549.jpeg?v=1794575011&w=1920&h=1080",
+   "description": "It comes as the U.S. continues to enforce a comprehensive economic embargo against Cuba.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "cubaheadlines.com",
+     "url": "https://www.cubaheadlines.com/articles/345672"
+    }
+   ]
+  },
+  {
+   "id": "7c79f553d94f1ac660951cb50c2575f44f19bde5",
+   "title": "U.S. wrongly withheld New York highway funds over immigrant licenses, appeals court rules",
+   "url": "https://www.pbs.org/newshour/politics/u-s-wrongly-withheld-new-york-highway-funds-over-immigrant-licenses-appeals-court-rules",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-14T10:30:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-07-31T165716Z_1170387382_RC24PMA11GAV_RTRMADP_3_USA-TRUMP-1024x683.jpg",
+   "description": "The U.S. Transportation Department wrongly decided to withhold nearly $74 million in highway money from New York state after it refused to revoke nearly 33,000 questionable commercial driver’s licenses for immigrants when an audit revealed problems last year, a federal appeals court said Friday.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "wfmz.com",
+     "url": "https://www.wfmz.com/business/federal-appeals-court-sides-with-new-york-state-over-truck-driver-s-licenses-for-immigrants/article_63990971-bfa3-5052-86c1-2a79586ab9f6.html"
+    }
+   ]
+  },
+  {
+   "id": "220344924b5ee341bca988fe72a19ed910e1dd69",
+   "title": "Rubio labels international law a tool of elites, attacks ICC",
+   "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/rubio-international-law-icc/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-14T10:00:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/574000.jpg",
+   "description": "The Secretary of State warned that the U.S. would never submit to the “sterile vision of radical judges or soulless global bureaucrats.”",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.95,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "sana.sy",
+     "url": "https://sana.sy/en/international/2358586/"
+    }
+   ]
+  },
+  {
+   "id": "22e88de011b9f2d739dc69e68443e1d91d431c31",
+   "title": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients",
+   "url": "https://www.theguardian.com/sport/2026/nov/14/scientists-find-blood-biomarker-cte-diagnosis-rugby-american-football",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-14T09:30:00Z",
+   "image": "https://i.guim.co.uk/img/media/1034995fd3a5af19bf486a1fbc16667d82fe7ad9/0_263_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a43f3d66ed3cc730ae3aa8610e06b2bb",
+   "description": "Scientists are optimistic of a breakthrough in diagnosing the degenerative brain condition chronic traumatic encephalopathy that is especially prevalent in American football, rugby and football",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.93,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "nbcsandiego.com",
+     "url": "https://www.nbcsandiego.com/health/preliminary-study-finds-clue-to-help-diagnose-cte-in-the-living/4101947/"
+    }
+   ]
+  },
+  {
+   "id": "c28eab1894d308c4f49215754b67e879db22cc44",
+   "title": "Senate Republicans return to Capitol furious with Trump after big losses",
+   "url": "https://thehill.com/homenews/senate/6206790-senate-gop-blames-trump-losses/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-13T13:46:34Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/trumpdonald_110526upi01_w.jpg?w=900",
+   "description": "Senate Republicans returning to the Capitol on Monday are furious with President Trump, whom they blame for last week's big losses in Senate and House races. The anger is raising the chances that the party could pivot away from the lame-duck president in the lead-up to the 2028 presidential election, say GOP aides and strategists....",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.9,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/wireStory/republicans-dazed-midterm-election-defeats-grapple-wrong-138104752"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/congress/republicans-hesitate-blame-trump-defeat-2026-elections-rcna608554"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/09/congress-senioritis-lame-duck-shutdown-2026"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/trump-prepares-fight-congress-assembling-more-combative-white-house/"
+    }
+   ]
+  },
+  {
+   "id": "e883101ad14e4a47bb534a2c47a090824f4c16da",
+   "title": "Bessent puts Megaspeed heat on Lutnick: \"Commerce has the pen\"",
+   "url": "https://www.axios.com/2026/11/13/bessent-lutnick-megaspeed-nvidia",
+   "outlet": "axios.com",
+   "published_at": "2026-11-14T02:02:30Z",
+   "image": "https://images.axios.com/Tb8k0ajTSQBS1lHWJXMTjEArtIk=/0x0:3602x2026/1366x768/2026/11/13/1794578687551.jpeg",
+   "description": "Treasury Secretary Scott Bessent said in a Friday interview that while his department and others agreed on placing Megaspeed on a special list of companies that pose national security concerns, the Commerce Department \"has the pen.\" Why it matters: Bessent didn't deny reports of tension between him and Commerce Secretary Howard Lutnick , who has come under scrutiny for his inaction over Megaspeed. The Singapore tech company has been accused of illegally diverting U.S. chips to China, and former ",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.62,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/howard-lutnick-scott-bessent-nvidia-megaspeed-testimony/"
+    }
+   ]
+  },
+  {
+   "id": "6126db0198ff8c1263340e67d6f2f025bfee197a",
+   "title": "Increasing cost of housing squeezes Americans out of market",
+   "url": "https://www.pbs.org/newshour/show/increasing-cost-of-housing-squeezes-americans-out-of-market",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-13T23:45:45Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2014-03-20T120000Z_1347791437_GM1EA3L0CX801_RTRMADP_3_USA-HOUSING-AFFORDABILITY-1024x683.jpg",
+   "description": "Sales of existing homes in the U.S. fell last month to their lowest level in more than 16 years. That's according to a new report by the National Association of Realtors. In October alone, sales dropped to 3.75 million homes, an 8.8% drop compared with the same time last year. Stephanie Sy reports on what's driving the decline.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.53,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low"
+    }
+   ]
+  },
+  {
+   "id": "55d0a424dff762c44fab54b5afdce103d4fc11be",
+   "title": "South Sudan postpones first-ever national elections until February",
+   "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8208bcd843-1794646155.jpg?resize=1920%2C1440",
+   "description": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.49,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "whbl.com",
+     "url": "https://whbl.com/2026/11/14/south-sudan-delays-election-to-february-11-2027/"
+    },
+    {
+     "outlet": "ksevradio.com",
+     "url": "https://ksevradio.com/south-sudan-delays-election-to-february-11-2027/"
+    },
+    {
+     "outlet": "moneycontrol.com",
+     "url": "https://www.moneycontrol.com/world/south-sudan-delays-first-elections-since-independence-to-february-2027-article-14080158.html"
+    }
+   ]
+  },
+  {
+   "id": "fe5a1dee854c6e8dc12545d9ac00ed0cdfd03ab1",
+   "title": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+   "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+   "outlet": "france24.com",
+   "published_at": "2026-11-14T11:00:00Z",
+   "image": "https://s.france24.com/media/display/2e18af32-df9b-11f1-903b-3f371022a770/w:1024/p:16x9/2026-11-13T145055Z-1247391648-RC22NOA8HWLE-RTRMADP-3-TURKEY-QATAR.jpg",
+   "description": "Turkey and Qatar signed a mutual defence agreement Friday, pledging a unified response to any attack on either country, the two leaders said in a joint statement. The defence pact follows the Mecca Joint…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.49,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know/"
+    }
+   ]
+  },
+  {
+   "id": "4efe5ab26765833552a567303580f8d99d7c7bea",
+   "title": "White House warns Democrats of \"blatant criminality\" over possible probes into Trump administration",
+   "url": "https://www.cbsnews.com/video/white-house-warns-dems-of-blatant-criminality-over-possible-probes-into-trump-administration/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T10:45:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/12/111e003c-df2d-420d-86b1-9a493b8389a7/thumbnail/1200x630/282da0eb2a0b0e63ceee025ca024419c/cbsn-fusion-white-house-warns-dems-of-blatant-criminality-over-possible-probes-into-trump-administration-thumbnail.jpg",
+   "description": "The White House is warning Democratic lawmakers that aggressive oversight of the administration may cross the line into criminality as the new Democratic-led Congress prepares to take office in January. CBS News' Kathryn Watson reports.",
+   "topic": "politics",
+   "kind": "wire_copy",
+   "score": 15.48,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 16,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/11/us/politics/trump-democrats-congress-oversight-committee.html"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/white-house-threatens-democrats-over-plans-to-investigate-trump-officials"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/11/democrat-investigation-white-house-letter-garcia"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/top-white-house-lawyer-warns-democrats-threats-oversight/story?id=138044143"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/white-house/white-house-warns-congressional-democrats-investigating-us-may-crime-rcna608752"
+    },
+    {
+     "outlet": "sidneyherald.com",
+     "url": "https://www.sidneyherald.com/news/national/white-house-tells-democrats-that-investigating-trump-administration-could-be-criminal"
+    },
+    {
+     "outlet": "jamestownsun.com",
+     "url": "https://www.jamestownsun.com/news/national/white-house-tells-democrats-that-investigating-trump-administration-could-be-criminal"
+    },
+    {
+     "outlet": "mitchellrepublic.com",
+     "url": "https://www.mitchellrepublic.com/news/national/white-house-tells-democrats-that-investigating-trump-administration-could-be-criminal"
+    },
+    {
+     "outlet": "grandforksherald.com",
+     "url": "https://www.grandforksherald.com/news/national/white-house-tells-democrats-that-investigating-trump-administration-could-be-criminal"
+    },
+    {
+     "outlet": "newscenter1.tv",
+     "url": "https://www.newscenter1.tv/news/national/white-house-tells-democrats-that-investigating-trump-administration-could-be-criminal"
+    }
+   ]
+  },
+  {
+   "id": "cf7d302a522fc64b5107b4c3fa665d9816c74667",
+   "title": "Jeffries outlines Democratic plans for Medicare expansion",
+   "url": "https://thehill.com/homenews/house/6219982-jeffries-endorses-medicare-age-lowering/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-13T22:43:31Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/jeffrieshakeem_110926gn02_w.jpg?w=900",
+   "description": "House Democratic Leader Hakeem Jeffries (N.Y.) on Friday endorsed efforts to lower the Medicare eligibility age and expand the program, as Democrats try to navigate internal tensions around a progr…",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.48,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/13/democrats-eye-medicare-for-more-vs-medicare-for-all/?utm_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "f83a676d74f090b781ec1204d91152db7b63be37",
+   "title": "U.N. watchdog agency pushes for access to key Iran nuclear site",
+   "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-14T10:29:27Z",
+   "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/24/b879ec6e-4079-4e01-abd0-f89f63ff4c01/thumbnail/1200x630/5d43f7f6c8725252539e8f52741a47f6/iran-iaea-isfahan-101916459.jpg",
+   "description": "As Trump signals he may let the Iran war fester, the U.N. nuclear agency is \"increasingly concerned\" about access to a key uranium facility, according to a leaked report.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.47,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "fc1c85f9474ff133550bad1a32a1769c316d07af",
+   "title": "Top Democrat Eyes Filibuster-Proof Budget Bill to Unlock Affordability Agenda",
+   "url": "https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-14T10:01:49Z",
+   "image": "https://static01.nyt.com/images/2026/12/11/multimedia/00DC-AFFORDABILITY-plhz/00DC-AFFORDABILITY-plhz-mediumSquareAt3X.jpg",
+   "description": "The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.45,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "885edc061b79260aba56778c1324c8ca6af85a06",
+   "title": "Hong Kong police to activate AI facial recognition across surveillance network",
+   "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374436/hong-kong-police-activate-ai-facial-recognition-across-surveillance-network",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-14T09:11:26Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/14/ebd31d4c-98d3-4a3a-ab35-607aeb341889_01400f1d.jpg?itok=jDlkAm1W&v=1794647477",
+   "description": "Hong Kong police will activate artificial intelligence-powered facial recognition across their expanding smart surveillance network on Monday, the force’s commissioner has said. Speaking after attending a police passing-out ceremony, Commissioner of Police Joe Chow Yat-ming said the technology could help identify people even if they wore masks or used other methods to evade detection. “No matter what methods you use, if you commit a crime, we actually have the capability to arrest you. I believe",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 15.42,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "576967ba12976e7a0f55c95e60b6e4e6acca245d",
+   "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+   "url": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-14T08:31:00Z",
+   "image": "https://static.dw.com/image/79659504_6.jpg",
+   "description": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.39,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "72ac1564f95fd61dffcedbca8bb96133b6e13cbc",
+   "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+   "url": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-14T06:48:14Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315561384105-1794539740.jpg?resize=1920%2C1440",
+   "description": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.32,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "e91f25e6d7bd937df2d942f529084ac1335a8639",
+   "title": "Trump administration delays Medicaid work requirement enforcement",
+   "url": "https://thehill.com/policy/healthcare/6220069-trump-delays-medicaid-work-requirements/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-14T02:22:25Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/ozmehmet_101426gn01_w.jpg?w=900",
+   "description": "The Trump administration is delaying the implementation of controversial Medicaid work requirements, giving states an extra six months to prepare.  The work requirements, which Republicans establis…",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.3,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/13/us/politics/medicaid-work-requirement-delay.html"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/politics-news/trump-administration-delays-medicaid-work-requirements-six-months-rcna609256"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/13/medicaid-work-requirements-six-month-delay"
+    },
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "36acd4650bb9504d8e8840d8d9200177b7277fb0",
+   "title": "Duffy, Mullin call for $50B air travel 'overhaul' in fiery ground stop briefing",
+   "url": "https://thehill.com/policy/transportation/6220399-duffy-billions-air-traffic-ground-stop/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-14T11:15:00Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26318076273293-e1794627034228.jpg?w=900",
+   "description": "Trump administration officials reupped their calls for a multi-billion-dollar investment into updating the U.S.’s “incredibly old” air traffic control systems, calling out Congres…",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.3,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "indiatimes.com",
+     "url": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-trump-official-seeks-50-billion-for-air-traffic-control-overhaul-after-nationwide-disruptions/articleshow/135830168.cms"
+    },
+    {
+     "outlet": "tribune.com.pk",
+     "url": "https://tribune.com.pk/story/2640263/trump-official-seeks-50-billion-for-air-traffic-control-after-outage"
+    }
+   ]
+  },
+  {
+   "id": "98d5197bc3293dd795493a14aadeb254303ebb56",
+   "title": "Live: France deploys 70,000 police for new wave of anti-government protests",
+   "url": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+   "outlet": "france24.com",
+   "published_at": "2026-11-14T10:45:00Z",
+   "image": "https://s.france24.com/media/display/0bd7ebca-dff7-11f1-ae57-29048b396e03/w:1024/p:16x9/000-D6TJ4YN.jpg",
+   "description": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.28,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "dailysabah.com",
+     "url": "https://www.dailysabah.com/world/europe/frances-protest-movement-widens-as-anger-over-police-bill-soars"
+    },
+    {
+     "outlet": "ewn.co.za",
+     "url": "https://www.ewn.co.za/2026/11/14/new-french-protests-focus-on-children-and-police"
+    }
+   ]
+  },
+  {
+   "id": "7cb7a906c9846c80c1205cd28c86b7dc0f44d869",
+   "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting",
+   "url": "https://www.freemalaysiatoday.com/category/business/2026/11/14/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting",
+   "outlet": "freemalaysiatoday.com",
+   "published_at": "2026-11-14T11:15:00Z",
+   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/wp-content/uploads/2026/05/b22747ad-us-china-flag.webp",
+   "description": "The two sides discussed implementing previous trade agreements, including tariff cuts, agricultural trade and other issues of mutual concern.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.17,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3374407/us-china-board-trade-holds-first-meeting-days-trump-xi-summit"
+    },
+    {
+     "outlet": "aa.com.tr",
+     "url": "https://aa.com.tr/en/asia-pacific/us-china-hold-first-trade-council-meeting-discuss-tariffs-agricultural-trade/4124995"
+    },
+    {
+     "outlet": "cyprus-mail.com",
+     "url": "https://cyprus-mail.com/2026/11/14/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting"
+    },
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/business/5341089-china-us-discuss-tariffs-farm-trade-first-trade-council-meeting"
+    }
+   ]
+  },
+  {
+   "id": "3cbfc5a3fdb46c27157a04d18d754745e2e8478f",
+   "title": "How the University of North Carolina Tried to Avoid Trump’s Wrath",
+   "url": "https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-14T02:00:19Z",
+   "image": "https://static01.nyt.com/images/2026/10/26/us/26nat-unc-science-promo/26nat-unc-science-promo-mediumSquareAt3X-v2.jpg",
+   "description": "The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.12,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "894e64e578706f880899bc240681045b6d414f87",
+   "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+   "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-14T01:00:07Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/12/ca09350c-3b82-4332-a6d9-ffabf3fa9481_e1e50b83.jpg?itok=1G7wUnqr&v=1794457421",
+   "description": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the field. The findings reveal a shift away from the West in the race to build future green computing infrastructure, as China transforms from an early follower into the dominant force in subsea data technologies. “China holds competitive edges in engineering-oriented technologies such as modular construction and in situ...",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 15.08,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "24678a50e3049bcc4b42a49589132789fdbdf36a",
+   "title": "Number of international students arriving in US plunges — worrying scientists",
+   "url": "https://www.nature.com/articles/d41586-026-03668-x",
+   "outlet": "nature.com",
+   "published_at": "2026-11-13T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 13 November 2026; doi:10.1038/d41586-026-03668-x Declines in students from China and India are driving the trend, which researchers say could slow the progress of US science.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.04,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "2e0d382511ea4e3d0c7d8181f2c572316bdd09ca",
+   "title": "Pax Silica means peace. In the Philippines, it’s a fight",
+   "url": "https://www.scmp.com/week-asia/economics/article/3374368/pax-silica-means-peace-philippines-its-fight",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-14T00:00:08Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/13/7cf13cd9-234c-45a5-a5c5-ca39ee28fc92_ce91c111.jpg?itok=Y_sMY1Gb&v=1794567090",
+   "description": "Outside the Grand Hyatt hotel in Manila earlier this year, five people were arrested as hundreds of activists chanting “Junk Pax Silica!” clashed with anti-riot police. Inside, Philippine President Ferdinand Marcos Jnr hobnobbed with some 600 investors, industry leaders and officials at a US-sponsored forum, urging them to sink their money into the US-led scheme. The Philippines is planning to build a sprawling 1,620-hectare (4,000-acre) “Pax Silica” technology hub near a former American...",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.04,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "07c3fc0778fe92d34faaf99c4e0c858f435d2f17",
+   "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+   "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-13T23:53:43Z",
+   "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879",
+   "description": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.03,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "cade9fef60899ceac4e35ee698d57552d706ff22",
+   "title": "Nvidia crisis spurs scrutiny of agency that oversees chip curbs",
+   "url": "https://www.japantimes.co.jp/business/2026/11/14/companies/nvidia-crisis-scrutiny-agency/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-13T23:30:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/14/573998.jpg",
+   "description": "Congress is demanding answers about whether the Bureau of Industry and Security did enough to keep Nvidia’s AI processors out of China’s hands.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.01,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "54272a5d103eb4e36d85c3818fe1cd8648a686b6",
+   "title": "Mishandled Data Means No One Knows if California’s New Pesticide Regulation Protects Workers",
+   "url": "https://insideclimatenews.org/news/13112026/mishandled-data-california-pesticide-regulation/",
+   "outlet": "insideclimatenews.org",
+   "published_at": "2026-11-13T23:17:23Z",
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/danger-P1120190-1024x736.jpg",
+   "description": "Just before 5 p.m. on the last day of September, Jane Sellen and her colleagues at Californians for Pesticide Reform learned that regulators had to toss out nearly nine months’ worth of air-monitoring data for two deadly fumigants. California’s Department of Pesticide Regulation, or DPR, said the state laboratory that analyzes its samples was “recalling […]",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.01,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "a7a7dfe4a1052eaf92c7703c86a2ff20a1334462",
+   "title": "Trump Officials Press Congress to Renew Spying Law in Lame-Duck Session",
+   "url": "https://www.nytimes.com/2026/11/13/us/politics/trump-congress-section-702-surveillance.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-13T23:10:36Z",
+   "image": "https://static01.nyt.com/images/2026/11/13/multimedia/13dc-surveillance-pbwq/13dc-surveillance-pbwq-mediumSquareAt3X.jpg",
+   "description": "The request to extend a high-profile warrantless surveillance law would add a thorny issue during waning Republican control.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "190337eb6423d7b296f30e6f7cd8fea4548fb277",
+   "title": "GOP state officials push to revive Trump's mail voting restrictions for 2028 election",
+   "url": "https://www.npr.org/2026/11/13/nx-s1-6040409/trump-mail-in-voting",
+   "outlet": "npr.org",
+   "published_at": "2026-11-13T22:18:55Z",
+   "image": null,
+   "description": "Some Republican state officials are reviving a bid for mail-in voting restrictions for the 2028 election by appealing a court order blocking the Postal Service from carrying out a revised ballot rule.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 14.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "00ccf51f4f6efee2ee22bf7d99a79f6500e6c51f",
+   "title": "Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion",
+   "url": "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-13T22:18:43Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108550398-17945096822026-11-12t185016z_1520507374_rc2imoavf5px_rtrmadp_0_nvidia-ceo.jpeg?v=1794509990&w=1920&h=1080",
+   "description": "Jensen Huang's resignation added to Nvidia's market woes, with the stock already in a downward slide since early October.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 14.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "f6176e48f79283ea284cef8d113392e37e763441",
+   "title": "Top Aide for a Senator Pushing a Permitting Bill Was Also on Staff at a Pipeline Company",
+   "url": "https://insideclimatenews.org/news/13112026/top-aide-for-a-senator-pushing-a-permitting-bill-was-also-on-staff-at-a-pipeline-company/",
+   "outlet": "insideclimatenews.org",
+   "published_at": "2026-11-13T22:10:12Z",
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/GettyImages-2275699542-1024x683.jpg",
+   "description": "When U.S. Sen. Alan Armstrong of Oklahoma started work this year on legislation to speed approval for infrastructure projects, he hired the chief lawyer at one of the nation’s largest gas pipeline developers to lead his Senate office.  Armstrong had previously led the Williams Companies, stepping down before entering public office. But his new chief […]",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 14.96,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "5c82025945099ad5567b95c2bcd78822796333d0",
+   "title": "The Euclid space telescope captures nearly a billion celestial objects in stunning detail",
+   "url": "https://www.scientificamerican.com/article/the-euclid-space-telescope-captures-nearly-a-billion-celestial-objects-in-stunning-detail/",
+   "outlet": "scientificamerican.com",
+   "published_at": "2026-11-13T19:30:00Z",
+   "image": "https://static.scientificamerican.com/dam/asset/3fcef9b9-42db-49ba-bc0b-d232b2a1c9c7/Euclid.jpg?m=1794605497.28&w=1200",
+   "description": "The enormous trove of galaxies and quasars will help astronomers piece together the most in-depth 3D map of the universe yet made",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 14.85,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8533b6fa230f9d3e7d7cd9922e0eeb8c12957367",
+   "title": "Whitney Museum Is Selling a de Kooning Painting Just Three Years After Receiving It",
+   "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/",
+   "outlet": "artnews.com",
+   "published_at": "2026-11-13T22:36:56Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/11/whitney-de-kooning.png?w=1024",
+   "description": "The Whitney Museum is selling Willem de Kooning's 'Yellow River' at Christie's just three years after receiving it as a gift.",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.98,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "751d50a8472bc5175f22abb0097a22199bdd3b50",
+   "title": "Long-Lost Charles Le Brun Painting Returns to the New Palace in Potsdam",
+   "url": "https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/",
+   "outlet": "artnews.com",
+   "published_at": "2026-11-13T20:39:24Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/11/GettyImages-818725458.jpg?w=1024",
+   "description": "The 17th-century work, a depiction of a sleeping Christ Child with the Holy Family, vanished in 1945; it resurfaced at a Berlin auction house in 2021",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.9,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "f199666063476754cc4834075e7b63217b7e8def",
+   "title": "Shanghai’s art week finds buyers in a selective market",
+   "url": "https://www.theartnewspaper.com/2026/11/13/shanghais-2026-art-week-finds-buyers-in-a-more-selective-market",
+   "outlet": "theartnewspaper.com",
+   "published_at": "2026-11-13T15:45:48Z",
+   "image": "https://cdn.sanity.io/images/cxgd3urn/production/fede1bbb9d69f6041429cd788f4dfc776f4710a7-2230x1274.png?w=140",
+   "description": "The Chinese market is at an \"all-time low\", but the city remains vibrant",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.69,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  }
+ ]
+}
