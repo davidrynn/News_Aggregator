@@ -1,0 +1,2518 @@
+{
+ "generated_at": "2026-11-21T11:08:23Z",
+ "version": 1,
+ "stories": [
+  {
+   "id": "c8e0b3a25359f10fd816f7b5883ad6a2310af425",
+   "title": "Trump, Xi and Putin plan an unprecedented meeting on the sidelines of APEC, officials say",
+   "url": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-21T00:04:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261106-Xi-Trump-Putin-vsb-1846-405edd.jpg",
+   "description": "It is not anticipated that any sort of agreement will come from the trilateral meeting, according to a senior U.S. official, who described the session as an “entry point” and “the first conversation,” pointing to the reduction of nuclear arsenals as a key topic.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 21.05,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 259,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/us/diplomacy/article/3375296/trump-says-china-agreed-trilateral-despite-reluctance-notes-nuclear-gap"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/20/world/politics/trump-xi-putin-pushback/"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/asia-pacific/20261120-was-the-historic-shenzhen-summit-political-win-or-humiliation-for-putin"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/experts-assess-what-was-addressed-and-overlooked-at-trilateral-meeting-in-china"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/world/europe/putin-trump-xi-summit-apec.html"
+    },
+    {
+     "outlet": "newdelhitimes.com",
+     "url": "https://www.newdelhitimes.com/trump-xi-and-putin-hold-rare-3-way-talks-on-nuclear-risks-but-deliver-no-breakthroughs/"
+    },
+    {
+     "outlet": "nknews.org",
+     "url": "https://www.nknews.org/2026/11/trump-xi-and-putin-discuss-north-korea-nuclear-risks-at-first-trilateral-talks/"
+    }
+   ]
+  },
+  {
+   "id": "974fdeb4375ac4138877548159e9787cde117d56",
+   "title": "Three Kyiv bridges hit during major Russian missile attack",
+   "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T09:45:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg",
+   "description": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 20.81,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 107,
+   "also_reported_by": [
+    {
+     "outlet": "chronicle.lu",
+     "url": "https://www.chronicle.lu/category/international-news/64795-8-killed-in-ukraine-as-russia-hits-back-after-crimea-bridge-attacks"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3375281/8-killed-ukraine-russia-hits-back-after-crimea-bridge-attacks"
+    },
+    {
+     "outlet": "wsbradio.com",
+     "url": "https://www.wsbradio.com/news/world/russian-attacks-kyiv/JRIL2VWGKMYUDP27LSLM37IPPQ/"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/world/russia-strike-ukraine-invasion-putin-missile-drone-6568896"
+    },
+    {
+     "outlet": "kesq.com",
+     "url": "https://kesq.com/news/national-world/cnn-world/2026/11/19/hours-after-trump-putin-talks-russia-hits-ukraine-with-massive-deadly-attack/"
+    },
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/world/5343473-russia-pummels-ukraine-after-putin-vowed-%E2%80%98painful%E2%80%99-attack"
+    },
+    {
+     "outlet": "sbs.com.au",
+     "url": "https://www.sbs.com.au/news/article/russia-pummels-ukraine-in-deadly-strikes-after-renewed-international-criticism-of-war/kd5qp5i1n"
+    },
+    {
+     "outlet": "timesofmalta.com",
+     "url": "https://timesofmalta.com/article/russia-pummels-ukraine-putin-vowed-painful-attack.1137390"
+    },
+    {
+     "outlet": "singletonargus.com.au",
+     "url": "https://www.singletonargus.com.au/story/9395009/eight-killed-bridges-hit-as-russia-pummels-ukraine/"
+    },
+    {
+     "outlet": "merimbulanewsweekly.com.au",
+     "url": "https://www.merimbulanewsweekly.com.au/story/9395009/eight-killed-bridges-hit-as-russia-pummels-ukraine/"
+    }
+   ]
+  },
+  {
+   "id": "2a25e8c6bdfa0819d845827e3e5f924eb88fcd8c",
+   "title": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
+   "url": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-20T09:30:00Z",
+   "image": "https://i.guim.co.uk/img/media/35449468721afd6dae92903e99a8fbed51d602e4/0_12_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=1c51731e27855a4e635195bb9d420463",
+   "description": "Zelenskyy praises ‘unprecedented attack’ but Kremlin claims bridge will be restored and will be ‘better than ever’",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.99,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 127,
+   "also_reported_by": [
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-11-20/ukraine-crimean-bridge-destruction-significance-explained/107408488"
+    },
+    {
+     "outlet": "spokesman.com",
+     "url": "https://www.spokesman.com/stories/2026/nov/19/putin-vows-to-respond-to-crimean-bridge-strike-rul/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/world/ukraine-russia-strike-crimean-bridge-6565221"
+    },
+    {
+     "outlet": "newcastleherald.com.au",
+     "url": "https://www.newcastleherald.com.au/story/9394301/ukraine-strikes-crimean-bridge-for-third-time-this-week/"
+    },
+    {
+     "outlet": "dailyliberal.com.au",
+     "url": "https://www.dailyliberal.com.au/story/9394301/ukraine-strikes-crimean-bridge-for-third-time-this-week/"
+    },
+    {
+     "outlet": "bankingnews.gr",
+     "url": "https://www.bankingnews.gr/diethni/articles/911990/act-of-desperation-ukraine-strikes-crimean-kerch-bridge-a-third-time-to-spoil-putin-s-china-plans"
+    },
+    {
+     "outlet": "dailyadvertiser.com.au",
+     "url": "https://www.dailyadvertiser.com.au/story/9394301/ukraine-strikes-crimean-bridge-for-third-time-this-week/"
+    },
+    {
+     "outlet": "thecourier.com.au",
+     "url": "https://www.thecourier.com.au/story/9394301/ukraine-strikes-crimean-bridge-for-third-time-this-week/"
+    },
+    {
+     "outlet": "yasstribune.com.au",
+     "url": "https://www.yasstribune.com.au/story/9394301/ukraine-strikes-crimean-bridge-for-third-time-this-week/"
+    }
+   ]
+  },
+  {
+   "id": "3ba11184ba6331f800620fc9a23e9bfc19129863",
+   "title": "Brussels, London eye 'reset' deal at Burnham's EU summit",
+   "url": "https://www.france24.com/en/video/20261120-brussels-london-eye-reset-deal-at-burnham-s-eu-summit",
+   "outlet": "france24.com",
+   "published_at": "2026-11-21T10:30:00Z",
+   "image": "https://s.france24.com/media/display/7e1d1a86-dec9-11f1-8a7a-3f371022a770/w:1024/p:16x9/95573a01316e9f2442d9e3bbfadeecdedf1ef781.jpg",
+   "description": "British Prime Minister Andy Burnham is due to meet EU chiefs Ursula von der Leyen and Antonio Costa in Brussels on Friday for a summit aimed at resetting ties after the turbulent years surrounding Brexit.…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.83,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 105,
+   "also_reported_by": [
+    {
+     "outlet": "iranherald.com",
+     "url": "http://www.iranherald.com/news/279446744/a-decade-after-brexit-eu-and-uk-strike-sweeping-trade-youth-mobility-and-security-deals-to-end-decade-of-drift"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3375289/uk-eu-seal-food-and-youth-deals-are-stuck-tuition-fees"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/world/europe/uk-eu-summit-brexit.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss"
+    },
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/eu-and-britain-to-agree-steps-towards-relations-reset/"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/eu-and-britain-to-agree-steps-towards-relations-reset/"
+    },
+    {
+     "outlet": "thegazette.com",
+     "url": "http://www.thegazette.com/news/world/the-uk-and-eu-hold-a-rare-summit-to-strengthen-ties-as-burnham-seeks-to/article_e99f2162-d6d1-5e7b-8b33-dede485adabb.html"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/ap_business/the-uk-and-eu-hold-a-rare-summit-to-strengthen-ties-as-burnham-seeks-to/article_73c15730-69a9-5cc9-bcd8-aaaf648ac070.html"
+    },
+    {
+     "outlet": "santamariatimes.com",
+     "url": "https://santamariatimes.com/ap/business/the-uk-and-eu-hold-a-rare-summit-to-strengthen-ties-as-burnham-seeks-to/article_8317f2da-82cb-571a-8ad3-76811989111b.html"
+    }
+   ]
+  },
+  {
+   "id": "c95807c7e9d6b295f02f839a568ff036ce57d200",
+   "title": "FAA lifts nationwide ground stop that disrupted thousands of flights",
+   "url": "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-20T11:15:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/13/46e7b0c4-c34a-47b7-a708-6496988fc4a1/thumbnail/1200x630/cbde8a003c2be845bdd0d43070b0e4a5/gettyimages-2304485739.jpg",
+   "description": "The rare nationwide ground stop lasted about five hours Friday. Sources told CBS News an update to the network connecting the air traffic control system caused a reboot, crash and outage.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 19.77,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 92,
+   "also_reported_by": [
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/faa-ground-stop-suggests-how-risky-air-traffic-control-upgrades-can-be/"
+    },
+    {
+     "outlet": "wsiu.org",
+     "url": "https://www.wsiu.org/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/19/nx-s1-6045773/faa-air-traffic-control-system-modernization-challenges"
+    },
+    {
+     "outlet": "wgcu.org",
+     "url": "https://www.wgcu.org/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "kgou.org",
+     "url": "https://www.kgou.org/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "kacu.org",
+     "url": "https://www.kacu.org/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "wglt.org",
+     "url": "https://www.wglt.org/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "ualrpublicradio.org",
+     "url": "https://www.ualrpublicradio.org/npr-news/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "northernpublicradio.org",
+     "url": "https://www.northernpublicradio.org/2026-11-19/why-the-u-s-air-traffic-control-system-still-relies-on-an-antique-network"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/17/faa-ground-stop-routers.html"
+    }
+   ]
+  },
+  {
+   "id": "2b645771c67d91eda2cb03c3f70ce78abc53ef89",
+   "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
+   "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-21T10:45:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032238Z_964186102_RC23QOACH1TM_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1-1795084878.jpg?resize=1920%2C1440",
+   "description": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.39,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 56,
+   "also_reported_by": [
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/law/2026/nov/19/myanmar-ruling-new-relevance-genocide-convention-messages-israel"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/rights-groups-urge-sanctions-after-icj-finds-myanmar-guilty-of-genocide-against-rohingya"
+    },
+    {
+     "outlet": "wttf.com",
+     "url": "https://wttf.com/uncategorized/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya/"
+    },
+    {
+     "outlet": "wsbradio.com",
+     "url": "https://www.wsbradio.com/news/world/rohingya-bangladesh/BKVRE27PVI7RTJKF2QQ46CMHTY/"
+    },
+    {
+     "outlet": "winnipegfreepress.com",
+     "url": "https://www.winnipegfreepress.com/world/2026/11/20/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/world/rights-groups-urge-sanctions-after-top-un-court-finds-myanmar-committed-genocide-against-rohingya/article_04e86fc1-4afb-5f55-b410-f0cdb2552038.html"
+    },
+    {
+     "outlet": "jpost.com",
+     "url": "https://www.jpost.com/international/article-915577"
+    },
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-11-20/myanmar-calls-icj-ruling-on-genocide-unfair/107411450"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/world/rohingya-in-bangladesh-welcome-un-courts-genocide-verdict-but-say-they-want-to-go-home/article_90e51088-275b-59f1-8d01-29b98a33d872.html"
+    },
+    {
+     "outlet": "the-messenger.com",
+     "url": "https://www.the-messenger.com/news/world/article_c3cbbfea-8a46-5d7e-a4ad-74ee0db23421.html"
+    }
+   ]
+  },
+  {
+   "id": "3f1ed527a272247b7ba72df5d2e00756035a4e73",
+   "title": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
+   "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-20T11:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-ANTRHOPIC-IPO-1795069267.png?resize=1200%2C630",
+   "description": "The AI company behind Claude raised $81.3bn in the largest initial public offering ever, at a $1.5 trillion valuation.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 19.38,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 54,
+   "also_reported_by": [
+    {
+     "outlet": "nature.com",
+     "url": "https://www.nature.com/articles/d41586-026-03788-4"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+    },
+    {
+     "outlet": "thegazette.com",
+     "url": "http://www.thegazette.com/news/world/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/article_d4ddac97-637a-560d-8d9a-b5750f6f971a.html"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/world/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/article_97310c34-f434-51d3-9ece-22b8bcb0c916.html"
+    },
+    {
+     "outlet": "union-bulletin.com",
+     "url": "https://www.union-bulletin.com/news/world/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/article_33320819-bcca-5b22-8c3d-4050a1ad7119.html"
+    },
+    {
+     "outlet": "durangoherald.com",
+     "url": "https://www.durangoherald.com/articles/associated-press/global-shares-drop-on-ai-worries-echoing-wall-streets-decline-despite-the-strong-anthropic-debut/"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.oklahomastar.com/news/279443921/anthropic-tops-spacex-with-biggest-ipo-on-record"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "markets.com",
+     "url": "https://www.markets.com/education-centre/how-does-anthropic-make-money"
+    }
+   ]
+  },
+  {
+   "id": "6a8f26ac2e7f8afba3bb84e86c43dfd0f7c90f7e",
+   "title": "Outcry as fossil fuels scrubbed from draft UN climate deal",
+   "url": "https://www.france24.com/en/video/20261120-outcry-as-fossil-fuels-scrubbed-from-draft-un-climate-deal",
+   "outlet": "france24.com",
+   "published_at": "2026-11-21T10:00:00Z",
+   "image": "https://s.france24.com/media/display/5a437f70-e41d-11f1-b4a4-1bac47ab2f5d/w:1024/p:16x9/4a2dabdefb95cfb803bdf88b737af2d03e9e8a4a.jpg",
+   "description": "UN climate talks co-host Australia unveiled a new draft agreement Thursday that drops any mention of fossil fuels, the leading driver of global warming, sparking anger from campaign groups. The nearly…",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 19.36,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "rte.ie",
+     "url": "https://www.rte.ie/news/environment/2026/1121/1600094-cop31-turkey/"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/no-mention-of-fossil-fuels-in-latest-cop31-draft-deal/a-79992394?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/activists-leaders-criticize-cop31-climate-talks-as-fossil-fuels-go-unmentioned-in-draft-deal"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/article/3375291/cop31-climate-talks-go-overtime-nations-quarrel-over-fossil-fuels"
+    },
+    {
+     "outlet": "vanguardngr.com",
+     "url": "https://www.vanguardngr.com/2026/11/countries-race-to-secure-cop31-deal-after-fossil-fuel-row/"
+    },
+    {
+     "outlet": "jacarandafm.com",
+     "url": "https://www.jacarandafm.com/news/news/countries-race-to-secure-cop31-deal-fossil-fuel-row/"
+    },
+    {
+     "outlet": "bbc.com",
+     "url": "https://www.bbc.com/news/articles/c6ly5w40eg07o"
+    },
+    {
+     "outlet": "premiumtimesng.com",
+     "url": "https://www.premiumtimesng.com/news/headlines/926870-cop31-climate-talks-spill-into-overtime-as-nations-quarrel-over-fossil-fuels.html"
+    },
+    {
+     "outlet": "insideclimatenews.org",
+     "url": "https://insideclimatenews.org/news/19112026/panama-cop31-fossil-fuel-negotiations/"
+    }
+   ]
+  },
+  {
+   "id": "54fe0fe1ea9a6c905ba3830c4d8d09d490a64fe1",
+   "title": "Poland says Russian missile hit its territory during attack on Ukraine",
+   "url": "https://www.france24.com/en/europe/20261120-poland-says-russian-missile-hit-its-territory-during-attack-on-ukraine",
+   "outlet": "france24.com",
+   "published_at": "2026-11-21T10:15:00Z",
+   "image": "https://s.france24.com/media/display/0215cd4e-e4cc-11f1-ba35-e56ab3dc0809/w:1024/p:16x9/2026-11-20T091417Z-724863669-RC2KROAVQTVB-RTRMADP-3-UKRAINE-CRISIS-POLAND-OBJECTS.jpg",
+   "description": "Poland on Friday said that no one was hurt after a Russian missile hit southeast Poland during an attack on Ukraine. Polish authorities earlier said they were investigating reports that at ​least two…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 19.26,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 12,
+   "also_reported_by": [
+    {
+     "outlet": "kyivpost.com",
+     "url": "https://www.kyivpost.com/post/90785"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/world/europe/poland-russia-airspace-missile.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/ukraine-updates-russian-attack-one-of-largest-zelenskyy-says/live-79999822?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3375302/russian-missiles-land-poland-europe-holds-military-drills-nearby"
+    },
+    {
+     "outlet": "texarkanagazette.com",
+     "url": "https://www.texarkanagazette.com/news/2026/nov/20/intentional-provocation-russian-missiles-land-in/"
+    },
+    {
+     "outlet": "cecildaily.com",
+     "url": "http://www.cecildaily.com/ap/world/an-unidentified-object-appears-to-have-crashed-in-poland-after-russian-attacks-in-ukraine/article_9a40b2fb-5ae4-556a-b09f-8a8725982422.html"
+    },
+    {
+     "outlet": "euronews.com",
+     "url": "https://www.euronews.com/2026/11/20/unidentified-object-falls-in-eastern-poland-amid-major-russian-attack-on-ukraine"
+    },
+    {
+     "outlet": "winnipegfreepress.com",
+     "url": "https://www.winnipegfreepress.com/world/2026/11/20/an-unidentified-object-appears-to-have-crashed-in-poland-after-russian-attacks-in-ukraine"
+    }
+   ]
+  },
+  {
+   "id": "8e3ceec613f9f9ec6efc5849a21e56a7d763973c",
+   "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+   "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-21T09:45:00Z",
+   "image": "https://i.guim.co.uk/img/media/9532d886df85f2ca4c23d7e6a6341c606f995971/357_0_3572_2857/master/3572.jpg?width=140&quality=85&auto=format&fit=max&s=07ff49e86c3162c2f8cbd055b6230888",
+   "description": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 19.23,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 12,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/watch-trump-on-data-centers-take-advantage-dont-shut-them-off"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/trump-defends-calling-putin-his-friend-talks-outages-in-first-presser-after-china-summit/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375303/trump-threatens-tremendous-tax-us-firms-building-ai-data-centres-overseas"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/20/us-ai-trump-data-centers-overseas"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html"
+    },
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/business/corporations/trump-data-centers-overseas-penalties-rcna610445"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Technology/wireStory/trump-plans-penalize-us-tech-companies-build-ai-138323831"
+    }
+   ]
+  },
+  {
+   "id": "54fcec99759b8a8967b6fa86538a2a604eba3a2f",
+   "title": "U.S. loses measles elimination status as cases break records",
+   "url": "https://www.japantimes.co.jp/news/2026/11/15/world/science-health/us-loses-measles-elimination-status/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-20T00:10:07Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/15/574031.JPG",
+   "description": "The CDC has confirmed 5,412 measles cases in 2026, more than double last year’s total and the highest number since 1991.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 18.93,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 29,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/its-close-to-bulletproof-doctor-says-of-mmr-vaccine-as-measles-cases-rise"
+    },
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/19/measles-elimination-status-congress-should-prioritize-restoration/?utm_campaign=rss"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/health/2026/11/the-shameful-measles-data-that-lost-the-us-its-elimination-status/"
+    },
+    {
+     "outlet": "erienewsnow.com",
+     "url": "https://www.erienewsnow.com/news/u-s-loses-measles-elimination-status-regaining-it-could-take-years/article_de5828e8-7155-4bb9-8b51-324076fcf013.html"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/17/us/politics/rfk-jr-measles-democrats.html"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/17/us-measles-elimination-status.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/us-and-mexico-lose-measles-free-status/a-79973966?maca=en-rss-en-all-1573-rdf"
+    }
+   ]
+  },
+  {
+   "id": "b453628dc50d3ec51a7f621251f0fde374862987",
+   "title": "Senate passes bipartisan permitting bill designed to boost energy projects",
+   "url": "https://www.cbsnews.com/news/senate-bipartisan-permitting-reform-bill-energy-baaja-trump/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-21T03:41:06Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/10/793426a8-c88b-4bcc-ba97-d360c0f41b5d/thumbnail/1200x630g2/9cd3ab0b86682dae2b5bd8502ccb9bbb/gettyimages-2297236201-1.jpg",
+   "description": "The Senate approved a long-sought bipartisan permitting reform bill on Thursday, following a major breakthrough on legislation that aims to cut costs by ramping up the speed of infrastructure and energy projects.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 18.92,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/senate/6229829-senate-passes-permitting-reform/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/19/climate/senate-passes-baaja-permitting-bill-energy.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill"
+    },
+    {
+     "outlet": "insideclimatenews.org",
+     "url": "https://insideclimatenews.org/news/19112026/bipartisan-permitting-bill-natural-gas-exports/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/20/baaja-bill-senate-passes-permitting-reform.html"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/congress/senate-passes-sweeping-bill-simplifying-permitting-rules-build-america-rcna610196"
+    },
+    {
+     "outlet": "katu.com",
+     "url": "https://katu.com/news/nation-world/senate-passes-bill-to-speed-permitting-reviews-force-data-centers-to-pay-for-energy-costs"
+    },
+    {
+     "outlet": "wohfradio.com",
+     "url": "https://wohfradio.com/national-news/senate-approves-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy-costs/"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/20/g-s1-154579/senate-bipartisan-energy-bill"
+    }
+   ]
+  },
+  {
+   "id": "3c0ea5644fa21a5c8669708cb5be819b2b72279c",
+   "title": "Man convicted of arson over deadly 2025 Palisades fire in Los Angeles",
+   "url": "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://static.dw.com/image/71296624_6.jpg",
+   "description": "A 30-year-old man has been convicted of causing one of the most destructive wildfires in the history of Los Angeles. The verdict came after the case was retried.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 18.68,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 82,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/jonathan-rinderknecht-found-guilty-in-palisades-fire-case/"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://800wvhu.iheart.com/content/2026-11-20-jury-convicts-former-uber-driver-in-palisades-fire-case/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/us/la-fire-trial-arson.html"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/21/ex_rideshare_driver_convicted_of_arson_in_los_angeles_apos_d/"
+    },
+    {
+     "outlet": "saratogian.com",
+     "url": "https://www.saratogian.com/2026/11/20/ex-uber-driver-jonathan-rinderknecht-found-guilty-of-sparking-palisades-fire/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/video/california-man-found-guilty-of-starting-deadly-palisades-fire-273941061702"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/state-watch/6234829-uber-driver-palisades-fire-conviction/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/US/man-accused-starting-blaze-palisades-fire-found-guilty/story?id=138333631"
+    }
+   ]
+  },
+  {
+   "id": "a3e2801f97fb150dd84a90159274d5fd4b4df9c6",
+   "title": "Mathematician says he and AI solved Riemann hypothesis — the field’s biggest outstanding challenge",
+   "url": "https://www.nature.com/articles/d41586-026-03812-7",
+   "outlet": "nature.com",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": null,
+   "description": "Nature, Published online: 20 November 2026; doi:10.1038/d41586-026-03812-7 Scholars say that the claim to have derived a proof for a landmark problem in mathematics will need rigorous checking.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 18.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 32,
+   "also_reported_by": [
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/ai-anthropic-claude-riemann-hypothesis/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375294/anthropic-researcher-says-claude-has-solved-maths-greatest-riddle"
+    },
+    {
+     "outlet": "science.org",
+     "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer"
+    },
+    {
+     "outlet": "thejournal.ie",
+     "url": "https://www.thejournal.ie/riemann-hypothesis-proved-by-ai-7233391-Nov2026/"
+    },
+    {
+     "outlet": "oneindia.com",
+     "url": "https://www.oneindia.com/international/can-ai-solve-a-170-year-old-maths-mystery-anthropic-employee-makes-major-claim-8266027.html"
+    },
+    {
+     "outlet": "wokv.com",
+     "url": "https://www.wokv.com/news/technology/anthropic-worker/BQWCGUSV3E2VXC5YOENVSSDGZI/"
+    },
+    {
+     "outlet": "union-bulletin.com",
+     "url": "https://www.union-bulletin.com/news/national/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help/article_b63054c4-db0b-5ef4-bcc5-c1c0d47f514a.html"
+    }
+   ]
+  },
+  {
+   "id": "0911d83ee1a918d950c66de26af2db3d9f649897",
+   "title": "Commerce approved sales of more than 879,000 AI chips to Chinese companies, Rep. Mast says",
+   "url": "https://www.cnbc.com/2026/11/19/nvidia-amd-china-chip-sales-congress.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-21T01:00:13Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108555825-1795118102467-gettyimages-2304282548-mast_360_111026.jpeg?v=1795118157&w=1920&h=1080",
+   "description": "Members of Congress have pushed in the wake of the Jensen Huang scandal for legislation to tighten export controls on chip sales to China.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 17.87,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3375135/us-congress-releases-list-chinese-firms-seeking-nvidia-chips"
+    },
+    {
+     "outlet": "wccftech.com",
+     "url": "https://wccftech.com/trump-administration-approved-nearly-900000-nvidia-amd-ai-chips-for-china/"
+    }
+   ]
+  },
+  {
+   "id": "7c91a091915c7aa5567d873d5398274fc8b5a78f",
+   "title": "Houthis launch strikes on Saudi Arabia",
+   "url": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+   "outlet": "france24.com",
+   "published_at": "2026-11-21T10:00:00Z",
+   "image": "https://s.france24.com/media/display/778980c6-e58e-11f1-b8cd-ebb478925cf0/w:1024/p:16x9/EN-20261121-091902-092039-CS-01.jpg",
+   "description": "Iran-backed Houthi rebels in Yemen continue to exchange strikes with the Saudi-led coalition. The coalition said it intercepted and destroyed three ballistic missiles fired towards Riyadh early on Saturday.…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.61,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "srilankamirror.com",
+     "url": "https://srilankamirror.com/2026/11/21/news/saudi-led-coalition-launches-air-strikes-on-yemen-41-killed"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+    },
+    {
+     "outlet": "hngn.com",
+     "url": "https://www.hngn.com/articles/273906/20261120/houthis-saudi-coalition-trade-port-threats-after-missile-hits-riyadh-tower.htm"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375314/yemens-houthis-launch-strikes-riyadh-after-saudi-coalition-special-operation"
+    }
+   ]
+  },
+  {
+   "id": "d350372b63e059b7a0b641c2ec6452eaa3bd77cb",
+   "title": "Countries open path towards ‘killer robots’ pact",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/science-health/killer-robots-pact/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575310.jpg",
+   "description": "After five days of talks at the United Nations, which dragged on into overtime, states agreed on building some form of pact over the next two years.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.37,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 53,
+   "also_reported_by": [
+    {
+     "outlet": "ksut.org",
+     "url": "https://www.ksut.org/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "waer.org",
+     "url": "https://www.waer.org/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/world/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm/article_d493991d-f784-54b8-8809-f0cb3f77024c.html"
+    },
+    {
+     "outlet": "hppr.org",
+     "url": "https://www.hppr.org/npr-news/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "tspr.org",
+     "url": "https://www.tspr.org/npr-news/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/world/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm/article_aed95966-4c1d-5649-a7bd-0c2d9bf5c8d4.html"
+    },
+    {
+     "outlet": "wcbe.org",
+     "url": "https://www.wcbe.org/npr-news/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "wutc.org",
+     "url": "https://www.wutc.org/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    },
+    {
+     "outlet": "ualrpublicradio.org",
+     "url": "https://www.ualrpublicradio.org/npr-news/2026-11-21/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in"
+    }
+   ]
+  },
+  {
+   "id": "53401f3666fbb84859f4148fa662b5b662593adc",
+   "title": "Rainforest adaptation in late Homo erectus from southern China",
+   "url": "https://www.nature.com/articles/s41586-026-11155-6",
+   "outlet": "nature.com",
+   "published_at": "2026-11-19T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 18 November 2026; doi:10.1038/s41586-026-11155-6 Eight Homo erectus teeth from two caves in southern China reveal that the species persisted in closed rainforest ecosystems between 324 and 184 ka, challenging assumptions about their ecological preferences and behavioural limitations.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 17.29,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution"
+    },
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/ancient-fossils-reveal-homo-erectus-survived-in-china-some-200-000-years-longer-than-we-thought/"
+    }
+   ]
+  },
+  {
+   "id": "24f0933c7ee3ceb42e41b6148ca78b9f595cfcf5",
+   "title": "More climate money for Africa? Europe says use what's already pledged",
+   "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg",
+   "description": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 17.17,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming/article_9ad7a319-45fc-5aec-9f42-6c3afb680763.html"
+    },
+    {
+     "outlet": "2news.com",
+     "url": "https://www.2news.com/news/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming/article_68788491-2be6-5e9b-a009-d395b04eb603.html"
+    },
+    {
+     "outlet": "nikkei.com",
+     "url": "https://asia.nikkei.com/spotlight/environment/climate-change/climate-talks-go-into-overtime-as-nations-confront-global-warming"
+    },
+    {
+     "outlet": "joplinglobe.com",
+     "url": "https://www.joplinglobe.com/region/national_business/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming/article_adc600f9-3ecb-5d65-b44e-bd645fc5dc25.html"
+    },
+    {
+     "outlet": "orissapost.com",
+     "url": "https://www.orissapost.com/cop31-climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming/"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Business/wireStory/climate-talks-overtime-nations-wrestle-response-worsening-global-138340261"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/world/climate-talks-in-overtime-as-nations-wrestle-with-response-to-worsening-global-warming/article_b857ce0f-d3d1-5887-bd47-3685756ffcbb.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "euronews.com",
+     "url": "https://www.euronews.com/2026/11/21/fossil-fuel-row-sees-cop31-talks-spill-into-overtime"
+    }
+   ]
+  },
+  {
+   "id": "079c93b759268a8bacab6296f906c259d5a584dd",
+   "title": "Apec summit: Air Force One departs Shenzhen, ending Trump’s second visit to China in 2026",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-20T13:29:50Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fc547bbe-4784-4cba-865d-6da6f1621903_2db4ac84.jpg?itok=3sUKALFV&v=1795085658",
+   "description": "This live article is freely available to our registered users. Please log in or create an account. World leaders are gathering in Shenzhen on Thursday for the Asia-Pacific Economic Cooperation (Apec) plenary, looking for ways to promote trade and investment at a time of rising global uncertainty. Chinese President Xi Jinping, US President Donald Trump, Russian President Vladimir Putin, Canadian Prime Minister Mark Carney and Australian Prime Minister Anthony Albanese are among the leaders...",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.1,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+    }
+   ]
+  },
+  {
+   "id": "06b98fb6c92a521b53192e49390f4ca34105addf",
+   "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg",
+   "description": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.09,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 9,
+   "also_reported_by": [
+    {
+     "outlet": "themoscowtimes.com",
+     "url": "https://www.themoscowtimes.com/2026/11/21/von-der-leyen-condemns-russian-plot-to-assassinate-us-ukrainian-in-denmark-a94339"
+    },
+    {
+     "outlet": "miragenews.com",
+     "url": "https://www.miragenews.com/von-der-leyen-condemns-attack-on-us-ukrainian-1781533/"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/world/europe/denmark-russia-ukraine-rapper-assassination.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3375295/denmark-expels-russian-diplomat-over-plot-kill-ukraine-rapper"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat"
+    },
+    {
+     "outlet": "cphpost.dk",
+     "url": "https://cphpost.dk/2026-11-21/news/round-up/denmark-expels-russian-diplomat-over-alleged-assassination-plot-targeting-ukrainian-rapper/"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/world/europe/denmark-accuses-russia-plotting-kill-ukrainian-american-rapper-soil-rcna610542"
+    },
+    {
+     "outlet": "news.az",
+     "url": "https://news.az/news/denmark-foils-alleged-russian-plot-to-kill-rapper"
+    }
+   ]
+  },
+  {
+   "id": "27173930602c0888af94086c8e7cb41c8a2c1372",
+   "title": "Trump officials consider appeal after agriculture secretary’s religious emails ruled unconstitutional – US politics live",
+   "url": "https://www.theguardian.com/us-news/live/2026/nov/20/donald-trump-brooke-rollins-religion-sean-cairncross-senate-alaska-white-house-press-conference-us-politics-latest-news-updates",
+   "outlet": "theguardian.com",
+   "published_at": "2026-11-21T11:00:00Z",
+   "image": "https://i.guim.co.uk/img/media/a8f2ee0bb635e6afd514b2a63f991ea33c69b9c1/208_0_5417_4335/master/5417.jpg?width=140&quality=85&auto=format&fit=max&s=dd1b6fcf25f45325e313d14748f3481c",
+   "description": "Federal judge says Brooke Rollins emails to 100,000 staff violates the first amendment but department says it may challenge ruling",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.08,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 9,
+   "also_reported_by": [
+    {
+     "outlet": "postbulletin.com",
+     "url": "https://www.postbulletin.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account"
+    },
+    {
+     "outlet": "superiortelegram.com",
+     "url": "https://www.superiortelegram.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account"
+    },
+    {
+     "outlet": "bemidjipioneer.com",
+     "url": "https://www.bemidjipioneer.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account"
+    },
+    {
+     "outlet": "wctrib.com",
+     "url": "https://www.wctrib.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account"
+    },
+    {
+     "outlet": "duluthnewstribune.com",
+     "url": "https://www.duluthnewstribune.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account"
+    },
+    {
+     "outlet": "pineandlakes.com",
+     "url": "https://www.pineandlakes.com/news/national/judge-orders-us-agriculture-chief-to-stop-sending-religious-emails-from-official-account"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/20/brooke-rollins-christian-messages-judge"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/19/us/politics/rollins-christian-messages.html"
+    }
+   ]
+  },
+  {
+   "id": "aebbb29b68e6f5b80d010010c9fdf08eea291bc0",
+   "title": "Iowans brace for lead dust cloud as Army plans to detonate 5 tons of bomb-making chemicals",
+   "url": "https://www.pbs.org/newshour/nation/iowans-brace-for-lead-dust-cloud-as-army-plans-to-detonate-5-tons-of-bomb-making-chemicals",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-21T01:50:25Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/1000w_q95.jpg",
+   "description": "Plans by the U.S. Army to detonate about 5 tons of bomb-making chemicals that have become unusable and might explode if moved have residents in southeast Iowa worried that a cloud of lead dust could cause environmental contamination and health problems.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 17.07,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 15,
+   "also_reported_by": [
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/video/army-detonation-of-bomb-making-chemicals-in-iowa-delayed-indefinitely-273940037981"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/army-lead-azide-detonation-iowa-toxic-dust-plume/"
+    },
+    {
+     "outlet": "insideclimatenews.org",
+     "url": "https://insideclimatenews.org/news/20112026/iowa-toxic-lead-explosives-detonation-delayed/"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/US/iowa-army-plant-lead-azide-detonation/story?id=138261613"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/state-watch/6232362-army-postpones-iowa-detonations/"
+    },
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/the-u-s-army-is-about-to-blow-up-a-cache-of-dangerous-lead-azide-in-iowa-heres-what-to-know/"
+    },
+    {
+     "outlet": "ksut.org",
+     "url": "https://www.ksut.org/2026-11-20/army-delays-lead-azide-detonation-in-iowa-says-public-safety-is-a-top-priority"
+    }
+   ]
+  },
+  {
+   "id": "6dc5fe6399858cc40c9e8818d937d2a3c177b111",
+   "title": "Scoop: Trump names Kirsten Davies as new national cyber director",
+   "url": "https://www.axios.com/2026/11/19/trump-national-cyber-director-sean-cairncross-leaving",
+   "outlet": "axios.com",
+   "published_at": "2026-11-20T22:14:40Z",
+   "image": "https://images.axios.com/L0IRrV-ctpW-gcbAXiU-JWebjyI=/0x0:7871x4427/1366x768/2026/11/20/1795134043116.jpg",
+   "description": "The White House named Kirsten A. Davies to be its new national cyber director Thursday as President Trump overhauls his AI team, Axios has learned. Why it matters: Davies, who currently serves as the Pentagon's chief information officer , has more experience in the field than the outgoing director , Sean Cairncross . Cairncross' departure was described as amicable by two sources. But two White House officials said President Trump's new chief of staff, Stephen Miller, sought the change and pushed",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 17.01,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/newsletters/technology/6234571-trump-cairncross-white-house-leadership-shakeup/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/20/sean-cairncross-white-house-cyber-director.html"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/white-house/national-cyber-director-sean-cairncross-leaving-kirsten-davies-replaci-rcna610329"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-bows-to-pressure-replaces-us-cyber-security-director?traffic_source=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375152/white-house-fires-cybersecurity-chief-after-tech-chaos-rattles-us"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/white-house-national-cyber-director-sean-cairncross-leaving/"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted"
+    }
+   ]
+  },
+  {
+   "id": "91cdbca7339ff8f017be47373a7ea166c4691500",
+   "title": "Trump says ‘taking seriously’ reports Iran planning Washington dirty-bomb attack",
+   "url": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
+   "outlet": "france24.com",
+   "published_at": "2026-11-20T20:12:12Z",
+   "image": "https://s.france24.com/media/display/bfca9880-e335-11f1-8c56-ff16da94d1fe/w:1024/p:16x9/EN-20261118-100942-101108-CS.jpg",
+   "description": "President Donald Trump said on Tuesday the US was taking seriously the possibility that Iran could be planning an attack involving a so-called dirty bomb in Washington, after ‌being asked about a CNN…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.92,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/watch-we-will-not-allow-that-to-happen-trump-says-of-reported-iran-dirty-bomb-threat"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us/"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/17/dirty-bomb-radioactive-trump-washington-weapon"
+    },
+    {
+     "outlet": "wgowam.com",
+     "url": "https://www.wgowam.com/2026/11/17/us-intelligence-raises-concerns-over-possible-iranian-dirty-bomb-plot-in-washington/"
+    },
+    {
+     "outlet": "980waav.com",
+     "url": "https://www.980waav.com/2026/11/17/us-intelligence-raises-concerns-over-possible-iranian-dirty-bomb-plot-in-washington/"
+    },
+    {
+     "outlet": "kxly920.com",
+     "url": "https://kxly920.com/2026/11/16/us-intelligence-raises-concerns-over-possible-iranian-dirty-bomb-plot-in-washington/"
+    },
+    {
+     "outlet": "kaok.com",
+     "url": "https://www.kaok.com/2026/11/17/us-intelligence-raises-concerns-over-possible-iranian-dirty-bomb-plot-in-washington/"
+    },
+    {
+     "outlet": "khaama.com",
+     "url": "https://www.khaama.com/iran-dirty-bomb-threat-washington-trump-officials/"
+    },
+    {
+     "outlet": "wccbcharlotte.com",
+     "url": "https://www.wccbcharlotte.com/2026/11/17/cnn-sources-say-u-s-intel-is-concerned-about-iran-developing-plans-to-detonate-dirty-bomb-in-dc/"
+    },
+    {
+     "outlet": "kvor.com",
+     "url": "https://www.kvor.com/2026/11/16/us-intelligence-raises-concerns-over-possible-iranian-dirty-bomb-plot-in-washington/"
+    }
+   ]
+  },
+  {
+   "id": "81c0414eb3e191b5a919ea55b87f519c8d794a0c",
+   "title": "Cost of living protests sweep across Europe",
+   "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ddea/live/8dcffdf0-e50d-11f1-99a1-253766e7ad8b.jpg",
+   "description": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.8,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "canadianinquirer.net",
+     "url": "https://canadianinquirer.net/2026/11/21/gen-z-led-demonstrations-sweep-europe-as-young-people-demand-action-on-rising-living-costs-education/"
+    },
+    {
+     "outlet": "arynews.tv",
+     "url": "https://arynews.tv/young-protesters-hit-the-streets-across-europe"
+    },
+    {
+     "outlet": "thejakartapost.com",
+     "url": "http://www.thejakartapost.com/world/2026/11/21/young-protesters-hit-the-streets-across-europe"
+    },
+    {
+     "outlet": "jacarandafm.com",
+     "url": "https://www.jacarandafm.com/news/news/young-protesters-hit-the-streets-across-europe/"
+    },
+    {
+     "outlet": "tert.am",
+     "url": "https://tert.am/en/news/2026/11/21/protest%20across%20Europe/4291182"
+    }
+   ]
+  },
+  {
+   "id": "3240f6d0e70e5510339c0617cf0ef1e45aa491b6",
+   "title": "Ukraine War, Day 1,731: Russia Murders Child and Paramedic, Injures 52 in Kryvyi Rih",
+   "url": "https://eaworldview.com/2026/11/ukraine-war-kryvyi-rih-russia-murders-child-paramedic/",
+   "outlet": "eaworldview.com",
+   "published_at": "2026-11-21T11:00:00Z",
+   "image": "https://eaworldview.com/wp-content/uploads/2026/11/UKRAINE-STRIKE-KRYVYI-RIH-20-11-26-e1795244333955.jpg",
+   "description": "7-year-old boy and 20-year-old female paramedic killed, with 52 injured, by Russian ballistic missile attack on city of Kryvyi Rih in Ukraine",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.79,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "interfax.com.ua",
+     "url": "https://en.interfax.com.ua/news/general/1240203.html"
+    },
+    {
+     "outlet": "en.apa.az",
+     "url": "https://en.apa.az/europe/number-of-injured-in-attack-on-ukraines-kryvyi-rih-rises-to-58-updated-537576"
+    }
+   ]
+  },
+  {
+   "id": "9f9a871d2cc3b9f917a7b8f8c31b76a6e44d4a48",
+   "title": "Iran foreign minister wants diplomacy to end war; Trump says terms unacceptable",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/iran-diplomacy-terms-unacceptable/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-21T11:00:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575296.jpg",
+   "description": "Iranian Foreign Minister Abbas Araqchi said Tehran wanted guarantees that Washington was serious about negotiations before proceeding further.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.66,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "cyprus-mail.com",
+     "url": "https://cyprus-mail.com/2026/11/21/iran-wants-diplomacy-to-end-war-us-says-terms-unacceptable"
+    },
+    {
+     "outlet": "pakistantimes.com",
+     "url": "https://www.pakistantimes.com/trump-says-iran-wants-to-end-war-but-has-yet-to-offer-acceptable-terms-16746/"
+    },
+    {
+     "outlet": "sputnikglobe.com",
+     "url": "https://sputnikglobe.com/20261121/iran-hopes-conflict-with-us-can-still-be-resolved-through-diplomacy---foreign-minister-1125125978.html"
+    },
+    {
+     "outlet": "chronicle.lu",
+     "url": "https://www.chronicle.lu/category/international/64797-araqchi-says-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable"
+    }
+   ]
+  },
+  {
+   "id": "fa5e13f287b2a816823a7d354300d798e200e7e1",
+   "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+   "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T10:30:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4568/live/3c973e20-e4be-11f1-99a1-253766e7ad8b.png",
+   "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 16.63,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "thestatesmanonline.com",
+     "url": "https://thestatesmanonline.com/daraxonrasib-stops-tumour-growth-in-90-of-pancreatic-cancer-patients/"
+    },
+    {
+     "outlet": "aol.co.uk",
+     "url": "https://www.aol.co.uk/articles/pill-treat-pancreatic-cancer-hailed-093610000.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib"
+    },
+    {
+     "outlet": "grimsbytelegraph.co.uk",
+     "url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/pancreatic-cancer-pill-wipes-out-11248851"
+    }
+   ]
+  },
+  {
+   "id": "9eac88092d304546b80756fbd74712021514d978",
+   "title": "Trump to Axios: I'm \"not rushing into a decision\" on Iran",
+   "url": "https://www.axios.com/2026/11/19/trump-iran-attacks-israel-new-year",
+   "outlet": "axios.com",
+   "published_at": "2026-11-21T09:45:00Z",
+   "image": "https://images.axios.com/ws-8KdamSWnJr1tJaZs1DtFgbVs=/0x0:4480x2520/1366x768/2026/11/19/1795111766325.jpeg",
+   "description": "President Trump said in a brief phone interview Thursday that he won't make a determination on his next step in the Iran war until the new year. \"I am not rushing into any decision [on Iran]. We will see what happens after the beginning of the year,\" Trump told Axios from Air Force One, on his way back to the U.S. from China. Why it matters: The president's comments come as he faces heavy pressure from Israeli Prime Minister Benjamin Netanyahu to unleash a decisive bombing campaign soon. Yes, bu",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.6,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "hngn.com",
+     "url": "https://www.hngn.com/articles/273908/20261121/trump-says-iran-decision-can-wait-until-2027-tanker-burns-hormuz.htm"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/live-updates/iran-war-trump-tehran-denies-chemical-weapons/"
+    },
+    {
+     "outlet": "worthynews.com",
+     "url": "https://www.worthynews.com/119231-trump-signals-no-more-major-iran-strikes-until-2027-as-economic-pressure-intensifies"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375136/trump-says-no-rush-decide-new-iran-strikes-looks-next-year"
+    }
+   ]
+  },
+  {
+   "id": "19c13e69f57a70f29c1eacb1790d29123b6c2b81",
+   "title": "U.S. works to close loophole that let China access advanced AI chips",
+   "url": "https://www.pbs.org/newshour/show/u-s-works-to-close-loophole-that-let-china-access-advanced-ai-chips",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-20T11:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/nvidiafallout-1024x683.jpg",
+   "description": "The Trump administration announced new rules today to further restrict China’s access to advanced chips for the use of AI. It comes as questions are mounting about how the Commerce Department allowed loopholes for chip exports. The rule puts new restrictions on overseas data centers and is designed to counter possible smuggling. Amna Nawaz discussed more with Liza Tobin.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 16.55,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "digitimes.com",
+     "url": "https://www.digitimes.com/news/a20261120VL218/tsmc-taiwan-chips-communications-samsung.html"
+    },
+    {
+     "outlet": "freemalaysiatoday.com",
+     "url": "https://www.freemalaysiatoday.com/category/business/2026/11/20/tsmc-tightens-china-ai-chip-curbs-as-new-us-rules-close-manufacturing-loophole"
+    },
+    {
+     "outlet": "businesstimes.com.sg",
+     "url": "https://www.businesstimes.com.sg/international/tsmc-tightens-china-ai-chip-curbs-new-us-rules-close-manufacturing-loophole-sources-say"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/18/China_calls_new_US_semiconductor_restrictions_economic_coerc/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/business/2026/11/17/tech/asia-data-center-chip-trump/"
+    },
+    {
+     "outlet": "thehindubusinessline.com",
+     "url": "https://www.thehindubusinessline.com/info-tech/us-curbs-on-ai-chip-exports-to-southeast-asia-trigger-selloff-in-data-centre-stocks/article71710674.ece"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/16/nx-s1-6042883/nvidia-jensen-huang-commerce-department"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/17/nvidia-china-cloud-ai-chip-access.html"
+    }
+   ]
+  },
+  {
+   "id": "39515b2f5f6c6e1081c574604f9a292dfaad2ec7",
+   "title": "Bernie Sanders says he won’t support Chuck Schumer for Senate majority leader",
+   "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-wont-support-chuck-schumer-senate-democrats-leader-rcna608633",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-20T11:00:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261110-chuck-schumer-sjr-1602-859a8e.jpg",
+   "description": "Sens. Sanders and Elissa Slotkin called for new leadership, but neither proposed an alternative. Sen. Chris Van Hollen of Maryland is considering challenging Schumer.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.4,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/senate/6214626-schumer-democratic-senate-leadership-rebellion/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/politics/the-time-is-now-for-change-bernie-sanders-wont-support-schumer-for-senate-democratic-leader"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/10/us/politics/bernie-sanders-chuck-schumer-senate.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/schumer-van-hollen-facing-off-senate-majority-leader/story?id=138111386"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/13/nx-s1-6040044/dem-senate-leader-fight"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/13/democrats-schumer-van-hollen-senate-leader"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/14/world/politics/progressive-challenge-senate-schumer/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/bernie-sanders-chuck-schumer-democratic-leader-senate/"
+    }
+   ]
+  },
+  {
+   "id": "3849751c73b679a6981e5c016af699c415c29a81",
+   "title": "Torrential rain causes widespread flooding in South Florida",
+   "url": "https://www.bbc.co.uk/news/videos/crgj3205jv98o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T02:42:51Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e8e9/live/3c97d280-e38e-11f1-bc86-33d7d6275eba.jpg",
+   "description": "Entire neighbourhoods remain under water as disruptions impact schools, roads, hospitals and airports.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 16.31,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/photos-videos-devastating-south-florida-flooding-schools-closed-evacuations/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/nation/rainfall-supercharged-by-el-nino-causes-road-flooding-synagogue-roof-collapse-in-south-florida"
+    },
+    {
+     "outlet": "texarkanagazette.com",
+     "url": "https://www.texarkanagazette.com/news/2026/nov/19/rainfall-supercharged-by-el-nino-floods-roads-and/"
+    },
+    {
+     "outlet": "nypost.com",
+     "url": "https://nypost.com/2026/11/19/us-news/florida-rainfall-supercharged-by-el-nino-floods-roads-and-collapses-synagogues-roof/"
+    }
+   ]
+  },
+  {
+   "id": "83c82784d795f0033eabbb71f710cd70a82121ca",
+   "title": "Trump formally ends minting of the penny after nearly 250 years of production",
+   "url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-09/260929-US-Congres-cents-vsb-2041-e42320.jpg",
+   "description": "The U.S. Mint, which began producing the currency in 1793, has said it costs nearly 4 cents to make each penny.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.3,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "nbcconnecticut.com",
+     "url": "https://www.nbcconnecticut.com/news/local/trump-formally-ends-minting-of-the-penny-after-nearly-250-years-of-production/3798472/"
+    },
+    {
+     "outlet": "nbcbayarea.com",
+     "url": "https://www.nbcbayarea.com/news/local/trump-formally-ends-minting-of-the-penny-after-nearly-250-years-of-production/4179800/"
+    }
+   ]
+  },
+  {
+   "id": "9b2835c8ee7502e70a7f8f58efec32331985f943",
+   "title": "California targets Nvidia in China AI chip probe",
+   "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-21T05:13:03Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg",
+   "description": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 16.25,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/20/us/politics/nvidia-alice-huang-chips-china.html"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/state-watch/6232059-california-bonta-subpoenas-nvidia-ai-chips/"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+    }
+   ]
+  },
+  {
+   "id": "53d3e398ad5bd03233c1673b70d0b8a7f5d0887c",
+   "title": "Trump ousts cyber director after tech outages spark criticism",
+   "url": "https://www.japantimes.co.jp/news/2026/11/21/world/politics/us-cyber-director-ousted/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-21T03:48:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/21/575300.jpg",
+   "description": "The firing come days after technology outages disrupted U.S. air travel, banking and national security systems.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.19,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/mounting-tech-disruptions-raise-concerns-about-u-s-cybersecurity"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/us/politics/article/3375298/trump-replaces-us-cyber-chief-after-outages-hit-flights-banks-and-nsa"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/white-house-replaces-national-cyber-director-amid-widespread/story?id=138310514"
+    }
+   ]
+  },
+  {
+   "id": "1915bf39180ee3b8009770e72871a01ba9f17dfc",
+   "title": "Virginia reports first measles-related death of 2026",
+   "url": "https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-21T10:30:00Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26293777855488-e1795234801601.jpg?w=900",
+   "description": "A young child in Virginia died after testing positive for measles, the state’s health department said Friday, marking the first death tied to the illness in the state this year. The departmen…",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.97,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "thenews.com.pk",
+     "url": "https://www.thenews.com.pk/latest/1424478-virginia-reports-first-measles-related-death-amid-measles-elimination-status-loss"
+    }
+   ]
+  },
+  {
+   "id": "b13cc763640707b0d13d2356f09f20ce567a7e76",
+   "title": "Russia Bombards Kyiv Again After Previous Strike Killed Seven",
+   "url": "https://www.kyivpost.com/post/90780",
+   "outlet": "kyivpost.com",
+   "published_at": "2026-11-21T09:30:00Z",
+   "image": "https://static.kyivpost.com/storage/2026/11/21/9055ac3cd0b5623eff5ab920df546c54.jpg?&q=90&f=jpg",
+   "description": "Russian missiles set residential homes ablaze in the capital as Zelensky calls Putin a “killer” following Trump’s embrace of the Russian leader in China.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.93,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "d625a3c5886de0a7317ae344c6a42d8daf7ce1a3",
+   "title": "An effort to circumvent the Electoral College may be within reach. But hurdles remain",
+   "url": "https://www.ksut.org/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain",
+   "outlet": "ksut.org",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/9c/e0/5117a4fb400e8b75168010b72ece/gettyimages-1244621687.jpg",
+   "description": "A national effort to ensure that only winners of the popular vote become president could reach a critical milestone soon.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.91,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "cedarnews.net",
+     "url": "https://cedarnews.net/newstasks/1174654/effort-circumvent-electoral-college-may-within-reach/"
+    },
+    {
+     "outlet": "waer.org",
+     "url": "https://www.waer.org/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "hppr.org",
+     "url": "https://www.hppr.org/npr-news/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6044237/electoral-college-national-popular-vote-interstate-compact"
+    },
+    {
+     "outlet": "tspr.org",
+     "url": "https://www.tspr.org/npr-news/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "wcbe.org",
+     "url": "https://www.wcbe.org/npr-news/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "wutc.org",
+     "url": "https://www.wutc.org/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "ualrpublicradio.org",
+     "url": "https://www.ualrpublicradio.org/npr-news/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "krwg.org",
+     "url": "https://www.krwg.org/national-news/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    },
+    {
+     "outlet": "kccu.org",
+     "url": "https://www.kccu.org/u-s/2026-11-21/an-effort-to-circumvent-the-electoral-college-may-be-within-reach-but-hurdles-remain"
+    }
+   ]
+  },
+  {
+   "id": "7521471864826d35905d0c23452516d7a6cf7e01",
+   "title": "First observation of a giant star swallowing its neighbour",
+   "url": "https://www.nature.com/articles/d41586-026-03784-8",
+   "outlet": "nature.com",
+   "published_at": "2026-11-20T20:41:17Z",
+   "image": null,
+   "description": "Nature, Published online: 18 November 2026; doi:10.1038/d41586-026-03784-8 Finding provides new insights into what happens within stellar mergers — plus, using quantum physics to securely pinpoint someone’s location.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.9,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+    },
+    {
+     "outlet": "scientificamerican.com",
+     "url": "https://www.scientificamerican.com/article/astronomers-just-witnessed-a-dying-star-gobble-up-its-neighbor-in-real-time/"
+    },
+    {
+     "outlet": "rnz.co.nz",
+     "url": "https://www.rnz.co.nz/news/world/2689235/first-time-giant-star-caught-in-the-act-of-eating-its-neighbour"
+    }
+   ]
+  },
+  {
+   "id": "726934e57ef1aa991fb93dc0aefcefa99f8341e2",
+   "title": "FCC votes to allow state prisons to jam signals from contraband cellphones",
+   "url": "https://www.pbs.org/newshour/nation/fcc-votes-to-allow-state-prisons-to-jam-signals-from-contraband-cellphones",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-20T19:52:59Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T160258Z_371796058_RC24JMAMSFP4_RTRMADP_3_USA-CHINA-DATACENTERS-1024x683.jpg",
+   "description": "The Federal Communications Commission on Thursday acted to allow state prisons across the United States to jam the signals of cellphones smuggled to inmates as the federal government cracks down on devices that authorities say are the No. 1 security threat in the nation’s correctional facilities.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.86,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
+    },
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/policy/1037987/fcc-prison-cellphone-signal-jamming"
+    },
+    {
+     "outlet": "dailyrecordnews.com",
+     "url": "http://www.dailyrecordnews.com/ap_news/business/fcc-gives-state-prisons-the-go-ahead-to-jam-signals-from-contraband-cellphones/article_429303a8-5c0c-5146-9688-91c43ddfc953.html"
+    }
+   ]
+  },
+  {
+   "id": "3dcabe914a1676c1ece5c287e4f3414fdd853440",
+   "title": "Ukraine's European allies meet in Berlin in show of support",
+   "url": "https://www.france24.com/en/ukraine-s-european-allies-meet-in-berlin-in-show-of-support",
+   "outlet": "france24.com",
+   "published_at": "2026-11-20T10:41:25Z",
+   "image": "https://s.france24.com/media/display/3999d8f4-e21b-11f1-8b8b-f71d22e7fea9/w:1024/p:16x9/AP26316805802362.jpg",
+   "description": "Ukraine’s main European allies are meeting in Berlin on Thursday as a show of support for Kyiv, with US envoys Steve Witkoff and Jared Kushner also attending. The gathering, which brings together the…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.79,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/ukraine-s-allies-gather-in-berlin-for-coalition-of-the-willing-summit/live-79986520?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "axios.com",
+     "url": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.theuknews.com/news/279442705/ukraine-allies-to-meet-in-berlin-after-trump-putin-xi-talks"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates"
+    }
+   ]
+  },
+  {
+   "id": "dab98dd23cf4e397bb75c20f6a4961206005d7d0",
+   "title": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
+   "url": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
+   "outlet": "france24.com",
+   "published_at": "2026-11-20T10:00:00Z",
+   "image": "https://s.france24.com/media/display/889a1214-e3ee-11f1-801f-6d75ed565170/w:1024/p:16x9/000-A6BN49E.jpg",
+   "description": "A skyscraper in Saudi Arabia's capital Riyadh was damaged on Thursday after the Gulf country reported new attacks by Yemen's Houthis. Witnesses said the city's Public Investment Fund Tower, which showcases…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.76,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 23,
+   "also_reported_by": [
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/video/riyadh-s-tallest-skyscraper-struck-by-houthi-missile-attack-273881157768"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html"
+    },
+    {
+     "outlet": "samaa.tv",
+     "url": "https://www.samaa.tv/2087360645-houthi-attack-damages-riyadh-s-financial-district-tower"
+    },
+    {
+     "outlet": "bankingnews.gr",
+     "url": "https://www.bankingnews.gr/diethni/articles/912226/massive-houthi-attack-on-80-story-skyscraper-headquarters-of-saudi-arabia-s-pif-fund-us-no-strike-on-iran-until-2027"
+    },
+    {
+     "outlet": "chronicle.lu",
+     "url": "https://www.chronicle.lu/category/international/64767-riyadhs-tallest-skyscraper-hit-in-houthi-strike-on-saudi-wealth-fund-hq"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss"
+    },
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south/"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/19/Saudiled_coalition_says_it_intercepted_Houthi_missiles_destr/"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south/"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/world/saudi-arabia-skyscraper-damaged-yemen-houthi-attacks-6564561"
+    }
+   ]
+  },
+  {
+   "id": "964eef1c83b1f7fbe3ab726510c5e8733d62a212",
+   "title": "Honda, Toyota recall 1.6 million US vehicles over airbag rupture risk",
+   "url": "https://www.abc.net.au/news/2026-11-21/honda-toyota-recall-vehicles-over-takata-airbag-rupture-risk/107412768",
+   "outlet": "abc.net.au",
+   "published_at": "2026-11-21T04:42:05Z",
+   "image": "https://live-production.wcms.abc-cdn.net.au/5ae2c76823a7fcfa513c3ad4bff3c185?impolicy=wcms_crop_resize&cropH=512&cropW=909&xPos=0&yPos=0&width=862&height=485",
+   "description": "Both car makers say there were no injuries or crashes tied to the vehicles being recalled, but defective Takata airbag inflators have been blamed for at least 28 deaths in the US and more than 400 injuries since 2009.",
+   "topic": "business",
+   "kind": "wire_copy",
+   "score": 15.73,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/business/2026/11/21/honda-toyota-us-airbag-recall/"
+    }
+   ]
+  },
+  {
+   "id": "c66416daa819ed690fa8e4ff2cb8e74953dac34f",
+   "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+   "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-20T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb01/live/85dba110-e39d-11f1-a094-5fdc692f3e33.jpg",
+   "description": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.67,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/"
+    },
+    {
+     "outlet": "azernews.az",
+     "url": "https://www.azernews.az/region/267765.html"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/policy/technology/6229202-russian-spied-on-palantir-employees/"
+    },
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/politics/justice-department/russian-national-igor-diu-targeted-palantir-workers-sources-say-rcna610112"
+    }
+   ]
+  },
+  {
+   "id": "841e378f174800e5673217ceef3d31b0bc639dee",
+   "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
+   "url": "https://www.weny.com/wires/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine/article_9edc7e0f-657e-5551-8336-7c042dc93494.html",
+   "outlet": "weny.com",
+   "published_at": "2026-11-21T11:15:00Z",
+   "image": "https://bloximages.chicago2.vip.townnews.com/weny.com/content/tncms/custom/image/6636d01f-0000-41aa-8620-1d85e9ad6555.jpg",
+   "description": "After nearly five years of fighting in Ukraine, the Kremlin is eagerly embracing a U.S. offer to discuss postwar European security. Moscow is using that diplomatic opening to reaffirm the",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.67,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "dailygazette.com",
+     "url": "https://www.dailygazette.com/the_recorder/ap/national/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine/article_bd7655ab-0a38-5b0f-b49b-b0b1357fe43c.html"
+    },
+    {
+     "outlet": "thegazette.com",
+     "url": "http://www.thegazette.com/news/national/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine/article_ee9436a3-5651-5a1a-af62-15f30d1e5917.html"
+    },
+    {
+     "outlet": "erienewsnow.com",
+     "url": "https://www.erienewsnow.com/news/national/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine/article_874542f0-f3ca-518c-be69-190cacdf6526.html"
+    },
+    {
+     "outlet": "ktvo.com",
+     "url": "https://www.ktvo.com/news/nation-world/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine/article_bd594ca7-ed79-593d-98bd-5ad8df19e1f2.html"
+    },
+    {
+     "outlet": "clickorlando.com",
+     "url": "https://www.clickorlando.com/news/2026/11/20/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/"
+    },
+    {
+     "outlet": "union-bulletin.com",
+     "url": "https://www.union-bulletin.com/news/national/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine/article_fb029984-c9bc-5fb4-b3cd-a4686869880a.html"
+    },
+    {
+     "outlet": "wsls.com",
+     "url": "https://www.wsls.com/news/2026/11/20/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/"
+    },
+    {
+     "outlet": "wfmz.com",
+     "url": "https://www.wfmz.com/news/ap/ap-national/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article_a6d56eea-8f75-5d76-adad-fc5d19907b3f.html"
+    },
+    {
+     "outlet": "clickondetroit.com",
+     "url": "https://www.clickondetroit.com/news/2026/11/20/russia-dusts-off-its-prewar-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/"
+    }
+   ]
+  },
+  {
+   "id": "dcfa3f1926ff6114bb9a495335951cf6edb8f061",
+   "title": "‘A watershed moment’: Researchers unveil first-of-its-kind blood test for CTE",
+   "url": "https://www.scientificamerican.com/article/a-watershed-moment-researchers-unveil-first-of-its-kind-blood-test-for-cte/",
+   "outlet": "scientificamerican.com",
+   "published_at": "2026-11-20T13:53:10Z",
+   "image": "https://static.scientificamerican.com/dam/asset/298a0f88-ef5c-4692-8080-5e6d8eda3ae2/tau-clusters.jpg?m=1795115164.537&w=1200",
+   "description": "If validated in larger trials, the test could help doctors diagnose the neurodegenerative disease before death",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.61,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/20/health-news-researchers-explore-possibility-of-cte-blood-test/?utm_campaign=rss"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/19/science/cte-blood-test-diagnosis.html"
+    },
+    {
+     "outlet": "wmur.com",
+     "url": "https://www.wmur.com/article/blood-test-may-help-detect-cte-boston-university-study-finds/74485492"
+    }
+   ]
+  },
+  {
+   "id": "880a7d03f777ffa9100353808a49e296919634b4",
+   "title": "What to know after hackers target Visa, Mastercard and JPMorgan Chase",
+   "url": "https://www.cbsnews.com/video/what-to-know-after-hackers-target-visa-mastercard-and-jpmorgan-chase/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-20T11:00:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/20/ed416a0a-96f9-4bde-9162-2abd2bfee2b9/thumbnail/1200x630/5a4a8b513c51f82373a0ccb656e238e9/cbsn-fusion-what-to-know-after-hackers-target-visa-mastercard-and-jpmorgan-chase-thumbnail.jpg",
+   "description": "JPMorgan Chase, Visa and Mastercard announced Thursday that a ransomware group hacked into third-party systems used by the firms and accessed data from potentially thousands of customers. CBS News' Ann Berry has more.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.5,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "redlandsdailyfacts.com",
+     "url": "https://www.redlandsdailyfacts.com/2026/11/19/chase-data-breach/"
+    },
+    {
+     "outlet": "wsaw.com",
+     "url": "https://www.wsaw.com/2026/11/19/chase-bank-announces-cyberattack-says-hackers-may-have-obtained-customers-personal-information/"
+    },
+    {
+     "outlet": "tert.am",
+     "url": "https://tert.am/en/news/2026/11/20/Visa,%20Mastercard%20and%20JPMorgan/4291081"
+    }
+   ]
+  },
+  {
+   "id": "d52808f8049fafbb6fc97cc4caa4ea24febccfc6",
+   "title": "Lawsuits allege corner cutting, ignored warnings led to fatal Brooklyn building collapse",
+   "url": "https://www.pbs.org/newshour/nation/lawsuits-allege-corner-cutting-ignored-warnings-led-to-fatal-brooklyn-building-collapse",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-20T22:52:22Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-12T154832Z_785165054_RC2EMOA5OAL3_RTRMADP_3_NEW-YORK-BUILDING-1024x683.jpg",
+   "description": "As investigators probe what caused a New York City building collapse that killed eight people, workers and residents are painting a portrait of two trouble spots side-by-side: the apartment house that fell down and the construction site being excavated next door.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.49,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/video/138305617/"
+    }
+   ]
+  },
+  {
+   "id": "5a1aea9d0bb362a04c1b268cfa950cc71b9b07e0",
+   "title": "International Student Enrollment Plunged. Schools Are Bracing for More Losses.",
+   "url": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-21T10:00:31Z",
+   "image": "https://static01.nyt.com/images/2026/11/16/multimedia/00dc-international-students-01-thmq/00dc-international-students-01-thmq-mediumSquareAt3X.jpg",
+   "description": "A blitz of new Trump administration policies are set to upend the lives of international students again, making it harder for them to live and work in the United States.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.45,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "208e2e3e1290f3d017f77ca8d17f794f01d0adff",
+   "title": "He Sacrificed Everything to Stop Industrial Water Pollution. Authorities in Texas Don’t Care.",
+   "url": "https://insideclimatenews.org/news/21112026/texas-wont-enforce-plastic-discharge-ban/",
+   "outlet": "insideclimatenews.org",
+   "published_at": "2026-11-21T10:00:00Z",
+   "image": "https://insideclimatenews.org/wp-content/uploads/2026/11/4O6A0237-1024x683.jpg",
+   "description": "The state’s environmental regulator intends not to enforce a ban on discharge of plastic materials that local activists won in a landmark 2019 lawsuit.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 15.45,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "0b73d3ee2ffd621cc68a4cb5462ddd69701db4ab",
+   "title": "Xi, Trump agree military AI decisions must involve humans, Bessent says",
+   "url": "https://www.scmp.com/news/china/diplomacy/article/3375321/xi-trump-agree-military-ai-decisions-must-involve-humans-bessent-says",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-21T07:17:15Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/21/973eaa80-8e2d-4542-8bbf-6119092c11f6_42ab9ebc.jpg?itok=xzwdoBFx&v=1795245425",
+   "description": "Presidents Xi Jinping and Donald Trump agreed during talks at the Asia-Pacific Economic Cooperation summit that “humans should always be involved” in military decisions involving AI, according to US Treasury Secretary Scott Bessent. Speaking to US broadcaster CNBC on Friday, Bessent said the consensus was a breakthrough at the previous day’s meeting between the Chinese and US leaders. Both sides agreed “humans should always be involved in any military decisions that SI makes, and that SI should.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.34,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "7c79267f44aa5fd5418d8dad74b558bcbd2dadd2",
+   "title": "Bayer to pay $11b over claims weed killer caused cancer",
+   "url": "https://www.abc.net.au/news/2026-11-21/bayer-cancer-settlement-roundup-weed-killer-11-billion/107412544",
+   "outlet": "abc.net.au",
+   "published_at": "2026-11-21T03:00:10Z",
+   "image": "https://live-production.wcms.abc-cdn.net.au/0ad7c97e96a801420a25c3752673a04a?impolicy=wcms_crop_resize&cropH=1035&cropW=1840&xPos=0&yPos=0&width=862&height=485",
+   "description": "The US settlement handed down in Missouri applies to Roundup weed-killer users who are ill and those who become diagnosed with non-Hodgkin lymphoma in future years.",
+   "topic": "business",
+   "kind": "wire_copy",
+   "score": 15.32,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/us-judge-approves-bayer-s-7-25-billion-cancer-settlement/a-80007474?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/policy/energy-environment/6234796-judge-approves-roundup-settlement/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/nation/court-approves-7-25-billion-bayer-settlement-over-claims-roundup-weed-killer-caused-cancer"
+    }
+   ]
+  },
+  {
+   "id": "b40cd11acbf47d0f34b3476e770350da2f545911",
+   "title": "New Ukraine talks including Europe to be held 'soon' — Merz",
+   "url": "https://www.dw.com/en/new-ukraine-talks-including-europe-to-be-held-soon-merz/a-79997961?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-20T10:00:00Z",
+   "image": "https://static.dw.com/image/79997050_6.jpg",
+   "description": "Germany's Chancellor Friedrich Merz says European leaders could take part in fresh Ukraine talks on \"neutral ground.\" The UK and EU countries have urged a seat at the table in meetings between the US, Russia and Ukraine.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.29,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "pajhwok.com",
+     "url": "https://pajhwok.com/2026/11/20/merz-europe-to-join-new-ukraine-peace-talks-soon/"
+    }
+   ]
+  },
+  {
+   "id": "587cd01f0110217811206b65d655dc0f9482c4f5",
+   "title": "Trump’s pick for agency providing election security says Jan. 6 was not an attack",
+   "url": "https://www.nbcnews.com/politics/trump-administration/trumps-pick-agency-providing-election-security-says-jan-6-was-not-atta-rcna610298",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-20T02:29:35Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261119-Michael-LoSapio-ch-1422-861239.jpg",
+   "description": "Michael LoSapio, the president’s nominee to lead the Cybersecurity and Infrastructure Security Agency, would not say who won the 2020 presidential election.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.29,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Politics/wireStory/trumps-cisa-pick-michael-losapio-rejects-jan-6-138299268"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/administration/6231922-senate-holds-losapio-cisa-nomination/"
+    }
+   ]
+  },
+  {
+   "id": "3b13442d92fcebe12371351b4e5f68b9375c9bf7",
+   "title": "Federal Court Halts Pregnant Workers’ Protection Law",
+   "url": "https://www.nytimes.com/2026/11/21/us/politics/federal-court-halts-pregnant-workers-protection-law.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-21T05:53:09Z",
+   "image": "https://static01.nyt.com/images/2026/11/20/multimedia/20DC-PREGNANT-02-gvqf/20DC-PREGNANT-02-gvqf-mediumSquareAt3X.jpg",
+   "description": "The Fifth Circuit Court of Appeals said the law was unconstitutional because it was passed with proxy voting during the Covid pandemic. It is expected to be appealed to the Supreme Court.",
+   "topic": "us",
+   "kind": "wire_copy",
+   "score": 15.28,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "473258081e1e4640cd10f6ad932cf3b889e83c50",
+   "title": "Stocks enter correction territory, driven by deepening tech rout",
+   "url": "https://www.cbsnews.com/news/stocks-enter-correction-territory-ai-fears/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-21T02:25:00Z",
+   "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/01/06/583ba3e8-a4f5-43d0-8c09-831df515a5e6/thumbnail/1200x630/c2c8d9bb07f13fe55e6514b6588f128f/cbsn-fusion-stock-markets-react-to-news-of-potential-us-investments-in-venezuela-thumbnail.jpg",
+   "description": "The tech-heavy Nasdaq tumbled more than 1,200 points, putting it on track for its second-worst day of the year.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.14,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/stock-markets-plunge-as-nasdaq-erases-2026-gains-273933381824"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/news-wrap-stocks-tumble-as-worries-about-ai-rattle-market"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/20/g-s1-154797/nasdaq-sp500-stock-market-ai-sink-negative"
+    }
+   ]
+  },
+  {
+   "id": "7ba77104c7d687251950f4a0e4c8cd521d67f5a4",
+   "title": "Two tanker attack incidents reported near Oman's Khasab on Saturday, says UKMTO",
+   "url": "https://www.freemalaysiatoday.com/category/world/2026/11/21/two-tanker-attack-incidents-reported-near-oman-s-khasab-on-saturday-says-ukmto",
+   "outlet": "freemalaysiatoday.com",
+   "published_at": "2026-11-21T10:45:00Z",
+   "image": "https://www.freemalaysiatoday.com/cdn-cgi/image/quality=75,format=auto,fit=cover,dpr=1,width=1200,height=630,gravity=center/https://media.freemalaysiatoday.com/v3/2026/11/7980e324-d2df-4285-bd4e-1000c0cfb553-Hormuz-Kasab-Oman-EPA-21112026-.webp",
+   "description": "The United Kingdom Maritime Trade Operations (UKMTO) reported that two tankers were attacked off Khasab, Oman, with no casualties reported and the environmental impact still unknown.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 15.14,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "jpost.com",
+     "url": "https://www.jpost.com/middle-east/article-915628"
+    },
+    {
+     "outlet": "arynews.tv",
+     "url": "https://arynews.tv/two-tanker-attack-incidents-reported-near-omans-khasab-on-saturday-ukmto-says"
+    },
+    {
+     "outlet": "middle-east-online.com",
+     "url": "https://www.middle-east-online.com/en/two-tankers-attacked-near-omans-khasab"
+    },
+    {
+     "outlet": "whbl.com",
+     "url": "https://whbl.com/2026/11/21/tanker-hit-by-unknown-projectile-near-omans-khasab-ukmto-says/"
+    }
+   ]
+  },
+  {
+   "id": "e9b4f4a77c7fa609a2662d16f897721980d5de6f",
+   "title": "DEA dismantles first nitazene synthesis lab in the U.S.",
+   "url": "https://www.cbsnews.com/news/louisiana-nitazenes-bust/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-21T00:53:00Z",
+   "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/21/7eb692bb-6def-497c-8c3b-430faec6f411/thumbnail/1200x630/98e64e1b074f769f728f6fd9d27652a7/dea-louisiana-drug-lab-bust.png",
+   "description": "The Drug Enforcement Administration's forensic testing confirmed the lab in Louisiana was manufacturing etonitazene, an extremely potent synthetic opioid belonging to a class of drugs known as nitazenes.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.07,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "01b9df5b8f6f3f2ed0120b3a17f2833e06d94a81",
+   "title": "ISIS linked car bomb plot prompts terrorism charges",
+   "url": "https://www.singletonargus.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/",
+   "outlet": "singletonargus.com.au",
+   "published_at": "2026-11-20T11:15:00Z",
+   "image": "https://www.singletonargus.com.au/images/transform/v1/crop/frm/silverstone-feed-data/8a41f48b-a215-49f4-b069-bd983e9576bf.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+   "description": "A 35-year-old man accused of possessing Islamic State material that inspired him to research how to build a...",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.05,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "merimbulanewsweekly.com.au",
+     "url": "https://www.merimbulanewsweekly.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "areanews.com.au",
+     "url": "https://www.areanews.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "southernhighlandnews.com.au",
+     "url": "https://www.southernhighlandnews.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "maitlandmercury.com.au",
+     "url": "https://www.maitlandmercury.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "muswellbrookchronicle.com.au",
+     "url": "https://www.muswellbrookchronicle.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "mudgeeguardian.com.au",
+     "url": "https://www.mudgeeguardian.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "portstephensexaminer.com.au",
+     "url": "https://www.portstephensexaminer.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "camdencourier.com.au",
+     "url": "https://www.camdencourier.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "begadistrictnews.com.au",
+     "url": "https://www.begadistrictnews.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    },
+    {
+     "outlet": "redlandcitybulletin.com.au",
+     "url": "https://www.redlandcitybulletin.com.au/story/9395386/isis-linked-car-bomb-plot-prompts-terrorism-charges/"
+    }
+   ]
+  },
+  {
+   "id": "2a9618a05e3e09f3f2e5d4cdcf29942eef3e50b0",
+   "title": "441,000 Dead: Leaked Data Reveal the True Scale of Russia's Losses in Ukraine",
+   "url": "http://www.bgnes.com/conflicts/441-000-dead-leaked-data-reveal-the-true-scale-of-russia-s-losses-in-ukraine",
+   "outlet": "bgnes.com",
+   "published_at": "2026-11-20T11:15:00Z",
+   "image": "https://www.bgnes.com/static/images/news/2026/11/20/25105/23062.webp",
+   "description": "The Kremlin officially treats Russian military losses in the war against Ukraine as strictly classified information. However, a massive data leak from Russian state ins",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.0,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "10fe0526aacedac9fc687dbf1c6366fbbb648752",
+   "title": "AI just solved the ‘real’ Navier-Stokes problem",
+   "url": "https://www.scientificamerican.com/article/ai-just-solved-the-real-navier-stokes-problem/",
+   "outlet": "scientificamerican.com",
+   "published_at": "2026-11-20T17:00:00Z",
+   "image": "https://static.scientificamerican.com/dam/asset/db38600e-6f8e-47d4-b6e4-0f8cecf97259/New-navier-stokes-fluid-dynamics.jpg?m=1795195169.637&w=1200",
+   "description": "Two months after getting scooped by OpenAI, N.Y.U. professor Tristan Buckmaster and Anthropic employee Levent Alpöge are back with a new AI-aided proof of Navier-Stokes blowup",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 14.74,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "d2802c3a4e98af1a4b6285b600ed64407c6dc515",
+   "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+   "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-20T11:56:50Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bff/live/0bb4d910-e046-11f1-88e1-eb4e155225b3.jpg",
+   "description": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 14.44,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "theartnewspaper.com",
+     "url": "https://www.theartnewspaper.com/2026/11/17/sothebys-makes-last-minute-deal-with-jewish-heirs-to-sell-180m-van-gogh-painting"
+    },
+    {
+     "outlet": "artnews.com",
+     "url": "https://www.artnews.com/art-news/market/van-gogh-auction-record-sothebys-chataigniers-en-fleurs-2026-1234806413/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3375017/van-gogh-painting-sells-record-us1904-million-after-dispute"
+    },
+    {
+     "outlet": "wsau.com",
+     "url": "https://wsau.com/2026/11/19/van-goghs-chataigniers-en-fleurs-sells-at-auction-for-record-190-4-million/"
+    },
+    {
+     "outlet": "lbc.co.uk",
+     "url": "https://www.lbc.co.uk/article/van-gogh-painting-record-190m-nazi-dispute-5HjdnHS_2/"
+    },
+    {
+     "outlet": "kfgo.com",
+     "url": "https://kfgo.com/2026/11/19/van-goghs-chataigniers-en-fleurs-sells-at-auction-for-record-190-4-million/"
+    },
+    {
+     "outlet": "wiky.com",
+     "url": "https://wiky.com/2026/11/19/van-goghs-chataigniers-en-fleurs-sells-at-auction-for-record-190-4-million/"
+    },
+    {
+     "outlet": "933thedrive.com",
+     "url": "https://www.933thedrive.com/2026/11/19/van-goghs-chataigniers-en-fleurs-sells-at-auction-for-record-190-4-million/"
+    },
+    {
+     "outlet": "hot96.com",
+     "url": "https://hot96.com/2026/11/19/van-goghs-chataigniers-en-fleurs-sells-at-auction-for-record-190-4-million/"
+    },
+    {
+     "outlet": "mymixfm.com",
+     "url": "https://mymixfm.com/2026/11/19/van-goghs-chataigniers-en-fleurs-sells-at-auction-for-record-190-4-million/"
+    }
+   ]
+  },
+  {
+   "id": "9cb319d0a050b35aaf7a67c9162fcd30d88e0782",
+   "title": "National Gallery of Canada receives major gift of modern and contemporary glass art",
+   "url": "https://www.theartnewspaper.com/2026/11/20/national-gallery-canada-glass-art-gift-endowment-bronfman-family",
+   "outlet": "theartnewspaper.com",
+   "published_at": "2026-11-20T17:00:00Z",
+   "image": "https://cdn.sanity.io/images/cxgd3urn/production/2907470baf472524e1079f0c8f6cb04928a04180-2000x2000.jpg?w=140",
+   "description": "A promised donation of 56 glass works from the Bronfman family, accompanied by an endowment for a new curatorial position, marks a significant expansion of the museum’s decorative arts holdings",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.74,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8903f2e8c8f874059ab718c1ad4f6c1e1892d607",
+   "title": "Working Mothers Face Pervasive Discrimination in London Art World, Study Finds",
+   "url": "https://www.artnews.com/art-news/news/working-mothers-face-discrimination-in-london-art-world-1234807151/",
+   "outlet": "artnews.com",
+   "published_at": "2026-11-20T20:54:37Z",
+   "image": "https://www.artnews.com/wp-content/uploads/2026/11/split-image-1000_58f676.jpg?w=1000",
+   "description": "A survey of 50 employees working in the UK capital’s commercial art sector has found that, for many, having children comes at a professional cost",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.41,
+   "newsworthiness": 3,
+   "relevance": 4,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "theartnewspaper.com",
+     "url": "https://www.theartnewspaper.com/2026/11/20/working-mothers-face-widespread-discrimination-in-londons-commercial-art-world"
+    }
+   ]
+  }
+ ]
+}
