@@ -1,0 +1,2440 @@
+{
+ "generated_at": "2026-11-28T11:09:06Z",
+ "version": 1,
+ "stories": [
+  {
+   "id": "e178120b9cc23f63fe87b2e545e84087277b7ae1",
+   "title": "Ukraine sinks Russian warship off Libya in latest expansion of the war",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-sinks-russian-warship-merkury-libya-naval-drones-war-rcna610822",
+   "outlet": "nbcnews.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit_1500w/rockcms/2026-11/261123-Merkury-ba-rs-0fa909.jpg",
+   "description": "President Volodymyr Zelenskyy said Monday that Ukrainian naval drones had been used in the attack, which hit a ship moored off the port of Benghazi in North Africa.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 21.16,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 158,
+   "also_reported_by": [
+    {
+     "outlet": "perthnow.com.au",
+     "url": "https://www.perthnow.com.au/news/conflict/allies-in-dark-over-ukraines-attack-on-russian-ship-c-23225983"
+    },
+    {
+     "outlet": "newcastleherald.com.au",
+     "url": "https://www.newcastleherald.com.au/story/9399887/allies-in-dark-over-ukraines-attack-on-russian-ship/"
+    },
+    {
+     "outlet": "crookwellgazette.com.au",
+     "url": "https://www.crookwellgazette.com.au/story/9399887/allies-in-dark-over-ukraines-attack-on-russian-ship/"
+    },
+    {
+     "outlet": "queanbeyanage.com.au",
+     "url": "https://www.queanbeyanage.com.au/story/9399887/allies-in-dark-over-ukraines-attack-on-russian-ship/"
+    },
+    {
+     "outlet": "standard.net.au",
+     "url": "https://www.standard.net.au/story/9399887/allies-in-dark-over-ukraines-attack-on-russian-ship/"
+    },
+    {
+     "outlet": "bordermail.com.au",
+     "url": "https://www.bordermail.com.au/story/9399887/allies-in-dark-over-ukraines-attack-on-russian-ship/"
+    },
+    {
+     "outlet": "thecourier.com.au",
+     "url": "https://www.thecourier.com.au/story/9399887/allies-in-dark-over-ukraines-attack-on-russian-ship/"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/world/russian-military-flotilla-libya-turns-around/"
+    },
+    {
+     "outlet": "eaworldview.com",
+     "url": "https://eaworldview.com/2026/11/ukraine-war-libya-russia-turns-around-libya-bound-convoy/"
+    },
+    {
+     "outlet": "rte.ie",
+     "url": "https://www.rte.ie/news/ukraine/2026/1126/1600710-ukraine-war/"
+    }
+   ]
+  },
+  {
+   "id": "822abb447524d690a4f107a96ae02d8efb489e10",
+   "title": "'Unacceptable': China, EU among major economies against new US tariffs",
+   "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs",
+   "outlet": "france24.com",
+   "published_at": "2026-11-28T10:15:00Z",
+   "image": "https://s.france24.com/media/display/1b38f54e-e968-11f1-b414-81bc2b1dcd65/w:1024/p:16x9/2026-11-25T135439Z-2052634195-RC21VOAE4UVU-RTRMADP-3-USA-TRUMP-TARIFFS.jpg",
+   "description": "China, the European Union and other major trading partners on Thursday criticised new US tariffs of up to 20 percent proposed by US President Donald Trump after a probe into alleged global overcapacity,…",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 20.16,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 42,
+   "also_reported_by": [
+    {
+     "outlet": "latintimes.com",
+     "url": "https://www.latintimes.com/us-proposes-tariffs-chinese-imports-trade-truce-601887"
+    },
+    {
+     "outlet": "vanguardngr.com",
+     "url": "https://www.vanguardngr.com/2026/11/trump-proposes-new-tariffs-on-china-eu-12-others/"
+    },
+    {
+     "outlet": "blueprint.ng",
+     "url": "https://blueprint.ng/trump-proposes-fresh-tariffs-on-china-eu-12-other-economies/"
+    },
+    {
+     "outlet": "torontotelegraph.com",
+     "url": "http://www.torontotelegraph.com/news/279454307/china-faces-highest-rate-as-us-announces-fresh-raft-of-tariffs"
+    },
+    {
+     "outlet": "nagalandpost.com",
+     "url": "https://nagalandpost.com/china-japan-slam-donald-trumps-new-tariff-plans/"
+    },
+    {
+     "outlet": "westhawaiitoday.com",
+     "url": "https://www.westhawaiitoday.com/2026/11/27/nation-world-news/trumps-latest-tariffs-revive-focus-on-pressuring-china/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "splash247.com",
+     "url": "https://splash247.com/washington-opens-fresh-tariff-front-across-14-economies/"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+    },
+    {
+     "outlet": "slguardian.org",
+     "url": "https://slguardian.org/us-uses-new-tariff-threats-to-push-14-trading-partners-towards-trade-deals/"
+    }
+   ]
+  },
+  {
+   "id": "83b555db1701e2c444c750d76f97bf6dfc068a45",
+   "title": "Several students killed in blast beside Afghan school",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Hurriyat_Radio_Pashto_-______________________________________________________________________UdX8dZ.mp4.00_00_01_02.Still001-1795860302.jpg?resize=1200%2C630",
+   "description": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 19.77,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 23,
+   "also_reported_by": [
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.bignewsnetwork.com/news/279470740/2-ld-writethru-7-killed-97-injured-in-blast-in-e-afghanistan"
+    },
+    {
+     "outlet": "tribuneindia.com",
+     "url": "https://www.tribuneindia.com/news/world/afghanistan-school-blast-several-students-feared-dead-after-explosion-at-middle-school-in-eastern-kunar-province/"
+    },
+    {
+     "outlet": "siasat.com",
+     "url": "https://www.siasat.com/explosion-at-middle-school-in-eastern-afghanistan-3588981/"
+    },
+    {
+     "outlet": "cbc.ca",
+     "url": "https://www.cbc.ca/news/world/afghanistan-school-explosion-9.7440205"
+    },
+    {
+     "outlet": "joplinglobe.com",
+     "url": "https://www.joplinglobe.com/region/an-explosion-at-a-school-in-eastern-afghanistan-kills-7-wounds-more-than-90/article_e72b01e8-bcff-5285-be58-465893aceded.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o"
+    },
+    {
+     "outlet": "cyprusnews.eu",
+     "url": "https://cyprusnews.eu/cnn-kosmos/afghanistan-school-blast-kills-7-students-injures-up-to-99/"
+    },
+    {
+     "outlet": "netscape.com",
+     "url": "https://isp.netscape.com:443/news/world/story/0001/20261128/843fe51fe82d739eab076b2fbd4d8eb0"
+    },
+    {
+     "outlet": "krmg.com",
+     "url": "https://krmg.com/2026/11/28/an-explosion-at-a-middle-school-in-eastern-afghanistan-kills-or-wounds-several-students/"
+    },
+    {
+     "outlet": "ariananews.af",
+     "url": "https://www.ariananews.af/seven-students-killed-97-injured-in-explosion-near-school-in-afghanistans-kunar/"
+    }
+   ]
+  },
+  {
+   "id": "5f10fc1549e2cb535fd002282411965aa8fcfcc8",
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+   "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 19.35,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 13,
+   "also_reported_by": [
+    {
+     "outlet": "thepeninsulaqatar.com",
+     "url": "http://thepeninsulaqatar.com/article/28/11/2026/msf-calls-for-accountability-after-israeli-occupation-kills-2-staff-members-in-gaza"
+    },
+    {
+     "outlet": "abc.net.au",
+     "url": "https://www.abc.net.au/news/2026-11-28/two-killed-israeli-air-strike-gaza-msf/107438266"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss"
+    },
+    {
+     "outlet": "aol.co.uk",
+     "url": "https://www.aol.co.uk/articles/israeli-strike-killed-two-staff-104424000.html"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/world/israel-gaza-strike-doctors-without-borders-6589316"
+    },
+    {
+     "outlet": "rte.ie",
+     "url": "https://www.rte.ie/news/middle-east/2026/1128/1600979-israeli-gaza/"
+    },
+    {
+     "outlet": "sana.sy",
+     "url": "https://sana.sy/en/international/2362452/"
+    },
+    {
+     "outlet": "dailypioneer.com",
+     "url": "https://dailypioneer.com/world/israeli-strike-gaza-clinic-kills-two-msf-staff"
+    },
+    {
+     "outlet": "al-monitor.com",
+     "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-killed-two-staff-outside-gaza-clinic-msf-says"
+    },
+    {
+     "outlet": "tribune.com.pk",
+     "url": "https://tribune.com.pk/story/2642801/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza"
+    }
+   ]
+  },
+  {
+   "id": "7c91a091915c7aa5567d873d5398274fc8b5a78f",
+   "title": "Houthis launch strikes on Saudi Arabia",
+   "url": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+   "outlet": "france24.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://s.france24.com/media/display/778980c6-e58e-11f1-b8cd-ebb478925cf0/w:1024/p:16x9/EN-20261121-091902-092039-CS-01.jpg",
+   "description": "Iran-backed Houthi rebels in Yemen continue to exchange strikes with the Saudi-led coalition. The coalition said it intercepted and destroyed three ballistic missiles fired towards Riyadh early on Saturday.…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 18.54,
+   "newsworthiness": 5,
+   "relevance": 4,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "sana.sy",
+     "url": "https://sana.sy/en/middle-east/2362411/"
+    },
+    {
+     "outlet": "thepeninsulaqatar.com",
+     "url": "http://thepeninsulaqatar.com/article/28/11/2026/saudi-led-coalition-intercepts-missile-launched-towards-riyadh"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/world/saudi-arabia-houthis-strikes-riyadh-6589336"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "tradearabia.com",
+     "url": "https://tradearabia.com:443/News/490296/Houthi-attacks-on-Saudi-Arabia-continue-as-missiles-intercepted"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "cyprus-mail.com",
+     "url": "https://cyprus-mail.com/2026/11/25/yemens-houthis-say-they-attacked-saudi-oil-refinery-and-riyadh-financial-district"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.bignewsnetwork.com/news/279453653/yemen-houthis-say-attacked-saudi-oil-refinery-financial-center"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/25/Saudi_coalition_strikes_Yemen_port_city_thwarts_attacks_in_m/"
+    }
+   ]
+  },
+  {
+   "id": "b8e65de04b89ed80ec8e59cdf25582aa16c98728",
+   "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+   "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108368728-1790601399956-Screenshot_2026-09-28_at_91434_AM.png?v=1790601411&w=1920&h=1080",
+   "description": "SpaceX won approval from the FCC to put 1 million orbital data center satellites into space, a proposal that was opposed by Amazon and other groups.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 18.37,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 54,
+   "also_reported_by": [
+    {
+     "outlet": "asianage.com",
+     "url": "https://www.asianage.com/lifestyle/environment/elon-musk-has-approval-to-launch-1-million-satellites-astronomer-explains-how-this-would-impact-sky-2008756"
+    },
+    {
+     "outlet": "hindustantimes.com",
+     "url": "https://www.hindustantimes.com/ht-explainers/elon-musk-spacex-plan-to-run-ai-from-ai1-satellites-in-orbit-and-down-to-earth-physics-in-its-way-101795696855793.html"
+    },
+    {
+     "outlet": "iheart.com",
+     "url": "https://wbhpam.iheart.com/content/2026-11-27-fcc-approves-spacexs-ai-satellite-project/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/nation/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical"
+    },
+    {
+     "outlet": "sundayworld.co.za",
+     "url": "https://sundayworld.co.za/technology/us-approves-spacex-plan-for-1-million-space-data-center-satellites/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/26/SpaceX_cleared_to_launch_up_to_one_million_AI_satellites/"
+    },
+    {
+     "outlet": "arstechnica.com",
+     "url": "https://arstechnica.com/space/2026/11/the-fcc-has-authorized-spacex-to-deploy-1-million-satellites/"
+    },
+    {
+     "outlet": "wcsufm.org",
+     "url": "https://www.wcsufm.org/latest-from-npr/2026-11-26/fcc-says-spacex-can-deploy-1-million-satellites-for-data-centers-in-space-scientists-are-skeptical"
+    }
+   ]
+  },
+  {
+   "id": "59d0fa02ce7c08befdc6ba28269bd66565452280",
+   "title": "Millions of Children Are Losing Food Stamps",
+   "url": "https://www.nytimes.com/2026/11/28/us/politics/millions-of-children-are-losing-food-stamps.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-28T10:02:17Z",
+   "image": "https://static01.nyt.com/images/2026/11/23/multimedia/00DC-SNAP-CUTS-wthl/00DC-SNAP-CUTS-wthl-mediumSquareAt3X.jpg",
+   "description": "Republicans said the cuts, part of their domestic policy bill, would root out fraud and push adults to work. But two million children have lost benefits.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 18.25,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "westhawaiitoday.com",
+     "url": "https://www.westhawaiitoday.com/2026/11/27/nation-world-news/cuts-to-food-stamp-program-threaten-free-school-meals/"
+    },
+    {
+     "outlet": "hawaiitribune-herald.com",
+     "url": "https://www.hawaiitribune-herald.com/2026/11/27/nation-world-news/cuts-to-food-stamp-program-threaten-free-school-meals/"
+    }
+   ]
+  },
+  {
+   "id": "240a6b970dda54562ea180265cfcb79daafe061c",
+   "title": "Iran live updates: IRGC claims 2 oil tankers hit mines in Strait of Hormuz",
+   "url": "https://abcnews.com/International/live-updates/iran-live-updates-tehran-strait-hormuz-safe-demands/?id=138369648",
+   "outlet": "abcnews.com",
+   "published_at": "2026-11-28T10:00:00Z",
+   "image": "https://s.abcnews.com/images/International/Hormuz-ships-DB-261126_1795688836507_hpMain_4x3t_384.jpg",
+   "description": "President Donald Trump announced \"major combat operations\" against Iran on Feb. 28.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.95,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "sputnikglobe.com",
+     "url": "https://sputnikglobe.com/20261128/irgc-says-2-oil-tankers-hit-mines-near-strait-of-hormuz---reports-1125154982.html"
+    }
+   ]
+  },
+  {
+   "id": "78d487d94052239afcfaac0a800a1cb084dacdd8",
+   "title": "Extreme weather threatens Thanksgiving festivities in US",
+   "url": "https://www.dw.com/en/extreme-weather-threatens-thanksgiving-festivities-in-us/a-80055880?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-28T00:37:06Z",
+   "image": "https://static.dw.com/image/80055851_6.jpg",
+   "description": "A major storm is forecast to move up the US East Coast and is likely to cause travel delays. Weather warnings were enough to postpone Macy's Thanksgiving Day Parade for the first time in its 100 years.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 17.9,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 51,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/thanksgiving-travel-nightmare-hits-airports-amid-powerful-noreaster/"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/27/g-s1-156004/up-first-newsletter-thanksgiving-storm-black-friday-shopping-asylum-supreme-court"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations"
+    },
+    {
+     "outlet": "today.com",
+     "url": "https://www.today.com/video/macy-s-thanksgiving-day-parade-postponed-for-first-time-ever-274220101982"
+    },
+    {
+     "outlet": "wfnc640am.com",
+     "url": "https://www.wfnc640am.com/2026/11/27/severe-storms-bring-thanksgiving-travel-disruptions-and-power-outages-across-the-us/"
+    },
+    {
+     "outlet": "mega979.com",
+     "url": "https://www.mega979.com/2026/11/26/macys-thanksgiving-day-parade-postponed-due-to-severe-weather/"
+    },
+    {
+     "outlet": "x1071.com",
+     "url": "https://www.x1071.com/macys-thanksgiving-day-parade-postponed-due-to-severe-weather/"
+    },
+    {
+     "outlet": "glory985.com",
+     "url": "https://www.glory985.com/2026/11/27/macys-thanksgiving-day-parade-postponed-due-to-severe-weather/"
+    },
+    {
+     "outlet": "kicks1063.com",
+     "url": "https://kicks1063.com/2026/11/27/macys-thanksgiving-day-parade-postponed-due-to-severe-weather/"
+    },
+    {
+     "outlet": "kaok.com",
+     "url": "https://www.kaok.com/2026/11/27/macys-thanksgiving-day-parade-postponed-due-to-severe-weather/"
+    }
+   ]
+  },
+  {
+   "id": "d54dbc7e09178c9a1ab63867adcee6205db38bc9",
+   "title": "Trump: Iran war will be over 'sort of whenever I want it to be'",
+   "url": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-27T09:45:00Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26328698501477-e1795706481395.jpg?w=900",
+   "description": "President Trump said the Iran war will be over “sort of whenever I want it to be” as the conflict stretches into its ninth month and pushback against it grows.  The president called soldiers at Mar…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.9,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375970/iran-denies-launching-drone-attack-killed-italians-kuwait"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "cnbcafrica.com",
+     "url": "https://www.cnbcafrica.com/2026/trump-says-iran-war-ends-whenever-i-want-it"
+    }
+   ]
+  },
+  {
+   "id": "6030cd044b9ef8080aa1e8b7a3155240037ddd0d",
+   "title": "What we know about Department for Work and Pensions 'cyber incident'",
+   "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c16d/live/d01bdb90-958d-11f1-b8bb-1b597db1ad66.jpg",
+   "description": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 17.49,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 63,
+   "also_reported_by": [
+    {
+     "outlet": "aol.co.uk",
+     "url": "https://www.aol.co.uk/articles/pensions-benefits-services-still-down-104957000.html"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott"
+    },
+    {
+     "outlet": "chroniclelive.co.uk",
+     "url": "https://www.chroniclelive.co.uk/news/uk-news/dwp-cyber-outage-probably-attack-34979625"
+    },
+    {
+     "outlet": "glasgowtimes.co.uk",
+     "url": "https://www.glasgowtimes.co.uk/news/national/26767749.dwp-removes-online-services-amid-cyber-incident/"
+    },
+    {
+     "outlet": "leicestermercury.co.uk",
+     "url": "https://www.leicestermercury.co.uk/news/uk-world-news/dwp-services-taken-offline-after-11257917"
+    },
+    {
+     "outlet": "yorkpress.co.uk",
+     "url": "https://www.yorkpress.co.uk/news/national/26767749.dwp-removes-online-services-amid-cyber-incident/"
+    },
+    {
+     "outlet": "bournemouthecho.co.uk",
+     "url": "https://www.bournemouthecho.co.uk/news/26767992.dwp-cyber-incident-takes-services-offline/"
+    },
+    {
+     "outlet": "eppingforestguardian.co.uk",
+     "url": "https://www.eppingforestguardian.co.uk/news/national/26767749.dwp-removes-online-services-amid-cyber-incident/"
+    },
+    {
+     "outlet": "messengernewspapers.co.uk",
+     "url": "https://www.messengernewspapers.co.uk/news/national/26767749.dwp-removes-online-services-amid-cyber-incident/"
+    },
+    {
+     "outlet": "dunfermlinepress.com",
+     "url": "https://www.dunfermlinepress.com/news/national/26767749.dwp-removes-online-services-amid-cyber-incident/"
+    }
+   ]
+  },
+  {
+   "id": "2fdc1f6b2266cf750863b6f37218627bdcc8f3ce",
+   "title": "Mexico's government is slamming a DEA crime tip line as foreign interference. Others are thrilled.",
+   "url": "https://www.pbs.org/newshour/world/mexicos-government-is-slamming-a-dea-crime-tip-line-as-foreign-interference-others-are-thrilled",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-17T083106Z_889123517_RC2KPOAPKJ5H_RTRMADP_3_APEC-SUMMIT-CHINA-MEXICO-1024x683.jpg",
+   "description": "The announcement opened the latest chapter in an ongoing struggle between the U.S. and Mexican governments over who has the right to take action against cartels in Mexico.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.41,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/us-opens-hotline-tips-cartels-angering-mexico/"
+    },
+    {
+     "outlet": "sidneyherald.com",
+     "url": "https://www.sidneyherald.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "parkrapidsenterprise.com",
+     "url": "https://www.parkrapidsenterprise.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "willistonherald.com",
+     "url": "https://www.willistonherald.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "brainerddispatch.com",
+     "url": "https://www.brainerddispatch.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "grandforksherald.com",
+     "url": "https://www.grandforksherald.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "postbulletin.com",
+     "url": "https://www.postbulletin.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "pineandlakes.com",
+     "url": "https://www.pineandlakes.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "perhamfocus.com",
+     "url": "https://www.perhamfocus.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    },
+    {
+     "outlet": "capjournal.com",
+     "url": "https://www.capjournal.com/news/national/mexico-files-complaint-with-us-over-dea-tip-line-on-alleged-drug-traffickers-corrupt-officials"
+    }
+   ]
+  },
+  {
+   "id": "bda168cf233b296b6cce77f8d4b69326da976d7e",
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T09:16:01Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg",
+   "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 17.37,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 15,
+   "also_reported_by": [
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/world/ukraine/zelenskyy-questions-trumps-strange-reference-putin-friend-rcna611653"
+    },
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-us-pressure-putin-calling-trumps-friend-138478386"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/zelenskyy-trump-calling-putin-friend-like-hitler-viewed-friend-wwii/"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/zelenskyy-urges-the-u-s-to-pressure-putin-calling-trumps-my-friend-remark-strange"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3376046/zelensky-says-trump-calling-putin-my-friend-being-buddies-hitler-wwii"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/policy/international/6245089-zelensky-calls-for-us-peace-progress/"
+    },
+    {
+     "outlet": "news.az",
+     "url": "https://news.az/news/zelenskyy-draws-hitler-comparison-over-trump-s-friendship-with-putin"
+    },
+    {
+     "outlet": "thedailymash.co.uk",
+     "url": "https://www.thedailymash.co.uk/news/international/putin-vs-hitler-who-was-the-best-friend-20261127271329"
+    },
+    {
+     "outlet": "theguardian.com",
+     "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+    },
+    {
+     "outlet": "huffingtonpost.co.uk",
+     "url": "https://www.huffingtonpost.co.uk/entry/volodymyr-zelenskyy-ukraine-donald-trump-putin_uk_6b093f14e4b01f494a037db9"
+    }
+   ]
+  },
+  {
+   "id": "08a8297222b5dd6658b97fef2d686e8e5edd071c",
+   "title": "China to launch first space mission with a foreign astronaut",
+   "url": "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
+   "outlet": "france24.com",
+   "published_at": "2026-11-27T10:15:00Z",
+   "image": "https://s.france24.com/media/display/dd5a9c58-e7d9-11f1-a14d-1bac47ab2f5d/w:1024/p:16x9/AP26328149750361.jpg",
+   "description": "Pakistan's Muhammad Zeeshan Ali will become the first foreign astronaut to board China's Tiangong space station when the latest crew blasts off Wednesday. Ali said he would be carrying \"the hopes of…",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 17.35,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 52,
+   "also_reported_by": [
+    {
+     "outlet": "australiannews.net",
+     "url": "http://www.australiannews.net/news/279454303/china-s-new-space-mission-carries-pakistani-astronaut"
+    },
+    {
+     "outlet": "2lt.com.au",
+     "url": "https://www.2lt.com.au/chinas-new-space-mission-carries-pakistani-astronaut/"
+    },
+    {
+     "outlet": "torontotelegraph.com",
+     "url": "http://www.torontotelegraph.com/news/279454303/china-launches-three-man-space-mission-shenzhou-24"
+    },
+    {
+     "outlet": "arkansasonline.com",
+     "url": "https://www.arkansasonline.com/news/2026/nov/26/china-launches-shenzhou-24-spacecraft-with-3/"
+    },
+    {
+     "outlet": "nwaonline.com",
+     "url": "https://www.nwaonline.com/news/2026/nov/26/china-launches-shenzhou-24-spacecraft-with-3/"
+    },
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/25/China_rocket_blasts_off_on_Shenzhou24_mission_m/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/videos/cj5y1p067kxno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/features/2026/11/25/from-stargazing-to-space-pakistan-watches-its-first-astronaut-take-flight?traffic_source=rss"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/china/science/article/3375536/pakistani-astronaut-joins-shenzhou-24-crew-heading-chinas-tiangong-space-station"
+    },
+    {
+     "outlet": "nature.com",
+     "url": "https://www.nature.com/articles/d41586-026-03829-y"
+    }
+   ]
+  },
+  {
+   "id": "522fd4fc26554e58ee1b20189e093ef8747fd62c",
+   "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+   "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg",
+   "description": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 17.23,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 11,
+   "also_reported_by": [
+    {
+     "outlet": "nbcnews.com",
+     "url": "https://www.nbcnews.com/nightly-news/video/mass-power-outages-after-thanksgiving-day-storms-274286149762"
+    },
+    {
+     "outlet": "thehill.com",
+     "url": "https://thehill.com/homenews/state-watch/6245503-black-friday-thanksgiving-storms-flight-delayed-macys-parade/"
+    },
+    {
+     "outlet": "wfmz.com",
+     "url": "https://www.wfmz.com/news/area/berks/power-outages-disrupt-families-close-businesses-a-day-after-thanksgiving-storm/article_7bdfb6fc-b173-44b1-b507-029e4900c3d7.html"
+    },
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/video/severe-weather-thanksgiving-hits-us-california-new-york/"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/28/parts-of-us-clean-up-after-thanksgiving-storm-lashes-east-coast?traffic_source=rss"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/show/stormy-thanksgiving-weather-causes-delays-and-damages-for-many-americans"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com:443/world/power-being-restored-after-thanksgiving-storm-soaks-us-east-coast"
+    },
+    {
+     "outlet": "greenevillesun.com",
+     "url": "http://www.greenevillesun.com/news/ap_national_news/parts-of-the-us-clean-up-power-being-restored-after-thanksgiving-storm-soaks-east-coast/article_bcfba38d-f643-52d6-a4b7-fca94f743004.html"
+    },
+    {
+     "outlet": "dailythepatriot.com",
+     "url": "https://dailythepatriot.com/severe-storm-in-the-us-1-million-customers-without-power-thousands-of-flights-affected/"
+    },
+    {
+     "outlet": "ktbb.com",
+     "url": "https://ktbb.com/post/?p=1564899"
+    }
+   ]
+  },
+  {
+   "id": "661806217e0e8a1bd670de70fafe1ff29a318c31",
+   "title": "Uganda starts mRNA Ebola vaccine trial in first for Africa",
+   "url": "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26329472525576-1795846807.jpg?resize=1920%2C1440",
+   "description": "The trial targets the less common Bundibugyo strain behind the Ebola outbreak in neighbouring DRC.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 16.79,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "grenadachronicle.com",
+     "url": "https://grenadachronicle.com/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa/"
+    },
+    {
+     "outlet": "poultrymed.com",
+     "url": "https://www.poultrymed.com/Vac-Eng-Ebola271126"
+    },
+    {
+     "outlet": "standardmedia.co.ke",
+     "url": "https://www.standardmedia.co.ke/africa/article/2001563231/mrna-ebola-vaccine-trial-launched-in-uganda"
+    },
+    {
+     "outlet": "africanews.com",
+     "url": "https://www.africanews.com/2026/11/28/uganda-launches-first-african-trial-of-mrna-bundibugyo-ebola-vaccine/"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa/"
+    }
+   ]
+  },
+  {
+   "id": "955d83ade1b2bc73261368db9df4cf051937ffe1",
+   "title": "U.S. forces disable commercial ship that allegedly tried to breach Iran blockade",
+   "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-threats-diplomacy-strait-of-hormuz/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/27/1f58a910-a9c0-43d8-b4a8-bc3c6bdbb8db/thumbnail/1200x630/e185cec840a9392e3216f2d32ecc8f2f/2026-11-27t175632z-1120193469-rc2bwoa2ofji-rtrmadp-3-iran-crisis-usa-ship.jpg",
+   "description": "A U.S. military aircraft struck a Palau-flagged ship with precision munitions after giving multiple warnings, U.S. Central Command said.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.79,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/world/us-military-fires-ship-iran-blockade/"
+    },
+    {
+     "outlet": "rte.ie",
+     "url": "https://www.rte.ie/news/middle-east/2026/1128/1600973-us-iran/"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/u-s-military-says-it-disabled-another-ship-that-tried-to-breach-naval-blockade-on-iranian-ports"
+    },
+    {
+     "outlet": "newstodaynet.com",
+     "url": "https://newstodaynet.com/2026/11/28/us-disables-merchant-vessel-trying-to-evade-iran-blockade/"
+    }
+   ]
+  },
+  {
+   "id": "bc335548ac2ad28ee79d1967860b7a8c695f46f4",
+   "title": "Rescuers search for dozens trapped in flooded Indonesia gold mine",
+   "url": "https://www.aljazeera.com/news/2026/11/25/rescuers-search-for-dozens-trapped-in-flooded-indonesia-gold-mine?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20251007__77X47KT__v1__HighRes__IndonesiaMissingCollapseAccident-1-1795593603.jpg?resize=1920%2C1440",
+   "description": "Police say 26 workers are yet to be rescued from a mine that flooded when a nearby river overflowed after heavy rain.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.69,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 21,
+   "also_reported_by": [
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/26/Indonesian_rescuers_resume_search_for_13_people_trapped_insi/"
+    },
+    {
+     "outlet": "nzherald.co.nz",
+     "url": "https://www.nzherald.co.nz/world/indonesia-illegal-gold-mine-flood-kills-13-with-13-miners-missing/CGRCWQTO75A67JBG5B45LS57S4/"
+    },
+    {
+     "outlet": "bbc.com",
+     "url": "https://www.bbc.com/news/articles/cmde1zr0nlyro"
+    },
+    {
+     "outlet": "the-messenger.com",
+     "url": "https://www.the-messenger.com/news/world/article_58450665-ae7e-5638-bb3b-8cf5b86f790b.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/asia/southeast-asia/article/3375778/3-dead-23-trapped-indonesia-after-illegal-gold-mine-floods"
+    },
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html"
+    },
+    {
+     "outlet": "corsicanadailysun.com",
+     "url": "https://www.corsicanadailysun.com/national/29-miners-believed-trapped-by-flooding-in-an-unauthorized-gold-mine-in-indonesia/article_003e72d6-aafc-5beb-86d5-e252ed06b720.html"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/asia/indonesia-search-dozens-trapped-mine-workers-6580561"
+    },
+    {
+     "outlet": "gazettextra.com",
+     "url": "http://www.gazettextra.com/news/nation_world/29-miners-believed-trapped-by-flooding-in-an-unauthorized-gold-mine-in-indonesia/article_75e5fcc7-dc34-5008-9b3d-c1f35217b540.html"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/world/29-miners-believed-trapped-by-flooding-in-an-unauthorized-gold-mine-in-indonesia/article_35ab1157-89ff-574b-9f2a-85788c5184ba.html"
+    }
+   ]
+  },
+  {
+   "id": "7a47b5d7af844537f41560b81c335deba369f57b",
+   "title": "Has AI just cracked Internet encryption? Rumoured ‘bombshell’ stuns scientists",
+   "url": "https://www.nature.com/articles/d41586-026-03875-6",
+   "outlet": "nature.com",
+   "published_at": "2026-11-26T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03875-6 AI-generated algorithms could be about to break public-key cryptography, the technology central to commerce, banking and privacy.",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 16.5,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "9b37f180be30e7321dd1dc3e75eee1b4660804cd",
+   "title": "EU leaders seek agreement on long-term budget and Ukraine at summit",
+   "url": "https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-27T18:19:36Z",
+   "image": "https://static.dw.com/image/80057234_6.jpg",
+   "description": "Leaders of the EU's 27 member states are expected to thrash out the EU's budget for 2028 to 2034. Ukraine and European Central Bank leadership are also up for discussion. DW has more.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.38,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 9,
+   "also_reported_by": [
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/world/a-ukraine-loan-is-in-limbo-after-eu-budget-talks-stall-leaders-will-try-again"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "novinite.com",
+     "url": "https://www.novinite.com/articles/241820/EU+Budget+Summit+Ends+in+Deadlock+as+Leaders+Postpone+Deal+Until+December"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/europe/20261126-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen"
+    },
+    {
+     "outlet": "mymotherlode.com",
+     "url": "https://mymotherlode.com/news/world/11341175/eu-leaders-seek-to-bridge-their-differences-and-agree-on-a-budget-deal-and-a-new-loan-for-ukraine.html"
+    },
+    {
+     "outlet": "leadertelegram.com",
+     "url": "http://www.leadertelegram.com/news/world/eu-leaders-seek-to-bridge-their-differences-and-agree-on-a-budget-deal-and-a/article_8cd2cbaf-b445-5a00-8098-9735bd34d5dc.html"
+    },
+    {
+     "outlet": "naharnet.com",
+     "url": "https://www.naharnet.com/stories/en/324017-eu-leaders-seek-to-bridge-differences-agree-on-budget-deal-and-new-ukraine-loan"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.parisguardian.com/news/279454988/eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen"
+    }
+   ]
+  },
+  {
+   "id": "4046fd63851c9d45f61ecf89d39d04b6a57c5576",
+   "title": "Hope for millions as cheaper HIV prevention jab reaches Africa",
+   "url": "https://www.bbc.co.uk/news/articles/cmly7jve72r2o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec2/live/6c97c050-e986-11f1-b64a-3bc3040b00fe.jpg",
+   "description": "Lenacapavir, administered as an injection twice a year, is nearly 100% effective at preventing HIV infection.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 16.3,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "independent.co.ug",
+     "url": "https://www.independent.co.ug/uganda-to-receive-cheaper-generic-hiv-prevention-injection-drug/"
+    },
+    {
+     "outlet": "businessghana.com",
+     "url": "http://businessghana.com/site/news/general/360512/Cheaper-HIV-prevention-jab-reaches-Africa"
+    }
+   ]
+  },
+  {
+   "id": "c2d14e846cdd4e2e683e0a1a2eebbb50a37d4a10",
+   "title": "US court blocks regulator's early review of ABC's broadcast licenses",
+   "url": "https://www.dw.com/en/us-court-blocks-regulator-s-early-review-of-abc-s-broadcast-licenses/a-80056181?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-27T10:45:00Z",
+   "image": "https://static.dw.com/image/80056201_6.jpg",
+   "description": "The FCC chairman had ordered an early review of ABC's licenses a day after President Donald Trump called for the broadcaster to fire Jimmy Kimmel earlier this year. The licenses were not set to expire until 2028.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 16.16,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 40,
+   "also_reported_by": [
+    {
+     "outlet": "theverge.com",
+     "url": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block"
+    },
+    {
+     "outlet": "pbs.org",
+     "url": "https://www.pbs.org/newshour/nation/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect"
+    },
+    {
+     "outlet": "texarkanagazette.com",
+     "url": "https://www.texarkanagazette.com/news/2026/nov/27/judge-blocks-fcc-from-early-license-review-for/"
+    },
+    {
+     "outlet": "time.com",
+     "url": "https://time.com/article/2026/11/26/fcc-abc-disney-broadcast-license-early-review-judge-injunction/"
+    },
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/26/nx-s1-6000576/fcc-disney-abc-first-amendment-trump-brendan-carr"
+    },
+    {
+     "outlet": "kgou.org",
+     "url": "https://www.kgou.org/business-and-economy/2026-11-25/u-s-judge-rules-fcc-violated-abcs-free-speech-rights-to-please-trump"
+    },
+    {
+     "outlet": "kwit.org",
+     "url": "https://www.kwit.org/2026-11-25/u-s-judge-rules-fcc-violated-abcs-free-speech-rights-to-please-trump"
+    },
+    {
+     "outlet": "kmuw.org",
+     "url": "https://www.kmuw.org/2026-11-25/u-s-judge-rules-fcc-violated-abcs-free-speech-rights-to-please-trump"
+    },
+    {
+     "outlet": "northcountrypublicradio.org",
+     "url": "https://www.northcountrypublicradio.org/news/npr/nx-s1-6000576/u-s-judge-rules-fcc-violated-abc-s-free-speech-rights-to-please-trump"
+    },
+    {
+     "outlet": "ksfr.org",
+     "url": "https://www.ksfr.org/npr-news/2026-11-25/u-s-judge-rules-fcc-violated-abcs-free-speech-rights-to-please-trump"
+    }
+   ]
+  },
+  {
+   "id": "4a9e1c3c5af341f863def26632820a109bed4057",
+   "title": "Taiwan awaits local election results as China watches",
+   "url": "https://www.france24.com/en/taiwan-awaits-local-election-results-as-china-watches",
+   "outlet": "france24.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://s.france24.com/media/display/ecc14cb8-eb18-11f1-99a7-f9cf020caef6/w:1024/p:16x9/2026-11-28T051224Z-1681141522-RC2RWOA8RD0E-RTRMADP-3-TAIWAN-ELECTION.jpg",
+   "description": "Taipei Mayor ​Chiang Wan-an ​is leading in the vote count in ​an ‌election ⁠against his opponent Puma ‌Shen, Taiwan media outlets ⁠reported on Saturday.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.15,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "freemalaysiatoday.com",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/28/taiwan-votes-in-local-elections-as-china-sends-warplanes"
+    },
+    {
+     "outlet": "asiaone.com",
+     "url": "https://www.asiaone.com:443/asia/taiwan-local-elections-china-sends-warplanes-lambastes-taipei-candidate"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/asia-pacific/politics/taiwan-local-elections-china/"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/polls-close-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.parisguardian.com/news/279470307/taiwan-holds-local-elections-under-beijing-watchful-gaze"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/28/taiwan-votes-in-local-elections-to-choose-mayors-other-leaders?traffic_source=rss"
+    },
+    {
+     "outlet": "focustaiwan.tw",
+     "url": "https://focustaiwan.tw/politics/202611285002"
+    },
+    {
+     "outlet": "kdhnews.com",
+     "url": "https://kdhnews.com/news/world/taiwan-awaits-local-election-results-as-china-watches/article_a819c1ed-00a4-5013-920f-95e52b232e2f.html"
+    },
+    {
+     "outlet": "goskagit.com",
+     "url": "http://www.goskagit.com/news/world/taiwan-awaits-local-election-results-as-china-watches/article_0202ae38-cc57-5239-b77d-bc979e4353d7.html"
+    }
+   ]
+  },
+  {
+   "id": "de99da52d0e28159c00007d11956de9bfe6c7da2",
+   "title": "New wave of Democratic attorneys general may reshape the justice system",
+   "url": "https://www.wwno.org/npr-news/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system",
+   "outlet": "wwno.org",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/34/ac/5997b06047b288aee65e30c7da98/ap26078063733457.jpg",
+   "description": "The Democratic victories could have major effects for what alleged crimes are investigated, lawsuits filed and court cases heard across the U.S.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 16.09,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 18,
+   "also_reported_by": [
+    {
+     "outlet": "npr.org",
+     "url": "https://www.npr.org/2026/11/28/g-s1-155837/democratic-attorneys-general-justice-system-texas"
+    },
+    {
+     "outlet": "wxpr.org",
+     "url": "https://www.wxpr.org/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "wpsu.org",
+     "url": "https://radio.wpsu.org/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "kbia.org",
+     "url": "https://www.kbia.org/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "wnmufm.org",
+     "url": "https://www.wnmufm.org/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "kwbu.org",
+     "url": "https://www.kwbu.org/latest-from-npr/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "wmuk.org",
+     "url": "https://www.wmuk.org/npr-news/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "kawc.org",
+     "url": "https://www.kawc.org/npr-news/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "northernpublicradio.org",
+     "url": "https://www.northernpublicradio.org/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    },
+    {
+     "outlet": "wcsufm.org",
+     "url": "https://www.wcsufm.org/latest-from-npr/2026-11-28/new-wave-of-democratic-attorneys-general-may-reshape-the-justice-system"
+    }
+   ]
+  },
+  {
+   "id": "5d434deb2174a5e35ad93b659f43fda3c926087e",
+   "title": "New Zealand election ends in hung parliament",
+   "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-28T10:45:00Z",
+   "image": "https://static.dw.com/image/79884613_6.jpg",
+   "description": "A final vote count showed that neither the center-right bloc nor the opposition left bloc was able to secure a majority.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.07,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 9,
+   "also_reported_by": [
+    {
+     "outlet": "arkansasonline.com",
+     "url": "https://www.arkansasonline.com/news/2026/nov/28/new-zealand-election-in-deadlock/"
+    },
+    {
+     "outlet": "siasat.com",
+     "url": "https://www.siasat.com/new-zealand-elections-national-loses-two-seats-as-greens-gain-one-3588227/"
+    },
+    {
+     "outlet": "lancasteronline.com",
+     "url": "https://lancasteronline.com/news/world/deadlocked-final-result-in-new-zealands-election-leaves-a-centrist-newcomer-as-the-decider/article_3b9fef87-a6c2-5016-9711-c329657aa098.html"
+    },
+    {
+     "outlet": "news-gazette.com",
+     "url": "https://www.news-gazette.com/news/nation-world/deadlocked-final-result-in-new-zealands-election-leaves-a-centrist-newcomer-as-the-decider/article_fa191373-7669-5618-b602-bcfd467cbf10.html"
+    },
+    {
+     "outlet": "japantimes.co.jp",
+     "url": "https://www.japantimes.co.jp/news/2026/11/27/asia-pacific/politics/new-zealand-ruling-bloc/"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/27/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent?traffic_source=rss"
+    },
+    {
+     "outlet": "dominicanrepublicpost.com",
+     "url": "https://dominicanrepublicpost.com/new-zealand-election-results-set-up-tricky-talks-for-conservative-incumbent/"
+    }
+   ]
+  },
+  {
+   "id": "7a7be1b616205433d266a32ba244eb926509777d",
+   "title": "Homo Erectus Lived in Rainforests, Upending Ideas About Their Adaptability",
+   "url": "https://www.nytimes.com/2026/11/27/science/homo-erectus-early-humans-china-rainforests.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": null,
+   "description": "A handful of teeth reveals that our distant relatives survived in the dense rainforests of southern China, expanding our understanding of their flexibility.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 16.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "westhawaiitoday.com",
+     "url": "https://www.westhawaiitoday.com/2026/11/28/nation-world-news/homo-erectus-lived-in-rainforests-upending-ideas-about-their-adaptability/"
+    }
+   ]
+  },
+  {
+   "id": "5c5ccb0181f1fbb85cc6e1629122bf676de86e8f",
+   "title": "Live: Ukraine downs Russian drone with laser technology as Moscow intercepts overnight assault",
+   "url": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+   "outlet": "france24.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://s.france24.com/media/display/2653445a-eafa-11f1-a4ee-174dac1c1bf0/w:1024/p:16x9/AP26327531590182.jpg",
+   "description": "Russia shot down over 1,200 drones targeting Moscow overnight, Russian authorities said Saturday. Both Russia and Ukraine have stepped up their attacks using projectiles in recent months, with Ukraine…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 16.0,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "kyivpost.com",
+     "url": "https://www.kyivpost.com/post/91468"
+    },
+    {
+     "outlet": "channelnewsasia.com",
+     "url": "https://www.channelnewsasia.com/world/russia-ukraine-shot-down-drones-overnight-6589261"
+    },
+    {
+     "outlet": "thejournal.ie",
+     "url": "https://www.thejournal.ie/russian-say-over-1200-ukrainian-drones-shot-down-in-new-night-time-attack-7241292-Nov2026/"
+    },
+    {
+     "outlet": "freemalaysiatoday.com",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/28/russia-says-it-shot-down-more-than-1-200-ukrainian-drones-overnight"
+    },
+    {
+     "outlet": "news.az",
+     "url": "https://news.az/news/russia-says-it-shot-down-over-1-200-ukrainian-drones-overnight"
+    },
+    {
+     "outlet": "themoscowtimes.com",
+     "url": "https://www.themoscowtimes.com/2026/11/28/russian-army-intercepts-over-1-2k-ukrainian-drones-in-latest-nighttime-air-a812401"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/russia-central-asia/article/3376104/ukraine-says-it-used-laser-weapon-shoot-down-russian-drone-first-time"
+    }
+   ]
+  },
+  {
+   "id": "aa345f431aef35a111bf27d6f5c6fd989a270822",
+   "title": "Chinese military tests new Taiwan landing tactics in coastal drills",
+   "url": "https://www.japantimes.co.jp/news/2026/11/27/asia-pacific/china-taiwan-landing-tactics/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/27/576317.JPG",
+   "description": "Satellite images and a research report showed the new method to land troops ashore involves linking civilian vessels into a makeshift floating bridge.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.99,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "bworldonline.com",
+     "url": "http://bworldonline.com/world/2026/11/27/797275/chinese-military-tests-new-taiwan-landing-tactics-in-coastal-drills/"
+    }
+   ]
+  },
+  {
+   "id": "3ebb14aff4b9325391332f6df5d9b8149d23b5f0",
+   "title": "Iranian women are facing not just lashings, but \"honor killings\"",
+   "url": "https://www.cbsnews.com/news/iran-parastoo-ahmadi-lashes-iranian-women-face-violence/",
+   "outlet": "cbsnews.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/11/27/e0e52b28-2347-408a-a0f2-d13bbad75417/thumbnail/1200x630/488125456e7e45740ba3806680ef2be1/romina-ashrafi-iran.png",
+   "description": "Singer Parastoo Ahmadi's 74 lashes for daring to sing without her hair covered is not a unique case in Iran. Other women are being killed, some by their own families.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.99,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "haaretz.com",
+     "url": "https://www.haaretz.com/middle-east-news/iran/2026-11-28/ty-article-magazine/what-a-singers-flogging-reveals-about-irans-embattled-clerical-rulers/000001a2-2121-d809-adef-6beda6a30000"
+    }
+   ]
+  },
+  {
+   "id": "4b82024545667fe5e1b2c7dbe03322b917698358",
+   "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support",
+   "url": "https://www.cnbc.com/2026/11/27/china-chip-stocks-beijing-market-support.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108316445-1780531868664-gettyimages-2267522618-Stock_Market.jpeg?v=1780531885&w=1920&h=1080",
+   "description": "Chinese stocks rebounded sharply after a rare intraday state media readout cheered investors as top policymakers pledged market liquidity support.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.99,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "livemint.com",
+     "url": "https://www.livemint.com/market/china-spurs-biggest-stock-gain-since-2024-on-rare-midday-vow-11795861002507.html"
+    }
+   ]
+  },
+  {
+   "id": "23b7f93e0544e1c0993022e85ab81940b6d2e669",
+   "title": "Mexico and U.S. combat drug cartels together as Trump pressure looms large",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/crime-legal/mexico-us-combat-drug-cartels/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-28T11:00:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576434.jpg",
+   "description": "Mexico’s recent string of cartel kingpin takedowns aided by U.S. intelligence suggest closer cooperation with Washington.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.99,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "yahoo.com",
+     "url": "https://www.yahoo.com/news/politics/articles/mexico-us-combat-cartels-together-213138308.html"
+    }
+   ]
+  },
+  {
+   "id": "8869fa6394a1cbc6d9369aa5361cc139a4589377",
+   "title": "AI goes from math dunce to genius",
+   "url": "https://www.dw.com/en/ai-goes-from-math-dunce-to-genius/a-80067691?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-28T10:00:00Z",
+   "image": "https://static.dw.com/image/80068459_6.jpg",
+   "description": "It once struggled to get simple sums right. But AI is now tackling tough mathematical problems like the Riemann hypothesis. How AI made this extraordinary leap — and why mathematicians should be \"deeply worried.\"",
+   "topic": "tech",
+   "kind": "original_reporting",
+   "score": 15.95,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.chinanationalnews.com/news/279470537/acclaimed-mathematician-stresses-human-understanding-of-math-in-ai-era"
+    }
+   ]
+  },
+  {
+   "id": "d7239057248d898c3931a61ba3286113228945c6",
+   "title": "Houthis report airstrikes in Yemen, Israeli strike kills 2 near Gaza clinic, and other Mideast news",
+   "url": "https://www.wfmz.com/news/ap/ap-national/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast-news/article_f6ca89bb-4945-5590-a6e7-c85bae9847ca.html",
+   "outlet": "wfmz.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/3/ea/3eab5230-361a-5d70-bedb-eb5bf6319520/6b0a928b877bf.image.jpg?crop=1763%2C926%2C0%2C124",
+   "description": "An airstrike in the Yemeni capital Sanaa early Saturday wounded at least 15 people, according to the Iran-backed Houthis, and another strike in a Red Sea port city ignited a",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.91,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 14,
+   "also_reported_by": [
+    {
+     "outlet": "thepeterboroughexaminer.com",
+     "url": "https://www.thepeterboroughexaminer.com/news/world/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast-news/article_a09c5eca-a478-5a94-8de4-169ee3488b39.html"
+    },
+    {
+     "outlet": "kdhnews.com",
+     "url": "https://kdhnews.com/news/nation/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast/article_e1b8350e-2f63-513e-ba45-ddf45c4a40b2.html"
+    },
+    {
+     "outlet": "hngnews.com",
+     "url": "http://www.hngnews.com/nation_world/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast/article_7d2bad22-155d-5697-8548-b97deb8b68a5.html"
+    },
+    {
+     "outlet": "messenger-inquirer.com",
+     "url": "https://www.messenger-inquirer.com/ap/ap_national_news/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast/article_c67ab4c5-b27a-57d8-97f7-9d8bc0a4e055.html"
+    },
+    {
+     "outlet": "newsday.com",
+     "url": "https://www.newsday.com/news/nation/mideast-israel-gaza-ukraine-libya-israel-houthis-november-28-2026-b78629"
+    },
+    {
+     "outlet": "reflector.com",
+     "url": "http://www.reflector.com/news/national/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast/article_3da27bf0-0e23-5f58-9594-561e460c649c.html"
+    },
+    {
+     "outlet": "bozemandailychronicle.com",
+     "url": "http://www.bozemandailychronicle.com/wire/news/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast/article_3337bdac-6c9e-53b6-a0e3-871c71945f73.html"
+    },
+    {
+     "outlet": "clickorlando.com",
+     "url": "https://www.clickorlando.com/news/2026/11/28/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast-news/"
+    },
+    {
+     "outlet": "wral.com",
+     "url": "https://www.wral.com/news/ap/088cd-houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast-news/"
+    },
+    {
+     "outlet": "winknews.com",
+     "url": "https://www.winknews.com/news/international/houthis-report-airstrikes-in-yemen-israeli-strike-kills-2-near-gaza-clinic-and-other-mideast/article_c0bf02a3-9e25-5dff-ad49-c033f868b6c0.html"
+    }
+   ]
+  },
+  {
+   "id": "7524c7a9acc7eedae3c2bb64c671fdf8d50adb8f",
+   "title": "Spain’s PM Sanchez makes final bid to head off conservatives and far-right",
+   "url": "https://www.scmp.com/news/world/europe/article/3376131/spains-pm-sanchez-makes-final-bid-head-conservatives-and-far-right",
+   "outlet": "scmp.com",
+   "published_at": "2026-11-28T10:41:30Z",
+   "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/28/5a80c506-7962-4f6a-b1bb-b3b05874299f_315b879b.jpg?itok=sCIhV2F2&v=1795861790",
+   "description": "Socialist Prime Minister Pedro Sanchez urged voters on Friday to prevent Spain from moving “backwards” as campaigning ended for an election expected to deliver a victory for conservatives and the far-right. The outcome of Sunday’s vote will be closely watched as Europe opens an electoral cycle over the next 12 months that could reshape the balance of power within the European Union (EU). Sanchez has enhanced his global profile in recent years as one of the world’s most prominent leftist leaders,",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.88,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "straitstimes.com",
+     "url": "https://www.straitstimes.com/world/europe/vote-in-spain-may-oust-a-hero-of-the-global-left"
+    },
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/what-are-the-main-issues-driving-spain-s-national-election"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss"
+    }
+   ]
+  },
+  {
+   "id": "83250d3e00bdf3223c9248cd46fa2bfa0a7ebee0",
+   "title": "Live: Trump calls on Putin to end all 'military aggression' against Europe",
+   "url": "https://www.france24.com/en/europe/20261127-live-trump-calls-on-putin-to-end-all-military-aggression-against-europe",
+   "outlet": "france24.com",
+   "published_at": "2026-11-27T10:45:00Z",
+   "image": "https://s.france24.com/media/display/630aef0e-ea2f-11f1-99a9-77d069279b82/w:1024/p:16x9/2026-11-26T162433Z-1015617438-RC2TQOANQQ5V-RTRMADP-3-UKRAINE-CRISIS-TRUMP.jpg",
+   "description": "US President Donald Trump said on Thursday that he had urged his Russian counterpart Vladimir Putin to \"pull back all military aggression against territories throughout Europe\". Although Trump did not…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.79,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3375978/trump-says-he-urged-putin-pull-back-all-military-aggression-europe"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "hawaiitribune-herald.com",
+     "url": "https://www.hawaiitribune-herald.com/2026/11/27/nation-world-news/trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe/"
+    },
+    {
+     "outlet": "outlookindia.com",
+     "url": "https://www.outlookindia.com/international/donald-trump-putin-ukraine-war-latest-peace-deal-russia-military-aggression-truth-social-europe-nato-talks"
+    },
+    {
+     "outlet": "quicknews-africa.net",
+     "url": "https://quicknews-africa.net/trump-urges-putin-to-pull-back-military-aggression-throughout-europe/"
+    }
+   ]
+  },
+  {
+   "id": "0c6650b3f44fb603b5aee049a273da88c9c1a81d",
+   "title": "Canada's Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+   "url": "https://www.pbs.org/newshour/world/canadas-supreme-court-largely-upholds-a-quebec-ban-on-religious-symbols-for-public-servants",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-28T10:45:00Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2025-05-08T054341Z_1602210090_RC2L8EAOKWJO_RTRMADP_3_CANADA-COURT-2-1024x683.jpg",
+   "description": "The 2019 law, known as Bill 21, bans religious symbols — including Muslim headscarves, Sikh turbans, Jewish skullcaps and Christian crosses — for workers covered by it.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 15.78,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 6,
+   "also_reported_by": [
+    {
+     "outlet": "nytimes.com",
+     "url": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+    },
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3376103/canadas-top-court-upholds-quebec-ban-religious-symbols-public-servants"
+    },
+    {
+     "outlet": "bbc.co.uk",
+     "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+    },
+    {
+     "outlet": "pakobserver.net",
+     "url": "https://pakobserver.net/canadas-top-court-upholds-quebecs-ban-on-religious-symbols-including-hijab/"
+    }
+   ]
+  },
+  {
+   "id": "a0efe2f1e8d17bf5b9fb432e30ee09118080cdf1",
+   "title": "North Korea threatens to close Swiss diplomatic office",
+   "url": "https://www.japantimes.co.jp/news/2026/11/24/asia-pacific/politics/north-korea-swiss-diplomatic-office/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-27T11:15:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/24/575644.jpg",
+   "description": "Such a move would deal a blow to potential efforts by Washington and Seoul to engage Pyongyang through indirect diplomatic channels, experts say.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.7,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 21,
+   "also_reported_by": [
+    {
+     "outlet": "wgal.com",
+     "url": "https://www.wgal.com/article/north-korea-shut-down-swiss-diplomatic-office/74547426"
+    },
+    {
+     "outlet": "gulfcoastnewsnow.com",
+     "url": "https://www.gulfcoastnewsnow.com/article/north-korea-shut-down-swiss-diplomatic-office/74547426"
+    },
+    {
+     "outlet": "chinatechnews.com",
+     "url": "https://www.chinatechnews.com/2026/11/27/133778-what-to-know-about-north-korean-move-to-shut-down-swiss-diplomatic-office"
+    },
+    {
+     "outlet": "koreatimes.co.kr",
+     "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20261125/n-korea-closes-swiss-office-in-pyongyang-over-sanctions-on-childrens-camp"
+    },
+    {
+     "outlet": "tert.am",
+     "url": "https://tert.am/en/news/2026/11/25/North%20Korea/4291579"
+    },
+    {
+     "outlet": "ksat.com",
+     "url": "https://www.ksat.com/business/2026/11/24/north-korea-reviews-switzerland-relations-after-sanctions-on-youth-camp-linked-to-russia-ukraine-war/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/asia/east-asia/article/3375602/north-korea-threatens-shut-swiss-office-over-russian-youth-camp-sanctions"
+    },
+    {
+     "outlet": "ksbw.com",
+     "url": "https://www.ksbw.com/article/north-korea-switzerland-sanctions-youth-camp-russia-ukraine-war/74516161"
+    },
+    {
+     "outlet": "news4jax.com",
+     "url": "https://www.news4jax.com/business/2026/11/24/north-korea-reviews-switzerland-relations-after-sanctions-on-youth-camp-linked-to-russia-ukraine-war/"
+    },
+    {
+     "outlet": "wyff4.com",
+     "url": "https://www.wyff4.com/article/north-korea-switzerland-sanctions-youth-camp-russia-ukraine-war/74516161"
+    }
+   ]
+  },
+  {
+   "id": "974df08bc9836ab213c8d964215052fa71ca2910",
+   "title": "Israeli strike kills four people in Gaza",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-27T10:45:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795579972.jpg?resize=1200%2C675",
+   "description": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.66,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 5,
+   "also_reported_by": [
+    {
+     "outlet": "middleeasteye.net",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-attack-residential-building-gaza-city-wounds-children"
+    },
+    {
+     "outlet": "ksevradio.com",
+     "url": "https://ksevradio.com/israeli-strike-kills-hamas-official-his-wife-and-children/"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/middle-east/article/3375752/israeli-strike-gaza-kills-hamas-security-chief-wife-and-teenage-daughters"
+    },
+    {
+     "outlet": "english.wafa.ps",
+     "url": "https://english.wafa.ps/Pages/Details/177301"
+    }
+   ]
+  },
+  {
+   "id": "67e08ecea0ea030aa5f06011c89592c3890e7525",
+   "title": "France and Germany push for EU budget deal by year-end as far-right rise threatens Ukraine aid",
+   "url": "https://www.france24.com/en/europe/20261127-france-and-germany-push-for-eu-budget-deal-by-year-end-as-far-right-rise-threatens-ukraine-aid",
+   "outlet": "france24.com",
+   "published_at": "2026-11-27T14:12:55Z",
+   "image": "https://s.france24.com/media/display/dc7e33b4-ea20-11f1-92cc-81bc2b1dcd65/w:1024/p:16x9/2026-11-26T195141Z-1710060570-RC2VVOA3Q7FW-RTRMADP-3-EU-SUMMIT.jpg",
+   "description": "As Europe braces itself for a slew of tense elections in 2027, Paris and Berlin are pushing for the European Union to strike a budget deal by December 31 to lock in financial aid for Ukraine. But Thursday's…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.63,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 4,
+   "also_reported_by": [
+    {
+     "outlet": "cnbc.com",
+     "url": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.russiaherald.com/news/279465027/eu-divided-over-45-billion-euro-ukraine-loan-as-budget-talks-move-to-december-summit"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/europe/article/3375966/eu-leaders-unable-agree-budget-after-over-12-hours-talks-zero-results"
+    }
+   ]
+  },
+  {
+   "id": "bd454e6f28e79f48fa53ab7703dea50639416bb0",
+   "title": "Norse Atlantic suspends all flights, warns it may file for bankruptcy after share price collapse",
+   "url": "https://www.cnbc.com/2026/11/26/norse-airline-finance-business.html",
+   "outlet": "cnbc.com",
+   "published_at": "2026-11-27T18:20:32Z",
+   "image": "https://image.cnbcfm.com/api/v1/image/108559107-1795599475604-gettyimages-1636812756-230831b6_lax_planes_b-gr_13.jpeg?v=1795599522&w=1920&h=1080",
+   "description": "Norse Atlantic has suspended all flights and said it may it have to file for bankruptcy, a day after it warned its financial position was \"critical.\"",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.46,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "dw.com",
+     "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "outlet": "dailypost.co.uk",
+     "url": "https://www.dailypost.co.uk/whats-on/trips-breaks/norse-atlantic-suspends-flights-today-34967994"
+    },
+    {
+     "outlet": "bristolpost.co.uk",
+     "url": "https://www.bristolpost.co.uk/news/norse-atlantic-suspends-flights-today-11256167"
+    },
+    {
+     "outlet": "stokesentinel.co.uk",
+     "url": "https://www.stokesentinel.co.uk/whats-on/whats-on-news/norse-atlantic-suspends-flights-today-11256167"
+    },
+    {
+     "outlet": "walesonline.co.uk",
+     "url": "https://www.walesonline.co.uk/whats-on/travel/norse-atlantic-suspends-flights-today-34967994"
+    },
+    {
+     "outlet": "gazettelive.co.uk",
+     "url": "https://www.gazettelive.co.uk/whats-on/whats-on-news/norse-atlantic-suspends-flights-today-34967994"
+    },
+    {
+     "outlet": "plymouthherald.co.uk",
+     "url": "https://www.plymouthherald.co.uk/whats-on/whats-on-news/norse-atlantic-suspends-flights-today-11256167"
+    },
+    {
+     "outlet": "flightglobal.com",
+     "url": "https://www.flightglobal.com/airlines/2026/11/norse-atlantic-suspends-operations-as-it-seeks-urgent-financial-lifeline/"
+    },
+    {
+     "outlet": "airlinerworld.com",
+     "url": "https://airlinerworld.com/norse-atlantic-suspends-operations-amid-financial-crisis/"
+    }
+   ]
+  },
+  {
+   "id": "1faa206ed3d2d4654e772bed05404c240106fa6c",
+   "title": "A.I. Has Upended Math. Is Physics Next?",
+   "url": "https://www.nytimes.com/2026/11/28/science/ai-math-physics-next.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-28T10:00:58Z",
+   "image": null,
+   "description": "The need to test theories in the world will limit what the technology can do on its own. But physicists say it’s becoming increasingly skilled — and useful.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.45,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "c9c12734116be40ea33c2d395fec7fd14fc48a77",
+   "title": "Ukraine’s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+   "url": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-28T10:02:15Z",
+   "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
+   "description": "A campaign aimed at depriving Moscow’s war machine of fuel, weapons and money has been criticized by the Trump administration.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.45,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "20af3ce62f745f9078aa045c8cddb1dead564681",
+   "title": "Armed men hijack cargo ship off Yemen coast",
+   "url": "https://punchng.com/armed-men-hijack-cargo-ship-off-yemen-coast/",
+   "outlet": "punchng.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://cdn.punchng.com/wp-content/uploads/2026/11/28113216/1894761_0.jpeg_1795861936-1200x630.webp",
+   "description": "Armed assailants hijacked a cargo ship about 120km southwest of Yemen's Balhaf, UKMTO said on Saturday, as piracy incidents rise near the Horn of Africa.",
+   "topic": "world",
+   "kind": "wire_copy",
+   "score": 15.41,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 7,
+   "also_reported_by": [
+    {
+     "outlet": "omanobserver.om",
+     "url": "https://www.omanobserver.om/article/1200321/world/region/armed-group-boards-cargo-ship-off-yemen-and-takes-control-ukmto"
+    },
+    {
+     "outlet": "jpost.com",
+     "url": "https://www.jpost.com/middle-east/article-916370"
+    },
+    {
+     "outlet": "news.az",
+     "url": "https://news.az/news/armed-individuals-seize-cargo-ship-off-yemens-coast"
+    },
+    {
+     "outlet": "thepeninsulaqatar.com",
+     "url": "http://thepeninsulaqatar.com/article/28/11/2026/cargo-ship-hijacked-off-yemen-coast-says-ukmto"
+    },
+    {
+     "outlet": "freemalaysiatoday.com",
+     "url": "https://www.freemalaysiatoday.com/category/world/2026/11/28/ship-hijacked-off-southern-yemen-coast-says-maritime-agency"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.bignewsnetwork.com/news/279470748/1st-ld-writethru-cargo-ship-hijacked-in-gulf-of-aden-off-yemen-ukmto"
+    }
+   ]
+  },
+  {
+   "id": "79f7f74d5878b43f8da6320c9cb8551673da37b5",
+   "title": "Pharmacies get new powers to swap prescriptions during shortages",
+   "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9964/live/c4852fb0-eb06-11f1-99a1-253766e7ad8b.jpg",
+   "description": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.37,
+   "newsworthiness": 3,
+   "relevance": 4,
+   "outlet_count": 53,
+   "also_reported_by": [
+    {
+     "outlet": "herefordtimes.com",
+     "url": "https://www.herefordtimes.com/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "whtimes.co.uk",
+     "url": "https://www.whtimes.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "messengernewspapers.co.uk",
+     "url": "https://www.messengernewspapers.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "hackneygazette.co.uk",
+     "url": "https://www.hackneygazette.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "ludlowadvertiser.co.uk",
+     "url": "https://www.ludlowadvertiser.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "theboltonnews.co.uk",
+     "url": "https://www.theboltonnews.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "sthelensstar.co.uk",
+     "url": "https://www.sthelensstar.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "eppingforestguardian.co.uk",
+     "url": "https://www.eppingforestguardian.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "echo-news.co.uk",
+     "url": "https://www.echo-news.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    },
+    {
+     "outlet": "thewestonmercury.co.uk",
+     "url": "https://www.thewestonmercury.co.uk/news/national/26771227.pharmacies-can-swap-out-of-stock-medicines-suitable-alternatives/"
+    }
+   ]
+  },
+  {
+   "id": "ae551c1e14ca1b9afbcf8565b88f2424c9563ceb",
+   "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+   "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-28T11:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8VC4PZ__v1__HighRes__PeruClimateWeatherFloodElNino-1795838301.jpg?resize=1920%2C1440",
+   "description": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 15.3,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/americas/article/3376127/peru-ecuador-hit-el-nino-linked-floods"
+    },
+    {
+     "outlet": "standardmedia.co.ke",
+     "url": "https://www.standardmedia.co.ke/africa/article/2001563234/el-nino-linked-deluges-flood-cities-in-peru-ecuador"
+    }
+   ]
+  },
+  {
+   "id": "0cc098d8089b802b7cb38c43c69b93f5fe069654",
+   "title": "Gaza meningitis cases surge as collapsing infrastructure fuels health fears",
+   "url": "https://www.aljazeera.com/news/2026/11/26/gaza-meningitis-cases-surge-as-collapsing-infrastructure-fuels-health-fears?traffic_source=rss",
+   "outlet": "aljazeera.com",
+   "published_at": "2026-11-27T11:15:00Z",
+   "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A3804-copy-1795641969.jpeg?resize=1920%2C1440",
+   "description": "Meningitis is raising alarm in Gaza, where overcrowding, damaged sanitation are putting children at risk.",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.3,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "english.wafa.ps",
+     "url": "https://english.wafa.ps/Pages/Details/177350"
+    },
+    {
+     "outlet": "middleeasteye.net",
+     "url": "https://www.middleeasteye.net/news/gazas-children-caught-grip-meningitis-outbreak"
+    }
+   ]
+  },
+  {
+   "id": "5fbe3dc8690f63d7a3416278a78afe37979ca6cc",
+   "title": "Australia sanctions two men over 2024 antisemitic firebombings",
+   "url": "https://www.abc.net.au/news/2026-11-27/two-men-sanctioned-over-iran-backed-antisemitic-arson-attacks/107435226",
+   "outlet": "abc.net.au",
+   "published_at": "2026-11-27T11:00:00Z",
+   "image": "https://live-production.wcms.abc-cdn.net.au/e2742bf6a9d3b00bbfd54163adc6d3df?impolicy=wcms_crop_resize&cropH=2777&cropW=4937&xPos=0&yPos=0&width=862&height=485",
+   "description": "Two men accused of organising the 2024 arson attacks in Sydney and Melbourne from abroad have been hit with sanctions.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.29,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 12,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks"
+    },
+    {
+     "outlet": "freepressjournal.in",
+     "url": "https://www.freepressjournal.in/world/australia-sanctions-2-men-accused-of-orchestrating-antisemitic-arson-attacks-on-sydney-restaurant-melbourne-synagogue-for-irans-irgc"
+    },
+    {
+     "outlet": "newindianexpress.com",
+     "url": "https://www.newindianexpress.com/world/2026/Nov/27/australia-sanctions-two-men-for-iran-linked-antisemitic-attacks"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.australianherald.com/news/279464555/australia-sanctions-two-suspects-behind-irgc-backed-melbourne-synagogue-and-sydney-arson-attacks"
+    },
+    {
+     "outlet": "greatlakesadvocate.com.au",
+     "url": "https://www.greatlakesadvocate.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+     "outlet": "dungogchronicle.com.au",
+     "url": "https://www.dungogchronicle.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+     "outlet": "narrominenewsonline.com.au",
+     "url": "https://www.narrominenewsonline.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+     "outlet": "therural.com.au",
+     "url": "https://www.therural.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+     "outlet": "hepburnadvocate.com.au",
+     "url": "https://www.hepburnadvocate.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    },
+    {
+     "outlet": "inverelltimes.com.au",
+     "url": "https://www.inverelltimes.com.au/story/9399645/alleged-masterminds-of-anti-semitic-attacks-revealed/"
+    }
+   ]
+  },
+  {
+   "id": "721154925ae09cb84420a43e9f949b71890ff2c3",
+   "title": "World Health Organization sounds alarm as measles fight stalls",
+   "url": "https://www.france24.com/en/world-health-organization-sounds-alarm-as-measles-fight-stalls",
+   "outlet": "france24.com",
+   "published_at": "2026-11-28T10:34:55Z",
+   "image": "https://s.france24.com/media/display/6c3a11fc-eb12-11f1-a67c-77d069279b82/w:1024/p:16x9/EN-20261128-081831-082002-CS.jpg",
+   "description": "Global measles deaths hit a historic low in 2025, the World Health Organization said on Friday, although millions of children ⁠still missed vaccinations and outbreaks persisted in dozens of countries.…",
+   "topic": "health",
+   "kind": "original_reporting",
+   "score": 15.27,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "globalissues.org",
+     "url": "https://www.globalissues.org/news/2026/11/27/44712"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/article/3376102/who-sounds-alarm-measles-fight-falters-it-back"
+    }
+   ]
+  },
+  {
+   "id": "abe59a0f60787cee1e66e8537d994c8bdb7b7733",
+   "title": "Trump’s Embrace of Xi and Huang Stuns China Critics in Washington",
+   "url": "https://www.nytimes.com/2026/11/28/us/politics/trump-china-critics-nvidia.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-28T05:19:36Z",
+   "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28dc-china-hawks-01-twfl/28dc-china-hawks-01-twfl-mediumSquareAt3X.jpg",
+   "description": "Warnings from hard-liners have grown more urgent amid what some call a winner-take-all race for A.I. dominance.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.26,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "76a4d8ad704829b9db343de5183b87a061d44e3a",
+   "title": "Republicans rethink tariffs, giving Democrats an opening to challenge Trump",
+   "url": "https://www.pbs.org/newshour/politics/republicans-rethink-tariffs-giving-democrats-an-opening-to-challenge-trump",
+   "outlet": "pbs.org",
+   "published_at": "2026-11-27T16:51:50Z",
+   "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-11T141701Z_915037207_RC2PLOAJAKCL_RTRMADP_3_USA-CONGRESS-1024x683.jpg",
+   "description": "After devastating election losses that centered on rising costs, many Republicans said they're open to reconsidering some of the levies that have become a central plank of Trump's global trade agenda.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.24,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "abcnews.com",
+     "url": "https://abcnews.com/Business/wireStory/republicans-rethink-tariffs-giving-democrats-opening-challenge-trump-138479009"
+    }
+   ]
+  },
+  {
+   "id": "9ef249403f6fce6e337f3377073055457745b7d4",
+   "title": "Evidence of deepest explosive volcanic eruption found in Pacific trench",
+   "url": "https://www.japantimes.co.jp/news/2026/11/28/world/science-health/deepest-explosive-volcanic-eruption/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-28T03:57:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576440.JPG",
+   "description": "The researchers are trying to understand how these explosive eruptions occurred at a depth of 6,500 meters below the surface.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.2,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "7a8247f8440c87a75e2076be67645749b03ebd48",
+   "title": "Seven injured, four critically, after Bangkok oil refinery explosion",
+   "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-27T11:00:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/579b/live/12356f50-e985-11f1-bb43-d1b6102e3b60.jpg",
+   "description": "Black smoke could be seen across Bangkok's skyline after the blast, while officials urged residents to leave the area.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.16,
+   "newsworthiness": 4,
+   "relevance": 3,
+   "outlet_count": 40,
+   "also_reported_by": [
+    {
+     "outlet": "wn.com",
+     "url": "https://article.wn.com/view/2026/11/27/Massive_fire_breaks_out_at_Bangkok_oil_refinery_nearby_resid/"
+    },
+    {
+     "outlet": "bangkokpost.com",
+     "url": "https://www.bangkokpost.com/thailand/general/3362235/bangchak-probes-cause-of-refinery-fire-after-heat-exchanger-ruptures"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
+    },
+    {
+     "outlet": "moneycontrol.com",
+     "url": "https://www.moneycontrol.com/world/flames-shoot-into-the-sky-black-smoke-engulfs-bangkok-massive-oil-depot-explosion-caught-on-camera-watch-article-14089614.html"
+    },
+    {
+     "outlet": "bignewsnetwork.com",
+     "url": "http://www.thailandnews.net/news/279455060/huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky"
+    },
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/explosion-rocks-bangkok-oil-depot?traffic_source=rss"
+    },
+    {
+     "outlet": "thecourier.com.au",
+     "url": "https://www.thecourier.com.au/story/9399115/explosion-rocks-major-oil-facility-in-thai-capital/"
+    },
+    {
+     "outlet": "newcastleherald.com.au",
+     "url": "https://www.newcastleherald.com.au/story/9399115/explosion-rocks-major-oil-facility-in-thai-capital/"
+    },
+    {
+     "outlet": "reflector.com",
+     "url": "http://www.reflector.com/news/national/at-least-7-injured-by-large-explosion-and-fire-at-major-oil-facility-in-bangkok/article_956d1b38-15d2-594c-a093-102bfbf19d84.html"
+    },
+    {
+     "outlet": "wral.com",
+     "url": "https://www.wral.com/news/ap/e8098-large-explosion-reported-at-a-major-oil-facility-in-the-thai-capital/"
+    }
+   ]
+  },
+  {
+   "id": "675daf3a253b9f88bae7555bf46a1b88dd9ee720",
+   "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+   "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T10:36:41Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a0/live/2d2b3d80-ea39-11f1-a094-5fdc692f3e33.jpg",
+   "description": "The struggle many face in buying a home has been the biggest issue of a bitter campaign.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 15.14,
+   "newsworthiness": 4,
+   "relevance": 3,
+   "outlet_count": 10,
+   "also_reported_by": [
+    {
+     "outlet": "aljazeera.com",
+     "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss"
+    },
+    {
+     "outlet": "crookwellgazette.com.au",
+     "url": "https://www.crookwellgazette.com.au/story/9399731/spain-heads-to-polls-as-crises-weigh-on-socialist-pm/"
+    },
+    {
+     "outlet": "newcastleherald.com.au",
+     "url": "https://www.newcastleherald.com.au/story/9399731/spain-heads-to-polls-as-crises-weigh-on-socialist-pm/"
+    },
+    {
+     "outlet": "northerndailyleader.com.au",
+     "url": "https://www.northerndailyleader.com.au/story/9399731/spain-heads-to-polls-as-crises-weigh-on-socialist-pm/"
+    },
+    {
+     "outlet": "singletonargus.com.au",
+     "url": "https://www.singletonargus.com.au/story/9399731/spain-heads-to-polls-as-crises-weigh-on-socialist-pm/"
+    },
+    {
+     "outlet": "goulburnpost.com.au",
+     "url": "https://www.goulburnpost.com.au/story/9399731/spain-heads-to-polls-as-crises-weigh-on-socialist-pm/"
+    },
+    {
+     "outlet": "theadvocate.com.au",
+     "url": "https://www.theadvocate.com.au/story/9399731/spain-heads-to-polls-as-crises-weigh-on-socialist-pm/"
+    },
+    {
+     "outlet": "france24.com",
+     "url": "https://www.france24.com/en/video/20261127-spain-general-election-2026-could-s%C3%A1nchez-lose-power"
+    },
+    {
+     "outlet": "cyprus-mail.com",
+     "url": "https://cyprus-mail.com/2026/11/27/spains-housing-crisis-takes-centre-stage-in-election-battle"
+    }
+   ]
+  },
+  {
+   "id": "3b71dcf2c9349c48ec13f19242e329b9cda16648",
+   "title": "Planning Board to Hold Last-Minute Meeting to Consider Trump’s D.C. Construction",
+   "url": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+   "outlet": "nytimes.com",
+   "published_at": "2026-11-28T02:33:52Z",
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-planning-pzmq/27dc-planning-pzmq-mediumSquareAt3X.jpg",
+   "description": "President Trump will lose control over the National Capital Planning Commission after Democrats take control of Congress in January. It could give final approval to some of his prized projects.",
+   "topic": "politics",
+   "kind": "original_reporting",
+   "score": 15.14,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "eaa7cf28ba4127dbe1f025526d2f353b8ef3513a",
+   "title": "North Korean launderers turn to little-known crypto services to move Binance haul: researchers",
+   "url": "https://www.japantimes.co.jp/business/2026/11/28/tech/north-korea-money-laundering-binance/",
+   "outlet": "japantimes.co.jp",
+   "published_at": "2026-11-28T01:12:00Z",
+   "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/11/28/576437.JPG",
+   "description": "U.S. authorities have blamed North Korean hackers for the largest heist in history after $6.3 billion worth of crypto was stolen on Oct. 29.",
+   "topic": "business",
+   "kind": "original_reporting",
+   "score": 15.09,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8eb2b679f60f9e93768b25b62fbffec3d3d3964a",
+   "title": "Trump effectively ended asylum. Advocates look to the Supreme Court to restore it",
+   "url": "https://www.southcarolinapublicradio.org/news/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it",
+   "outlet": "southcarolinapublicradio.org",
+   "published_at": "2026-11-27T11:15:00Z",
+   "image": "https://npr-production-npr.s3.us-east-1.amazonaws.com/brightspot/22/2e/bd2ef7014b16a3b474a9ef7aad59/gettyimages-2301934612.jpg",
+   "description": "Trump's sweeping immigration changes — an asylum ban, mass firings and new legal maneuvers — have all but ended asylum. The high court will soon consider whether some shifts deny people due process.",
+   "topic": "us",
+   "kind": "original_reporting",
+   "score": 15.05,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 17,
+   "also_reported_by": [
+    {
+     "outlet": "wxpr.org",
+     "url": "https://www.wxpr.org/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "kbia.org",
+     "url": "https://www.kbia.org/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "wnmufm.org",
+     "url": "https://www.wnmufm.org/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "wmuk.org",
+     "url": "https://www.wmuk.org/npr-news/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "interlochenpublicradio.org",
+     "url": "https://www.interlochenpublicradio.org/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "klcc.org",
+     "url": "https://www.klcc.org/npr-news/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "apr.org",
+     "url": "https://www.apr.org/politics-government/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "wsiu.org",
+     "url": "https://www.wsiu.org/politics-elections/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "krcu.org",
+     "url": "https://www.krcu.org/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    },
+    {
+     "outlet": "wfsu.org",
+     "url": "https://news.wfsu.org/npr-news/2026-11-27/trump-effectively-ended-asylum-advocates-look-to-the-supreme-court-to-restore-it"
+    }
+   ]
+  },
+  {
+   "id": "7a7057420a136f337aa493890dd28787877523f2",
+   "title": "Life-saving cancer drug pumped out by a plant",
+   "url": "https://www.nature.com/articles/d41586-026-03801-w",
+   "outlet": "nature.com",
+   "published_at": "2026-11-27T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 27 November 2026; doi:10.1038/d41586-026-03801-w In a proof-of-concept study, scientists have coaxed a tobacco-related plant to synthesize the chemotherapy drug paclitaxel.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.04,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "8d12006f26390087c2cfaa587a7d9b910a442451",
+   "title": "Record Heat Drained the World's Rivers and Lakes in 2023 and 2024, a New Science Study Finds",
+   "url": "https://www.natureworldnews.com/articles/74107/20261127/record-heat-drained-worlds-rivers-lakes-2023-2024-new-science-study-finds.htm",
+   "outlet": "natureworldnews.com",
+   "published_at": "2026-11-27T10:00:00Z",
+   "image": "https://d.natureworldnews.com/en/full/1726933/drought-river.jpg",
+   "description": "A new Science study finds global river flow fell 5.7% and lake storage 9.5% during the record heat of 2023–24, a decline unmatched since 1991.",
+   "topic": "climate",
+   "kind": "original_reporting",
+   "score": 15.0,
+   "newsworthiness": 5,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "5bf8dd6349d5374304a2c05d1314ceba09ac2b5c",
+   "title": "Chromosome ‘glue’ could boost fertility by stabilizing ageing eggs",
+   "url": "https://www.nature.com/articles/d41586-026-03874-7",
+   "outlet": "nature.com",
+   "published_at": "2026-11-26T23:59:59Z",
+   "image": null,
+   "description": "Nature, Published online: 26 November 2026; doi:10.1038/d41586-026-03874-7 A system tested in mice mimics a protein that declines with age and could help to improve fertility treatments in future.",
+   "topic": "science",
+   "kind": "original_reporting",
+   "score": 15.0,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "statnews.com",
+     "url": "https://www.statnews.com/2026/11/26/fertility-advance-engineered-protein-stabilizes-chromosomes-in-aging-eggs/?utm_campaign=rss"
+    }
+   ]
+  },
+  {
+   "id": "a8c6095bff7bcfbcee1aaeb96d207a71fa17a62a",
+   "title": "Russian sabotage spikes in Europe, including 'risk of mass-casualty incident': Analysis",
+   "url": "https://thehill.com/policy/international/6245694-russian-sabotage-ukraine-war-zelensky-trump-putin-friend/",
+   "outlet": "thehill.com",
+   "published_at": "2026-11-27T22:39:50Z",
+   "image": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26299395697836-e1793113747452.jpg?w=900",
+   "description": "Incidents of sabotage blamed on Russia in Europe were up 16 percent year-over-year in September, according to a new report, which warns about the potential for a future “mass-casualty” event by Mos…",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 14.98,
+   "newsworthiness": 4,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  },
+  {
+   "id": "38f6415aa1a89babab3068f7731c74babb0d7853",
+   "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+   "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T10:15:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg",
+   "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 14.96,
+   "newsworthiness": 4,
+   "relevance": 3,
+   "outlet_count": 8,
+   "also_reported_by": [
+    {
+     "outlet": "cbsnews.com",
+     "url": "https://www.cbsnews.com/news/former-chef-kennth-law-poison-suicides-prosecutors-seek-25-years/"
+    },
+    {
+     "outlet": "rutlandherald.com",
+     "url": "https://www.rutlandherald.com/news/business/prosecutors-ask-for-25-years-for-canadian-man-who-sold-products-used-by-93-people/article_ab3ba026-e17c-53fd-88d4-9b9dfe464ab0.html"
+    },
+    {
+     "outlet": "scmp.com",
+     "url": "https://www.scmp.com/news/world/united-states-canada/article/3376123/canada-prosecutors-seek-25-year-prison-term-suicide-poison-seller"
+    },
+    {
+     "outlet": "wral.com",
+     "url": "https://www.wral.com/news/ap/2b0e0-prosecutors-ask-for-25-years-for-canadian-man-who-sold-products-used-by-93-people-to-kill-themselves/"
+    },
+    {
+     "outlet": "heraldbulletin.com",
+     "url": "https://www.heraldbulletin.com/news/nation_world/prosecutors-ask-for-25-years-for-canadian-man-who-sold-products-used-by-93-people/article_ffde4f93-1f39-523d-9dd8-83e080c028d5.html"
+    },
+    {
+     "outlet": "yakimaherald.com",
+     "url": "https://www.yakimaherald.com/news/nation_and_world/business/prosecutors-ask-for-25-years-for-canadian-man-who-sold-products-used-by-93-people/article_11140b38-adc6-51a3-a0fa-329195c3a1f1.html"
+    },
+    {
+     "outlet": "dailyadvance.com",
+     "url": "http://www.dailyadvance.com/news/world/prosecutors-ask-for-25-years-for-canadian-man-who-sold-products-used-by-93-people/article_23889697-073c-5869-81de-a88bc1ad7e09.html"
+    }
+   ]
+  },
+  {
+   "id": "0dde8848a11c0779423515f09d0ebfb2a7bd7747",
+   "title": "Eight killed in Peruvian military helicopter crash",
+   "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss",
+   "outlet": "bbc.co.uk",
+   "published_at": "2026-11-28T09:30:00Z",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg",
+   "description": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+   "topic": "world",
+   "kind": "original_reporting",
+   "score": 14.93,
+   "newsworthiness": 4,
+   "relevance": 4,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "dailymirror.lk",
+     "url": "https://www.dailymirror.lk/breaking-news/Eight-killed-in-Peruvian-military-helicopter-crash/108-355975"
+    }
+   ]
+  },
+  {
+   "id": "c29628b7d5d024412cccc117f39ff3cd462052a4",
+   "title": "Hoor Al Qasimi to curate Venice Biennale in 2028",
+   "url": "https://www.theartnewspaper.com/2026/11/26/emirati-curator-hoor-al-qasimi-to-lead-venice-biennale-in-2028",
+   "outlet": "theartnewspaper.com",
+   "published_at": "2026-11-27T10:15:00Z",
+   "image": "https://cdn.sanity.io/images/cxgd3urn/production/8f833d294c66f11a9ab526cd297c9b9e1f538f80-1200x1033.avif?w=140",
+   "description": "The director of the Sharjah Art Foundation and the Sharjah Biennial has been appointed the curator of the 62nd International Art Exhibition",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 13.29,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 3,
+   "also_reported_by": [
+    {
+     "outlet": "artnews.com",
+     "url": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/"
+    },
+    {
+     "outlet": "aawsat.com",
+     "url": "https://english.aawsat.com/varieties/5346240-hoor-al-qasimi-becomes-1st-arab-woman-lead-venice-biennale-art-show"
+    }
+   ]
+  },
+  {
+   "id": "6d88ed4c3369dede5eaf87f04beb8d5f5a39f138",
+   "title": "Kanal-Centre Pompidou, Brussels' most anticipated new art museum, opens its doors",
+   "url": "https://www.dw.com/en/kanal-centre-pompidou-brussels-most-anticipated-new-art-museum-opens-its-doors/a-80001444?maca=en-rss-en-all-1573-rdf",
+   "outlet": "dw.com",
+   "published_at": "2026-11-27T16:15:00Z",
+   "image": "https://static.dw.com/image/80005026_6.jpg",
+   "description": "A major addition to Europe's cultural scene: Kanal-Centre Pompidou, the new contemporary art museum in a former Citroen factory complex, is celebrating its opening with a free, nonstop weekend program.",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 13.21,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 2,
+   "also_reported_by": [
+    {
+     "outlet": "theartnewspaper.com",
+     "url": "https://www.theartnewspaper.com/2026/11/27/brusselss-expansive-kanal-art-complex-set-to-open-in-former-citroen-garage"
+    }
+   ]
+  },
+  {
+   "id": "fcb43a6056627428f9229c22376ae23322e78338",
+   "title": "The astonishing, untold story of Marie-Anne “Baby” de Goldschmidt-Rothschild, who smuggled a Van Gogh painting and the artist's letters out of Nazi Europe",
+   "url": "https://www.theartnewspaper.com/2026/11/27/marie-anne-baby-de-goldschmidt-rothschild-smuggled-van-gogh-painting-artists-letters-out-of-nazi-europe",
+   "outlet": "theartnewspaper.com",
+   "published_at": "2026-11-27T11:47:19Z",
+   "image": "https://cdn.sanity.io/images/cxgd3urn/production/1d7df771f82ff3eb26ae969005a424abc782692c-407x557.png?w=140",
+   "description": "She bought Van Gogh's Arlésienne portrait in 1914 at just 22 years old",
+   "topic": "arts",
+   "kind": "original_reporting",
+   "score": 12.53,
+   "newsworthiness": 3,
+   "relevance": 5,
+   "outlet_count": 1,
+   "also_reported_by": []
+  }
+ ]
+}
